@@ -1,3 +1,4 @@
+# newpar id = p1
 # sent_id = p1s1
 # text = Wšě nastawki w tutym kapitlu maja markěrowanje přez předłohu {{Ekscelentny}}.
 1	Wšě	wšě	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	_
@@ -16,6 +17,7 @@
 14	}	}	PUNCT	_	_	12	punct	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p2
 # sent_id = p2s1
 # text = Biologija je wědomostny wobłuk, kotryž analyzuje žiwy swět.
 1	Biologija	biologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -94,6 +96,7 @@
 51	disciplin	disciplina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	conj	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p3
 # sent_id = p3s1
 # text = Bazalne ćělesa šwikacych prućikow wobsedźa charakteristisku wjeleworštowu strukturu z mikrotubulijow ale tež zakótwjenje w cytoskeleće.
 1	Bazalne	bazalny	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -135,6 +138,7 @@
 3	faluja	falować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
+# newpar id = p4
 # sent_id = p4s1
 # text = Hriby su žiwe přez wottwar žiwych a nježiwych rostlinow, w symbiozu z rostlinami (mykorica) abo jako parazity.
 1	Hriby	hrib	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
@@ -159,6 +163,7 @@
 20	parazity	parazit	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p5
 # sent_id = p5s1
 # text = Z Mezopotamiskej jako Mjezyrěčina su geografisce dźensniše kónčiny Iraka sewjerowuchodneje Syriskeje kaž tež južnowuchodneje Turkowskeje definowane.
 1	Z	z	ADP	_	_	2	case	_	_
@@ -252,6 +257,7 @@
 14	njesłuša	słušeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
 
+# newpar id = p6
 # sent_id = p6s1
 # text = Serbski institut / Sorbisches Institut w Budyšinje přepytuje rěč, stawizny a kulturu Serbow w Hornjej a Delnjej Łužicy w zašłosći a přitomnosći.
 1	Serbski	serbski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -396,7 +402,7 @@
 4	zwonkauniwersitne	zwonkauniwersitny	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	_
 5	slědźenišćo	slědźenišćo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	xcomp	_	_
 6	złožuja	złožować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8	na	na	ADP	_	_	9	case	_	_
 9	Institut	Institut	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 10	za	za	ADP	_	_	12	case	_	_
@@ -475,6 +481,7 @@
 13	kulturu	kultura	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p7
 # sent_id = p7s1
 # text = Nimo "normalneje" woda eksistuje tež tak mjenowana "połćežka woda", "ćežka woda" (deuteriumowy oksid) a "přećežka woda" (tritiumowy oksid).
 1	Nimo	nimo	ADP	_	_	5	case	_	_
@@ -486,10 +493,10 @@
 7	tež	tež	ADV	_	_	6	advmod	_	_
 8	tak	tak	ADV	_	PronType=Dem	9	advmod	_	_
 9	mjenowana	mjenowany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	amod	_	_
-10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	połćežka	połćežki	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	_
 12	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
-13	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	_
 15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
 16	ćežka	ćežki	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	17	amod	_	_
@@ -552,6 +559,7 @@
 11	naruna	narunać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p8
 # sent_id = p8s1
 # text = Cycaki buchu do tři podklasow z něhdźe 25 hač 30 porjadow rozdźělene, kotrež buchu z jich strony při měchawcach a wyšich cycakach hišće raz dwě resp. štyri nadporjadowanym skupinam přidźělować móžeja.
 1	Cycaki	cycak	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
@@ -562,7 +570,7 @@
 6	z	z	ADP	_	_	11	case	_	_
 7	něhdźe	něhdźe	ADV	_	PronType=Ind	11	advmod:emph	_	_
 8	25	25	NUM	_	NumType=Card	11	nummod:gov	_	_
-9	hač	hač	SCONJ	_	_	10	cc	_	_
+9	hač	hač	CCONJ	_	_	10	cc	_	_
 10	30	30	NUM	_	NumType=Card	8	conj	_	_
 11	porjadow	porjad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
 12	rozdźělene	rozdźělić	ADJ	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -604,6 +612,7 @@
 11	cycakow	cycak	NOUN	_	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p9
 # sent_id = p9s1
 # text = Frankfurt nad Mohanom (tež Frankfurt nad Mainom, němsce Frankfurt am Main) je najwjetše město zwjazkoweho kraja Hessenska a pjaty najwjetše město Němskeje.
 1	Frankfurt	Frankfurt	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -633,6 +642,7 @@
 25	Němskeje	Němska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	17	punct	_	_
 
+# newpar id = p10
 # sent_id = p10s1
 # text = Wot bronzoweje doby su znate kulturne formy z wjetšimi symjenjemi.
 1	Wot	wot	ADP	_	_	3	case	_	_
@@ -647,6 +657,7 @@
 10	symjenjemi	symjenjo	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p11
 # sent_id = p11s1
 # text = K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu, dnja 6. měrca wot 14 hodź.
 1	K	k	ADP	_	_	2	case	_	_
@@ -673,6 +684,7 @@
 22	hodź	hodźina	NOUN	_	Abbr=Yes|Case=Gen|Number=Plur	4	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p12
 # sent_id = p12s1
 # text = Knižna premjera zwjazka 48 Spisow Serbskeho instituta "Stätten und Stationen religiösen Wirkens" w Smolerjec kniharni
 1	Knižna	knižny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -693,6 +705,7 @@
 16	Smolerjec	Smolerjec	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
 17	kniharni	kniharnja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
 
+# newpar id = p17
 # sent_id = p17s1
 # text = W Etiopiskej so rěči 84 rěčow.
 1	W	w	ADP	_	_	2	case	_	_
@@ -711,6 +724,7 @@
 4	su	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p18
 # sent_id = p18s1
 # text = Naš zaměr je, serbski słowoskład tak šěroko kaž móžno registrować, tak zo budu w nim tež słowa, kiž hišće njejsu nihdźe registrowane.
 1	Naš	naš	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
@@ -759,6 +773,7 @@
 15	namakać	namakać	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p19
 # sent_id = p19s1
 # text = W tutej dobje rozłama jednota duchowneje a swětneje mocy.
 1	W	w	ADP	_	_	3	case	_	_
@@ -793,8 +808,8 @@
 2	tuteje	tutón	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	doby	doba	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
 4	mjenowachu	mjenować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	obj	_	_
-6	lugal	lugal	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+6	lugal	lugal	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	_
 7	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
 8	=	=	PUNCT	_	_	11	punct	_	_
 9	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
@@ -836,11 +851,12 @@
 8	Ur	Ur	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p21
 # sent_id = p21s1
 # text = Jeli chceće so na aktualnych projektach Klemena wobdźělić, abo jeho k wustupej do swojeho kraja přeprosyć, wobroćće so na sćěhowacu adresu.
 1	Jeli	jeli	SCONJ	_	_	2	mark	_	_
 2	chceće	chcyć	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	19	advcl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 4	na	na	ADP	_	_	6	case	_	_
 5	aktualnych	aktualny	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	amod	_	_
 6	projektach	projekt	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	obl	_	_
@@ -857,12 +873,13 @@
 17	přeprosyć	přeprosyć	VERB	_	VerbForm=Inf	2	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	2	punct	_	_
 19	wobroćće	wobroćić	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
-20	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	19	expl	_	_
+20	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	19	expl:pv	_	_
 21	na	na	ADP	_	_	23	case	_	_
 22	sćěhowacu	sćěhowacy	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	23	amod	_	_
 23	adresu	adresa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	19	punct	_	_
 
+# newpar id = p22
 # sent_id = p22s1
 # text = Tutón nastawk resp. wotrězk hišće ma wobsahowe mjezoty: faluje wjele družinow.
 1	Tutón	tutón	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
@@ -903,6 +920,7 @@
 19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p24
 # sent_id = p24s1
 # text = Z werba danci "rejować" móže substantiw nastać danco "reja", adjektiw danca "rejowanski" a adwerb dance "rejowansce", ale tež z substantiwa martelo "hamor" móže nastać werb marteli "klepać z hamorom", adjektiw martela "hamorowy" a adwerb martele "z hamorom".
 1	Z	z	ADP	_	_	2	case	_	_
@@ -963,6 +981,7 @@
 56	"	"	PUNCT	_	_	55	punct	_	SpaceAfter=No
 57	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p25
 # sent_id = p25s1
 # text = Rjemjesło a wikowanje nabywaštej dale a bóle wuznam a města buchu dale a bóle zamóžite.
 1	Rjemjesło	rjemjesło	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
@@ -993,6 +1012,7 @@
 7	samostatne	samostatny	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p26
 # sent_id = p26s1
 # text = Po spadźe Assyriskeje Babylon zaso na mocy naby.
 1	Po	po	ADP	_	_	2	case	_	_
@@ -1061,7 +1081,7 @@
 6	zničenej	zničeny	ADJ	_	Case=Nom|Number=Dual|VerbForm=Part|Voice=Pass	0	root	_	_
 7	a	a	CCONJ	_	_	15	cc	_	_
 8	Assyričenjo	Assyričen	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
-9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl	_	_
+9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 10	skónčnje	skónčnje	ADV	_	Degree=Pos	15	advmod	_	_
 11	z	z	ADP	_	_	12	case	_	_
 12	pomjatka	pomjatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	_
@@ -1095,6 +1115,7 @@
 40	njewožiwi	wožiwić	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	15	advcl	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p27
 # sent_id = p27s1
 # text = Dalše znamjenja, kotrež tež wjele druhich zastupjerjow nadrjadowanych taksonow charofyta abo chloroplastida wobsedźa, su chloroplasty z chlorophyll a a b jako fotosynteizskej pigmentaj a karotinoidy jako akcesoriske pigmenty, škrob jako rezerwny polysaccharid a bańkowe sćěny ze celulozy.
 1	Dalše	dalši	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
@@ -1151,6 +1172,7 @@
 8	kutikulu	kutikula	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
+# newpar id = p28
 # sent_id = p28s1
 # text = Woda je chemiska wjazba, kotraž je njeparujomna za wšěch žiwochow na zemi.
 1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -1211,12 +1233,13 @@
 5	para	para	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p30
 # sent_id = p30s1
 # text = Tuta doba wuznamjeni so přez krute zarjadnistwo a přez wudawanje prawniskich wukazow (Kodeks Ur-Nammu).
 1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	doba	doba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	wuznamjeni	wuznamjenić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	přez	přez	ADP	_	_	7	case	_	_
 6	krute	kruty	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	_
 7	zarjadnistwo	zarjadnistwo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
@@ -1280,6 +1303,7 @@
 20	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p31
 # sent_id = p31s1
 # text = Nacionalsocializm (prěnjotnje němsce Nationalsozialismus, tež krótko nacizm) je njedemokratiska, antikomunistiska a antisemitiska (a tež antisłowjanska) ideologija, swětonahlad, kotry bu załoženy wot Adolfa Hitlera a jeho strony w dobje Weimarskeje republiki.
 1	Nacionalsocializm	nacionalsocializm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
@@ -1346,6 +1370,7 @@
 20	holocausta	holocaust	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	appos	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p32
 # sent_id = p32s1
 # text = Jednora ale wažna a jónkróćna kajkosć wody je, zo jeje kruta forma płuwa na kapalnej.
 1	Jednora	jednory	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
@@ -1420,6 +1445,7 @@
 25	přežiwić	přežiwić	VERB	_	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p33
 # sent_id = p33s1
 # text = Indiska je multietniski kraj a z 1,2 miliardow wobydlerjemi druhi najwjetši stat swěta po wobydlerstwu.
 1	Indiska	Indiska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -1441,6 +1467,7 @@
 17	wobydlerstwu	wobydlerstwo	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p34
 # sent_id = p34s1
 # text = Tež archelogoiske namakanki su snadne.
 1	Tež	tež	ADV	_	_	3	advmod:emph	_	_
@@ -1472,7 +1499,7 @@
 9	7	7	NUM	_	NumType=Card	7	conj	_	SpaceAfter=No
 10	)	)	PUNCT	_	_	7	punct	_	_
 11	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
-12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 13	tutón	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
 14	proces	proces	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
 15	wšak	wšak	CCONJ	_	_	20	cc	_	_
@@ -1483,7 +1510,7 @@
 20	započał	započeć	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 21	a	a	CCONJ	_	_	22	cc	_	_
 22	zda	zdać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
-23	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl	_	SpaceAfter=No
+23	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl:pv	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	36	punct	_	_
 25	zo	zo	SCONJ	_	_	36	mark	_	_
 26	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	36	nsubj	_	_
@@ -1554,7 +1581,7 @@
 # sent_id = p34s6
 # text = Zda so, zo bě kónčina na wuchod Tigrisa mjenje potrjechena.
 1	Zda	zdać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	SpaceAfter=No
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	11	punct	_	_
 4	zo	zo	SCONJ	_	_	11	mark	_	_
 5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
@@ -1566,10 +1593,11 @@
 11	potrjechena	potrjecheny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p37
 # sent_id = p37s1
 # text = Kultura so stajnje wuwiwa a měnja.
 1	Kultura	kultura	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 3	stajnje	stajnje	ADV	_	Degree=Pos	4	advmod	_	_
 4	wuwiwa	wuwiwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	a	a	CCONJ	_	_	6	cc	_	_
@@ -1635,7 +1663,7 @@
 32	na	na	ADP	_	_	33	case	_	_
 33	kotrejž	kotryž	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	34	advmod	_	_
 34	wobdźěli	wobdźělić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	_
-35	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	34	expl	_	_
+35	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	34	expl:pv	_	_
 36	16	16	NUM	_	NumType=Card	37	nummod:gov	_	_
 37	referentow	referent	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	34	nsubj	_	_
 38	a	a	CCONJ	_	_	39	cc	_	_
@@ -1650,6 +1678,7 @@
 47	zarjadnistwa	zarjadnistwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	42	conj	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	19	punct	_	_
 
+# newpar id = p38
 # sent_id = p38s1
 # text = Rozeznawa so mjez kwalitatiwnym ablawtom (změna wokala) a kwantitatiwnym ablawtom (změna wokaloweje dołhosće).
 1	Rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1692,6 +1721,7 @@
 8	rozeznawaja	rozeznawać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	:	:	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p41
 # sent_id = p41s1
 # text = Jeli sy jedyn z mjenowanych njedostatkow skorigował(a), wotstroń prošu potrjecheny parameter předłohi .
 1	Jeli	jeli	SCONJ	_	_	7	mark	_	_
@@ -1702,7 +1732,7 @@
 6	njedostatkow	njedostatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 7	skorigował	skorigować	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	SpaceAfter=No
 8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	a	a	X	_	_	7	goeswith	_	SpaceAfter=No
+9	a	a	X	_	_	7	goeswith:alt	_	SpaceAfter=No
 10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	wotstroń	wotstronić	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -1720,6 +1750,7 @@
 4	dokumentaciji	dokumentacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p42
 # sent_id = p42s1
 # text = Zelo a słoma stej na bělkowinach bohatu skótnu žratwu.
 1	Zelo	zelo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
@@ -1733,6 +1764,7 @@
 9	žratwu	žratwa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p43
 # sent_id = p43s1
 # text = Marilyn Monroe [ ] (Norma Jean Baker; *1. junija 1926, Los Angeles; † 5. awgusta 1962, Los Angeles) bě US-amerikanska dźiwadźelnica, spěwarka, mjezynarodny fotowy model a sex-symbol.
 1	Marilyn	Marilyn	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	32	nsubj	_	_
@@ -1779,10 +1811,11 @@
 42	symbol	symbol	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	32	punct	_	_
 
+# newpar id = p45
 # sent_id = p45s1
 # text = Hodźi so jenakorazny, zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować, dokelž su so wšelake zwukowe přesunjenja stali.
 1	Hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	jenakorazny	jenakorazny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	zwjetša	zwjetša	ADV	_	_	7	advmod	_	_
@@ -1796,7 +1829,7 @@
 13	,	,	PUNCT	_	_	20	punct	_	_
 14	dokelž	dokelž	SCONJ	_	_	20	mark	_	_
 15	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
-16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl	_	_
+16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 17	wšelake	wšelaki	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	19	amod	_	_
 18	zwukowe	zwukowy	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	19	amod	_	_
 19	přesunjenja	přesunjenje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	_
@@ -1815,14 +1848,15 @@
 8	,	,	PUNCT	_	_	16	punct	_	_
 9	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	16	nsubj	_	_
 10	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
-11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	16	expl	_	_
+11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 12	w	w	ADP	_	_	14	case	_	_
 13	rěčanej	rěčany	ADJ	_	Case=Loc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	amod	_	_
 14	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	16	obl	_	_
 15	hižo	hižo	ADV	_	_	16	advmod	_	_
-16	změnili	změnić	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	_	SpaceAfter=No
+16	změnili	změnić	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p46
 # sent_id = p46s1
 # text = Pomhaj Wikipediju, z tym ty jón rozšěriš a nětko wudospołniš.
 1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -1838,6 +1872,7 @@
 11	wudospołniš	wudospołnić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p49
 # sent_id = p49s1
 # text = Na čole Assyričanow steješe kral, kiž so tež za zastupjerja bóha Aššur měješe.
 1	Na	na	ADP	_	_	2	case	_	_
@@ -1888,6 +1923,7 @@
 17	Iranom	Iran	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p50
 # sent_id = p50s1
 # text = Najwjetše přitoki Kaspiskeho morja su Wolga, Ural a Kura.
 1	Najwjetše	wulki	ADJ	_	Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
@@ -1902,6 +1938,7 @@
 10	Kura	Kura	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p52
 # sent_id = p52s1
 # text = Mócnarstwo Akkada žane dołhe wobstaće njeměješe.
 1	Mócnarstwo	mócnarstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -1927,6 +1964,7 @@
 11	epochu	epocha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p53
 # sent_id = p53s1
 # text = Sylny werb je na př. trinken, wokal měnja so při tworjenju preterituma: trinken, trank, getrunken.
 1	Sylny	sylny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -1939,7 +1977,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	wokal	wokal	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 10	měnja	měnić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl	_	_
+11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 12	při	při	ADP	_	_	13	case	_	_
 13	tworjenju	tworjenje	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
 14	preterituma	preteritum	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
@@ -1951,6 +1989,7 @@
 20	getrunken	getrunken	X	_	_	16	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p54
 # sent_id = p54s1
 # text = Geografiske eksonymy su mjena geografiskich objektow (na přikład rěkow, horow, krajowych mjenow, krajinow) zwonka serbskeje Łužicy.
 1	Geografiske	geografiski	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
@@ -2029,11 +2068,12 @@
 9	WITAJ	WITAJ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p56
 # sent_id = p56s1
 # text = Jeho symjenišćo so přeco w płódniku zawěra.
 1	Jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	symjenišćo	symjenišćo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 4	přeco	přeco	ADV	_	_	7	advmod	_	_
 5	w	w	ADP	_	_	6	case	_	_
 6	płódniku	płódnik	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
@@ -2060,6 +2100,7 @@
 16	wobdźělować	wobdźělować	VERB	_	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p59
 # sent_id = p59s1
 # text = Nimo toho ma štyri diftongi: ae, oe, eu, au.
 1	Nimo	nimo	ADP	_	_	2	case	_	_
@@ -2077,6 +2118,7 @@
 13	au	au	X	_	_	7	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p60
 # sent_id = p60s1
 # text = Najstarše archeologiske wobsydlenske sćěhi hodźa so za połojcu 11. lěttysaca př. n. l. při srjedźnmy Eufraće w Murejbeće dopokazać, hdźež su so pochowane byče nopy w kulojtych domach namakali.
 1	Najstarše	stary	ADJ	_	Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	4	amod	_	_
@@ -2084,7 +2126,7 @@
 3	wobsydlenske	wobsydlenski	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
 4	sćěhi	sćěh	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	hodźa	hodźić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 7	za	za	ADP	_	_	8	case	_	_
 8	połojcu	połojca	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
 9	11	11	NUM	_	NumType=Card	11	nummod	_	SpaceAfter=No
@@ -2118,7 +2160,7 @@
 # sent_id = p60s2
 # text = Hodźi so z wěstotu předpokładować, zo běchu podobne poměry w susodnych regionach, dokelž družina namakankow typiske znamjenja cyłkowneje Mezopotamiskeje reprezentuja.
 1	Hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	z	z	ADP	_	_	4	case	_	_
 4	wěstotu	wěstota	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
 5	předpokładować	předpokładować	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
@@ -2154,7 +2196,7 @@
 9	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 11	hodźa	hodźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 13	wumodelowane	wumodelowany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	15	amod	_	_
 14	žónske	žónski	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	15	amod	_	_
 15	figuriny	figurina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	nsubj	_	_
@@ -2185,6 +2227,7 @@
 7	wikowanja	wikowanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p61
 # sent_id = p61s1
 # text = Kislik je bjezbarbny, njewonjaty a bjezsłodowy płun.
 1	Kislik	kislik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -2201,7 +2244,7 @@
 # text = Jako element so zjewi nimale jenož w molekularnej formje, a to jako O2, ale tež O3 (ocon).
 1	Jako	jako	SCONJ	_	_	2	mark	_	_
 2	element	element	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	zjewi	zjewić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	nimale	nimale	ADV	_	_	9	advmod:emph	_	_
 6	jenož	jenož	PART	_	_	9	advmod:emph	_	_
@@ -2222,6 +2265,7 @@
 21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p62
 # sent_id = p62s1
 # text = Burkina Faso je stat w zapadnej Africe.
 1	Burkina	Burkina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -2254,13 +2298,14 @@
 5	do	do	ADP	_	_	6	case	_	_
 6	1984	1984	NUM	_	NumType=Card	7	obl	_	_
 7	mjenowaše	mjenować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	stat	stat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	Republika	republika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obl	_	_
 11	Hornja	horni	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	_
 12	Wolta	Wolta	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p63
 # sent_id = p63s1
 # text = Wosebitu rólu hraješe w 4. a 3. lěttysacomaj př. n. l. tež sewjerna Mezopotamiska, kotrež so wobchadnje druhdy tež Hornja Mezopotamiska mjenuje.
 1	Wosebitu	wosebity	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
@@ -2284,7 +2329,7 @@
 19	Mezopotamiska	Mezopotamiska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	28	punct	_	_
 21	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	28	obj	_	_
-22	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	28	expl	_	_
+22	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
 23	wobchadnje	wobchadnje	ADV	_	Degree=Pos	28	advmod	_	_
 24	druhdy	druhdy	ADV	_	PronType=Ind	28	advmod	_	_
 25	tež	tež	ADV	_	_	28	advmod	_	_
@@ -2339,6 +2384,7 @@
 26	Assur	Assur	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p64
 # sent_id = p64s1
 # text = Wědomostna konferenca Serbskeho instituta "Přewinjenje dualizmow": REGIONY - LUDŹO - INSTITUCIJE Z HYBRIDOLOGISKEHO WIDA
 1	Wědomostna	wědomostny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -2359,6 +2405,7 @@
 16	HYBRIDOLOGISKEHO	hybridologiski	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
 17	WIDA	wid	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 
+# newpar id = p65
 # sent_id = p65s1
 # text = Druhe pomjenowanje "hodownik" pokazuje na to, zo padnje do tutoho měsaca wažny cyrkwinski swjedźeń, hody: patoržica (24. decembra), 1. a 2. swjaty dźeń (25. a 26. decembra), zdźěla so tež 27. december jako 3. swjaty dźeń swjeći.
 1	Druhe	druhi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	2	amod	_	_
@@ -2434,6 +2481,7 @@
 12	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p66
 # sent_id = p66s1
 # text = Indiska republika je rozdźělena na 28 zwjazkowych statow a 7 teritorijow.
 1	Indiska	indiski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -2449,6 +2497,7 @@
 11	teritorijow	teritorij	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p68
 # sent_id = p68s1
 # text = Dokelž woda je trěbna za čłowjekowe, zwěrjatkowe a rostlinowe žiwjenje, jeje disponujomnosć ma wulku wažnosć sociusku a politisku.
 1	Dokelž	dokelž	SCONJ	_	_	4	mark	_	_
@@ -2508,7 +2557,7 @@
 6	500	500	NUM	_	NumType=Card	9	nummod	_	_
 7	a	a	CCONJ	_	_	8	cc	_	_
 8	1700	1700	NUM	_	NumType=Card	6	conj	_	_
-9	m	m	SYM	_	Abbr=Yes	4	nmod	_	SpaceAfter=No
+9	m	m	NOUN	_	Abbr=Yes	4	nmod	_	SpaceAfter=No
 10	³	³	SYM	_	_	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -2546,6 +2595,7 @@
 30	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	25	punct	_	_
 
+# newpar id = p71
 # sent_id = p71s1
 # text = W starych kulturach w Mezopotamiskej, Egyptowskej, Persiskej a Israelu bě ludowy cyrobowy srědk.
 1	W	w	ADP	_	_	3	case	_	_
@@ -2565,6 +2615,7 @@
 15	srědk	srědk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	12	punct	_	_
 
+# newpar id = p73
 # sent_id = p73s1
 # text = Dawe tež kraje, kotrež de jure žanu stolicu nimaja, a to su Monaco, Nauru, Šwicarska, Liechtenstein a Vatikanske město.
 1	Dawe	dawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2593,6 +2644,7 @@
 24	město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p74
 # sent_id = p74s1
 # text = Seksuelna generacija, gametofyty, wutwori specielne, wjacebańkowe seksualne organy, kotrež wot wjacorych sterilnymi bańkami su wobdate.
 1	Seksuelna	seksuelny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -2657,6 +2709,7 @@
 13	redukowane	redukowany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
 
+# newpar id = p77
 # sent_id = p77s1
 # text = Zjawny přednošk w Serbskim instituće na Dwórnišćowej 6 (PD dr. Sönke Friedreich, ISGV Drježdźany): "Vom Urlaub erzählen. Zur Erfahrungsgeschichte des Reisens in der DDR"
 1	Zjawny	zjawny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -2692,6 +2745,7 @@
 31	DDR	ddr	X	_	Abbr=Yes	21	flat	_	SpaceAfter=No
 32	"	"	PUNCT	_	_	21	punct	_	_
 
+# newpar id = p79
 # sent_id = p79s1
 # text = London (wurjekowanje ) je stolica Jendźelskeje a tež stolica Zjednoćeneho kralestwa Wulkobritaniskeje a Sewjerneje Irskeje.
 1	London	London	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -2752,11 +2806,12 @@
 24	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p80
 # sent_id = p80s1
 # text = Kak móžeš so wobdźělić?
 1	Kak	kak	ADV	_	PronType=Int,Rel	2	advmod	_	_
 2	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	wobdźělić	wobdźělić	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 
@@ -2842,6 +2897,7 @@
 6	edit	edit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p82
 # sent_id = p82s1
 # text = Tež w Babylonje běchu wliwapołni překupcy, kotřiž ze swojimi swójbami hotowe dynastije tworjachu.
 1	Tež	tež	ADV	_	_	4	advmod	_	_
@@ -2915,6 +2971,7 @@
 9	njerozprawjeja	rozprawjeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p86
 # sent_id = p86s1
 # text = 1. Serbska centralna biblioteka je relatiwnje samostatne zarjadnišćo Serbskeho instituta z.t.
 1	1	1	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
@@ -3168,7 +3225,7 @@
 6	za	za	ADP	_	_	9	case	_	_
 7	a	a	X	_	_	9	nmod	_	SpaceAfter=No
 8	)	)	PUNCT	_	_	7	punct	_	_
-9	Knihi	kniha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+9	Knihi	kniha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	obj	_	_
 10	a	a	CCONJ	_	_	11	cc	_	_
 11	časopisy	časopis	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
@@ -3266,7 +3323,7 @@
 16	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
 17	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	nsubj	_	_
 18	rěka	rěkać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	parataxis	_	_
-19	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl	_	_
+19	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
 20	tež	tež	ADV	_	_	21	cc	_	_
 21	pasć	pasć	VERB	_	VerbForm=Inf	18	ccomp	_	_
 22	našmórnjenjow	našmórnjenje	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	21	iobj	_	SpaceAfter=No
@@ -3296,7 +3353,7 @@
 4	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	woprawnjeny	woprawnjeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 8	samostatnje	samostatnje	ADV	_	Degree=Pos	9	advmod	_	_
 9	posłužić	posłužić	VERB	_	VerbForm=Inf	5	xcomp	_	_
 10	wědomostnych	wědomostny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	12	amod	_	_
@@ -3323,7 +3380,7 @@
 # sent_id = p86s20
 # text = Wužiwar so posłužić nastajeneho kopěraka hdyž zakónske postajenja awtorskeho prawa wobkedźbuje.
 1	Wužiwar	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	posłužić	posłužić	AUX	_	VerbForm=Inf	0	root	_	_
 4	nastajeneho	nastajeny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	amod	_	_
 5	kopěraka	kopěrak	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obj	_	_
@@ -3393,7 +3450,7 @@
 
 # sent_id = p86s24
 # text = Zamołwitosć za tute požčonki njese stajnje jedyn wot wotrjadnika pomjenowany kolega.
-1	Zamołwitosć	zamołwitosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+1	Zamołwitosć	zamołwitosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
 2	za	za	ADP	_	_	4	case	_	_
 3	tute	tutón	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
 4	požčonki	požčonk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
@@ -3454,6 +3511,7 @@
 14	dotalny	dotalny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p87
 # sent_id = p87s1
 # text = Pismo bu w běhu časa kompleksniše, jednotliwe symbole móžachu nětko tež zwuki resp. wjacore symbole móžachu cyłe sady předstajic.
 1	Pismo	pismo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -3487,7 +3545,7 @@
 4	literatury	literatura	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	15	punct	_	_
 6	kaž	kaž	SCONJ	_	_	15	mark	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 8	tež	tež	ADV	_	_	15	advmod	_	_
 9	na	na	ADP	_	_	14	advmod:emph	_	_
 10	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
@@ -3553,6 +3611,7 @@
 19	wuchoda	wuchod	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	13	punct	_	_
 
+# newpar id = p88
 # sent_id = p88s1
 # text = K 60. jubilejej Serbskeho instituta Konferenca wo němsko-słowjanskim rěčnym kontakće
 1	K	k	ADP	_	_	4	case	_	_
@@ -3569,6 +3628,7 @@
 12	rěčnym	rěčny	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	13	amod	_	_
 13	kontakće	kontakt	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
 
+# newpar id = p89
 # sent_id = p89s1
 # text = Přez klik na horjewotwołowany wobraz so strona z wopisanjom pokaza.
 1	Přez	přez	ADP	_	_	2	case	_	_
@@ -3611,6 +3671,7 @@
 24	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p91
 # sent_id = p91s1
 # text = Bjez kóždychžkuli formalnosćow móžeš nowe nastawki spisać a nastawki wobdźěłać.
 1	Bjez	bjez	ADP	_	_	3	case	_	_
@@ -3654,8 +3715,8 @@
 1	Zwostanje	zwostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	potajkim	potajkim	ADV	_	PronType=Dem	1	advmod	_	_
 3	hišće	hišće	ADV	_	_	1	advmod	_	_
-4	tójšto	tójšto	ADV	_	NumType=Card|PronType=Ind	1	advmod	_	_
-5	dźěła	dźěło	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	nsubj	_	SpaceAfter=No
+4	tójšto	tójšto	DET	_	NumType=Card|PronType=Dem	5	nummod:gov	_	_
+5	dźěła	dźěło	NOUN	_	Number=Sing	1	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = p91s5
@@ -3671,6 +3732,7 @@
 9	rostła	rosć	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p92
 # sent_id = p92s1
 # text = Stolica abo hłowne město je politiski, husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow, kaž n. př. knježerstwa, sejma abo monarcha.
 1	Stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -3788,6 +3850,7 @@
 11	kraja	kraj	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p93
 # sent_id = p93s1
 # text = W druhej połojcy 3. lěttysaca př. n. l. da so nimo toho jednotna kultura w tutej kónčinje zwěsćić, kotraž so mjez druhim přez standardizowany załožk Akropolisa z palastom a templemi w srjedźišću sydlenskeje hórki wuznamjeni.
 1	W	w	ADP	_	_	3	case	_	_
@@ -3803,7 +3866,7 @@
 11	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 13	da	dać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-14	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	13	expl	_	_
+14	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 15	nimo	nimo	ADP	_	_	16	case	_	_
 16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	_
 17	jednotna	jednotny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	18	amod	_	_
@@ -3814,7 +3877,7 @@
 22	zwěsćić	zwěsćić	VERB	_	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	40	punct	_	_
 24	kotraž	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	40	nsubj	_	_
-25	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	40	expl	_	_
+25	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	40	expl:pv	_	_
 26	mjez	mjez	ADP	_	_	27	case	_	_
 27	druhim	druhi	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	40	nmod	_	_
 28	přez	přez	ADP	_	_	30	case	_	_
@@ -3832,6 +3895,7 @@
 40	wuznamjeni	wuznamjeni	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	18	acl	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	13	punct	_	_
 
+# newpar id = p94
 # sent_id = p94s1
 # text = Tute přesunjenje wokalow dźe na indoeuropski přechad wróćo a hodźi so tohodla, zdźěla pola samsnych werbow, we wjacorych rěčach wobkedźbować, na př.
 1	Tute	tutón	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
@@ -3844,7 +3908,7 @@
 8	wróćo	wróćo	ADV	_	_	4	advmod	_	_
 9	a	a	CCONJ	_	_	10	cc	_	_
 10	hodźi	hodźeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl	_	_
+11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 12	tohodla	tohodla	ADV	_	PronType=Dem	10	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
 14	zdźěla	zdźěla	NOUN	_	_	17	advmod:emph	_	_
@@ -3861,10 +3925,11 @@
 25	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	fixed	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p96
 # sent_id = p96s1
 # text = Sporofyt so najprjedy jako wjacebańkowy embryo załoži, kotryž na maćerskej rostlinje zawostawa a so wot teje zežiwja.
 1	Sporofyt	sporofyt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 3	najprjedy	bórze	ADV	_	Degree=Sup	7	advmod	_	_
 4	jako	jako	SCONJ	_	_	6	mark	_	_
 5	wjacebańkowy	wjacebańkowy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
@@ -3880,7 +3945,7 @@
 15	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pass	_	_
 16	wot	wot	ADP	_	_	17	case	_	_
 17	teje	tón	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	18	obl	_	_
-18	zežiwja	zežiwić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	csubj	_	SpaceAfter=No
+18	zežiwja	zežiwić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = p96s2
@@ -3899,6 +3964,7 @@
 4	wjelebańkowy	wjelebańkowy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p97
 # sent_id = p97s1
 # text = Znamješka buchu z pisakami do hlinjanych taflow zadrapane.
 1	Znamješka	znamješko	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
@@ -3977,8 +4043,8 @@
 # sent_id = p97s6
 # text = Klinowe pismo bu 2500 lět w Mezopotamiskej nałožene a namaka so tež w Syriskej a pola Hetitow kaž tež w diplomatiskich archiwach Egyptowskeje.
 1	Klinowe	klinowy	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
-2	pismo	pismo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
-3	bu	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	nsubj	_	_
+2	pismo	pismo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	_
+3	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	aux:pass	_	_
 4	2500	2500	NUM	_	NumType=Card	5	nummod:gov	_	_
 5	lět	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
 6	w	w	ADP	_	_	7	case	_	_
@@ -4001,6 +4067,7 @@
 23	Egyptowskeje	Egyptowska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p98
 # sent_id = p98s1
 # text = Wysokoněmske słowo Wein, starowysokoněmske wîn abo winam, francoske słowo vin a jendźelske słowo wine su wšě z łaćonskeho słowa vinum wupožčene.
 1	Wysokoněmske	wysokoněmski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
@@ -4077,6 +4144,7 @@
 30	přewzali	přewzać	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	24	conj	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p99
 # sent_id = p99s1
 # text = Tři štwórćinow powjerch zemje su přikryte přez wulku kopicu wody, oceany.
 1	Tři	tři	NUM	_	NumType=Card	2	nummod:gov	_	_
@@ -4106,6 +4174,7 @@
 9	wjedro	wjedro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p100
 # sent_id = p100s1
 # text = Druhdy zastupowany nahlad, bychu wjacore pochadowe linije rostlinow z algow eksistowali, bu hižo přez morfologiske studije jako njeprawdźepodobny spóznaty[4], a so dźensa lědma wjace zastupuje a so tež přez molekularnobiologiske studije njepodeprěje.[6]
 1	Druhdy	druhdy	ADV	_	PronType=Ind	2	advmod	_	_
@@ -4151,6 +4220,7 @@
 41	6	6	NUM	_	NumType=Card	38	parataxis	_	SpaceAfter=No
 42	]	]	PUNCT	_	_	41	punct	_	_
 
+# newpar id = p101
 # sent_id = p101s1
 # text = Dźensa su w mnohich statach (wosebje w Europje) nacizm a jeho propagacija zakazane.
 1	Dźensa	dźensa	ADV	_	_	15	advmod	_	_
@@ -4170,6 +4240,7 @@
 15	zakazane	zakazany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
+# newpar id = p102
 # sent_id = p102s1
 # text = Jeho najčasćiše wjazby na zemi su woda a silikaty.
 1	Jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
@@ -4183,6 +4254,7 @@
 9	silikaty	silikat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p103
 # sent_id = p103s1
 # text = Mezopotamiska (grjeksce: Μεσοποταμία Mesopotamia, aramejsce: ܒܝܬܢܗܪܝܢ Beth Nahrin, kurdisce: Mezopotamya arabsce: بلاد مابين النهرين Bilād mā bain an-Nahrain) woznamjenja (kraj) mjez (dwěmaj) rěkomaj abo tež krótko Mjezyrěčina a woznamjenja w historiskim zmysle kónčinu dólnych runinow mjez rěkomaj Eufratom a Tigrisom, w kotrejž měšćanske staty Sumeričanow, Babylonjanow, Aramejčanow a Assyričanow ležachu.
 1	Mezopotamiska	mezopotamiska	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	_
@@ -4216,7 +4288,7 @@
 29	woznamjenja	woznamjenjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 30	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
 31	kraj	kraj	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	obj	_	SpaceAfter=No
-32	)	)	PUNCT	_	_	41	punct	_	_
+32	)	)	PUNCT	_	_	31	punct	_	_
 33	mjez	mjez	ADP	_	_	37	case	_	_
 34	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
 35	dwěmaj	dwaj	NUM	_	Case=Ins|Gender=Fem|Number=Dual|NumType=Card	37	nummod	_	SpaceAfter=No
@@ -4254,6 +4326,7 @@
 67	ležachu	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	47	acl	_	SpaceAfter=No
 68	.	.	PUNCT	_	_	29	punct	_	_
 
+# newpar id = p109
 # sent_id = p109s1
 # text = Kónc 4. lěttysaca př. n. l. buchu technologije za efektiwniše powodźenje polow wuwite a etablěrowane, tak zo móhli so prěni raz města tworić.
 1	Kónc	kónc	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
@@ -4309,6 +4382,7 @@
 19	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p110
 # sent_id = p110s1
 # text = W 3. lěttysacu (za Sumeričanow) knježachu měšniscy wjerchojo, kotřiž politisku a nabožnu móc w swojich rukach dźeržachu.
 1	W	w	ADP	_	_	4	case	_	_
@@ -4435,6 +4509,7 @@
 31	přinjesć	přinjesć	VERB	_	VerbForm=Inf	21	xcomp	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p111
 # sent_id = p111s1
 # text = Hlej wotpowědne dataje we Wikimedia Commons: Marilyn Monroe
 1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -4447,6 +4522,7 @@
 8	Marilyn	Marilyn	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
 9	Monroe	Monroe	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	flat	_	_
 
+# newpar id = p112
 # sent_id = p112s1
 # text = Šlešćina je blisko přiwuzna z Pólskej rěču, tak zo bu jako dialekt Pólšćiny wot někotrych linguistikow wotwažowana.
 1	Šlešćina	šlešćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -4469,6 +4545,7 @@
 18	wotwažowana	wotwažowany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p116
 # sent_id = p116s1
 # text = Ratarjo w 2. a 1. lěttysacu př. n. l. wšak wuměnjachu swoje produkty za trěbne žiwidła a tekstilije.
 1	Ratarjo	ratar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
@@ -4576,6 +4653,7 @@
 11	předewzaća	předewzaće	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p117
 # sent_id = p117s1
 # text = Tuta družina so jako korjenjowu zeleninu abo picowansku rostlinu kultiwuje.
 1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
@@ -4590,6 +4668,7 @@
 10	kultiwuje	kultiwować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p118
 # sent_id = p118s1
 # text = Murna łočica (Mycelis muralis), rjenje so hodźa widźeć pjeć krónowych kónčki žołtych, cygomorfnych jazykowych kćenjow a dwudźělne pěsty pěstkow, Cichorioideae
 1	Murna	murny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -4600,7 +4679,7 @@
 6	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	rjenje	rjenje	ADV	_	Degree=Pos	11	advmod	_	_
-9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl	_	_
+9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 10	hodźa	hodźeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 11	widźeć	widźeć	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	pjeć	pjeć	NUM	_	NumType=Card	19	nummod:gov	_	_
@@ -4618,6 +4697,7 @@
 24	,	,	PUNCT	_	_	25	punct	_	_
 25	Cichorioideae	cichorioideae	X	_	_	2	appos	_	_
 
+# newpar id = p119
 # sent_id = p119s1
 # text = Internet je z lěta 1969 nastateho ARPANETa wušoł, projekt Advanced Research Project Agency (ARPA) zakitowanskeho ministerstwa Zjednoćenych statow Ameriki.
 1	Internet	internet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -4644,6 +4724,7 @@
 22	Ameriki	Amerika	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p120
 # sent_id = p120s1
 # text = Rotaciska wóska zemje njeje zrunana k ekliptice, ale ma k jeje padorunje nuhel wot něhdźe 23° 26'.
 1	Rotaciska	rotaciski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -4741,6 +4822,7 @@
 25	hódnotu	hódnota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p121
 # sent_id = p121s1
 # text = W dwulětnym rytmusu poskićuje Serbski institut na wěstym dnju w nalěću hornjołužiskej zjawnosći koncentrowany dohlad do swojich slědźenjow.
 1	W	w	ADP	_	_	3	case	_	_
@@ -4785,7 +4867,7 @@
 18	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
 19	a	a	CCONJ	_	_	20	cc	_	_
 20	wobroći	wobroćić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-21	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl	_	_
+21	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 22	specielnje	specielnje	ADV	_	Degree=Pos	25	advmod:emph	_	_
 23	na	na	ADP	_	_	25	case	_	_
 24	serbsku	serbski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	25	amod	_	_
@@ -4869,6 +4951,7 @@
 18	dispoziciji	dispozicija	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p122
 # sent_id = p122s1
 # text = Za cuzych wosebje zajimawa swojoraznosć Łužicy wobsteji w tym, zo so tu nimo němskeje dalša awtochtona rěč rěči: serbšćina, kotraž słuša do swójby słowjanskich rěčow.
 1	Za	za	ADP	_	_	2	case	_	_
@@ -5020,6 +5103,7 @@
 15	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p123
 # sent_id = p123s1
 # text = Litawska dźiwadźelnica Edita Niciūtė a režiser Raimundas Eimontas staj dwaj widejoklipaj z recitacijemi Klemenowych basnjow nahrawałoj.
 1	Litawska	litawski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -5045,13 +5129,14 @@
 1	Wobě	wobaj	DET	_	Case=Acc|Gender=Neut|Number=Dual|NumType=Card|PronType=Tot	2	nmod	_	_
 2	nahrawani	nahrawanje	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	8	obj	_	_
 3	móžeće	móc	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-4	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	8	expl	_	_
+4	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 5	pod	pod	ADP	_	_	7	case	_	_
 6	slědowacym	slědowacy	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	7	amod	_	_
 7	wotkazom	wotkaz	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
 8	wobhladać	wobhladać	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 9	:	:	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p124
 # sent_id = p124s1
 # text = Oceanija je woznamjenjenje za kulturelne a hospodarske zjeće kupoweho swěta Pacifika ke kontinentej.
 1	Oceanija	Oceanija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
@@ -5175,6 +5260,7 @@
 20	tych	tón	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	12	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p126
 # sent_id = p126s1
 # text = Cyłkowna redakcija bibliografije: Franc Šěn Prěnju serbsku bibliografiju - wothladamy-li wot zapisow serbskich ćišćow z 18. a 19. lětstotka - zestaja 1929 Jakub Wjacsławk, krajny bibliotekar w Drježdźanach, a slawist Max Vasmer wuda ju w Berlinje (2. rozšěrjeny nakł. 1952).
 1	Cyłkowna	cyłkowny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -5310,7 +5396,7 @@
 # text = Wona koncentruje so na stawizny a kulturu, druhe regionalnohistoriske wobłuki, kaž zarjadnistwo, hospodarstwo, geografija, přiroda atd. wobkedźbuja so přez Saksku bibliografiju a Braniborsku bibliografiju.
 1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	koncentruje	koncentrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	na	na	ADP	_	_	5	case	_	_
 5	stawizny	stawizna	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
 6	a	a	CCONJ	_	_	7	cc	_	_
@@ -5433,6 +5519,7 @@
 19	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p127
 # sent_id = p127s5
 # text = Wulku lěpšinu měješe wobsydstwo na pódźe - wono bě bjezdawkowe.
 1	Wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
@@ -5462,6 +5549,7 @@
 11	předewzaća	předewzaće	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p128
 # sent_id = p128s1
 # text = Jakub Bart-Ćišinski (1856-1909) - wobnowjer serbskeje literatury
 1	Jakub	Jakub	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -5571,6 +5659,7 @@
 7	přistupne	přistupny	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p131
 # sent_id = p131s1
 # text = Klemenowa prěna elektroniska kniha Vilnius wuńdźe w jendźelskej rěči, kotraž bu wot Shaya Wooda přełožena.
 1	Klemenowa	klemenowy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
@@ -5631,6 +5720,7 @@
 9	prc	prc	X	_	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p132
 # sent_id = p132s1
 # text = Administratorojo njejsu oficialni zastupnicy Wikimedia Foundation, na kotrejež serwerach w St. Petersburg, Florida, wšě Wikimedia-projekty leža.
 1	Administratorojo	administrator	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -5705,6 +5795,7 @@
 8	čitać	čitać	VERB	_	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p133
 # sent_id = p133s1
 # text = Wodowy molekul wobsteji z dweju wodźikoweju atomow a jedneho kislikoweho atoma.
 1	Wodowy	wodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -5815,6 +5906,7 @@
 12	pikometrow	pikometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
+# newpar id = p134
 # sent_id = p134s1
 # text = Barack Hussein Obama (* 4. awgusta 1961 w Honolulu) je wot 20. januara 2009 44. prezident Zjednoćenych statow Ameriki a prěni Afroameričan w tej poziciji.
 1	Barack	Barack	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
@@ -5849,6 +5941,7 @@
 30	poziciji	pozicija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	21	punct	_	_
 
+# newpar id = p136
 # sent_id = p136s1
 # text = Srjedu, 25. 11. 2009 wotměje so we wobłuku zarjadowanjow Wojerowskeho wuměłskeho zwjazka přednošk a po tym diskusija k temje: "Skerje so rozbije atom hač předsudk - stereotypy wo Serbach".
 1	Srjedu	srjeda	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
@@ -5879,12 +5972,12 @@
 26	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	27	expl:pass	_	_
 27	rozbije	rozbić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	appos	_	_
 28	atom	atom	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
-29	hač	hač	SCONJ	_	_	30	cc	_	_
-30	předsudk	předsudk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	conj	_	_
+29	hač	hač	SCONJ	_	_	30	case	_	_
+30	předsudk	předsudk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nmod	_	_
 31	-	-	PUNCT	_	_	32	punct	_	_
-32	stereotypy	stereotyp	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	30	conj	_	_
+32	stereotypy	stereotyp	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	conj	_	_
 33	wo	wo	ADP	_	_	34	case	_	_
-34	Serbach	Serb	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+34	Serbach	Serb	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
 35	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -5912,6 +6005,7 @@
 5	hodź	hodźina	NOUN	_	Abbr=Yes|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p137
 # sent_id = p137s1
 # text = Njeje jedyn šleski alfabet.
 1	Njeje	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5977,6 +6071,7 @@
 14	Wikipediji	Wikipedija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	5	acl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p138
 # sent_id = p138s1
 # text = Stari gramatikarjo sanskrita wuchadźachu wot zhubjenskeho schodźenka jako zakładny schodźenk a mjenowachu połny schodźenk Guṇa (wulki stopjeń) a podlěšenski schodźenk Vṛddhi (róst).
 1	Stari	stary	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
@@ -5993,15 +6088,15 @@
 12	mjenowachu	mjenować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 13	połny	połny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
 14	schodźenk	schodźenk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
-15	Guṇa	Guṇa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	14	acl	_	_
+15	Guṇa	Guṇa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	_
 16	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
 17	wulki	wulki	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
 18	stopjeń	stopjeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	15	appos	_	SpaceAfter=No
-19	)	)	PUNCT	_	_	21	punct	_	_
+19	)	)	PUNCT	_	_	18	punct	_	_
 20	a	a	CCONJ	_	_	22	cc	_	_
-21	podlěšenski	podlěšenski	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	conj	_	_
+21	podlěšenski	podlěšenski	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	amod	_	_
 22	schodźenk	schodźenk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	conj	_	_
-23	Vṛddhi	Vṛddhi	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	22	acl	_	_
+23	Vṛddhi	Vṛddhi	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	22	nmod	_	_
 24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
 25	róst	róst	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	appos	_	SpaceAfter=No
 26	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
@@ -6032,7 +6127,7 @@
 1	Nimo	nimo	ADP	_	_	2	case	_	_
 2	wokalow	wokal	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	29	obl	_	_
 3	a	a	X	_	_	2	nmod	_	SpaceAfter=No
-4	/	/	X	_	_	5	cc	_	SpaceAfter=No
+4	/	/	PUNCT	_	_	5	punct	_	SpaceAfter=No
 5	ā	ā	X	_	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	i	i	X	_	_	3	conj	_	SpaceAfter=No
@@ -6051,7 +6146,7 @@
 20	e	e	X	_	_	16	conj	_	SpaceAfter=No
 21	/	/	PUNCT	_	_	22	punct	_	SpaceAfter=No
 22	ai	ai	X	_	_	20	conj	_	_
-23	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	29	expl	_	_
+23	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	29	expl:pv	_	_
 24	tež	tež	ADV	_	_	25	advmod:emph	_	_
 25	połwokale	połwokal	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	_
 26	y	y	X	_	_	25	nmod	_	_
@@ -6081,6 +6176,7 @@
 50	měć	měć	VERB	_	VerbForm=Inf	47	xcomp	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	29	punct	_	_
 
+# newpar id = p139
 # sent_id = p139s1
 # text = Woda wobsteji z wodźika a kislika w poměrje 2:1.
 1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -6107,6 +6203,7 @@
 7	wodu	woda	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p140
 # sent_id = p140s1
 # text = Wjedro na subkontinenće je prěnjorjadnje wot dešćoweho časa, monsuna, wotwisne.
 1	Wjedro	wjedro	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
@@ -6150,6 +6247,7 @@
 23	kraj	kraj	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p142
 # sent_id = p142s1
 # text = 1. ablawtowy rjad němčiny: ei - i - i
 1	1	1	NUM	_	NumType=Card	4	amod	_	SpaceAfter=No
@@ -6164,6 +6262,7 @@
 10	-	-	PUNCT	_	_	11	punct	_	_
 11	i	i	X	_	_	7	conj	_	_
 
+# newpar id = p143
 # sent_id = p143s1
 # text = Kćenja su běłe abo rědko nažołć-běle abo róžojte a wutworja wokołk, kotryž je bóle wjelbowany a mjenje płony hač tón dźiwjeje morchwje.
 1	Kćenja	kćenje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
@@ -6217,6 +6316,7 @@
 20	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p145
 # sent_id = p145s1
 # text = Rostlina je jako kulturnu rostlinu w Europje wot młodokamjentneje doby dopokazana.
 1	Rostlina	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -6232,6 +6332,7 @@
 11	dopokazana	dopokazany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p146
 # sent_id = p146s1
 # text = Tropiski stat mjezuje z Gowu na sewjerozapadźe, Maharaštru na sewjeru, Andrapradešom na wuchodźe, Tamil Nadu na juhowuchodźe a Keralu na juhozapadźe.
 1	Tropiski	tropiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -6272,6 +6373,7 @@
 8	hranica	hranica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p148
 # sent_id = p148s1
 # text = Hač do 8700 př. n. l. móžemy architektoniski pokrok wobkedźbować.
 1	Hač	hač	SCONJ	_	_	3	advmod:emph	_	_
@@ -6413,7 +6515,7 @@
 9	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 11	hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 13	prěni	prěni	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 14	raz	raz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
 15	palena	paleny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	16	amod	_	_
@@ -6426,6 +6528,7 @@
 22	dopokazać	dopokazać	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
 
+# newpar id = p149
 # sent_id = p149s1
 # text = Ze symjenjow so tež muka zhotowja, kotraž móže jako přidawk při chlěbpječenju słužić.
 1	Ze	z	ADP	_	_	2	case	_	_
@@ -6444,6 +6547,7 @@
 14	słužić	słužić	VERB	_	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p150
 # sent_id = p150s1
 # text = Woda je najnuzniša substanca za wšěch žiwochow, dokelž ma wjacore rědke kajkosće kotrež su jara wažne za žiwjenje.
 1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -6489,7 +6593,7 @@
 5	při	při	ADP	_	_	7	case	_	_
 6	4	4	NUM	_	NumType=Card	7	nummod	_	_
 7	°	°	SYM	_	_	4	nmod	_	SpaceAfter=No
-8	C	c	SYM	_	_	7	nmod	_	SpaceAfter=No
+8	C	c	PROPN	_	_	7	nmod	_	SpaceAfter=No
 9	;	;	PUNCT	_	_	12	punct	_	_
 10	jeje	jeje	DET	_	Gender[psor]=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	hustosć	hustosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
@@ -6536,6 +6640,7 @@
 12	swěće	swět	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p151
 # sent_id = p151s1
 # text = Antologija słowjenskich krótkopowědančkow Auksas kišenėje (Złoto w zaku), wobsahujo Klemenowu stawiznu, wuńdźe w Litawskej.
 1	Antologija	antologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -6558,6 +6663,7 @@
 18	Litawskej	Litawska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	16	punct	_	_
 
+# newpar id = p152
 # sent_id = p152s1
 # text = Wosebje w pralěsowej kónčiny w sewjerowuchodźe a w Bengaliskej nižiny móže w tutym času k ćežkim powodźenjam přińdź, a na kromje Himalaje njesu wotwalenja hory zrědka.
 1	Wosebje	wosebje	ADV	_	Degree=Pos	4	advmod:emph	_	_
@@ -6616,11 +6722,12 @@
 23	zminu	zminyć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p153
 # sent_id = p153s1
 # text = Chronologija zepěra so na assyrisku lisćinu kralow, lisćinu eponymow a chroniku eponymow.
 1	Chronologija	chronologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	zepěra	zepěrać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	na	na	ADP	_	_	6	case	_	_
 5	assyrisku	assyriski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
 6	lisćinu	lisćina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
@@ -6639,7 +6746,7 @@
 2	rjad	rjad	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 3	synchronizmow	synchronizm	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 4	hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	najwjace	wjele	ADV	_	Degree=Sup|NumType=Card|PronType=Ind	8	det:numgov	_	_
 7	babylonskich	babylonski	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	8	amod	_	_
 8	kralow	kral	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -6692,6 +6799,7 @@
 31	referencu	referenca	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	acl	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	19	punct	_	_
 
+# newpar id = p154
 # sent_id = p154s1
 # text = Ameriski časopis Fiction Fix wozjewi krótkopowědančko Vilnius, kotrež bu za Pushcart myto nominowane.
 1	Ameriski	ameriski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -6710,6 +6818,7 @@
 14	nominowane	nominowany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p155
 # sent_id = p155s1
 # text = W něhdyšej romskej protyce bě december poprawom dźesaty měsac (přir. łać. decem = dźesać) 304 dnjow trajaceho měsačkoweho kalendra.
 1	W	w	ADP	_	_	4	case	_	_
@@ -6764,6 +6873,7 @@
 23	wotpadny	wotpadnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	_
 
+# newpar id = p156
 # sent_id = p156s1
 # text = Citaty z literatury so jenož prawopisnje adaptuja, morfologiske wosebitosće so wobchowaja.
 1	Citaty	citat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -6780,6 +6890,7 @@
 12	wobchowaja	wobchować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p158
 # sent_id = p158s1
 # text = Pod Aššur-uballit I.om (1353-1318 př. n. l.) naby Assyriska swój wliw wróćo.
 1	Pod	pod	ADP	_	_	2	case	_	_
@@ -6826,7 +6937,7 @@
 5	I	I	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	zrozumi	zrozumić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	zaso	zaso	ADV	_	_	7	advmod	_	_
 10	jako	jako	SCONJ	_	_	11	mark	_	_
 11	zastupjer	zastupjer	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	acl	_	_
@@ -6851,7 +6962,7 @@
 1	Z	z	ADP	_	_	3	case	_	_
 2	jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	smjerću	smjerć	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 5	tak	tak	ADV	_	PronType=Dem	8	amod	_	_
 6	mjenowane	mjenowany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	5	fixed	_	_
 7	srjedźoassyriske	srjedźoassyriski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
@@ -6859,6 +6970,7 @@
 9	skónči	skónčić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p159
 # sent_id = p159s1
 # text = Wot lěta 1994 bu federacija wutworjena, kotraž z dźewjeć narodnostnych zwjazkowych statow wobsteji:
 1	Wot	wot	ADP	_	_	2	case	_	_
@@ -6877,6 +6989,7 @@
 14	wobsteji	wobstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
 15	:	:	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p160
 # sent_id = p160s1
 # text = Jeli nastawk ma wjace hač jedyn njedostatk, wužiwaj prošu předłohu {{Rq}}.
 1	Jeli	jeli	SCONJ	_	_	3	mark	_	_
@@ -6912,6 +7025,7 @@
 11	doda	dodać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p161
 # sent_id = p161s1
 # text = W dólnych runinach srjedźneje Mezopotamiskeje ležachu jako najwuznamniše městnosće Sippar, Dur-Kurigalzu a Opis.
 1	W	w	ADP	_	_	3	case	_	_
@@ -6970,6 +7084,7 @@
 12	Opis	Opis	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p162
 # sent_id = p162s1
 # text = Jeli někotři wužiwarjo listowany namjet podpěruja, to so móže předłohu {{Ekscelentny}} k nastawkej přidać.
 1	Jeli	jeli	SCONJ	_	_	3	mark	_	_
@@ -6979,7 +7094,7 @@
 5	namjet	namjet	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 6	podpěruja	podpěrować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	cc	_	_
+8	to	to	ADV	_	PronType=Dem	10	cc	_	_
 9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 10	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
 11	předłohu	předłoha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
@@ -7012,6 +7127,7 @@
 15	přidać	přidać	VERB	_	VerbForm=Inf	6	appos	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p163
 # sent_id = p163s2
 # text = Nimo toho so awtomatisce kategorija Kategorija:Zarodk wo biografiji doda.
 1	Nimo	nimo	ADP	_	_	2	case	_	_
@@ -7027,6 +7143,7 @@
 11	doda	dodać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p169
 # sent_id = p169s1
 # text = Achejmenidźa dobywachu wot 550 př. n. l. Bliski wuchod a Mału Aziju.
 1	Achejmenidźa	Achejmenid	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
@@ -7128,6 +7245,7 @@
 29	Seleukidow	Seleukid	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p175
 # sent_id = p175s1
 # text = Woda je jara dobre rozpušćadło, a rozpušćuje wjace družinow substancow, kaž wšelake sele a cokory, a wolóžuje swoje chemiske wzajomne skutkowanje, kotrež pomha kompleksne matabolizmy.
 1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -7215,6 +7333,7 @@
 8	wolóžowane	wolóžowany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p177
 # sent_id = p177s1
 # text = W 18. lětstotku př. n. l. knježeše Šamši-Adad I. wjetše mócnarstwo na sewjer wot Mezopotamiskeje, ale w prěnjej połojcy 17. lětstotka Assyriska zaso rozpada a staroassyriske mócnarstwo so skónči.
 1	W	w	ADP	_	_	4	case	_	_
@@ -7253,10 +7372,11 @@
 34	a	a	CCONJ	_	_	38	cc	_	_
 35	staroassyriske	staroassyriski	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
 36	mócnarstwo	mócnarstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	38	nsubj	_	_
-37	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	38	expl	_	_
+37	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	38	expl:pv	_	_
 38	skónči	skónčić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	conj	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p178
 # sent_id = p178s1
 # text = Salzburgske stare město (Altstadt) z barokowu architekturu słuša wot lěta 1997 oficielnje k swětowemu namrěwstwu UNESCO.
 1	Salzburgske	salzburgski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
@@ -7279,6 +7399,7 @@
 18	UNESCO	UNESCO	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p180
 # sent_id = p180s1
 # text = Tutón přinošk ma so hišće přełožić.
 1	Tutón	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
@@ -7298,11 +7419,12 @@
 5	stronu	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p181
 # sent_id = p181s1
 # text = December započnje so ze samsnym dnjom tydźenja kaž september.
 1	December	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	započnje	započeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	ze	z	ADP	_	_	6	case	_	_
 5	samsnym	samsny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	6	amod	_	_
 6	dnjom	dźeń	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
@@ -7311,6 +7433,7 @@
 9	september	september	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p182
 # sent_id = p182s1
 # text = Posledni rozmach dožiwi mócnarstwo z kralom Aššur-danom III. (935-912 př. n. l.), kiž wjele aramejske města dobywaše.
 1	Posledni	posledni	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -7355,6 +7478,7 @@
 8	přejimachu	přejimać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
+# newpar id = p186
 # sent_id = p186s1
 # text = Tuta strona wobsahuje lisćinu z nastawkami, kotrež su ekscelentne.
 1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
@@ -7374,7 +7498,7 @@
 1	Diskusija	diskusija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 2	wo	wo	ADP	_	_	3	case	_	_
 3	detailach	detail	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	nmod	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	wotměja	wotměć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	na	na	ADP	_	_	9	case	_	_
 7	tudyšej	tudyši	DET	_	Case=Loc|Gender=Fem|Number=Sing	9	det	_	_
@@ -7382,6 +7506,7 @@
 9	stronje	strona	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p187
 # sent_id = p187s1
 # text = Do 4. lěttysaca př. n. l. wužiwachu wobydlerjo Mezopotamiskeje tak mjenowane ličenske kamuški za ličenske nadawki wšědneho dnja.
 1	Do	do	ADP	_	_	4	case	_	_
@@ -7392,7 +7517,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
-9	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	4	cop	_	SpaceAfter=No
+9	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 11	wužiwachu	wužiwać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	wobydlerjo	wobydler	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -7429,7 +7554,7 @@
 2	klinowe	klinowy	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
 3	pismo	pismo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
 4	zestaji	zestajić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	hłownje	hłownje	ADV	_	Degree=Pos	9	advmod:emph	_	_
 7	z	z	ADP	_	_	9	case	_	_
 8	wobrazowych	wobrazowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	9	amod	_	_
@@ -7464,7 +7589,7 @@
 # text = Pisar sta so tak z nahladnej wosobu w towaršnosći.
 1	Pisar	pisar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	sta	stać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	tak	tak	ADV	_	PronType=Dem	2	advmod	_	_
 5	z	z	ADP	_	_	7	case	_	_
 6	nahladnej	nahladny	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	7	amod	_	_
@@ -7473,6 +7598,7 @@
 9	towaršnosći	towaršnosć	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p190
 # sent_id = p190s1
 # text = Pod wjednistwom Hitlera su nacionalsocialisća zawjedowali w Němskim reichu diktaturu "Třećeho reicha".
 1	Pod	pod	ADP	_	_	2	case	_	_
@@ -7574,6 +7700,7 @@
 9	započał	započeć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p191
 # sent_id = p191s1
 # text = Korsika (francosce Corse, korsiksce Corsica) je štwórta najwjetša kupa Srjedźneho morja.
 1	Korsika	Korsika	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
@@ -7604,7 +7731,7 @@
 1	Ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
 3	8680	8680	NUM	_	NumType=Card	4	nummod:gov	_	_
-4	km	km	SYM	_	Abbr=Yes	2	nmod	_	SpaceAfter=No
+4	km	km	NOUN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No
 5	²	²	SYM	_	_	4	amod	_	_
 6	a	a	CCONJ	_	_	11	cc	_	_
 7	cirka	cirka	ADV	_	Degree=Pos	11	advmod:emph	_	_
@@ -7614,6 +7741,7 @@
 11	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p192
 # sent_id = p192s1
 # text = Projekt Wikipedija chce stworić najwjetšu wjelerěčnu, wšitkim přistupnu online-encyklopediju.
 1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -7630,11 +7758,12 @@
 12	encyklopediju	encyklopedija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p193
 # sent_id = p193s1
 # text = Encyklopedije hodźa so z pomocu kajkosćow předmjet, zaměr, metoda, rozrjadowanje a proces nastaća definować.
 1	Encyklopedije	encyklopedija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
 2	hodźa	hodźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	z	z	ADP	_	_	5	case	_	_
 5	pomocu	pomoc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
 6	kajkosćow	kajkosć	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
@@ -7651,6 +7780,7 @@
 17	definować	definować	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p195
 # sent_id = p195s1
 # text = Pola Sumeričanow jednotliwe znamješka najprjedy cyłe słowa předstajichu, kotrež móžachu tež woznamy měć.
 1	Pola	pola	ADP	_	_	2	case	_	_
@@ -7716,6 +7846,7 @@
 10	organizować	organizować	VERB	_	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p196
 # sent_id = p196s1
 # text = Sy wutrobnje přeprošeny(a), prašenja w korčmje stajić.
 1	Sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -7767,6 +7898,7 @@
 7	systemje	system	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p198
 # sent_id = p198s1
 # text = Leidenska uniwersita je najstarša uniwersita w Nižozemskej.
 1	Leidenska	leidenski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -7896,6 +8028,7 @@
 17	kćěja	kćěć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p199
 # sent_id = p199s1
 # text = Eksistuje móžnosć, wobrazy z napismami a wotkazami wuhotować.
 1	Eksistuje	eksistować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -7941,7 +8074,7 @@
 9	,	,	PUNCT	_	_	18	punct	_	_
 10	w	w	ADP	_	_	11	case	_	_
 11	kotrychž	kotryž	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Rel	18	obl	_	_
-12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
 13	běchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 14	Fußball	fußball	X	_	_	18	nsubj	_	SpaceAfter=No
 15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -7950,6 +8083,7 @@
 18	wotměł	wotměć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p203
 # sent_id = p203s1
 # text = Nimo toho su synchronizmy znate: Šamši-Adad I. z Assyriskeje zemrě w 17. lěće knjejstwa krala Hammurabi, Ammiṣaduqa, kral Babylona knježeše 146 lět po stupjenju krala Hammurabi.
 1	Nimo	nimo	ADP	_	_	2	case	_	_
@@ -8026,7 +8160,7 @@
 1	Wotpowědny	wotpowědny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	podawk	podawk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	wospjetowaše	wospjetować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	kóžde	kóždy	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	_
 6	wosme	wosmy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	7	amod	_	_
 7	lěto	lěto	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
@@ -8051,6 +8185,7 @@
 15	dynastiju	dynastija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p204
 # sent_id = p204s1
 # text = W Indiskej so wjace hač 400 rěčow rěči.
 1	W	w	ADP	_	_	2	case	_	_
@@ -8123,6 +8258,7 @@
 5	rěče	rěč	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p205
 # sent_id = p205s1
 # text = Hlej wotpowědne dataje we Wikimedia Commons: Ernesto Che Guevara
 1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -8136,6 +8272,7 @@
 9	Che	Che	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat	_	_
 10	Guevara	Guevara	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat	_	_
 
+# newpar id = p208
 # sent_id = p208s1
 # text = Hlej wotpowědne dataje we Wikimedia Commons: Barack Obama
 1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -8148,6 +8285,7 @@
 8	Barack	Barack	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
 9	Obama	Obama	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat	_	_
 
+# newpar id = p209
 # sent_id = p209s1
 # text = Internet (wot jendź. Interconnected: "hromadźe zwjazowane" a Networks: "syće") je elektroniske zwjazanje mjezy ličakowymi syćemi, ze cilom zhotowić zwjazanja mjezy jednotliwymi ličakami a tak wuměnić daty.
 1	Internet	internet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
@@ -8156,7 +8294,7 @@
 4	jendź	jendźelski	ADJ	_	Abbr=Yes|Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 6	Interconnected	interconnected	X	_	_	1	conj	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	13	punct	_	_
+7	:	:	PUNCT	_	_	10	punct	_	_
 8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
 9	hromadźe	hromadźe	ADV	_	_	10	advmod	_	_
 10	zwjazowane	zwjazowany	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	6	appos	_	SpaceAfter=No
@@ -8212,6 +8350,7 @@
 20	protokolow	protokol	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	13	punct	_	_
 
+# newpar id = p210
 # sent_id = p210s1
 # text = Lisabon (portugisce Lisboa) je stolica a najwjetše město Portugalskeje.
 1	Lisabon	Lisabon	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -8260,6 +8399,7 @@
 16	milionow	milion	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	orphan	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p211
 # sent_id = p211s1
 # text = Sumeriska rěč wosta hač k přewrótej časow rěč zdźěłanych ludźi, podobnje kaž bě to grjekšćina za Romske mócnarstwo abo łaćonšćina w srjedźowěku.
 1	Sumeriska	sumeriski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -8345,11 +8485,12 @@
 8	pergamenće	pergament	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p213
 # sent_id = p213s1
 # text = Naš wikisłownik so wot dotalnych słownikarskich projektow sylnje rozeznawa:
 1	Naš	naš	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	wikisłownik	wikisłownik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 4	wot	wot	ADP	_	_	7	case	_	_
 5	dotalnych	dotalny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	7	amod	_	_
 6	słownikarskich	słownikarski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
@@ -8358,6 +8499,7 @@
 9	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	:	:	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p214
 # sent_id = p214s1
 # text = Tute prěnje wulke mócnarstwo zwosta w mytach regiona žiwe.
 1	Tute	tutón	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
@@ -8386,6 +8528,7 @@
 11	rozprawichu	rozprawić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newpar id = p216
 # sent_id = p216s1
 # text = Wjele maćiznow so móže we wodźe rozpušćeć, při tym rozpušćomnosć wotwisuje wot maćizny a temperatury.
 1	Wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	2	det:numgov	_	_
@@ -8425,6 +8568,7 @@
 15	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p217
 # sent_id = p217s1
 # text = Za markěrowanje nastawkow eksistuje předłoha {{Namjet za pohódnoćenje}}, kotraž trjeba 2 parametraj.
 1	Za	za	ADP	_	_	2	case	_	_
@@ -8455,6 +8599,7 @@
 5	předłohi	předłoha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p219
 # sent_id = p219s1
 # text = Prošu wobeńć proste wulkosće wobrazow, dokelž hewak wužiwarske nastajenja njefunguja.
 1	Prošu	prasyć	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -8492,6 +8637,7 @@
 18	změnami	změna	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	13	punct	_	_
 
+# newpar id = p221
 # sent_id = p221s1
 # text = Tu maja nastawki stać, kotrež po měnjenju namjetowaceho wužiwarja (wjace) njejsu ekscelentne.
 1	Tu	tu	ADV	_	PronType=Dem	2	advmod	_	_
@@ -8515,7 +8661,7 @@
 # text = Nimo toho so tu tež diskusija wo namjetach wotměwa.
 1	Nimo	nimo	ADP	_	_	2	case	_	_
 2	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 4	tu	tu	ADV	_	PronType=Dem	9	advmod	_	_
 5	tež	tež	ADV	_	_	9	advmod	_	_
 6	diskusija	diskusija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -8524,6 +8670,7 @@
 9	wotměwa	wotměwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p222
 # sent_id = p222s1
 # text = Krytosymjenjaki su z něhdźe 250.000 znatymi družinami rostlinska skupina z najwjetšimi družinami.
 1	Krytosymjenjaki	krytosymjenjak	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -8598,6 +8745,7 @@
 12	APG	apg	X	_	Abbr=Yes	11	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
+# newpar id = p224
 # sent_id = p224s1
 # text = Tajke wašnje dodać wobrazy by mał w cyłku so wužiwać w nastawkach.
 1	Tajke	tajki	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
@@ -8614,6 +8762,7 @@
 12	nastawkach	nastawk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p225
 # sent_id = p225s1
 # text = Ryby, wědomosce Pisces (wot łaćonskeho piscis = ryba), je rozšěrjene pomjenowanje za zymnokrejne, přeco abo nimale přeco we wodźe žiwych rjapnikow.
 1	Ryby	ryba	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	SpaceAfter=No
@@ -8696,6 +8845,7 @@
 48	poznamjenili	poznamjenić	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	26	advcl	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	26	punct	_	_
 
+# newpar id = p226
 # sent_id = p226s1
 # text = Łopjena su w porach pjerite a so zwjetša w zawiječkach kónča.
 1	Łopjena	łopjeno	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
@@ -8704,13 +8854,14 @@
 4	porach	por	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	nmod	_	_
 5	pjerite	pjerity	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
 6	a	a	CCONJ	_	_	11	cc	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 8	zwjetša	zwjetša	ADV	_	_	11	advmod	_	_
 9	w	w	ADP	_	_	10	case	_	_
 10	zawiječkach	zawiječk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	_
 11	kónča	kónčić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p227
 # sent_id = p227s1
 # text = Z [[Wobraz:Feather.svg|thumb|100px|Wopisanje]] so postaje šěrokosć wobrazki do 100 pikselow.
 1	Z	z	ADP	_	_	4	nmod	_	_
@@ -8729,7 +8880,7 @@
 14	Wopisanje	wopisanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	list	_	SpaceAfter=No
 15	]	]	PUNCT	_	_	4	punct	_	SpaceAfter=No
 16	]	]	PUNCT	_	_	4	punct	_	_
-17	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl	_	_
+17	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
 18	postaje	postać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	šěrokosć	šěrokosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
 20	wobrazki	wobrazk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nmod	_	_
@@ -8750,6 +8901,7 @@
 8	bokow	bok	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p229
 # sent_id = p229s1
 # text = Klemenowe basnje su so před krótkim do japanšćiny, chinšćiny, francošćiny, jendźelšćiny, hindišćiny, šwedšćiny, italšćiny a španšćiny přełožili.
 1	Klemenowe	klemenowy	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	2	amod	_	_
@@ -8788,6 +8940,7 @@
 7	přistupne	přistupny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p233
 # sent_id = p233s1
 # text = Přizjewjene wužiwarjo móža postajeć wulkosć wobraz w jich nastajenjach.
 1	Přizjewjene	přizjewjeny	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	2	amod	_	_
@@ -8816,6 +8969,7 @@
 11	pikselow	piksel	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p237
 # sent_id = p237s1
 # text = Lokalne adwerby móža akuzatiwny n měć, hdyž směr zwuraznjeja, na př. tie "tam, tamle" - tien "tam".
 1	Lokalne	lokalny	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
@@ -8845,6 +8999,7 @@
 25	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p238
 # sent_id = p238s1
 # text = SORBISCHES INSTITUT - SERBSKI INSTITUT | Bahnhofstraße/Dwórnišćowa 6 | D-02625 Bautzen/Budyšin
 1	SORBISCHES	sorbisches	X	_	Abbr=Yes	0	root	_	_
@@ -8865,6 +9020,7 @@
 16	/	/	PUNCT	_	_	15	punct	_	SpaceAfter=No
 17	Budyšin	Budyšin	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	appos	_	_
 
+# newpar id = p239
 # sent_id = p239s1
 # text = Wino je alkoholiski napoj ze z droždźemi předźěłaneje brěčki winowych jahodow.
 1	Wino	wino	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
@@ -8960,6 +9116,7 @@
 38	našćěpi	našćěpić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	38	punct	_	_
 
+# newpar id = p240
 # sent_id = p240s1
 # text = 1 leži zdźěla w Europje.
 1	1	1	NUM	_	NumType=Card	2	nummod	_	_
@@ -8987,6 +9144,7 @@
 5	Oceaniji	Oceanija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p246
 # sent_id = p246s1
 # text = Najwjetši dźěl znatych stawiznow Mezopotamiskeje je přez připućowanja po skupinach charakterizowany.
 1	Najwjetši	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	_
@@ -9055,6 +9213,7 @@
 22	wjedźechu	wjedźec	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p248
 # sent_id = p248s1
 # text = Po nic cyle 100 lětach buchu Gutejčenjo wuhnaći, a sumeriske měšćanske staty dóńdźechu zaso k mocy a wulkosći.
 1	Po	po	ADP	_	_	5	case	_	_
@@ -9102,6 +9261,7 @@
 3	nastawaja	nastawać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p251
 # sent_id = p251s1
 # text = Konsonant c so jako k wurjekuje.
 1	Konsonant	konsonant	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -9126,11 +9286,12 @@
 10	i	i	X	_	_	6	conj	_	SpaceAfter=No
 11	"	"	PUNCT	_	_	10	punct	_	_
 12	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-13	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl	_	_
+13	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 14	pozdźišo	pozdźe	ADV	_	Degree=Cmp	15	advmod	_	_
 15	stało	stać	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
+# newpar id = p252
 # sent_id = p252s1
 # text = W kapitlu "Do lisćiny" móžeš nastawki namjetować, kotrež po twojim měnjenju su čitanja hódne.
 1	W	w	ADP	_	_	2	case	_	_
@@ -9178,6 +9339,7 @@
 22	hódne	hódny	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	acl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	_
 
+# newpar id = p253
 # sent_id = p253s1
 # text = Do spočatka swětowych mišterstwow w kopańcy je Klemenowa baseń Samotar a wjelk do wšitkich 11 oficijalnych južnoafriskich rěčow přełožena była.
 1	Do	do	ADP	_	_	2	case	_	_
@@ -9222,12 +9384,13 @@
 6	tu	tu	ADV	_	PronType=Dem	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p257
 # sent_id = p257s1
 # text = Na powjerchu zemje so nahromadźuje wodowe masy běžace dele - na př. rěčki a rěki - a stajace na wěstym niwowje - na př. jězory, morja, a oceany.
 1	Na	na	ADP	_	_	2	case	_	_
 2	powjerchu	powjerch	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
 3	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	nahromadźuje	nahromadźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	wodowe	wodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 7	masy	masa	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -9258,6 +9421,7 @@
 32	oceany	ocean	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	conj	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p258
 # sent_id = p258s1
 # text = Raimundas Eimontas je tež přinošował pozadkowu hudźbu.
 1	Raimundas	Raimundas	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -9276,6 +9440,7 @@
 3	Tadas	Tadas	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
 4	Šlajus	Šlajus	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	_
 
+# newpar id = p259
 # sent_id = p259s3
 # text = Tuchwilu wobsahuje serbska wikipedija 6.730 nastawkow.
 1	Tuchwilu	tuchwilu	ADV	_	PronType=Dem	2	advmod	_	_
@@ -9288,6 +9453,7 @@
 8	nastawkow	nastawk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p260
 # sent_id = p260s1
 # text = Orbity druhich planetow słónca njejsu runje w ekliptice, ale tež nic přejara daloke wot toho.
 1	Orbity	orbit	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -9308,6 +9474,7 @@
 16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p261
 # sent_id = p261s1
 # text = Małke, namódry běłe kćenja steja po jednym hač po třoch w kićach w rozporach.
 1	Małke	małki	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	SpaceAfter=No
@@ -9318,7 +9485,7 @@
 6	steja	stać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	po	po	ADP	_	_	8	case	_	_
 8	jednym	jedyn	NUM	_	Case=Loc|Gender=Neut|Number=Sing|NumType=Card	6	obl	_	_
-9	hač	hač	SCONJ	_	_	11	cc	_	_
+9	hač	hač	CCONJ	_	_	11	cc	_	_
 10	po	po	ADP	_	_	11	case	_	_
 11	třoch	tři	NOUN	_	Case=Loc|Gender=Neut|Number=Plur|NumType=Card	8	conj	_	_
 12	w	w	ADP	_	_	13	case	_	_
@@ -9327,6 +9494,7 @@
 15	rozporach	rozpor	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p263
 # sent_id = p263s1
 # text = Pod kralom Hammurabi, w starobabylonskej periodźe (2000 př. n. l. - 1595 př. n. l.), so město Babylon do srjedźišća tehdyšich podawkow dósta a bu tak wuznamne za region, zo Grjekojo pozdźišo cyłu Mezopotamisku Babylonsku mjenowachu.
 1	Pod	pod	ADP	_	_	3	case	_	_
@@ -9354,7 +9522,7 @@
 23	.	.	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	7	punct	_	_
-26	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	33	expl	_	_
+26	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	33	expl:pv	_	_
 27	město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	_
 28	Babylon	Babylon	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nmod	_	_
 29	do	do	ADP	_	_	30	case	_	_
@@ -9426,7 +9594,7 @@
 6	padow	pad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
 8	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	14	nsubj	_	_
-9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl	_	_
+9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl:pv	_	_
 10	často	často	ADV	_	Degree=Pos	14	advmod	_	_
 11	přez	přez	ADP	_	_	13	case	_	_
 12	wulku	wulki	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
@@ -9438,18 +9606,19 @@
 # text = Historikarjo njejsu sej wěsći, kak dołho so tuta zběrka zakonjow wobkedźbowaše.
 1	Historikarjo	historikar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 2	njejsu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	wěsći	wěsći	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	kak	kak	ADV	_	PronType=Int,Rel	7	advmod	_	_
 7	dołho	dołho	ADV	_	Degree=Pos	12	advmod	_	_
-8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	expl	_	_
+8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 9	tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 10	zběrka	zběrka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 11	zakonjow	zakoń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 12	wobkedźbowaše	wobkedźbować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p265
 # sent_id = p265s1
 # text = Tule ma nastać wulki a powšitkowny słownik hornjoserbskeje rěče, kiž wobsahuje wšitko wot dźělenja słowa, tworjenja formow hač k pokiwam za wužiwanje a přikładam za wužiwanje.
 1	Tule	tule	ADV	_	PronType=Dem	2	advmod	_	_
@@ -9490,7 +9659,7 @@
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	zo	zo	SCONJ	_	_	10	mark	_	_
 6	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	aux	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 8	tutón	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 9	projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 10	poradźił	poradźić	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	SpaceAfter=No
@@ -9500,6 +9669,7 @@
 14	Wašu	waš	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
 15	!	!	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p266
 # sent_id = p266s1
 # text = Hižo w lěće 1887 počachu někotři spisowaćeljo knihi w rěči Esperanto spisować abo literaturu z druhich rěčow přełožować.
 1	Hižo	hižo	ADV	_	_	3	advmod:emph	_	_
@@ -9522,6 +9692,7 @@
 18	přełožować	přełožować	VERB	_	VerbForm=Inf	12	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p267
 # sent_id = p267s1
 # text = Španišćina (abo kastilšćina) je jedna z najbóle rozšěrjenych swětowych rěčow.
 1	Španišćina	španišćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -9590,10 +9761,11 @@
 7	OZN	OZN	PROPN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p270
 # sent_id = p270s1
 # text = Rěčnicy so na pućowanjach a zarjadowanjach zetkawaja, wužiwaja Esperanto w městnych skupinach a w interneće, maja listowe přećelstwa, čitaja literaturu w Esperanće, posłuchaja esperantsku hudźbu a wužiwaja Esperanto we wjele žiwjenskich wokruhach.
 1	Rěčnicy	rěčnik	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 3	na	na	ADP	_	_	4	case	_	_
 4	pućowanjach	pućowanje	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	7	obl	_	_
 5	a	a	CCONJ	_	_	6	cc	_	_
@@ -9660,6 +9832,7 @@
 5	eksistuja	eksistować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p272
 # sent_id = p272s1
 # text = Karnataka (Kannada: ಕರ್ನಾಟಕ) je wot lěta 1956 zwjazkowy stat w juhu Indiskeje.
 1	Karnataka	Karnataka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
@@ -9692,7 +9865,7 @@
 9	191	191	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	791	791	NUM	_	NumType=Card	9	compound	_	_
-12	km	km	SYM	_	Abbr=Yes	8	nmod	_	SpaceAfter=No
+12	km	km	NOUN	_	Abbr=Yes	8	nmod	_	SpaceAfter=No
 13	²	²	SYM	_	_	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	potajkim	potajkim	ADV	_	PronType=Dem	19	cc	_	_
@@ -9761,13 +9934,14 @@
 34	rěči	rěčeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 35	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p273
 # sent_id = p273s1
 # text = Ze Sargonom z Akkada so nowa epocha započa (wokoło 2235-2094 př. n. l.).
 1	Ze	z	ADP	_	_	2	case	_	_
 2	Sargonom	Sargon	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
 3	z	z	ADP	_	_	4	case	_	_
 4	Akkada	Akkad	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 6	nowa	nowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	epocha	epocha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
 8	započa	započeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -9893,6 +10067,7 @@
 9	nastać	nastać	VERB	_	VerbForm=Inf	5	ccomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p274
 # sent_id = p274s1
 # text = Šwed Carl Wilhelm Scheele a Jendźelčan Joseph Priestley stej element kislik wokoło lěta 1775 wotkryłoj.
 1	Šwed	Šwed	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -9933,6 +10108,7 @@
 17	činju	činić	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	appos	_	SpaceAfter=No
 18	)	)	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p279
 # sent_id = p279s1
 # text = Ablawt (tež apofonija) mjenuje so změnu wokalow mjez rozdźělnymi morfami, kotrež samsny morphem reprezentuja.
 1	Ablawt	ablawt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -9941,7 +10117,7 @@
 4	apofonija	apofonija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_
 6	mjenuje	mjenować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8	změnu	změna	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 9	wokalow	wokal	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
 10	mjez	mjez	ADP	_	_	12	case	_	_
@@ -10019,6 +10195,7 @@
 17	rěčach	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p283
 # sent_id = p283s1
 # text = Mezopotamiska wikowaše ze susodnymi krajemi.
 1	Mezopotamiska	Mezopotamiska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -10105,6 +10282,7 @@
 6	mócnarstwa	mócnarstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p284
 # sent_id = p284s1
 # text = Ćežka woda so wot wšědneje wody we fyzikalnych a chemiskich kajkosćach rozeznawa, na př. ma wyši škrějny dypk, warjenski dypk a je husćiša.
 1	Ćežka	ćežki	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -10193,6 +10371,7 @@
 23	wodźić	wodźić	VERB	_	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p285
 # sent_id = p285s1
 # text = Wulke města na brjohu Kaspiskeho morja su na přikład Machačkala (stolica Dagestana) a Baku (stolica Azerbajdźana).
 1	Wulke	wulki	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
@@ -10217,13 +10396,14 @@
 20	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p287
 # sent_id = p287s1
 # text = Kooperacija: Konferenca wotměje so w zwisku z wustajeńcu "Moderni z tradicije. Widy na kultury Romow/Cyganow" w Serbskim muzeju Budyšin.
 1	Kooperacija	kooperacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	1	punct	_	_
 3	Konferenca	konferenca	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 4	wotměje	wotměć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	w	w	ADP	_	_	7	case	_	_
 7	zwisku	zwisk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
 8	z	z	ADP	_	_	9	case	_	_
@@ -10246,6 +10426,7 @@
 25	Budyšin	Budyšin	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p289
 # sent_id = p289s1
 # text = Tež móžno wusměrić wobrazy w teksće.
 1	Tež	tež	ADV	_	_	2	advmod	_	_
@@ -10280,6 +10461,7 @@
 20	wobhladowaka	wobhladowak	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p290
 # sent_id = p290s1
 # text = Kaspiske morjo (azerbajdžansce Xəzər dənizi, persce دریای خزر , rusce Каспийское море, kazachsce Каспий теңізі, turkmensce Hazar deňzi) je najwjetši jězor na Zemi, druhdy waženy za morjo.
 1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
@@ -10333,6 +10515,7 @@
 12	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p291
 # sent_id = p291s1
 # text = Za wjele žiwochow kislik je njeparujomny za jich dychanje.
 1	Za	za	ADP	_	_	3	case	_	_
@@ -10362,6 +10545,7 @@
 12	jednobańkowcach	jednobańkowc	NOUN	_	Animacy=Nhum|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p292
 # sent_id = p292s1
 # text = Padnje-li 29., 30. abo 31. december na póndźelu, da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta.
 1	Padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	SpaceAfter=No
@@ -10379,7 +10563,7 @@
 13	na	na	ADP	_	_	14	case	_	_
 14	póndźelu	póndźela	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	1	punct	_	_
-16	da	da	PART	_	_	17	cc	_	_
+16	da	da	ADV	_	_	17	advmod	_	_
 17	přiliča	přiličeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
 19	dny	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
@@ -10392,6 +10576,7 @@
 26	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	17	punct	_	_
 
+# newpar id = p294
 # sent_id = p294s1
 # text = Słaby werb je na př. loben, zdónkowy wokal njeměnja so při tworjenju preterituma: loben, lobte, gelobt.
 1	Słaby	słaby	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -10405,7 +10590,7 @@
 9	zdónkowy	zdónkowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
 10	wokal	wokal	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 11	njeměnja	měnić	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	conj	_	_
-12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 13	při	při	ADP	_	_	14	case	_	_
 14	tworjenju	tworjenje	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
 15	preterituma	preteritum	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
@@ -10417,6 +10602,7 @@
 21	gelobt	gelobt	X	_	_	17	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p297
 # sent_id = p297s1
 # text = Ernesto Che Guevara (14. smažnika 1928, Rosario, Argentinska - 9. winowca 1967, La Higuera, Boliwiska) bě profesionalny marxistiski rewolucionar a guerillowy wjednik z Argentinskeje.
 1	Ernesto	Ernesto	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
@@ -10427,19 +10613,19 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	smažnika	smažnik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	parataxis	_	_
 8	1928	1928	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	16	punct	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
 10	Rosario	Rosario	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	7	list	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	16	punct	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
 12	Argentinska	Argentinska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	list	_	_
 13	-	-	PUNCT	_	_	16	punct	_	_
 14	9	9	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 16	winowca	winowc	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	conj	_	_
 17	1967	1967	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	16	punct	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
 19	La	La	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	16	list	_	_
 20	Higuera	Higuera	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	19	flat	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	16	punct	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_
 22	Boliwiska	Boliwiska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	16	list	_	SpaceAfter=No
 23	)	)	PUNCT	_	_	7	punct	_	_
 24	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	_	_
@@ -10453,6 +10639,7 @@
 32	Argentinskeje	Argentinska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	27	punct	_	_
 
+# newpar id = p298
 # sent_id = p298s1
 # text = Zelene rostliny, wšelake algi, ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody.
 1	Zelene	zeleny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
@@ -10492,6 +10679,7 @@
 3	fotosynteza	fotosynteza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p301
 # sent_id = p301s1
 # text = Španišćina ma dwaj genusaj a numerusaj, ale nima žadyn pad, ze wuwzaćom pronomenow.
 1	Španišćina	španišćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -10511,6 +10699,7 @@
 15	pronomenow	pronomen	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p303
 # sent_id = p303s1
 # text = Dalše namakanki, kotrež mějachu za hospodarstwo rozsudny wuznam, běštej koleso a hornčerska tačel (pózdnja Uruk-doba).
 1	Dalše	dalši	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
@@ -10536,6 +10725,7 @@
 21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p305
 # sent_id = p305s1
 # text = Nimo wulkich skupinach monokotyledonow a eudikotyledonow hišće eksistuja někotre bazalnje stejace porjady.
 1	Nimo	nimo	ADP	_	_	3	case	_	_
@@ -10563,6 +10753,7 @@
 7	wujasnjuje	wujasnjować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
+# newpar id = p308
 # sent_id = p308s1
 # text = Recentne (njewotemrěne) zastupnicy rostlinow tworja štyri jasnje mjez sobu rozdźělene skupiny.
 1	Recentne	recentny	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	amod	_	_
@@ -10631,16 +10822,17 @@
 7	tola	tola	CCONJ	_	_	17	cc	_	_
 8	slědowacy	slědowacy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	_
 9	kladogram	kladogram	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
-10	jako	jako	SCONJ	_	_	12	cc	_	_
+10	jako	jako	SCONJ	_	_	12	case	_	_
 11	prawdźepodobne	prawdźepodobny	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	_
-12	poměry	poměr	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	acl	_	_
+12	poměry	poměr	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nmod	_	_
 13	přiwuznistwa	přiwuznistwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
 14	we	w	ADP	_	_	15	case	_	_
 15	wotrysach	wotrys	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	obl	_	_
-16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	expl	_	_
+16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	expl:pv	_	_
 17	pokaza	pokazać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
 18	:	:	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
+# newpar id = p309
 # sent_id = p309s1
 # text = Serbja we Łužicomaj słyšachu k połobskosłowjanskim kmjenam, kotrež so wot 6. lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu.
 1	Serbja	serb	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -10652,7 +10844,7 @@
 7	kmjenam	kmjen	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	22	punct	_	_
 9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	_
-10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl	_	_
+10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
 11	wot	wot	ADP	_	_	14	case	_	_
 12	6	6	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
@@ -10722,6 +10914,7 @@
 27	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p310
 # sent_id = p310s1
 # text = To su předewšěm wodrjewjane rostliny, kotrež eteriske wolije tworja (fenylpropanoidy a terpeny).
 1	To	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
@@ -10817,6 +11010,7 @@
 8	neolignany	neolignan	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
+# newpar id = p312
 # sent_id = p312s1
 # text = Hlej wotpowědne dataje we Wikimedia Commons: Zestajenkowe rostliny
 1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -10829,6 +11023,7 @@
 8	Zestajenkowe	zestajenkowy	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	9	amod	_	_
 9	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	appos	_	_
 
+# newpar id = p313
 # sent_id = p313s1
 # text = Wodowe kapki su stabilne dla sylneje powjerchoweje napjatosće wody.
 1	Wodowe	wodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
@@ -10880,6 +11075,7 @@
 7	transpiraciju	transpiracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p318
 # sent_id = p318s1
 # text = Druhe rěče wužiwane w Indiskej su Awstro-aziske rěče kaž Santali a Tibeto-burmaske rěče kaž Manipuri.
 1	Druhe	druhi	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Ord	2	amod	_	_
@@ -10903,6 +11099,7 @@
 19	Manipuri	Manipuri	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p325
 # sent_id = p325s1
 # text = Jeli někotři wužiwarjo listowany namjet podpěruja, to so dyrbi předłohu {{Ekscelentny}} z nastawka wotstronić.
 1	Jeli	jeli	SCONJ	_	_	6	mark	_	_
@@ -10912,7 +11109,7 @@
 5	namjet	namjet	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 6	podpěruja	podpěrować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	cc	_	_
+8	to	to	ADV	_	PronType=Dem	10	advmod	_	_
 9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 10	dyrbi	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
 11	předłohu	předłoha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
@@ -10974,6 +11171,7 @@
 25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	)	)	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p326
 # sent_id = p326s1
 # text = Su w germanšćinje sydom ablawtowych rjadow, znutřka kotrychž wokal so po krutym prawidle ablawtuje (prěnjotna přičina za to su mj. dr. sćěhowace konsonanty).
 1	Su	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -11061,7 +11259,7 @@
 51	,	,	PUNCT	_	_	45	punct	_	_
 52	mjeztym	mjeztym	ADV	_	_	72	mark	_	_
 53	zo	zo	SCONJ	_	_	52	fixed	_	_
-54	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	72	expl	_	_
+54	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	72	expl:pv	_	_
 55	w	w	ADP	_	_	57	case	_	_
 56	hornjej	horni	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	57	amod	_	_
 57	němčinje	němčina	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	72	obl	_	_
@@ -11082,6 +11280,7 @@
 72	jewjetej	jewić	VERB	_	Animacy=Inan|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	43	advcl	_	SpaceAfter=No
 73	.	.	PUNCT	_	_	10	punct	_	_
 
+# newpar id = p327
 # sent_id = p327s1
 # text = Korjeń je tołsty a mjasny, mjeztym zo barba wariěruje: běły, žołty, wioletny, oranžočerwjeny.
 1	Korjeń	korjeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -11111,7 +11310,7 @@
 3	dołho	dołhi	ADJ	_	Hyph=Yes	5	compound	_	SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
 5	špindlojty	špindlojty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-6	hač	hač	SCONJ	_	_	9	cc	_	_
+6	hač	hač	CCONJ	_	_	9	cc	_	_
 7	krótko	krótki	ADJ	_	Hyph=Yes	9	compound	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	boblojty	boblojty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
@@ -11136,6 +11335,7 @@
 8	zwonkowny	zwonkowny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p330
 # sent_id = p330s1
 # text = Slepo je wuchodnosakska wjes a sydło gmejny ze samsnym mjenom a Zarjadniskeho zjednoćenstwa Slepo we wokrjesu Zhorjelc.
 1	Slepo	Slepo	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
@@ -11172,11 +11372,12 @@
 11	gmejnje	gmejna	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p331
 # sent_id = p331s1
 # text = Wobsydlenje započa so mjez 5000 a 4000 př. n. l. w Obejdskej dobje.
 1	Wobsydlenje	wobsydlenje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
 2	započa	započeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	mjez	mjez	ADP	_	_	5	case	_	_
 5	5000	5000	NUM	_	NumType=Card	2	obl	_	_
 6	a	a	CCONJ	_	_	7	cc	_	_
@@ -11250,7 +11451,7 @@
 19	pisma	pismo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	30	punct	_	_
 21	kotrež	kotryž	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	30	nsubj	_	_
-22	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	30	expl	_	_
+22	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
 23	ze	z	ADP	_	_	24	case	_	_
 24	systema	system	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	obl	_	_
 25	piktogramow	piktogram	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
@@ -11261,6 +11462,7 @@
 30	wuwiwaše	wuwiwać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	acl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	15	punct	_	_
 
+# newpar id = p332
 # sent_id = p332s1
 # text = Po nowych fylogenetiskich spóznaćach buchu nětko dwanaće podswójbow zawjedowane:
 1	Po	po	ADP	_	_	4	case	_	_
@@ -11274,10 +11476,11 @@
 9	zawjedowane	zawjedowany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 10	:	:	PUNCT	_	_	9	punct	_	_
 
+# newpar id = p334
 # sent_id = p334s1
 # text = Historisce so je definicija zapřijeća rostlina přeměniła.
 1	Historisce	historisce	ADV	_	Degree=Pos	7	advmod	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 4	definicija	definicija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 5	zapřijeća	zapřijeće	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
@@ -11325,6 +11528,7 @@
 8	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p335
 # sent_id = p335s1
 # text = Kaspiske morjo leži w Aziji a mjezuje na juhu z Iranom (dołhosć brjoha: 750 km), na zapadźe z Azerbajdźanom (dołhosć brjoha: 800 km) a z Ruskej federaciju (dołhosć brjoha: 960 km) a na wuchodźe z Kazachstanom (dołhosć brjoha: 1894 km) a z Turkmenistanom (dołhosć brjoha: 1768 km).
 1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
@@ -11343,7 +11547,7 @@
 14	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 15	:	:	PUNCT	_	_	17	punct	_	_
 16	750	750	NUM	_	NumType=Card	17	nummod:gov	_	_
-17	km	km	SYM	_	Abbr=Yes	13	appos	_	SpaceAfter=No
+17	km	km	NOUN	_	Abbr=Yes	13	appos	_	SpaceAfter=No
 18	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	_
 20	na	na	ADP	_	_	21	case	_	_
@@ -11355,7 +11559,7 @@
 26	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 27	:	:	PUNCT	_	_	29	punct	_	_
 28	800	800	NUM	_	NumType=Card	29	nummod:gov	_	_
-29	km	km	SYM	_	Abbr=Yes	25	appos	_	SpaceAfter=No
+29	km	km	NOUN	_	Abbr=Yes	25	appos	_	SpaceAfter=No
 30	)	)	PUNCT	_	_	25	punct	_	_
 31	a	a	CCONJ	_	_	34	cc	_	_
 32	z	z	ADP	_	_	34	case	_	_
@@ -11366,7 +11570,7 @@
 37	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
 38	:	:	PUNCT	_	_	40	punct	_	_
 39	960	960	NUM	_	NumType=Card	40	nummod:gov	_	_
-40	km	km	SYM	_	Abbr=Yes	36	appos	_	SpaceAfter=No
+40	km	km	NOUN	_	Abbr=Yes	36	appos	_	SpaceAfter=No
 41	)	)	PUNCT	_	_	36	punct	_	_
 42	a	a	CCONJ	_	_	44	cc	_	_
 43	na	na	ADP	_	_	44	case	_	_
@@ -11378,7 +11582,7 @@
 49	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
 50	:	:	PUNCT	_	_	52	punct	_	_
 51	1894	1894	NUM	_	NumType=Card	52	nummod:gov	_	_
-52	km	km	SYM	_	Abbr=Yes	48	appos	_	SpaceAfter=No
+52	km	km	NOUN	_	Abbr=Yes	48	appos	_	SpaceAfter=No
 53	)	)	PUNCT	_	_	48	punct	_	_
 54	a	a	CCONJ	_	_	56	cc	_	_
 55	z	z	ADP	_	_	56	case	_	_
@@ -11388,10 +11592,11 @@
 59	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	SpaceAfter=No
 60	:	:	PUNCT	_	_	62	punct	_	_
 61	1768	1768	NUM	_	NumType=Card	62	nummod:gov	_	_
-62	km	km	SYM	_	Abbr=Yes	58	appos	_	SpaceAfter=No
+62	km	km	NOUN	_	Abbr=Yes	58	appos	_	SpaceAfter=No
 63	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
 64	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p339
 # sent_id = p339s1
 # text = W 14. lětstotku př. n. l. Assyriska zaso na mocy naby.
 1	W	w	ADP	_	_	4	case	_	_
@@ -11444,6 +11649,7 @@
 19	nomadźa	nomad	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p340
 # sent_id = p340s1
 # text = Nimo toho móžeja rostliny hromadu ale w wobłuku korjenjow tež z hribami, bakterijemi a druhimi mikroorganizmami komunikować.
 1	Nimo	nimo	ADP	_	_	2	case	_	_
@@ -11498,6 +11704,7 @@
 28	krokach	krok	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
+# newpar id = p343
 # sent_id = p343s1
 # text = Na swěće je wokoło 24 - 30 tysac družinow rybow.
 1	Na	na	ADP	_	_	2	case	_	_
@@ -11512,6 +11719,7 @@
 10	rybow	ryba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p344
 # sent_id = p344s1
 # text = Přiběrace žadanja na organizaciju a tež templowe hospodarstwo wuměnjachu a spěchowaštej wuwiwanje pisma.
 1	Přiběrace	přiběracy	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
@@ -11580,7 +11788,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 6	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
-8	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	3	cop	_	SpaceAfter=No
+8	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 10	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 11	klinowe	klinowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
@@ -11592,6 +11800,7 @@
 17	wuwite	wuwity	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
+# newpar id = p345
 # sent_id = p345s1
 # text = Assyriska, Babyloniska a Sumer pěstowachu dalokosahace politiske poćahi k susodnym krajam, kotrež buchu tež zdźěla za prowincy mezopotamiskich jadrowych krajow deklarowane.
 1	Assyriska	Assyriska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
@@ -11672,6 +11881,7 @@
 49	tworješe	tworić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	SpaceAfter=No
 50	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
 
+# newpar id = p346
 # sent_id = p346s1
 # text = Mnichow (němsce München) je stolica zwjazkoweho kraja Bayerskeje a kulturelne kaž tež ekonomiske srjedźišćo južneje Němskeje.
 1	Mnichow	Mnichow	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -11706,7 +11916,7 @@
 8	wobydlerjemi	wobydler	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	18	nmod	_	_
 9	na	na	ADP	_	_	11	case	_	_
 10	310	310	NUM	_	NumType=Card	11	nummod:gov	_	_
-11	km	km	SYM	_	Abbr=Yes	8	nmod	_	SpaceAfter=No
+11	km	km	NOUN	_	Abbr=Yes	8	nmod	_	SpaceAfter=No
 12	²	²	SYM	_	_	11	amod	_	_
 13	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 14	wone	wón	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
@@ -11738,6 +11948,7 @@
 5	Isar	Isar	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p348
 # sent_id = p348s1
 # text = Rosa Luxemburg - Rozalia Luksenburg (* 5. měrca 1871 w Zamośće, Pólska; † 15. januara 1919 w Berlinje) bě wuznamna zastupjerka europskeho dźěłaćerskeho hibanja a rozsudna proletariska internacionalistka.
 1	Rosa	Rosa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
@@ -11798,6 +12009,7 @@
 5	zamordowana	zamordowany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p350
 # sent_id = p350s1
 # text = Wuchodny přibrjóh Andreho Pradeša a Tamil Nadu kaž tež južna Kerala dožiwja mjez oktobrom a decembrom dla sewjerozapadneho monsuna hišće druhi dešćowy čas.
 1	Wuchodny	wuchodny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -11825,6 +12037,7 @@
 23	čas	čas	NOUN	_	Animacy=Inan|Gender=Masc	12	obj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	12	punct	_	_
 
+# newpar id = p351
 # sent_id = p351s1
 # text = Samotar narysowa na pěskojte dno smuhu a praji: »Přez tu smuhu njesměš.«
 1	Samotar	samotar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -11901,7 +12114,7 @@
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	tola	tola	CCONJ	_	_	11	cc	_	_
 9	wón	wón	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl	_	_
+10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 11	njepohnu	pohnuć	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	6	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -11923,6 +12136,7 @@
 14	zarysowana	zarysowany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p353
 # sent_id = p353s1
 # text = Leži 11 kilometrow na sewjer wot Sardiniskeje, 170 kilometrow na juhowuchod wot Francoskeje, a 90 kilometrow wot Italskeje.
 1	Leži	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -11947,6 +12161,7 @@
 20	Italskeje	Italska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 
+# newpar id = p354
 # sent_id = p354s1
 # text = Tež móžno postajeć maksimalnu wysokosć.
 1	Tež	tež	ADV	_	_	2	advmod	_	_
@@ -12008,6 +12223,7 @@
 11	wysokosć	wysokosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p358
 # sent_id = p358s1
 # text = Jako politiska jednota bu Posaarska (tehdy Saarbeckengebiet) w lětu 1920 dla Versailloweho zrěčenja tworjena.
 1	Jako	jako	SCONJ	_	_	3	case	_	_
@@ -12072,6 +12288,7 @@
 17	přistupiła	přistupić	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p361
 # sent_id = p361s1
 # text = Po aktualnej systematice eukaryotow wot Adl a.d. (2005)[2] njesłuša zastupjerje zelenych algow a tež čerwjenych algow, kotrež buchu dołho k rostlinam ličene, wjace k plantae.
 1	Po	po	ADP	_	_	3	case	_	_
@@ -12083,7 +12300,7 @@
 7	a	a	CCONJ	_	_	9	cc	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
 9	d	d	ADJ	_	Abbr=Yes|Number=Plur	6	conj	_	SpaceAfter=No
-10	.	.	X	_	_	9	punct	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	2005	2005	NUM	_	NumType=Card	6	parataxis	_	SpaceAfter=No
 13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
@@ -12126,13 +12343,14 @@
 11	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p363
 # sent_id = p363s1
 # text = Kralej Aššur-nasir-apli II. (883-859 př. n. l..) a Šulmanu-ašared III. (858-824 př. n. l.) rozšěrištaj assyriski mócnarski wobwod hač do Syriskeje.
 1	Kralej	kral	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Dual	2	nmod	_	_
 2	Aššur	Aššur	PROPN	_	_	38	nsubj	_	SpaceAfter=No
-3	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	nasir	nasir	PROPN	_	_	2	flat	_	SpaceAfter=No
-5	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	apli	apli	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
 7	II	II	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
@@ -12183,7 +12401,7 @@
 5	nutřkownych	nutřkowny	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	6	amod	_	_
 6	wadźeńcach	wadźeńca	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	3	conj	_	_
 7	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
-8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	27	expl	_	_
+8	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	27	expl:pv	_	_
 9	Tukulti	Tukulti	PROPN	_	_	27	obl	_	SpaceAfter=No
 10	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	apil	apil	PROPN	_	_	9	flat	_	SpaceAfter=No
@@ -12304,6 +12522,7 @@
 8	Mezopotamiskeje	Mezopotamiska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p364
 # sent_id = p364s1
 # text = Substantiwy maja tři genusy na rozdźěl wot romaniskich rěčow.
 1	Substantiwy	substantiw	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
@@ -12339,6 +12558,7 @@
 18	deklinacije	deklinacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p367
 # sent_id = p367s1
 # text = Je jedyn z hłownych wobstatkow zemskeje atmosfery, ale tež wustupuje jako wobstatk silikatow w kamjenjach.
 1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
@@ -12359,6 +12579,7 @@
 16	kamjenjach	kamjeń	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
 
+# newpar id = p368
 # sent_id = p368s1
 # text = Na zemi su 193 njewotwisnych a wot strony Zjednoćenych narodow připóznatych statow.
 1	Na	na	ADP	_	_	2	case	_	_
@@ -12375,6 +12596,7 @@
 12	statow	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p369
 # sent_id = p369s1
 # text = Ernesto Che Guevara a Fidel Castro w lěće 1961
 1	Ernesto	Ernesto	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -12387,6 +12609,7 @@
 8	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
 9	1961	1961	NUM	_	NumType=Card	8	nummod	_	_
 
+# newpar id = p370
 # sent_id = p370s1
 # text = Płone symjenja sedźa zwjetša po jednym hač po dwěmaj we łušćinach.
 1	Płone	płony	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -12395,7 +12618,7 @@
 4	zwjetša	zwjetša	ADV	_	_	3	advmod	_	_
 5	po	po	ADP	_	_	6	case	_	_
 6	jednym	jedyn	NUM	_	Case=Loc|Gender=Neut|Number=Sing|NumType=Card	3	obl	_	_
-7	hač	hač	SCONJ	_	_	9	cc	_	_
+7	hač	hač	CCONJ	_	_	9	cc	_	_
 8	po	po	ADP	_	_	9	case	_	_
 9	dwěmaj	dwaj	NUM	_	Case=Loc|Gender=Neut|Number=Dual|NumType=Card	6	conj	_	_
 10	we	w	ADP	_	_	11	case	_	_
@@ -12409,9 +12632,9 @@
 3	tačelojte	tačelojty	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	zelenojće	zelenojći	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	compound	_	SpaceAfter=No
-6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	brune	bruny	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	conj	_	_
-8	hač	hač	SCONJ	_	_	9	cc	_	_
+8	hač	hač	CCONJ	_	_	9	cc	_	_
 9	čorne	čorny	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	conj	_	_
 10	abo	abo	CCONJ	_	_	11	cc	_	_
 11	čerwjenojte	čerwjenojty	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	conj	_	_
@@ -12426,6 +12649,7 @@
 20	zeleninu	zelenina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p372
 # sent_id = p372s1
 # text = Salzburg leži nad rěku Salzach blisko hranicy mjez Awstriskej a Němskej, při sewjernej kromje Alpow.
 1	Salzburg	Salzburg	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -12475,19 +12699,20 @@
 25	wuchod	wuchod	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p375
 # sent_id = p375s1
 # text = Přez pozdźiše wikowanske poćahi so dósta wopřijeće wina wot Germanow hač do Słowjanow (hlej serbske wopřijeće wino a ruske słowo vinó) a hač do Baltow, při čimž na př. w Litawskej wopřijeće vynas a w Letiskej słowo vins stej znatej.
 1	Přez	přez	ADP	_	_	4	case	_	_
 2	pozdźiše	pózdni	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	4	amod	_	_
 3	wikowanske	wikowanski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	poćahi	poćah	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	dósta	dóstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	wopřijeće	wopřijeće	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
 8	wina	wino	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
 9	wot	wot	ADP	_	_	10	case	_	_
 10	Germanow	German	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
-11	hač	hač	SCONJ	_	_	13	cc	_	_
+11	hač	hač	CCONJ	_	_	13	cc	_	_
 12	do	do	ADP	_	_	13	case	_	_
 13	Słowjanow	Słowjan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
 14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
@@ -12499,9 +12724,9 @@
 20	ruske	ruski	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
 21	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
 22	vinó	vinó	X	_	_	21	nmod	_	SpaceAfter=No
-23	)	)	PUNCT	_	_	15	mark	_	_
+23	)	)	PUNCT	_	_	15	punct	_	_
 24	a	a	CCONJ	_	_	27	cc	_	_
-25	hač	hač	SCONJ	_	_	27	cc	_	_
+25	hač	hač	CCONJ	_	_	27	cc	_	_
 26	do	do	ADP	_	_	27	case	_	_
 27	Baltow	Balt	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	44	punct	_	_
@@ -12523,6 +12748,7 @@
 44	znatej	znaty	ADJ	_	Case=Nom|Gender=Neut|Number=Dual|VerbForm=Part|Voice=Pass	6	advcl	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	6	punct	_	_
 
+# newpar id = p377
 # sent_id = p377s1
 # text = Po horjeka naspomnjenej definiciji je ablawt tež w zapado- a serwjernogermanšćinje rozšerjeny přezwuk (na př. němsce Maus - Mäuse, Mäuslein; fahren - fährt), kotryž bu přez -i/j- w sćěhowacej złóžce zawinowany.
 1	Po	po	ADP	_	_	4	case	_	_
@@ -12602,533 +12828,4 @@
 29	fenomenam	fenomen	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	30	obl	_	_
 30	njeliči	ličić	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p378s1
-# text = Kak so potajkim wikisłownik wot Wikipedije rozeznawa?
-1	Kak	kak	ADV	_	PronType=Int,Rel	7	advmod	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
-3	potajkim	potajkim	ADV	_	PronType=Dem	7	advmod	_	_
-4	wikisłownik	wikisłownik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-5	wot	wot	ADP	_	_	6	case	_	_
-6	Wikipedije	wikipedija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
-7	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	7	punct	_	_
-
-# sent_id = p378s2
-# text = Wonej so idealnje wudospołnjatej:
-1	Wonej	wón	PRON	_	Case=Nom|Number=Dual|Person=3|PronType=Prs	4	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	obj	_	_
-3	idealnje	idealnje	ADV	_	Degree=Pos	4	advmod	_	_
-4	wudospołnjatej	wudospołnjaty	ADJ	_	Case=Nom|Number=Dual	0	root	_	SpaceAfter=No
-5	:	:	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p378s3
-# text = We wikipediji namakaš encyklopediske artikle wo někajkej wěcy abo wosobje, něšto, štož njesłuša do słownika; na druhim boku pak njenamakaš informaciju wo gramatice abo ortografiji (wothladajo wot toho, zo so wuraz nadźijomnje korektnje piše a wužiwa).
-1	We	w	ADP	_	_	2	case	_	_
-2	wikipediji	wikipedija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-3	namakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	encyklopediske	encyklopediski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
-5	artikle	artikl	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
-6	wo	wo	ADP	_	_	8	case	_	_
-7	někajkej	někajki	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
-8	wěcy	wěc	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
-9	abo	abo	CCONJ	_	_	10	cc	_	_
-10	wosobje	wosoba	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	něšto	něšto	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	appos	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	štož	štož	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj	_	_
-15	njesłuša	słušeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	acl	_	_
-16	do	do	ADP	_	_	17	case	_	_
-17	słownika	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
-18	;	;	PUNCT	_	_	23	punct	_	_
-19	na	na	ADP	_	_	21	case	_	_
-20	druhim	druhi	ADJ	_	Case=Loc|Gender=Masc|Number=Sing|NumType=Ord	21	amod	_	_
-21	boku	bok	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	_
-22	pak	pak	CCONJ	_	_	23	cc	_	_
-23	njenamakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	conj	_	_
-24	informaciju	informacija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
-25	wo	wo	ADP	_	_	26	case	_	_
-26	gramatice	gramatika	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	24	nmod	_	_
-27	abo	abo	CCONJ	_	_	28	cc	_	_
-28	ortografiji	ortografija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	26	conj	_	_
-29	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
-30	wothladajo	wothladać	VERB	_	Tense=Pres|VerbForm=Conv	23	parataxis	_	_
-31	wot	wot	ADP	_	_	32	case	_	_
-32	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	SpaceAfter=No
-33	,	,	PUNCT	_	_	39	punct	_	_
-34	zo	zo	SCONJ	_	_	39	mark	_	_
-35	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	39	expl:pass	_	_
-36	wuraz	wuraz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	_
-37	nadźijomnje	nadźijomnje	ADV	_	Degree=Pos	39	advmod	_	_
-38	korektnje	korektnje	ADV	_	Degree=Pos	39	advmod	_	_
-39	piše	pisać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	acl	_	_
-40	a	a	CCONJ	_	_	41	cc	_	_
-41	wužiwa	wužiwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	conj	_	SpaceAfter=No
-42	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
-43	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p378s4
-# text = W tajkich padach, hdyž wužiwar prawdźepodobnje skerje wěcownu informaciju pyta hač gramatisku (na př. Budyšin abo Jakub Bart-Ćišinski), wotkazuje wikisłownik na Wikipediju.
-1	W	w	ADP	_	_	3	case	_	_
-2	tajkich	tajki	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
-3	padach	pad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	26	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	11	punct	_	_
-5	hdyž	hdyž	SCONJ	_	_	11	mark	_	_
-6	wužiwar	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-7	prawdźepodobnje	prawdźepodobnje	ADV	_	Degree=Pos	11	advmod	_	_
-8	skerje	skerje	ADV	_	Degree=Pos	9	advmod	_	_
-9	wěcownu	wěcowny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-10	informaciju	informacija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
-11	pyta	pytać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
-12	hač	hač	SCONJ	_	_	13	case	_	_
-13	gramatisku	gramatiski	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	nmod	_	_
-14	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-15	na	na	ADP	_	_	18	advmod:emph	_	_
-16	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	fixed	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	_
-18	Budyšin	Budyšin	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
-19	abo	abo	CCONJ	_	_	20	cc	_	_
-20	Jakub	Jakub	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
-21	Bart	Bart	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat	_	SpaceAfter=No
-22	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
-23	Ćišinski	Ćišinski	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat	_	SpaceAfter=No
-24	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	11	punct	_	_
-26	wotkazuje	wotkazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-27	wikisłownik	wikisłownik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
-28	na	na	ADP	_	_	29	case	_	_
-29	Wikipediju	wikipedija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	26	punct	_	_
-
-# sent_id = p378s5
-# text = Runje tak ma Wikipedija móžnosć, na wikisłownik wotkazować.
-1	Runje	runje	ADV	_	Degree=Pos	3	advmod	_	_
-2	tak	tak	ADV	_	PronType=Dem	3	advmod	_	_
-3	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-5	móžnosć	móžnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	na	na	ADP	_	_	8	case	_	_
-8	wikisłownik	wikisłownik	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
-9	wotkazować	wotkazować	VERB	_	VerbForm=Inf	5	acl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p378s6
-# text = W idealnym padźe budźe raz tak, zo kóžde słowo w kóždym artiklu Wikipedije na wotpowědne hesło we wikisłowniku wotkazuje, tak zo dyrbi wužiwar wikipedije jenož na njeznate słowo kliknyć, zo by něšto wo nim zhonił.
-1	W	w	ADP	_	_	3	case	_	_
-2	idealnym	idealny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	padźe	pad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
-4	budźe	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-5	raz	raz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-6	tak	tak	ADV	_	PronType=Dem	4	advmod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	20	punct	_	_
-8	zo	zo	SCONJ	_	_	20	mark	_	_
-9	kóžde	kóždy	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	_
-10	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
-11	w	w	ADP	_	_	13	case	_	_
-12	kóždym	kóždy	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
-13	artiklu	artikl	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
-14	Wikipedije	Wikipedija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
-15	na	na	ADP	_	_	17	case	_	_
-16	wotpowědne	wotpowědny	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
-17	hesło	hesło	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
-18	we	w	ADP	_	_	19	case	_	_
-19	wikisłowniku	wikisłownik	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	_
-20	wotkazuje	wotkazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	20	punct	_	_
-22	tak	tak	ADV	_	PronType=Dem	24	cc	_	_
-23	zo	zo	SCONJ	_	_	22	fixed	_	_
-24	dyrbi	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	conj	_	_
-25	wužiwar	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
-26	wikipedije	wikipedija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
-27	jenož	jenož	PART	_	_	31	advmod:emph	_	_
-28	na	na	ADP	_	_	30	case	_	_
-29	njeznate	znaty	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass	30	amod	_	_
-30	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	31	obl	_	_
-31	kliknyć	kliknyć	VERB	_	VerbForm=Inf	24	xcomp	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	38	punct	_	_
-33	zo	zo	SCONJ	_	_	38	mark	_	_
-34	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	38	aux	_	_
-35	něšto	něšto	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	38	obj	_	_
-36	wo	wo	ADP	_	_	37	case	_	_
-37	nim	wón	PRON	_	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
-38	zhonił	zhonić	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	24	advcl	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p379s1
-# text = Wot lěta 3000 př. n. l. připućowachu nomadźa ze sewjera do južneho Mezopotamiskeje.
-1	Wot	wot	ADP	_	_	2	case	_	_
-2	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
-3	3000	3000	NUM	_	NumType=Card	2	nummod	_	_
-4	př	před	ADP	_	Abbr=Yes	8	case	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
-6	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
-8	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
-10	připućowachu	připućować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	nomadźa	nomad	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
-12	ze	z	ADP	_	_	13	case	_	_
-13	sewjera	sewjer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
-14	do	do	ADP	_	_	16	case	_	_
-15	južneho	južny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	Mezopotamiskeje	Mezopotamiska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	_	_
-
-# sent_id = p379s2
-# text = Sumeriska lisćina kralow, kotraž tež wo lijeńcy powěda, dokumentuje tute pućowanja přez mjenowanje semitiskich mjenow.
-1	Sumeriska	sumeriski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	lisćina	lisćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
-3	kralow	kral	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	9	punct	_	_
-5	kotraž	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	_
-6	tež	tež	ADV	_	_	8	advmod:emph	_	_
-7	wo	wo	ADP	_	_	8	case	_	_
-8	lijeńcy	lijeńca	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
-9	powěda	powědać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	dokumentuje	dokumentować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	tute	tutón	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	13	det	_	_
-13	pućowanja	pućowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
-14	přez	přez	ADP	_	_	15	case	_	_
-15	mjenowanje	mjenowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
-16	semitiskich	semitiski	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	17	amod	_	_
-17	mjenow	mjeno	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	11	punct	_	_
-
-# sent_id = p379s3
-# text = Historikarjo mjenuja tutu dobu zažnodynastisku periodu, kotraž so w 23. lětstotku př. n. l. skónči.
-1	Historikarjo	historikar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-2	mjenuja	mjenować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	tutu	tutón	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
-4	dobu	doba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
-5	zažnodynastisku	zažnodynastiski	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	periodu	perioda	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	20	punct	_	_
-8	kotraž	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	_
-9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl	_	_
-10	w	w	ADP	_	_	13	case	_	_
-11	23	23	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-13	lětstotku	lětstotk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
-14	př	před	ADP	_	Abbr=Yes	18	case	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	_
-16	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	_
-18	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	18	punct	_	_
-20	skónči	skónčić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p384s1
-# text = Prěnje pisomne dopokazy w južnej Mezopotamiskej su w sumeriskej rěči spisane.
-1	Prěnje	prěni	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
-2	pisomne	pisomny	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
-3	dopokazy	dopokaz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
-4	w	w	ADP	_	_	6	case	_	_
-5	južnej	južny	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	Mezopotamiskej	Mezopotamiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
-7	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-8	w	w	ADP	_	_	10	case	_	_
-9	sumeriskej	sumeriski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-10	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
-11	spisane	spisany	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-
-# sent_id = p384s2
-# text = Někotři rěčespytnicy měnja, zo sumeriska rěč móhła z mongolšćinu, finšćinu, madźaršćinu abo z turkowšćinu přiwuzna być a wotwodźeja z toho připućowanje Sumeričanow do Mezopotamiskeje z wuchoda, měnjo, zo tam su korjenja tutych rěčow.
-1	Někotři	někotry	DET	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
-2	rěčespytnicy	rěčespytnik	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
-3	měnja	měnić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	_
-5	zo	zo	SCONJ	_	_	8	mark	_	_
-6	sumeriska	sumeriski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	rěč	rěč	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-8	móhła	móc	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	ccomp	_	_
-9	z	z	ADP	_	_	10	case	_	_
-10	mongolšćinu	mongolšćina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	finšćinu	finšćina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	madźaršćinu	madźaršćina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	conj	_	_
-15	abo	abo	CCONJ	_	_	17	cc	_	_
-16	z	z	ADP	_	_	17	case	_	_
-17	turkowšćinu	turkowšćina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	conj	_	_
-18	přiwuzna	přiwuzny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	xcomp	_	_
-19	być	być	AUX	_	VerbForm=Inf	18	cop	_	_
-20	a	a	CCONJ	_	_	21	cc	_	_
-21	wotwodźeja	wotwodźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-22	z	z	ADP	_	_	23	case	_	_
-23	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	_
-24	připućowanje	připućowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
-25	Sumeričanow	Sumeričan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
-26	do	do	ADP	_	_	27	case	_	_
-27	Mezopotamiskeje	Mezopotamiska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
-28	z	z	ADP	_	_	29	case	_	_
-29	wuchoda	wuchod	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	31	punct	_	_
-31	měnjo	měnić	VERB	_	Tense=Pres|VerbForm=Conv	21	advcl	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	35	punct	_	_
-33	zo	zo	SCONJ	_	_	35	mark	_	_
-34	tam	tam	ADV	_	PronType=Dem	35	advmod	_	_
-35	su	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	_
-36	korjenja	korjeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	_
-37	tutych	tutón	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	38	det	_	_
-38	rěčow	rěč	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p384s3
-# text = Njejsu žane archeologiske dokłady za tajke připućowanje.
-1	Njejsu	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	žane	žadyn	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Neg	4	det	_	_
-3	archeologiske	archeologiski	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-4	dokłady	dokład	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
-5	za	za	ADP	_	_	7	case	_	_
-6	tajke	tajki	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
-7	připućowanje	připućowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p384s4
-# text = Teorija, zo južna Mezopotamiska w neolitikumje hišće pod mórskej hładźinu ležeše, njeda so mjeztym wjace dźeržeć, chibazo přińdźe přez eroziju w sćěwku rólniskeho wužiwanja a přepasenja w Taurusu a Zagrosu k sylnemu nanjesenju pódy.
-1	Teorija	teorija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	12	punct	_	_
-3	zo	zo	SCONJ	_	_	12	mark	_	_
-4	južna	južny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	Mezopotamiska	Mezopotamiska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-6	w	w	ADP	_	_	7	case	_	_
-7	neolitikumje	neolitikum	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
-8	hišće	hišće	ADV	_	_	12	advmod	_	_
-9	pod	pod	ADP	_	_	11	case	_	_
-10	mórskej	mórski	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
-11	hładźinu	hładźina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	12	obl	_	_
-12	ležeše	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	_
-14	njeda	dać	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl	_	_
-16	mjeztym	mjeztym	ADV	_	_	14	advmod	_	_
-17	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	14	advmod	_	_
-18	dźeržeć	dźeržeć	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	21	punct	_	_
-20	chibazo	chibazo	SCONJ	_	_	21	mark	_	_
-21	přińdźe	přińć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
-22	přez	přez	ADP	_	_	23	case	_	_
-23	eroziju	erozija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
-24	w	w	ADP	_	_	25	case	_	_
-25	sćěwku	sćěwka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	_
-26	rólniskeho	rólniski	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
-27	wužiwanja	wužiwanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
-28	a	a	CCONJ	_	_	29	cc	_	_
-29	přepasenja	přepasenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	27	conj	_	_
-30	w	w	ADP	_	_	31	case	_	_
-31	Taurusu	Taurus	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	nmod	_	_
-32	a	a	CCONJ	_	_	33	cc	_	_
-33	Zagrosu	Zagros	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	conj	_	_
-34	k	k	ADP	_	_	36	case	_	_
-35	sylnemu	sylny	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
-36	nanjesenju	nanjesenje	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	21	obl	_	_
-37	pódy	póda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	14	punct	_	_
-
-# sent_id = p385s1
-# text = Móžnosće wobydlerstwa někajkeho stata, so z internetom zwjazać, wotwisuja wot stopjenja ekonomiskeho wuwića tutoho stata.
-1	Móžnosće	móžnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
-2	wobydlerstwa	wobydlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
-3	někajkeho	někajki	DET	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
-4	stata	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	obj	_	_
-7	z	z	ADP	_	_	8	case	_	_
-8	internetom	internet	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
-9	zwjazać	zwjazać	VERB	_	VerbForm=Inf	1	acl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	wotwisuja	wotwisować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	wot	wot	ADP	_	_	13	case	_	_
-13	stopjenja	stopjeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
-14	ekonomiskeho	ekonomiski	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
-15	wuwića	wuwiće	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
-16	tutoho	tutón	DET	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
-17	stata	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	11	punct	_	_
-
-# sent_id = p386s1
-# text = 6. lětstotk
-1	6	6	NUM	_	NumType=Card	3	nummod	_	SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	_
-3	lětstotk	lětstotk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-
-# sent_id = p386s2
-# text = W času ćahanja ludow wobsydla słowjanske kmjeny krajinu mjez Baltiskim morjom a srjedźnymi horinami, mjez rěkami Łobjom a Solawu na zapadźe a Wódru-Bobrom-Kwisu na wuchodźe.
-1	W	w	ADP	_	_	2	case	_	_
-2	času	čas	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
-3	ćahanja	ćahanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
-4	ludow	lud	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
-5	wobsydla	wobsydleć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	słowjanske	słowjanski	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
-7	kmjeny	kmjen	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-8	krajinu	krajina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-9	mjez	mjez	ADP	_	_	11	nmod	_	_
-10	Baltiskim	baltiski	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
-11	morjom	morjo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	_
-12	a	a	CCONJ	_	_	14	cc	_	_
-13	srjedźnymi	srjedźny	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	_
-14	horinami	horina	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
-16	mjez	mjez	ADP	_	_	18	case	_	_
-17	rěkami	rěka	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	18	nmod	_	_
-18	Łobjom	Łobjo	PROPN	_	Case=Ins|Gender=Neut|Number=Sing	11	conj	_	_
-19	a	a	CCONJ	_	_	20	cc	_	_
-20	Solawu	Solawa	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	18	conj	_	_
-21	na	na	ADP	_	_	22	case	_	_
-22	zapadźe	zapad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	nmod	_	_
-23	a	a	CCONJ	_	_	24	cc	_	_
-24	Wódru	Wódra	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
-25	-	-	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	Bobrom	Bobr	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	conj	_	SpaceAfter=No
-27	-	-	PUNCT	_	_	28	punct	_	SpaceAfter=No
-28	Kwisu	Kwisa	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	24	conj	_	_
-29	na	na	ADP	_	_	30	case	_	_
-30	wuchodźe	wuchod	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = p386s3
-# text = 631 Serbja so jako »Surbi« w chronice Fredegara prěni króć pisomnje mjenuja.
-1	631	631	NUM	_	NumType=Card	14	obl	_	_
-2	Serbja	Serb	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl	_	_
-4	jako	jako	SCONJ	_	_	6	mark	_	_
-5	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	Surbi	Surbi	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	acl	_	SpaceAfter=No
-7	«	«	PUNCT	_	_	6	punct	_	_
-8	w	w	ADP	_	_	9	case	_	_
-9	chronice	chronika	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
-10	Fredegara	Fredegar	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-11	prěni	prěni	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
-12	króć	króć	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
-13	pisomnje	pisomnje	ADV	_	Degree=Pos	14	advmod	_	_
-14	mjenuja	mjenować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	_
-
-# sent_id = p386s4
-# text = 932 Heinrich I. podćisnje serbskej kmjenaj Łužičanow a Milčanow.
-1	932	932	NUM	_	NumType=Card	5	obl	_	_
-2	Heinrich	Heinrich	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-3	I	I	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
-5	podćisnje	podćisnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	serbskej	serbski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Dual	7	amod	_	_
-7	kmjenaj	kmjen	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Dual	5	obj	_	_
-8	Łužičanow	Łužičan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
-9	a	a	CCONJ	_	_	10	cc	_	_
-10	Milčanow	Milčan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = p386s5
-# text = 939 Markhrabja Gero da na hosćinje třiceći połobskosłowjanskich wjerchow zabić.
-1	939	939	NUM	_	NumType=Card	4	obl	_	_
-2	Markhrabja	markhrabja	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
-3	Gero	Gero	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	da	dać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	na	na	ADP	_	_	6	case	_	_
-6	hosćinje	hosćina	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
-7	třiceći	třiceći	NUM	_	NumType=Card	9	advmod	_	_
-8	połobskosłowjanskich	połobskosłowjanski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	9	amod	_	_
-9	wjerchow	wjerch	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
-10	zabić	zabić	VERB	_	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p386s6
-# text = Po tym so mnoho słowjanskich kmjenow zběhnje.
-1	Po	po	ADP	_	_	2	case	_	_
-2	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
-4	mnoho	mnoho	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	6	det:numgov	_	_
-5	słowjanskich	słowjanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
-6	kmjenow	kmjen	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obj	_	_
-7	zběhnje	zběhnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = p386s7
-# text = 1018 W Budyskim měrje mjez Bolesławom Chrobrym a němskim kejžorom Heinrichom II. so teritorijej Łužičanow a Milčanow pólskemu wjerchej za leno přidźělitej (hač do lěta 1031). ...
-1	1018	1018	NUM	_	NumType=Card	23	obl	_	_
-2	W	w	ADP	_	_	4	case	_	_
-3	Budyskim	budyski	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	měrje	měra	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	_
-5	mjez	mjez	ADP	_	_	6	case	_	_
-6	Bolesławom	Bolesław	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
-7	Chrobrym	Chrobry	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat	_	_
-8	a	a	CCONJ	_	_	11	cc	_	_
-9	němskim	němski	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-10	kejžorom	kejžor	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	nmod	_	_
-11	Heinrichom	Heinrich	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	conj	_	_
-12	II	II	NUM	_	NumType=Card	11	nummod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	_
-14	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
-15	teritorijej	teritorij	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Dual	23	nsubj	_	_
-16	Łužičanow	Łužičan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
-17	a	a	CCONJ	_	_	18	cc	_	_
-18	Milčanow	Milčan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	conj	_	_
-19	pólskemu	pólski	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	wjerchej	wjerch	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	23	iobj	_	_
-21	za	za	ADP	_	_	22	case	_	_
-22	leno	leno	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obl	_	_
-23	přidźělitej	přidźělić	VERB	_	Animacy=Inan|Gender=Masc|Number=Dual|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-24	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
-25	hač	hač	SCONJ	_	_	27	advmod:emph	_	_
-26	do	do	ADP	_	_	27	case	_	_
-27	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
-28	1031	1031	NUM	_	NumType=Card	27	nummod	_	SpaceAfter=No
-29	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	23	punct	_	_
-31	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	23	punct	_	_
-
-# sent_id = p387s1
-# text = Stat je politiski konstrukt, kotryž wopřijmje zhromadny, wobmjezowany teritorij, k tomu słušacy statny lud (po staćanstwje) a realne wukonjenje mocy (statnu móc).
-1	Stat	stat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	politiski	politiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	konstrukt	konstrukt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	kotryž	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	wopřijmje	wopřijeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
-8	zhromadny	zhromadny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	wobmjezowany	wobmjezowany	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	conj	_	_
-11	teritorij	teritorij	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	17	punct	_	_
-13	k	k	ADP	_	_	14	case	_	_
-14	tomu	to	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	15	nmod	_	_
-15	słušacy	słušacy	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	amod	_	_
-16	statny	statny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
-17	lud	lud	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	conj	_	_
-18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-19	po	po	ADP	_	_	20	case	_	_
-20	staćanstwje	staćanstwo	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	20	punct	_	_
-22	a	a	CCONJ	_	_	24	cc	_	_
-23	realne	realny	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
-24	wukonjenje	wukonjenje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
-25	mocy	moc	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
-26	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
-27	statnu	statny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
-28	móc	móc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	24	appos	_	SpaceAfter=No
-29	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p387s2
-# text = Po formje knježerstwa rozeznawa so monarchistiske, autokratiske a demokratiske staty.
-1	Po	po	ADP	_	_	2	case	_	_
-2	formje	forma	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
-3	knježerstwa	knježerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
-4	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-6	monarchistiske	monarchistiski	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	autokratiske	autokratiski	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	_
-9	a	a	CCONJ	_	_	10	cc	_	_
-10	demokratiske	demokratiski	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	_
-11	staty	stat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	_
 
