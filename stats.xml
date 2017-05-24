@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>646</sentences><tokens>11196</tokens><words>11196</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="3057" /><!-- ., ,, a, być, w, so, z, na, ), (, -, ", tež, wot, kotryž -->
+  <forms unique="4333" /><!-- ., ,, a, w, so, na, ), z, (, je, -, ", tež, wot, su -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <tags unique="16">
+    <tag name="ADJ">1421</tag><!-- serbski, wulki, druhi, prěni, wažny, mjenowany, němski, horni, politiski, cyły -->
+    <tag name="ADP">1098</tag><!-- w, z, na, wot, za, do, k, přez, před, po -->
+    <tag name="ADV">537</tag><!-- tež, wjele, tak, hišće, zwjetša, něhdźe, hižo, tu, bórze, mnoho -->
+    <tag name="AUX">288</tag><!-- być, posłužić -->
+    <tag name="CCONJ">415</tag><!-- a, abo, ale, pak, wšak, tola, et, ani -->
+    <tag name="DET">310</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, tón, kóždy -->
+    <tag name="NOUN">2539</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
+    <tag name="NUM">377</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
+    <tag name="PART">25</tag><!-- jenož, nic, hakle, da -->
+    <tag name="PRON">340</tag><!-- so, to, wón, kiž, štož, ja, něšto, ty, ništo, wšitko -->
+    <tag name="PROPN">595</tag><!-- Mezopotamiska, Babylon, Assyriska, Wikipedija, Němska, Łužica, Aššur, Budyšin, Serb, Europa -->
+    <tag name="PUNCT">2019</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
+    <tag name="SCONJ">166</tag><!-- jako, hač, zo, kaž, dokelž, jeli, hdyž, doniž, li, chibazo -->
+    <tag name="SYM">42</tag><!-- °, km, %, ', *, ², ³, †, :, = -->
+    <tag name="VERB">823</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
+    <tag name="X">201</tag><!-- a, i, vitis, al, backen, o, apg, au, b, c -->
+  </tags>
+  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <feats unique="56">
+    <feat name="Abbr" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">192</feat><!-- př, n, l, km, t, mj, III, Mio, m, APG -->
+    <feat name="AdvType" value="Mod" upos="ADV">4</feat><!-- móžno -->
+    <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">350</feat><!-- Sumeričanow, krala, kralow, wobydlerjow, wužiwar, wužiwarjo, Hammurabi, Assyričenjo, Jakub, kotřiž -->
+    <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1350</feat><!-- př, kotrež, kilometrow, nastawki, institut, kraja, lěttysaca, tutón, čas, stat -->
+    <feat name="Animacy" value="Nhum" upos="ADJ,NOUN,PRON">18</feat><!-- žiwochow, wjelk, cycakach, cycakow, jednobańkowcach, jednobańkowcy, jeho, konje, kotřiž, měchawcach -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1050</feat><!-- so, př, rěč, swoje, to, nastawki, je, swoju, wobrazy, wulku -->
+    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN">128</feat><!-- sej, tomu, akademiji, dispoziciji, nam, němskej, rostlinam, wotrjadam, Delnjej, Ešarrje -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1082</feat><!-- toho, rěčow, lěta, Mezopotamiskeje, kilometrow, wody, kraja, lěttysaca, lět, časa -->
+    <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">309</feat><!-- l, n, tym, pomocu, swojimi, Babylonom, Eufratom, Iranom, Solawu, Wódru -->
+    <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">606</feat><!-- lěće, tym, času, rěči, zemi, Europje, běhu, dobje, formje, lětstotku -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1929</feat><!-- kotrež, město, woda, to, stolica, kotraž, kotryž, rostliny, tute, tutón -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">50</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">647</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">42</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1870</feat><!-- l, n, rěč, woda, rěčow, stolica, kotraž, kotrež, Mezopotamiskeje, rostliny -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2180</feat><!-- př, kotrež, kotryž, kilometrow, nastawki, tutón, wón, institut, kraja, lěttysaca -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">881</feat><!-- to, toho, město, tym, lěta, lěće, mócnarstwo, pismo, słowo, lět -->
+    <feat name="Gender[psor]" value="Fem" upos="DET">4</feat><!-- jeje -->
+    <feat name="Gender[psor]" value="Masc,Neut" upos="DET">14</feat><!-- jeho -->
+    <feat name="Hyph" value="Yes" upos="ADJ">11</feat><!-- němsko, Awstro, Tibeto, dołho, duchowno, hornjo, krótko, politisko, syrisko, zapado -->
+    <feat name="Mood" value="Cnd" upos="AUX">10</feat><!-- by, bychu -->
+    <feat name="Mood" value="Imp" upos="VERB">13</feat><!-- hlej, Pomhaj, wobroćće, wotstroń, wužiwaj -->
+    <feat name="Mood" value="Ind" upos="AUX,NOUN,VERB">906</feat><!-- je, su, bu, bě, ma, buchu, běchu, leži, móže, njeje -->
+    <feat name="Number" value="Dual" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">78</feat><!-- dwaj, buštej, dwěmaj, stej, běštej, měsacaj, rěkomaj, Łužicomaj, Kralej, Wobě -->
+    <feat name="Number" value="Plur" upos="ADJ,ADV,AUX,DET,NOUN,PRON,PROPN,VERB">1833</feat><!-- su, kotrež, rěčow, buchu, běchu, kilometrow, nastawki, rostliny, tute, lět -->
+    <feat name="Number" value="Ptan" upos="NOUN,PROPN">8</feat><!-- Drježdźanach, Drježdźany, Mułkecy, Wikach, droždźemi, duri, hody, wiki -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3986</feat><!-- je, l, n, bu, bě, to, ma, př, toho, město -->
+    <feat name="Number[psor]" value="Dual" upos="DET">1</feat><!-- jeju -->
+    <feat name="Number[psor]" value="Plur" upos="DET">56</feat><!-- n, jich, Naš, Wašu, naša, našej, našim -->
+    <feat name="Number[psor]" value="Sing" upos="DET">20</feat><!-- jeho, jeje, twojim -->
+    <feat name="NumType" value="Card" upos="ADV,DET,NOUN,NUM">424</feat><!-- wjele, 2, 1, 6, wjace, 4, 3, jedyn, 5, 7 -->
+    <feat name="NumType" value="Mult" upos="ADJ">2</feat><!-- dwójnu, trójnu -->
+    <feat name="NumType" value="Ord" upos="ADJ">50</feat><!-- prěni, prěnje, druhe, druhich, Třećeho, druhi, druhej, 50tych, Druheje, Druhu -->
+    <feat name="Person" value="1" upos="DET,PRON,VERB">53</feat><!-- n, prošu, Naš, móžemy, nam, trjebamy, Njewěm, naša, našej, našim -->
+    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">43</feat><!-- móžeš, hlej, namakaš, Pomhaj, móžeće, sy, twojim, ty, Wašu, chceće -->
+    <feat name="Person" value="3" upos="AUX,DET,NOUN,PRON,VERB">966</feat><!-- je, su, bu, bě, ma, jeho, jich, buchu, njeje, běchu -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,PART,VERB">71</feat><!-- nic, njeje, njejsu, njesłuša, njesu, Njewědźeše, Njewěm, njebuchu, njeběchu, njeda -->
+    <feat name="Poss" value="Yes" upos="DET">106</feat><!-- n, jeho, jich, swoje, swoju, jeje, swojich, swojimi, swój, Naš -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">204</feat><!-- to, tak, toho, tym, tute, tu, tutón, potom, tam, tuta -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">83</feat><!-- wjele, něhdźe, wjace, druhdy, někotrych, někotre, mjenje, někotři, tróšku, mnoho -->
+    <feat name="PronType" value="Int,Rel" upos="ADV">5</feat><!-- kak -->
+    <feat name="PronType" value="Neg" upos="ADV,DET,PRON">10</feat><!-- žane, žadyn, nihdźe, ničo, žana, žanu -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">362</feat><!-- so, n, jeho, jich, wona, wón, swoje, je, swoju, jeje -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">87</feat><!-- kotrež, kotryž, kotraž, kiž, kotrychž, kotrejž, čimž, kotrymž, kotřiž, štož -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">29</feat><!-- wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, woběmaj, wšeho, wšemu -->
+    <feat name="Reflex" value="Yes" upos="DET,PRON">228</feat><!-- so, swoje, swoju, swojich, sej, swojimi, swój, sobu, swojej, sebi -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">6</feat><!-- budźe, budu -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">333</feat><!-- bu, bě, buchu, běchu, móžachu, wužiwachu, buštej, mjenowachu, měješe, naby -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,NOUN,VERB">657</feat><!-- je, su, ma, leži, móže, njeje, wobsahuje, móžeš, njejsu, maja -->
+    <feat name="VerbForm" value="Conv" upos="VERB">6</feat><!-- dajo, měnjo, prajo, wobsahujo, wothladajo, zjednoćejo -->
+    <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">928</feat><!-- je, su, bu, bě, ma, buchu, běchu, leži, móže, njeje -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">125</feat><!-- nastać, měć, pisać, přełožować, wobkedźbować, čitać, być, dać, definować, dopokazać -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">243</feat><!-- mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přewzali -->
+    <feat name="VerbType" value="Mod" upos="VERB">48</feat><!-- móže, móžeš, dyrbi, móžachu, ma, móža, móžeja, móžemy, móžeće, chce -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,VERB">77</feat><!-- přewzali, přiběracu, wušłe, wužiwali, započał, změnili, Bywša, Přiběrace, Rozrostowace, Slědowace -->
+    <feat name="Voice" value="Pass" upos="ADJ,AUX,VERB">208</feat><!-- bu, buchu, buštej, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="41">
+    <dep name="acl">126</dep>
+    <dep name="advcl">73</dep>
+    <dep name="advmod">377</dep>
+    <dep name="advmod:emph">121</dep>
+    <dep name="amod">1162</dep>
+    <dep name="appos">159</dep>
+    <dep name="aux">47</dep>
+    <dep name="aux:pass">1</dep>
+    <dep name="case">1086</dep>
+    <dep name="cc">450</dep>
+    <dep name="ccomp">16</dep>
+    <dep name="compound">52</dep>
+    <dep name="conj">683</dep>
+    <dep name="cop">242</dep>
+    <dep name="csubj">11</dep>
+    <dep name="dep">6</dep>
+    <dep name="det">218</dep>
+    <dep name="det:numgov">17</dep>
+    <dep name="discourse">1</dep>
+    <dep name="expl">78</dep>
+    <dep name="expl:pass">99</dep>
+    <dep name="fixed">97</dep>
+    <dep name="flat">137</dep>
+    <dep name="flat:foreign">2</dep>
+    <dep name="goeswith">2</dep>
+    <dep name="goeswith:alt">1</dep>
+    <dep name="iobj">14</dep>
+    <dep name="list">22</dep>
+    <dep name="mark">111</dep>
+    <dep name="nmod">1042</dep>
+    <dep name="nsubj">732</dep>
+    <dep name="nsubj:pass">1</dep>
+    <dep name="nummod">195</dep>
+    <dep name="nummod:gov">63</dep>
+    <dep name="obj">367</dep>
+    <dep name="obl">556</dep>
+    <dep name="orphan">12</dep>
+    <dep name="parataxis">59</dep>
+    <dep name="punct">2019</dep>
+    <dep name="root">646</dep>
+    <dep name="xcomp">93</dep>
+  </deps>
+</treebank>
