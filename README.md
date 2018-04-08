@@ -12,6 +12,13 @@ Dan Zeman; lemmatization by Anna Nedoluzhko.
 Sentences in the W2C corpus are shuffled.
 
 
+# Changelog
+
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Upper_Sorbian to UD_Upper_Sorbian-UFAL.
+
+
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.1
 License: CC BY-SA 4.0
@@ -26,3 +33,4 @@ Contributors: Zeman, Daniel; Nedoluzhko, Anna
 Contributing: here
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
+</pre>
