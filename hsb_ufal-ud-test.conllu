@@ -1457,7 +1457,7 @@
 7	1	1	NUM	_	NumType=Card	10	compound	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	SpaceAfter=No
 9	2	2	NUM	_	NumType=Card	7	compound	_	_
-10	miliardow	miliarda	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nummod	_	_
+10	miliardow	miliarda	NUM	_	Case=Gen|Gender=Fem|Number=Plur	11	nummod	_	_
 11	wobydlerjemi	wobydler	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	nmod	_	_
 12	druhi	druhi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 13	najwjetši	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	14	amod	_	_
@@ -1479,7 +1479,7 @@
 
 # sent_id = p34s2
 # text = Wjele starobabylonskich sydlišćow bu rozpušćeno.
-1	Wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
+1	Wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
 2	starobabylonskich	starobabylonski	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	3	amod	_	_
 3	sydlišćow	sydlišće	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	nsubj	_	_
 4	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
@@ -1661,7 +1661,7 @@
 30	konferencu	konferenca	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	_
 32	na	na	ADP	_	_	33	case	_	_
-33	kotrejž	kotryž	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	34	advmod	_	_
+33	kotrejž	kotryž	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	34	obl	_	_
 34	wobdźěli	wobdźělić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	_
 35	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	34	expl:pv	_	_
 36	16	16	NUM	_	NumType=Card	37	nummod:gov	_	_
@@ -1816,7 +1816,7 @@
 # text = Hodźi so jenakorazny, zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować, dokelž su so wšelake zwukowe přesunjenja stali.
 1	Hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
-3	jenakorazny	jenakorazny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	advmod	_	SpaceAfter=No
+3	jenakorazny	jenakorazny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	zwjetša	zwjetša	ADV	_	_	7	advmod	_	_
 6	nic	nic	PART	_	Polarity=Neg	7	advmod	_	_
@@ -2281,7 +2281,7 @@
 # text = Kraj podleži hač do 1960 francoskemu kolonialnemu knjejstwu.
 1	Kraj	kraj	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	podleži	podležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	hač	hač	SCONJ	_	_	5	advmod:emph	_	_
+3	hač	hač	ADV	_	_	5	advmod:emph	_	_
 4	do	do	ADP	_	_	5	case	_	_
 5	1960	1960	NUM	_	NumType=Card	2	obl	_	_
 6	francoskemu	francoski	ADJ	_	Case=Dat|Gender=Neut|Number=Sing	8	amod	_	_
@@ -2294,7 +2294,7 @@
 1	Ze	z	ADP	_	_	2	case	_	_
 2	spočatka	spočatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
 3	njewotwisnosće	njewotwisnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	hač	hač	SCONJ	_	_	6	advmod:emph	_	_
+4	hač	hač	ADV	_	_	6	advmod:emph	_	_
 5	do	do	ADP	_	_	6	case	_	_
 6	1984	1984	NUM	_	NumType=Card	7	obl	_	_
 7	mjenowaše	mjenować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -3314,7 +3314,7 @@
 7	wobstatkami	wobstatk	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	11	obl	_	_
 8	biblioteki	biblioteka	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obj	_	_
 9	swědomiće	swědomiće	ADV	_	Degree=Pos	11	advmod	_	_
-10	a	a	CCONJ	_	_	11	advmod:emph	_	_
+10	a	a	CCONJ	_	_	11	cc	_	_
 11	wobchadźeć	wobchadźeć	VERB	_	VerbForm=Inf	5	conj	_	_
 12	a	a	CCONJ	_	_	13	cc	_	_
 13	njesmě	směć	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -3715,8 +3715,8 @@
 1	Zwostanje	zwostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	potajkim	potajkim	ADV	_	PronType=Dem	1	advmod	_	_
 3	hišće	hišće	ADV	_	_	1	advmod	_	_
-4	tójšto	tójšto	DET	_	NumType=Card|PronType=Dem	5	nummod:gov	_	_
-5	dźěła	dźěło	NOUN	_	Number=Sing	1	nsubj	_	SpaceAfter=No
+4	tójšto	tójšto	DET	_	NumType=Card|PronType=Dem	5	det:numgov	_	_
+5	dźěła	dźěło	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = p91s5
@@ -3785,7 +3785,7 @@
 12	,	,	PUNCT	_	_	18	punct	_	_
 13	n	na	ADP	_	Abbr=Yes	18	advmod:emph	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
-15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 17	w	w	ADP	_	_	18	case	_	_
 18	Nižozemskej	Nižozemska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	3	appos	_	_
@@ -3911,7 +3911,7 @@
 11	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 12	tohodla	tohodla	ADV	_	PronType=Dem	10	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	zdźěla	zdźěla	NOUN	_	_	17	advmod:emph	_	_
+14	zdźěla	zdźěla	ADV	_	_	17	advmod:emph	_	_
 15	pola	pola	ADP	_	_	17	case	_	_
 16	samsnych	samsny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	17	amod	_	_
 17	werbow	werb	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	obl	_	SpaceAfter=No
@@ -4583,7 +4583,7 @@
 6	w	w	ADP	_	_	7	case	_	_
 7	Assyriskej	Assyriska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
 8	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	9	advmod	_	_
-9	mjenje	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	10	det:numgov	_	_
+9	mjenje	mało	DET	_	Degree=Cmp|NumType=Card|PronType=Ind	10	det:numgov	_	_
 10	wliwa	wliw	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obj	_	_
 11	na	na	ADP	_	_	12	case	_	_
 12	hospodarstwo	hospodarstwo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
@@ -4861,7 +4861,7 @@
 12	cyle	cyle	ADV	_	Degree=Pos	18	advmod:emph	_	_
 13	w	w	ADP	_	_	18	case	_	_
 14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	hornjo	horni	ADJ	_	Hyph=Yes	17	advmod	_	SpaceAfter=No
+15	hornjo	horni	ADJ	_	Hyph=Yes	17	compound	_	SpaceAfter=No
 16	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
 17	serbskej	serbski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	18	amod	_	_
 18	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
@@ -5090,7 +5090,7 @@
 2	serbšćina	serbšćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
 3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 4	jenički	jenički	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-5	hač	hač	SCONJ	_	_	7	advmod:emph	_	_
+5	hač	hač	ADV	_	_	7	advmod:emph	_	_
 6	do	do	ADP	_	_	7	case	_	_
 7	dźensnišeho	dźensniši	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
 8	zachowany	zachowany	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	amod	_	_
@@ -5217,7 +5217,7 @@
 13	1	1	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	3	3	NUM	_	NumType=Card	13	compound	_	_
-16	Mio	milion	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	19	nummod:gov	_	SpaceAfter=No
+16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	19	nummod:gov	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 18	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	19	amod	_	_
 19	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
@@ -5229,7 +5229,7 @@
 25	wot	wot	ADP	_	_	31	case	_	_
 26	něhdźe	něhdźe	ADV	_	PronType=Ind	31	advmod:emph	_	_
 27	70	70	NUM	_	NumType=Card	28	compound	_	_
-28	Mio	milion	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	31	nummod:gov	_	SpaceAfter=No
+28	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	31	nummod:gov	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	28	punct	_	_
 30	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	31	amod	_	_
 31	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
@@ -5253,7 +5253,7 @@
 13	14	14	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	9	9	NUM	_	NumType=Card	13	compound	_	_
-16	Mio	milion	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod:gov	_	SpaceAfter=No
+16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod:gov	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 18	čłowjekow	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	_
 19	na	na	ADP	_	_	20	case	_	_
@@ -6033,7 +6033,7 @@
 1	W	w	ADP	_	_	2	case	_	_
 2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
 3	2006	2006	NUM	_	NumType=Card	2	nummod	_	_
-4	bu	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
+4	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
 5	wunamakował	wunamakować	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	nowy	nowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
 7	šleski	šleski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
@@ -6376,7 +6376,7 @@
 # newpar id = p148
 # sent_id = p148s1
 # text = Hač do 8700 př. n. l. móžemy architektoniski pokrok wobkedźbować.
-1	Hač	hač	SCONJ	_	_	3	advmod:emph	_	_
+1	Hač	hač	ADV	_	_	3	advmod:emph	_	_
 2	do	do	ADP	_	_	3	case	_	_
 3	8700	8700	NUM	_	NumType=Card	10	obl	_	_
 4	př	před	ADP	_	Abbr=Yes	8	case	_	SpaceAfter=No
@@ -6399,7 +6399,7 @@
 4	přeměnjachu	přeměnjeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 6	do	do	ADP	_	_	8	case	_	_
-7	róžkatych	róžkaty	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	8	case	_	_
+7	róžkatych	róžkaty	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	8	amod	_	_
 8	domow	dom	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	16	punct	_	_
 10	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	_	_
@@ -6747,7 +6747,7 @@
 3	synchronizmow	synchronizm	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 4	hodźi	hodźić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-6	najwjace	wjele	ADV	_	Degree=Sup|NumType=Card|PronType=Ind	8	det:numgov	_	_
+6	najwjace	wjele	DET	_	Degree=Sup|NumType=Card|PronType=Ind	8	det:numgov	_	_
 7	babylonskich	babylonski	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	8	amod	_	_
 8	kralow	kral	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	_
 9	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -6776,7 +6776,7 @@
 8	wažnym	wažny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	9	amod	_	_
 9	podawkom	podawk	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 10	)	)	PUNCT	_	_	9	punct	_	_
-11	hač	hač	SCONJ	_	_	13	advmod:emph	_	_
+11	hač	hač	ADV	_	_	13	advmod:emph	_	_
 12	do	do	ADP	_	_	13	case	_	_
 13	časa	čas	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
 14	knjejstwa	knjejstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
@@ -7256,7 +7256,7 @@
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	a	a	CCONJ	_	_	8	cc	_	_
 8	rozpušćuje	rozpušćić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-9	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	10	det:numgov	_	_
+9	wjace	wjele	DET	_	Degree=Cmp|NumType=Card|PronType=Ind	10	det:numgov	_	_
 10	družinow	družina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	obj	_	_
 11	substancow	substanca	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
@@ -7529,7 +7529,7 @@
 18	za	za	ADP	_	_	20	case	_	_
 19	ličenske	ličenski	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	amod	_	_
 20	nadawki	nadawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	_
-21	wšědneho	wšědny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	22	advmod	_	_
+21	wšědneho	wšědny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	22	amod	_	_
 22	dnja	dni	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -7572,7 +7572,7 @@
 # sent_id = p187s5
 # text = Dokelž wjele ludźi njemóžeše pisać, wužiwachu za swoje zaměry słužby pisarjow.
 1	Dokelž	dokelž	SCONJ	_	_	4	mark	_	_
-2	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
+2	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
 3	ludźi	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	_
 4	njemóžeše	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbType=Mod	7	advcl	_	_
 5	pisać	pisać	VERB	_	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
@@ -7712,7 +7712,7 @@
 7	Corsica	Corsica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 8	)	)	PUNCT	_	_	4	punct	_	_
 9	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-10	štwórta	štwórty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	12	advmod	_	_
+10	štwórta	štwórty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
 11	najwjetša	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
 12	kupa	kupa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 13	Srjedźneho	srjedźny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	14	amod	_	_
@@ -8405,7 +8405,7 @@
 1	Sumeriska	sumeriski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
 2	rěč	rěč	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	wosta	wostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	hač	hač	SCONJ	_	_	6	advmod:emph	_	_
+4	hač	hač	ADV	_	_	6	advmod:emph	_	_
 5	k	k	ADP	_	_	6	case	_	_
 6	přewrótej	přewrót	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
 7	časow	čas	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
@@ -8531,7 +8531,7 @@
 # newpar id = p216
 # sent_id = p216s1
 # text = Wjele maćiznow so móže we wodźe rozpušćeć, při tym rozpušćomnosć wotwisuje wot maćizny a temperatury.
-1	Wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	2	det:numgov	_	_
+1	Wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	2	det:numgov	_	_
 2	maćiznow	maćizna	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
 3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	_
 4	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
@@ -9166,7 +9166,7 @@
 2	rozpadny	rozpadnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	region	region	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	do	do	ADP	_	_	7	case	_	_
-5	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	7	det:numgov	_	_
+5	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	7	det:numgov	_	_
 6	měšćanskich	měšćanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
 7	statow	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
@@ -9588,7 +9588,7 @@
 # text = Poda nam wjele rozsudźenjow jednotliwych padow, kotrež so často přez wulku krutosć wuznamjenjachu.
 1	Poda	podać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	nam	ja	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	_
-3	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	4	det:numgov	_	_
+3	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	4	det:numgov	_	_
 4	rozsudźenjow	rozsudźenje	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	1	obj	_	_
 5	jednotliwych	jednotliwy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
 6	padow	pad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
@@ -9640,7 +9640,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	tworjenja	tworjenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	conj	_	_
 19	formow	forma	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
-20	hač	hač	SCONJ	_	_	22	advmod:emph	_	_
+20	hač	hač	ADV	_	_	22	advmod:emph	_	_
 21	k	k	ADP	_	_	22	case	_	_
 22	pokiwam	pokiw	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	13	nmod	_	_
 23	za	za	ADP	_	_	24	case	_	_
@@ -9797,7 +9797,7 @@
 31	wužiwaja	wužiwać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 32	Esperanto	Esperanto	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	31	obj	_	_
 33	we	w	ADP	_	_	36	case	_	_
-34	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	36	det:numgov	_	_
+34	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	36	det:numgov	_	_
 35	žiwjenskich	žiwjenski	ADJ	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	36	amod	_	_
 36	wokruhach	wokruh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	7	punct	_	_
@@ -9837,7 +9837,7 @@
 # text = Karnataka (Kannada: ಕರ್ನಾಟಕ) je wot lěta 1956 zwjazkowy stat w juhu Indiskeje.
 1	Karnataka	Karnataka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 2	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-3	Kannada	Kannada	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	advmod	_	SpaceAfter=No
+3	Kannada	Kannada	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	5	punct	_	_
 5	ಕರ್ನಾಟಕ	ಕರ್ನಾಟಕ	X	_	_	1	appos	_	SpaceAfter=No
 6	)	)	PUNCT	_	_	5	punct	_	_
@@ -9869,9 +9869,9 @@
 13	²	²	SYM	_	_	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	potajkim	potajkim	ADV	_	PronType=Dem	19	cc	_	_
-16	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	19	nummod	_	_
+16	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	18	advmod	_	_
 17	hač	hač	SCONJ	_	_	16	fixed	_	_
-18	300	300	NUM	_	NumType=Card	16	conj	_	_
+18	300	300	NUM	_	NumType=Card	19	nummod:gov	_	_
 19	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
 20	na	na	ADP	_	_	22	case	_	_
 21	kwadratnym	kwadratny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
@@ -9928,7 +9928,7 @@
 28	%	%	SYM	_	_	23	appos	_	SpaceAfter=No
 29	)	)	PUNCT	_	_	28	punct	_	_
 30	a	a	CCONJ	_	_	33	cc	_	_
-31	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	33	det:numgov	_	_
+31	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	33	det:numgov	_	_
 32	druhich	druhi	ADJ	_	Case=Gen|Gender=Fem|Number=Plur|NumType=Ord	33	amod	_	_
 33	rěčow	rěč	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	15	conj	_	_
 34	rěči	rěčeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
@@ -9968,7 +9968,7 @@
 5	mócnarstwo	mócnarstwo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	zjednoćejo	zjednoćeć	VERB	_	Tense=Pres|VerbForm=Conv	1	advcl	_	_
-8	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	10	det:numgov	_	_
+8	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	10	det:numgov	_	_
 9	měšćanskich	měšćanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
 10	statow	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
@@ -10214,7 +10214,7 @@
 5	wot	wot	ADP	_	_	7	case	_	_
 6	Baltiskeho	baltiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	7	amod	_	_
 7	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	_
-8	hač	hač	SCONJ	_	_	11	advmod:emph	_	_
+8	hač	hač	ADV	_	_	11	advmod:emph	_	_
 9	k	k	ADP	_	_	11	case	_	_
 10	Indusowej	indusowy	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	11	amod	_	_
 11	delće	delta	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
@@ -10519,7 +10519,7 @@
 # sent_id = p291s1
 # text = Za wjele žiwochow kislik je njeparujomny za jich dychanje.
 1	Za	za	ADP	_	_	3	case	_	_
-2	wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
+2	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
 3	žiwochow	žiwoch	NOUN	_	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
 4	kislik	kislik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -10877,7 +10877,7 @@
 14	swoju	swój	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	_
 15	etnisku	etniski	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
 16	swojoraznosć	swojoraznosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
-17	hač	hač	SCONJ	_	_	19	advmod:emph	_	_
+17	hač	hač	ADV	_	_	19	advmod:emph	_	_
 18	do	do	ADP	_	_	19	case	_	_
 19	přitomnosće	přitomnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
 20	wobchować	wobchować	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
@@ -11044,7 +11044,7 @@
 3	widźeć	widźeć	VERB	_	VerbForm=Inf	2	xcomp	_	_
 4	tute	tutón	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
 5	hdyž	hdyž	SCONJ	_	_	9	mark	_	_
-6	tróšku	tróšku	ADV	_	NumType=Card|PronType=Ind	7	det:numgov	_	_
+6	tróšku	tróšku	DET	_	NumType=Card|PronType=Ind	7	det:numgov	_	_
 7	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	_
 8	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	kapana	kapany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	advcl	_	_
@@ -11657,7 +11657,7 @@
 3	móžeja	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 5	hromadu	hromadu	ADV	_	_	18	advmod	_	_
-6	ale	ale	CCONJ	_	_	8	advmod:emph	_	_
+6	ale	ale	CCONJ	_	_	8	cc	_	_
 7	w	w	ADP	_	_	8	case	_	_
 8	wobłuku	wobłuk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
 9	korjenjow	korjeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
@@ -11863,7 +11863,7 @@
 31	mócnarstwo	mócnarstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	19	conj	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	49	punct	_	_
 33	prjedy	prjedy	ADV	_	Degree=Pos	49	advmod	_	_
-34	hač	hač	SCONJ	_	_	36	advmod:emph	_	_
+34	hač	hač	ADV	_	_	36	advmod:emph	_	_
 35	wot	wot	ADP	_	_	36	case	_	_
 36	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	49	obl	_	_
 37	539	539	NUM	_	NumType=Card	36	nummod	_	_
@@ -12362,7 +12362,7 @@
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	17	det	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
-17	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	10	nummod	_	SpaceAfter=No
+17	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
 20	)	)	PUNCT	_	_	10	punct	_	_
@@ -12387,7 +12387,7 @@
 39	assyriski	assyriski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
 40	mócnarski	mócnarski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
 41	wobwod	wobwod	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	38	obj	_	_
-42	hač	hač	SCONJ	_	_	44	advmod:emph	_	_
+42	hač	hač	ADV	_	_	44	advmod:emph	_	_
 43	do	do	ADP	_	_	44	case	_	_
 44	Syriskeje	Syriska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	38	obl	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	38	punct	_	_
