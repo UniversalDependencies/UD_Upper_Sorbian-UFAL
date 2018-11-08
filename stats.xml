@@ -14,12 +14,12 @@
   <tags unique="16">
     <tag name="ADJ">1421</tag><!-- serbski, wulki, druhi, prěni, wažny, mjenowany, němski, horni, politiski, cyły -->
     <tag name="ADP">1098</tag><!-- w, z, na, wot, za, do, k, přez, před, po -->
-    <tag name="ADV">539</tag><!-- tež, wjele, tak, hišće, zwjetša, něhdźe, hižo, tu, bórze, mnoho -->
+    <tag name="ADV">536</tag><!-- tež, wjele, tak, hišće, zwjetša, něhdźe, hižo, tu, bórze, mnoho -->
     <tag name="AUX">289</tag><!-- być, posłužić -->
     <tag name="CCONJ">422</tag><!-- a, abo, ale, hač, pak, wšak, tola, et, ani -->
-    <tag name="DET">311</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, tón, kóždy -->
+    <tag name="DET">313</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, tón, kóždy -->
     <tag name="NOUN">2548</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
-    <tag name="NUM">377</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
+    <tag name="NUM">378</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
     <tag name="PART">24</tag><!-- jenož, nic, hakle -->
     <tag name="PRON">338</tag><!-- so, to, wón, kiž, štož, ja, něšto, ty, ništo, wšitko -->
     <tag name="PROPN">596</tag><!-- Mezopotamiska, Babylon, Assyriska, Wikipedija, Němska, Łužica, Aššur, Budyšin, Serb, Europa -->
@@ -43,7 +43,7 @@
     <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">606</feat><!-- lěće, tym, času, rěči, zemi, Europje, běhu, dobje, formje, lětstotku -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1927</feat><!-- kotrež, město, woda, to, stolica, kotraž, kotryž, rostliny, tute, tutón -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">50</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">647</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">647</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">42</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
     <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1870</feat><!-- l, n, rěč, woda, rěčow, stolica, kotraž, kotrež, Mezopotamiskeje, rostliny -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2180</feat><!-- př, kotrež, kotryž, kilometrow, nastawki, tutón, wón, institut, kraja, lěttysaca -->
@@ -75,7 +75,7 @@
     <feat name="PronType" value="Neg" upos="ADV,DET,PRON">10</feat><!-- žane, žadyn, nihdźe, ničo, žana, žanu -->
     <feat name="PronType" value="Prs" upos="DET,PRON">362</feat><!-- so, n, jeho, jich, wona, wón, swoje, je, swoju, jeje -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">87</feat><!-- kotrež, kotryž, kotraž, kiž, kotrychž, kotrejž, čimž, kotrymž, kotřiž, štož -->
-    <feat name="PronType" value="Tot" upos="DET,PRON">29</feat><!-- wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, woběmaj, wšeho, wšemu -->
+    <feat name="PronType" value="Tot" upos="DET,NUM,PRON">29</feat><!-- wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, woběmaj, wšeho, wšemu -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">228</feat><!-- so, swoje, swoju, swojich, sej, swojimi, swój, sobu, swojej, sebi -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">6</feat><!-- budźe, budu -->
     <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">333</feat><!-- bu, bě, buchu, běchu, móžachu, wužiwachu, buštej, mjenowachu, měješe, naby -->
@@ -107,7 +107,7 @@
     <dep name="csubj">10</dep>
     <dep name="dep">6</dep>
     <dep name="det">218</dep>
-    <dep name="det:numgov">17</dep>
+    <dep name="det:numgov">18</dep>
     <dep name="discourse">1</dep>
     <dep name="expl:pass">99</dep>
     <dep name="expl:pv">79</dep>
@@ -122,7 +122,7 @@
     <dep name="nmod">1048</dep>
     <dep name="nsubj">728</dep>
     <dep name="nsubj:pass">2</dep>
-    <dep name="nummod">195</dep>
+    <dep name="nummod">194</dep>
     <dep name="nummod:gov">64</dep>
     <dep name="obj">367</dep>
     <dep name="obl">556</dep>
