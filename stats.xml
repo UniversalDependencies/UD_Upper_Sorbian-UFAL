@@ -14,19 +14,19 @@
   <tags unique="16">
     <tag name="ADJ">1421</tag><!-- serbski, wulki, druhi, prěni, wažny, mjenowany, němski, horni, politiski, cyły -->
     <tag name="ADP">1098</tag><!-- w, z, na, wot, za, do, k, přez, před, po -->
-    <tag name="ADV">536</tag><!-- tež, wjele, tak, hišće, zwjetša, něhdźe, hižo, tu, bórze, mnoho -->
-    <tag name="AUX">289</tag><!-- być, posłužić -->
+    <tag name="ADV">535</tag><!-- tež, tak, hišće, zwjetša, wjele, hač, něhdźe, hižo, tu, bórze -->
+    <tag name="AUX">290</tag><!-- być, posłužić -->
     <tag name="CCONJ">422</tag><!-- a, abo, ale, hač, pak, wšak, tola, et, ani -->
-    <tag name="DET">313</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, tón, kóždy -->
-    <tag name="NOUN">2548</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
-    <tag name="NUM">378</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
+    <tag name="DET">327</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, wjele, tón -->
+    <tag name="NOUN">2543</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
+    <tag name="NUM">382</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
     <tag name="PART">24</tag><!-- jenož, nic, hakle -->
     <tag name="PRON">338</tag><!-- so, to, wón, kiž, štož, ja, něšto, ty, ništo, wšitko -->
     <tag name="PROPN">596</tag><!-- Mezopotamiska, Babylon, Assyriska, Wikipedija, Němska, Łužica, Aššur, Budyšin, Serb, Europa -->
     <tag name="PUNCT">2021</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
-    <tag name="SCONJ">159</tag><!-- jako, zo, hač, kaž, dokelž, jeli, hdyž, doniž, li, chibazo -->
+    <tag name="SCONJ">147</tag><!-- jako, zo, kaž, hač, dokelž, jeli, hdyž, doniž, li, chibazo -->
     <tag name="SYM">32</tag><!-- °, %, ', *, ², ³, †, :, =, o2 -->
-    <tag name="VERB">822</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
+    <tag name="VERB">821</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
     <tag name="X">199</tag><!-- a, i, vitis, al, backen, o, apg, au, b, c -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -38,16 +38,16 @@
     <feat name="Animacy" value="Nhum" upos="ADJ,NOUN,PRON">18</feat><!-- žiwochow, wjelk, cycakach, cycakow, jednobańkowcach, jednobańkowcy, jeho, konje, kotřiž, měchawcach -->
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1050</feat><!-- so, př, rěč, swoje, to, nastawki, je, swoju, wobrazy, wulku -->
     <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN">128</feat><!-- sej, tomu, akademiji, dispoziciji, nam, němskej, rostlinam, wotrjadam, Delnjej, Ešarrje -->
-    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1082</feat><!-- toho, rěčow, lěta, Mezopotamiskeje, kilometrow, wody, kraja, lěttysaca, lět, časa -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1083</feat><!-- toho, rěčow, lěta, Mezopotamiskeje, kilometrow, wody, kraja, lěttysaca, lět, časa -->
     <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">309</feat><!-- l, n, tym, pomocu, swojimi, Babylonom, Eufratom, Iranom, Solawu, Wódru -->
     <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">606</feat><!-- lěće, tym, času, rěči, zemi, Europje, běhu, dobje, formje, lětstotku -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1927</feat><!-- kotrež, město, woda, to, stolica, kotraž, kotryž, rostliny, tute, tutón -->
-    <feat name="Degree" value="Cmp" upos="ADJ,ADV">50</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET">50</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">647</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
-    <feat name="Degree" value="Sup" upos="ADJ,ADV">42</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV,DET">42</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
     <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1870</feat><!-- l, n, rěč, woda, rěčow, stolica, kotraž, kotrež, Mezopotamiskeje, rostliny -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2180</feat><!-- př, kotrež, kotryž, kilometrow, nastawki, tutón, wón, institut, kraja, lěttysaca -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">879</feat><!-- to, toho, město, tym, lěta, lěće, mócnarstwo, pismo, słowo, lět -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">880</feat><!-- to, toho, město, tym, lěta, lěće, mócnarstwo, pismo, słowo, lět -->
     <feat name="Gender[psor]" value="Fem" upos="DET">4</feat><!-- jeje -->
     <feat name="Gender[psor]" value="Masc,Neut" upos="DET">14</feat><!-- jeho -->
     <feat name="Hyph" value="Yes" upos="ADJ">11</feat><!-- němsko, Awstro, Tibeto, dołho, duchowno, hornjo, krótko, politisko, syrisko, zapado -->
@@ -55,7 +55,7 @@
     <feat name="Mood" value="Imp" upos="VERB">13</feat><!-- hlej, Pomhaj, wobroćće, wotstroń, wužiwaj -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">905</feat><!-- je, su, bu, bě, ma, buchu, běchu, leži, móže, njeje -->
     <feat name="Number" value="Dual" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">78</feat><!-- dwaj, buštej, dwěmaj, stej, běštej, měsacaj, rěkomaj, Łužicomaj, Kralej, Wobě -->
-    <feat name="Number" value="Plur" upos="ADJ,ADV,AUX,DET,NOUN,PRON,PROPN,VERB">1833</feat><!-- su, kotrež, rěčow, buchu, běchu, kilometrow, nastawki, rostliny, tute, lět -->
+    <feat name="Number" value="Plur" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1833</feat><!-- su, kotrež, rěčow, buchu, běchu, kilometrow, nastawki, rostliny, tute, lět -->
     <feat name="Number" value="Ptan" upos="NOUN,PROPN">8</feat><!-- Drježdźanach, Drježdźany, Mułkecy, Wikach, droždźemi, duri, hody, wiki -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3984</feat><!-- je, l, n, bu, bě, ma, to, př, toho, město -->
     <feat name="Number[psor]" value="Dual" upos="DET">1</feat><!-- jeju -->
@@ -92,26 +92,26 @@
   <deps unique="41">
     <dep name="acl">124</dep>
     <dep name="advcl">73</dep>
-    <dep name="advmod">378</dep>
-    <dep name="advmod:emph">121</dep>
-    <dep name="amod">1163</dep>
+    <dep name="advmod">372</dep>
+    <dep name="advmod:emph">119</dep>
+    <dep name="amod">1167</dep>
     <dep name="appos">159</dep>
     <dep name="aux">47</dep>
     <dep name="aux:pass">2</dep>
-    <dep name="case">1088</dep>
-    <dep name="cc">445</dep>
+    <dep name="case">1087</dep>
+    <dep name="cc">447</dep>
     <dep name="ccomp">15</dep>
-    <dep name="compound">52</dep>
-    <dep name="conj">682</dep>
+    <dep name="compound">53</dep>
+    <dep name="conj">681</dep>
     <dep name="cop">240</dep>
     <dep name="csubj">10</dep>
     <dep name="dep">6</dep>
     <dep name="det">218</dep>
-    <dep name="det:numgov">18</dep>
+    <dep name="det:numgov">19</dep>
     <dep name="discourse">1</dep>
     <dep name="expl:pass">99</dep>
     <dep name="expl:pv">79</dep>
-    <dep name="fixed">97</dep>
+    <dep name="fixed">98</dep>
     <dep name="flat">137</dep>
     <dep name="flat:foreign">2</dep>
     <dep name="goeswith">1</dep>
@@ -119,13 +119,13 @@
     <dep name="iobj">14</dep>
     <dep name="list">22</dep>
     <dep name="mark">110</dep>
-    <dep name="nmod">1048</dep>
+    <dep name="nmod">1049</dep>
     <dep name="nsubj">728</dep>
     <dep name="nsubj:pass">2</dep>
-    <dep name="nummod">194</dep>
+    <dep name="nummod">193</dep>
     <dep name="nummod:gov">64</dep>
     <dep name="obj">367</dep>
-    <dep name="obl">556</dep>
+    <dep name="obl">557</dep>
     <dep name="orphan">12</dep>
     <dep name="parataxis">59</dep>
     <dep name="punct">2021</dep>
