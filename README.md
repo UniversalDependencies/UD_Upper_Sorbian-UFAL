@@ -14,6 +14,8 @@ Sentences in the W2C corpus are shuffled.
 
 # Changelog
 
+* 2018-05-15 v2.4
+  * Fixed: `goeswith` no longer used in situations with punctuation or gaps.
 * 2018-11-15 v2.3
   * Fixed some UPOS-DEPREL mismatches.
 * 2018-04-15 v2.2
