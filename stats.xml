@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>646</sentences><tokens>11196</tokens><words>11196</words><fused>0</fused></total>
+    <train><sentences>23</sentences><tokens>460</tokens><words>460</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>623</sentences><tokens>10736</tokens><words>10736</words><fused>0</fused></test>
   </size>
   <lemmas unique="3057" /><!-- ., ,, a, być, w, so, z, na, ), (, -, ", tež, wot, kotryž -->
   <forms unique="4333" /><!-- ., ,, a, w, so, na, ), z, (, je, -, ", tež, wot, su -->
@@ -15,7 +18,7 @@
     <tag name="ADJ">1421</tag><!-- serbski, wulki, druhi, prěni, wažny, mjenowany, němski, horni, politiski, cyły -->
     <tag name="ADP">1098</tag><!-- w, z, na, wot, za, do, k, přez, před, po -->
     <tag name="ADV">535</tag><!-- tež, tak, hišće, zwjetša, wjele, hač, něhdźe, hižo, tu, bórze -->
-    <tag name="AUX">290</tag><!-- być, posłužić -->
+    <tag name="AUX">289</tag><!-- być -->
     <tag name="CCONJ">422</tag><!-- a, abo, ale, hač, pak, wšak, tola, et, ani -->
     <tag name="DET">327</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, wjele, tón -->
     <tag name="NOUN">2543</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
@@ -26,7 +29,7 @@
     <tag name="PUNCT">2021</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
     <tag name="SCONJ">147</tag><!-- jako, zo, kaž, hač, dokelž, jeli, hdyž, doniž, li, chibazo -->
     <tag name="SYM">32</tag><!-- °, %, ', *, ², ³, †, :, =, o2 -->
-    <tag name="VERB">821</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
+    <tag name="VERB">822</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
     <tag name="X">199</tag><!-- a, i, vitis, al, backen, o, apg, au, b, c -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -89,7 +92,7 @@
     <feat name="Voice" value="Pass" upos="ADJ,AUX,VERB">208</feat><!-- bu, buchu, buštej, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="41">
+  <deps unique="40">
     <dep name="acl">124</dep>
     <dep name="advcl">73</dep>
     <dep name="advmod">372</dep>
@@ -105,7 +108,8 @@
     <dep name="conj">681</dep>
     <dep name="cop">240</dep>
     <dep name="csubj">10</dep>
-    <dep name="dep">6</dep>
+    <dep name="dep">7</dep>
+    <dep name="dep:alt">2</dep>
     <dep name="det">218</dep>
     <dep name="det:numgov">19</dep>
     <dep name="discourse">1</dep>
@@ -114,8 +118,6 @@
     <dep name="fixed">98</dep>
     <dep name="flat">137</dep>
     <dep name="flat:foreign">2</dep>
-    <dep name="goeswith">1</dep>
-    <dep name="goeswith:alt">2</dep>
     <dep name="iobj">14</dep>
     <dep name="list">22</dep>
     <dep name="mark">110</dep>
@@ -124,8 +126,8 @@
     <dep name="nsubj:pass">2</dep>
     <dep name="nummod">193</dep>
     <dep name="nummod:gov">64</dep>
-    <dep name="obj">367</dep>
-    <dep name="obl">557</dep>
+    <dep name="obj">368</dep>
+    <dep name="obl">556</dep>
     <dep name="orphan">12</dep>
     <dep name="parataxis">59</dep>
     <dep name="punct">2021</dep>
