@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Upper_Sorbian-UFAL:
-commit 60227d29153c3df360331fe3178fa08fc0d91577
+commit bf1a4f967475971b1174ee383ed2aaa8204eb953
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 12:30:44 2023 +0200
+Date:   Mon Nov 6 13:12:18 2023 +0100
 Size: counted 11196 of 11196 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.83111314330641.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,11 @@ Udapi: found 39 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 11196 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hsb --max-err=10 UD_Upper_Sorbian-UFAL/hsb_ufal-ud-test.conllu
+[Line 11499 Sent p334s2 Node 7]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 11498 Sent p334s2 Node 6]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 11500 Sent p334s2 Node 8]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 11498 Sent p334s2 Node 6]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 4
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hsb --max-err=10 UD_Upper_Sorbian-UFAL/hsb_ufal-ud-train.conllu
 *** PASSED ***
