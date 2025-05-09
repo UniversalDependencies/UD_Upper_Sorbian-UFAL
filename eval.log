@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Upper_Sorbian-UFAL:
-commit 96809cbc9631995e6d0fb24f59356f0fdbc943c7
+commit ab4498923c005cf98bbb9589ab4744e4af592907
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:38:09 2024 +0200
+Date:   Mon Nov 11 16:48:01 2024 +0100
 Size: counted 11196 of 11196 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.83111314330641.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,28 +20,54 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         39
-Udapi: found 39 bugs.
+               TOTAL         11
+Udapi: found 11 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 11196 words.
-Genres: found 2 out of 17 known.
+Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hsb --max-err=10 UD_Upper_Sorbian-UFAL/hsb_ufal-ud-test.conllu
-[Line 11499 Sent p334s2 Node 7]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 11498 Sent p334s2 Node 6]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 11500 Sent p334s2 Node 8]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 11498 Sent p334s2 Node 6]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-Warnings: 4
-*** PASSED ***
+[Line 180 Sent p5s1 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'kaž tež' does not have the 'ExtPos' feature
+[Line 742 Sent p18s1 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'tak zo' does not have the 'ExtPos' feature
+[Line 799 Sent p19s2 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'nic jenož' does not have the 'ExtPos' feature
+[Line 952 Sent p24s1 Node 27]: [L3 Warning fixed-without-extpos] Fixed expression 'ale tež' does not have the 'ExtPos' feature
+[Line 1222 Sent p28s3 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'a to' does not have the 'ExtPos' feature
+[Line 1326 Sent p31s1 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'a tež' does not have the 'ExtPos' feature
+[Line 1368 Sent p31s2 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'na přikład' does not have the 'ExtPos' feature
+[Line 1368 Sent p31s2 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 1522 Sent p34s3 Node 32]: [L3 Warning fixed-without-extpos] Fixed expression 'w času' does not have the 'ExtPos' feature
+[Line 1541 Sent p34s4 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'ale tež' does not have the 'ExtPos' feature
+[Line 1973 Sent p53s1 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'na př' does not have the 'ExtPos' feature
+[Line 1973 Sent p53s1 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+...suppressing further errors regarding Warning
+[Line 2002 Sent p54s1 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 2821 Sent p80s2 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 3363 Sent p86s19 Node 14]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 3550 Sent p87s2 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 3761 Sent p92s1 Node 24]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'n'
+[Line 3786 Sent p92s2 Node 13]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'n'
+[Line 3924 Sent p94s1 Node 24]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 4491 Sent p110s7 Node 13]: [L3 Syntax rel-upos-cc] 'cc' should not be 'PRON' word 't'
+...suppressing further errors regarding Syntax
+Syntax errors: 26
+Warnings: 97
+*** FAILED *** with 26 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang hsb --max-err=10 UD_Upper_Sorbian-UFAL/hsb_ufal-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 83 Sent p378s4 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'na př' does not have the 'ExtPos' feature
+[Line 83 Sent p378s4 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'na'
+[Line 136 Sent p378s6 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'tak zo' does not have the 'ExtPos' feature
+Syntax errors: 1
+Warnings: 2
+*** FAILED *** with 1 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.349687629931375) = 0.0896634948541987
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.965166130760986) = 0.296974194080303
+(weight=0.307692307692308) * (score{udapi}=0.990175062522329) = 0.304669250006871
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.705895770545525) * (availability=1) * (validity=1) = 0.705895770545525
-STARS = 3.5
-UD_Upper_Sorbian-UFAL	0.705895770545525	3.5
+(TOTAL score=0.713088061263444) * (availability=1) * (validity=0.01) = 0.00713088061263444
+STARS = 0
+UD_Upper_Sorbian-UFAL	0.00713088061263444	0
