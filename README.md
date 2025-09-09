@@ -29,6 +29,7 @@ Sentences in the W2C corpus are shuffled.
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: wiki nonfiction
 Lemmas: manual native
 UPOS: manual native
