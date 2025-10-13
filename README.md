@@ -14,6 +14,8 @@ Sentences in the W2C corpus are shuffled.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added ExtPos feature to heads of fixed multiword expressions.
 * 2021-05-15 v2.8
   * Fixed: SpaceAfter=No no longer occurs at the end of a paragraph.
 * 2018-05-15 v2.4

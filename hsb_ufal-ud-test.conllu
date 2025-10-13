@@ -177,7 +177,7 @@
 9	Iraka	Irak	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 10	sewjerowuchodneje	sewjerowuchodny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	11	amod	_	_
 11	Syriskeje	Syriska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
-12	kaž	kaž	SCONJ	_	_	15	cc	_	_
+12	kaž	kaž	SCONJ	_	ExtPos=CCONJ	15	cc	_	_
 13	tež	tež	ADV	_	_	12	fixed	_	_
 14	južnowuchodneje	južnowuchodny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	_
 15	Turkowskeje	Turkowska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
@@ -949,7 +949,7 @@
 24	rejowansce	rejowansce	ADV	_	Degree=Pos	22	appos	_	SpaceAfter=No
 25	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	35	punct	_	_
-27	ale	ale	CCONJ	_	_	35	cc	_	_
+27	ale	ale	CCONJ	_	ExtPos=CCONJ	35	cc	_	_
 28	tež	tež	ADV	_	_	27	fixed	_	_
 29	z	z	ADP	_	_	30	case	_	_
 30	substantiwa	substantiw	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	obl	_	_
@@ -1219,7 +1219,7 @@
 5	kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
 6	maćizna	maćizna	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
-8	a	a	CCONJ	_	_	10	cc	_	_
+8	a	a	CCONJ	_	ExtPos=CCONJ	10	cc	_	_
 9	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	fixed	_	_
 10	lód	lód	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
@@ -1323,7 +1323,7 @@
 15	a	a	CCONJ	_	_	16	cc	_	_
 16	antisemitiska	antisemitiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
 17	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-18	a	a	CCONJ	_	_	20	cc	_	_
+18	a	a	CCONJ	_	ExtPos=CCONJ	20	cc	_	_
 19	tež	tež	ADV	_	_	18	fixed	_	_
 20	antisłowjanska	antisłowjanski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
 21	)	)	PUNCT	_	_	12	punct	_	_
@@ -1538,7 +1538,7 @@
 8	běchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	potrjechene	potrjecheny	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	17	punct	_	_
-11	ale	ale	CCONJ	_	_	17	cc	_	_
+11	ale	ale	CCONJ	_	ExtPos=CCONJ	17	cc	_	_
 12	tež	tež	ADV	_	_	11	fixed	_	_
 13	Girsu	Girsu	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
 14	a	a	CCONJ	_	_	15	cc	_	_
@@ -2033,7 +2033,7 @@
 14	10	10	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 16	lětnika	lětnik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-17	kaž	kaž	SCONJ	_	_	20	cc	_	_
+17	kaž	kaž	SCONJ	_	ExtPos=CCONJ	20	cc	_	_
 18	tež	tež	ADV	_	_	17	fixed	_	_
 19	ze	z	ADP	_	_	20	case	_	_
 20	słownikow	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
@@ -2252,12 +2252,12 @@
 8	molekularnej	molekularny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	9	amod	_	_
 9	formje	forma	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	_
-11	a	a	CCONJ	_	_	14	cc	_	_
+11	a	a	CCONJ	_	ExtPos=CCONJ	14	cc	_	_
 12	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	fixed	_	_
 13	jako	jako	SCONJ	_	_	14	case	_	_
 14	O2	o2	SYM	_	Abbr=Yes	9	appos	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
-16	ale	ale	CCONJ	_	_	18	cc	_	_
+16	ale	ale	CCONJ	_	ExtPos=CCONJ	18	cc	_	_
 17	tež	tež	ADV	_	_	16	fixed	_	_
 18	O3	o3	SYM	_	Abbr=Yes	14	conj	_	_
 19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
@@ -2379,7 +2379,7 @@
 21	Nabada	Nabada	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	_
 23	Niniwa	Niniwa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
-24	a	a	CCONJ	_	_	26	cc	_	_
+24	a	a	CCONJ	_	ExtPos=CCONJ	26	cc	_	_
 25	tež	tež	ADV	_	_	24	fixed	_	_
 26	Assur	Assur	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	_
@@ -2918,7 +2918,7 @@
 
 # sent_id = p82s2
 # text = Nic jenož přez wikowanje powjetšachu swoje zamóženje, ale tež přez pjenježne wobchody.
-1	Nic	nic	PART	_	Polarity=Neg	5	cc	_	_
+1	Nic	nic	PART	_	ExtPos=CCONJ|Polarity=Neg	5	cc	_	_
 2	jenož	jenož	PART	_	_	1	fixed	_	_
 3	přez	přez	ADP	_	_	4	case	_	_
 4	wikowanje	wikowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
@@ -2926,7 +2926,7 @@
 6	swoje	swój	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	_
 7	zamóženje	zamóženje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
-9	ale	ale	CCONJ	_	_	13	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	13	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	přez	přez	ADP	_	_	13	case	_	_
 12	pjenježne	pjenježny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	amod	_	_
@@ -3749,7 +3749,7 @@
 12	kraja	kraj	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 13	abo	abo	CCONJ	_	_	14	cc	_	_
 14	stata	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	_
-15	a	a	CCONJ	_	_	18	cc	_	_
+15	a	a	CCONJ	_	ExtPos=CCONJ	18	cc	_	_
 16	tuž	tuž	ADV	_	PronType=Dem	15	fixed	_	_
 17	zwjetša	zwjetša	ADV	_	_	18	advmod	_	_
 18	sydło	sydło	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	_
@@ -4059,7 +4059,7 @@
 15	a	a	CCONJ	_	_	17	cc	_	_
 16	pola	pola	ADP	_	_	17	case	_	_
 17	Hetitow	Hetit	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	_
-18	kaž	kaž	SCONJ	_	_	22	cc	_	_
+18	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
 19	tež	tež	ADV	_	_	18	fixed	_	_
 20	w	w	ADP	_	_	22	case	_	_
 21	diplomatiskich	diplomatiski	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	22	amod	_	_
@@ -4101,7 +4101,7 @@
 2	waliziske	waliziski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
 3	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
 4	gwin	gwin	X	_	_	3	nmod	_	_
-5	ale	ale	CCONJ	_	_	8	cc	_	_
+5	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
 6	tež	tež	ADV	_	_	5	fixed	_	_
 7	irske	irski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
 8	fion	fion	X	_	_	3	conj	_	_
@@ -4120,7 +4120,7 @@
 6	,	,	PUNCT	_	_	24	punct	_	_
 7	zo	zo	SCONJ	_	_	24	mark	_	_
 8	Germanojo	German	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
-9	ale	ale	CCONJ	_	_	11	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	Keltojo	Kelt	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
 12	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
@@ -4294,7 +4294,7 @@
 35	dwěmaj	dwaj	NUM	_	Case=Ins|Gender=Fem|Number=Dual|NumType=Card	37	nummod	_	SpaceAfter=No
 36	)	)	PUNCT	_	_	35	punct	_	_
 37	rěkomaj	rěka	NOUN	_	Case=Ins|Gender=Fem|Number=Dual	31	nmod	_	_
-38	abo	abo	CCONJ	_	_	41	cc	_	_
+38	abo	abo	CCONJ	_	ExtPos=CCONJ	41	cc	_	_
 39	tež	tež	ADV	_	_	38	fixed	_	_
 40	krótko	krótko	ADV	_	Degree=Pos	41	advmod	_	_
 41	Mjezyrěčina	Mjezyrěčina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	31	conj	_	_
@@ -4533,7 +4533,7 @@
 6	Pólskej	pólski	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	7	amod	_	_
 7	rěču	rěč	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	18	punct	_	_
-9	tak	tak	ADV	_	PronType=Dem	18	cc	_	_
+9	tak	tak	ADV	_	ExtPos=CCONJ|PronType=Dem	18	cc	_	_
 10	zo	zo	SCONJ	_	_	9	fixed	_	_
 11	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	cop	_	_
 12	jako	jako	SCONJ	_	_	13	case	_	_
@@ -5161,7 +5161,7 @@
 3	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	_
 4	pak	pak	CCONJ	_	_	9	cc	_	_
 5	geografisce	geografisce	ADV	_	Degree=Pos	9	advmod	_	_
-6	ale	ale	CCONJ	_	_	8	cc	_	_
+6	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
 7	tež	tež	ADV	_	_	6	fixed	_	_
 8	tektonisce	tektonisce	ADV	_	Degree=Pos	5	conj	_	_
 9	prawa	prawy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -6863,7 +6863,7 @@
 13	doprědka	doprědka	ADV	_	Degree=Pos	14	advmod	_	_
 14	sćahny	sćahnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	23	punct	_	_
-16	tak	tak	ADV	_	PronType=Dem	23	cc	_	_
+16	tak	tak	ADV	_	ExtPos=CCONJ|PronType=Dem	23	cc	_	_
 17	zo	zo	SCONJ	_	_	16	fixed	_	_
 18	poćah	poćah	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
 19	mjez	mjez	ADP	_	_	20	case	_	_
@@ -7648,7 +7648,7 @@
 11	zamordowachu	zamordować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 12	europskich	europski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	13	amod	_	_
 13	Židow	Žid	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
-14	kaž	kaž	SCONJ	_	_	22	cc	_	_
+14	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
 15	tež	tež	ADV	_	_	14	fixed	_	_
 16	hinaše	hinaši	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	_
 17	religiozne	religiozny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
@@ -8320,7 +8320,7 @@
 30	mjezy	mjez	ADP	_	_	32	case	_	_
 31	jednotliwymi	jednotliwy	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	32	amod	_	_
 32	ličakami	ličak	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	29	nmod	_	_
-33	a	a	CCONJ	_	_	35	cc	_	_
+33	a	a	CCONJ	_	ExtPos=CCONJ	35	cc	_	_
 34	tak	tak	ADV	_	PronType=Dem	33	fixed	_	_
 35	wuměnić	wuměnić	VERB	_	VerbForm=Inf	28	conj	_	_
 36	daty	dataja	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	35	obj	_	SpaceAfter=No
@@ -8465,7 +8465,7 @@
 16	za	za	ADP	_	_	17	case	_	_
 17	prapisma	prapismo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	15	obl	_	_
 18	Biblije	Biblija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
-19	kaž	kaž	SCONJ	_	_	22	cc	_	_
+19	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
 20	tež	tež	ADV	_	_	19	fixed	_	_
 21	hieroglyfowe	hieroglyfowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	22	amod	_	_
 22	pismo	pismo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
@@ -9825,7 +9825,7 @@
 
 # sent_id = p270s4
 # text = Ale tež podkasty hižo eksistuja.
-1	Ale	ale	CCONJ	_	_	5	cc	_	_
+1	Ale	ale	CCONJ	_	ExtPos=CCONJ	5	cc	_	_
 2	tež	tež	ADV	_	_	1	fixed	_	_
 3	podkasty	podkast	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 4	hižo	hižo	ADV	_	_	5	advmod	_	_
@@ -10531,7 +10531,7 @@
 
 # sent_id = p291s2
 # text = Ale tež eksistuja žiwochi, kotřiž njetrjebaja kislik, předewšěm při jednobańkowcach.
-1	Ale	ale	CCONJ	_	_	3	cc	_	_
+1	Ale	ale	CCONJ	_	ExtPos=CCONJ	3	cc	_	_
 2	tež	tež	ADV	_	_	1	fixed	_	_
 3	eksistuja	eksistować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	žiwochi	žiwoch	NOUN	_	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
@@ -10648,7 +10648,7 @@
 4	wšelake	wšelaki	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	algi	alga	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	_
-7	ale	ale	CCONJ	_	_	10	cc	_	_
+7	ale	ale	CCONJ	_	ExtPos=CCONJ	10	cc	_	_
 8	tež	tež	ADV	_	_	7	fixed	_	_
 9	někotre	někotry	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 10	jednobańkowcy	jednobańkowc	NOUN	_	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
@@ -10777,7 +10777,7 @@
 2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 3	po	po	ADP	_	_	9	case	_	_
 4	morfologiskich	morfologiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
-5	ale	ale	CCONJ	_	_	8	cc	_	_
+5	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
 6	tež	tež	ADV	_	_	5	fixed	_	_
 7	po	po	ADP	_	_	8	case	_	_
 8	molekularbiologiskich	molekularbiologiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	conj	_	_
@@ -10896,7 +10896,7 @@
 9	rozswětlerstwa	rozswětlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
 10	a	a	CCONJ	_	_	11	cc	_	_
 11	romantiki	romantika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
-12	kaž	kaž	SCONJ	_	_	15	cc	_	_
+12	kaž	kaž	SCONJ	_	ExtPos=CCONJ	15	cc	_	_
 13	tež	tež	ADV	_	_	12	fixed	_	_
 14	narodneho	narodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
 15	wozrodźenja	wozrodźenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
@@ -10972,7 +10972,7 @@
 3	organow	organ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
 4	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	šrubikojte	šrubikojty	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-6	abo	abo	CCONJ	_	_	11	cc	_	_
+6	abo	abo	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
 7	tež	tež	ADV	_	_	6	fixed	_	_
 8	často	často	ADV	_	Degree=Pos	11	advmod	_	_
 9	w	w	ADP	_	_	11	case	_	_
@@ -11682,7 +11682,7 @@
 6	disponujomnosć	disponujomnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 7	přihódnych	přihódny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
 8	wutkow	wutk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
-9	ale	ale	CCONJ	_	_	16	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	16	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	krótkodobnu	krótkodobny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
@@ -11726,7 +11726,7 @@
 2	žadanja	žadanje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
 3	na	na	ADP	_	_	4	case	_	_
 4	organizaciju	organizacija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
-5	a	a	CCONJ	_	_	8	cc	_	_
+5	a	a	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
 6	tež	tež	ADV	_	_	5	fixed	_	_
 7	templowe	templowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
 8	hospodarstwo	hospodarstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
@@ -11896,7 +11896,7 @@
 10	Bayerskeje	Bayerska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 11	a	a	CCONJ	_	_	16	cc	_	_
 12	kulturelne	kulturelny	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	advcl	_	_
-13	kaž	kaž	SCONJ	_	_	15	cc	_	_
+13	kaž	kaž	SCONJ	_	ExtPos=CCONJ	15	cc	_	_
 14	tež	tež	ADV	_	_	13	fixed	_	_
 15	ekonomiske	ekonomiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	conj	_	_
 16	srjedźišćo	srjedźišćo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
@@ -12019,7 +12019,7 @@
 5	a	a	CCONJ	_	_	6	cc	_	_
 6	Tamil	Tamil	PROPN	_	_	3	conj	_	_
 7	Nadu	Nadu	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	6	flat	_	_
-8	kaž	kaž	SCONJ	_	_	11	cc	_	_
+8	kaž	kaž	SCONJ	_	ExtPos=CCONJ	11	cc	_	_
 9	tež	tež	ADV	_	_	8	fixed	_	_
 10	južna	južny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
 11	Kerala	Kerala	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
@@ -12569,7 +12569,7 @@
 6	zemskeje	zemski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	atmosfery	atmosfera	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	ale	ale	CCONJ	_	_	11	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 12	jako	jako	SCONJ	_	_	13	mark	_	_

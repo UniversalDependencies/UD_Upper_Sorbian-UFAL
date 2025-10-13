@@ -133,7 +133,7 @@
 19	wikisłowniku	wikisłownik	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	_
 20	wotkazuje	wotkazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
-22	tak	tak	ADV	_	PronType=Dem	24	cc	_	_
+22	tak	tak	ADV	_	ExtPos=CCONJ|PronType=Dem	24	cc	_	_
 23	zo	zo	SCONJ	_	_	22	fixed	_	_
 24	dyrbi	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	conj	_	_
 25	wužiwar	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
