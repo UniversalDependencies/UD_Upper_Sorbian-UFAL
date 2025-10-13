@@ -739,7 +739,7 @@
 10	móžno	móžno	ADV	_	AdvType=Mod	7	advcl	_	_
 11	registrować	registrować	VERB	_	VerbForm=Inf	2	csubj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
-13	tak	tak	ADV	_	PronType=Dem	15	mark	_	_
+13	tak	tak	ADV	_	ExtPos=SCONJ|PronType=Dem	15	mark	_	_
 14	zo	zo	SCONJ	_	_	13	fixed	_	_
 15	budu	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	advcl	_	_
 16	w	w	ADP	_	_	17	case	_	_
@@ -4349,7 +4349,7 @@
 18	a	a	CCONJ	_	_	19	cc	_	_
 19	etablěrowane	etablěrowany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
-21	tak	tak	ADV	_	PronType=Dem	23	mark	_	_
+21	tak	tak	ADV	_	ExtPos=SCONJ|PronType=Dem	23	mark	_	_
 22	zo	zo	SCONJ	_	_	21	fixed	_	_
 23	móhli	móc	VERB	_	Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act	17	advcl	_	_
 24	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	28	expl:pass	_	_
@@ -8413,7 +8413,7 @@
 9	zdźěłanych	zdźěłany	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	10	amod	_	_
 10	ludźi	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
-12	podobnje	podobnje	ADV	_	Degree=Pos	15	mark	_	_
+12	podobnje	podobnje	ADV	_	Degree=Pos|ExtPos=SCONJ	15	mark	_	_
 13	kaž	kaž	SCONJ	_	_	12	fixed	_	_
 14	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
 15	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	advcl	_	_
@@ -8558,7 +8558,7 @@
 5	přiběracu	přiběracy	ADJ	_	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 6	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
-8	mjeztym	mjeztym	ADV	_	_	12	mark	_	_
+8	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	12	mark	_	_
 9	zo	zo	SCONJ	_	_	8	fixed	_	_
 10	rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	xcomp	_	_
 11	selow	sel	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
@@ -9170,7 +9170,7 @@
 6	měšćanskich	měšćanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
 7	statow	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
-9	podobnje	podobnje	ADV	_	Degree=Pos	13	mark	_	_
+9	podobnje	podobnje	ADV	_	Degree=Pos|ExtPos=SCONJ	13	mark	_	_
 10	kaž	kaž	SCONJ	_	_	9	fixed	_	_
 11	w	w	ADP	_	_	13	case	_	_
 12	starowěkowskej	starowěkowski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
@@ -11257,7 +11257,7 @@
 49	gebackt	gebackt	X	_	_	45	conj	_	SpaceAfter=No
 50	)	)	PUNCT	_	_	45	punct	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	45	punct	_	_
-52	mjeztym	mjeztym	ADV	_	_	72	mark	_	_
+52	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	72	mark	_	_
 53	zo	zo	SCONJ	_	_	52	fixed	_	_
 54	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	72	expl:pv	_	_
 55	w	w	ADP	_	_	57	case	_	_
@@ -11289,7 +11289,7 @@
 4	a	a	CCONJ	_	_	5	cc	_	_
 5	mjasny	mjasny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	_
-7	mjeztym	mjeztym	ADV	_	_	10	mark	_	_
+7	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	10	mark	_	_
 8	zo	zo	SCONJ	_	_	7	fixed	_	_
 9	barba	barba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
 10	wariěruje	wariěrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
@@ -11641,7 +11641,7 @@
 11	Herrschaft	herrschaft	X	_	_	10	appos	_	_
 12	Akkada	Akkad	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
-14	mjeztym	mjeztym	ADV	_	_	19	mark	_	_
+14	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	19	mark	_	_
 15	zo	zo	SCONJ	_	_	14	fixed	_	_
 16	prěni	prěni	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	17	amod	_	_
 17	Assyričenjo	Assyričen	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
