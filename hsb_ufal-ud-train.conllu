@@ -80,7 +80,7 @@
 12	hač	hač	SCONJ	_	_	13	case	_	_
 13	gramatisku	gramatiski	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	nmod	_	_
 14	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-15	na	na	ADP	_	_	18	advmod:emph	_	_
+15	na	na	ADP	_	ExtPos=ADV	18	advmod:emph	_	_
 16	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	fixed	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 18	Budyšin	Budyšin	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_

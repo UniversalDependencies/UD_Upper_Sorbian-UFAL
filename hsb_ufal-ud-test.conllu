@@ -796,7 +796,7 @@
 5	natwarjene	natwarjeny	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	_
 7	kotrež	kotryž	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	11	nsubj	_	_
-8	nic	nic	PART	_	Polarity=Neg	10	advmod:emph	_	_
+8	nic	nic	PART	_	ExtPos=ADV|Polarity=Neg	10	advmod:emph	_	_
 9	jenož	jenož	PART	_	_	8	fixed	_	_
 10	reprezentaciji	reprezentacija	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
 11	słužachu	słužić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	acl	_	SpaceAfter=No
@@ -1365,7 +1365,7 @@
 15	Třećeho	třeći	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
 16	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	_
-18	na	na	ADP	_	_	20	advmod:emph	_	_
+18	na	na	ADP	_	ExtPos=ADV	20	advmod:emph	_	_
 19	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	fixed	_	_
 20	holocausta	holocaust	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	appos	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
@@ -1970,7 +1970,7 @@
 1	Sylny	sylny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	werb	werb	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-4	na	na	ADP	_	_	7	advmod:emph	_	_
+4	na	na	ADP	_	ExtPos=ADV	7	advmod:emph	_	_
 5	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	trinken	trinken	X	_	_	2	nsubj	_	SpaceAfter=No
@@ -1999,7 +1999,7 @@
 5	geografiskich	geografiski	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
 6	objektow	objekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
 7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
-8	na	na	ADP	_	_	10	advmod:emph	_	_
+8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
 9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
 10	rěkow	rěka	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	appos	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
@@ -2535,7 +2535,7 @@
 9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	_
 10	kóždolětnje	kóždolětnje	ADV	_	Degree=Pos	11	advmod	_	_
 11	wobsedźeja	wobsedźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
-12	mjeńše	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	14	advmod	_	_
+12	mjeńše	mało	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	14	advmod	_	_
 13	hač	hač	SCONJ	_	_	12	fixed	_	_
 14	500	500	NUM	_	NumType=Card	15	nummod	_	_
 15	m	metr	NOUN	_	Abbr=Yes	11	obl	_	SpaceAfter=No
@@ -2818,7 +2818,7 @@
 # sent_id = p80s2
 # text = Móžeš na přikład na "čerwjene wotkazy" deleka kliknyć a nastawki pisać.
 1	Móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	na	na	ADP	_	_	10	advmod	_	_
+2	na	na	ADP	_	ExtPos=ADV	10	advmod	_	_
 3	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	fixed	_	_
 4	na	na	ADP	_	_	7	case	_	_
 5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
@@ -3360,7 +3360,7 @@
 11	pomocnych	pomocny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	12	amod	_	_
 12	srědkow	srědk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	na	na	ADP	_	_	17	advmod:emph	_	_
+14	na	na	ADP	_	ExtPos=ADV	17	advmod:emph	_	_
 15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 17	bibliografijow	bibliografija	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	12	appos	_	_
@@ -3547,7 +3547,7 @@
 6	kaž	kaž	SCONJ	_	_	15	mark	_	_
 7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 8	tež	tež	ADV	_	_	15	advmod	_	_
-9	na	na	ADP	_	_	14	advmod:emph	_	_
+9	na	na	ADP	_	ExtPos=ADV	14	advmod:emph	_	_
 10	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 12	w	w	ADP	_	_	14	case	_	_
@@ -3758,7 +3758,7 @@
 21	institucijow	institucija	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	28	punct	_	_
 23	kaž	kaž	SCONJ	_	_	28	case	_	_
-24	n	na	ADP	_	Abbr=Yes	28	advmod:emph	_	SpaceAfter=No
+24	n	na	ADP	_	Abbr=Yes|ExtPos=ADV	28	advmod:emph	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
 26	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	fixed	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	26	punct	_	_
@@ -3783,7 +3783,7 @@
 10	sydło	sydło	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 11	knježerstwa	knježerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	18	punct	_	_
-13	n	na	ADP	_	Abbr=Yes	18	advmod:emph	_	SpaceAfter=No
+13	n	na	ADP	_	Abbr=Yes|ExtPos=ADV	18	advmod:emph	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
@@ -3921,7 +3921,7 @@
 21	rěčach	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	22	obl	_	_
 22	wobkedźbować	wobkedźbować	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
-24	na	na	ADP	_	_	22	advmod	_	_
+24	na	na	ADP	_	ExtPos=ADV	22	advmod	_	_
 25	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	fixed	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -4501,7 +4501,7 @@
 23	to	to	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	31	obl	_	_
 24	wukon	wukon	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	obj	_	_
 25	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
-26	na	na	ADP	_	_	29	advmod:emph	_	_
+26	na	na	ADP	_	ExtPos=ADV	29	advmod:emph	_	_
 27	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	fixed	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	27	punct	_	_
 29	slěbro	slěbro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	24	appos	_	SpaceAfter=No
@@ -5202,7 +5202,7 @@
 
 # sent_id = p124s4
 # text = Wjace hač 7.500 kupow wobsahuja hromadźe twjerdźowu přestrjeń wot nimale 1,3 Mio. kwadratowych kilometrow a su po mórskim teritoriju wot něhdźe 70 Mio. kwadratowych kilometrow rozdźělene.
-1	Wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	3	advmod	_	_
+1	Wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	3	advmod	_	_
 2	hač	hač	SCONJ	_	_	1	fixed	_	_
 3	7	7	NUM	_	NumType=Card	6	nummod:gov	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -6063,7 +6063,7 @@
 6	wužiwa	wužiwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
 8	kaž	kaž	SCONJ	_	_	14	mark	_	_
-9	na	na	ADP	_	_	14	advmod:emph	_	_
+9	na	na	ADP	_	ExtPos=ADV	14	advmod:emph	_	_
 10	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 12	w	w	ADP	_	_	14	case	_	_
@@ -6995,7 +6995,7 @@
 1	Jeli	jeli	SCONJ	_	_	3	mark	_	_
 2	nastawk	nastawk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
-4	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	6	advmod:emph	_	_
+4	wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	6	advmod:emph	_	_
 5	hač	hač	SCONJ	_	_	4	fixed	_	_
 6	jedyn	jedyn	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card	7	nummod	_	_
 7	njedostatk	njedostatk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
@@ -8191,7 +8191,7 @@
 1	W	w	ADP	_	_	2	case	_	_
 2	Indiskej	Indiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
 3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
-4	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	6	advmod	_	_
+4	wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	6	advmod	_	_
 5	hač	hač	SCONJ	_	_	4	fixed	_	_
 6	400	400	NUM	_	NumType=Card	7	nummod	_	_
 7	rěčow	rěč	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	nsubj	_	_
@@ -8226,7 +8226,7 @@
 6	rěče	rěč	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
 7	rěča	rěčeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	na	na	ADP	_	_	11	advmod	_	_
+9	na	na	ADP	_	ExtPos=ADV	11	advmod	_	_
 10	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	fixed	_	_
 11	Tamilsce	tamilsce	ADV	_	Degree=Pos	6	appos	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
@@ -8391,7 +8391,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	z	z	ADP	_	_	10	case	_	_
 10	předměstami	předměsto	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	2	conj	_	_
-11	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	13	advmod	_	_
+11	wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	13	advmod	_	_
 12	hač	hač	SCONJ	_	_	11	fixed	_	_
 13	2	2	NUM	_	NumType=Card	16	nummod:gov	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
@@ -8701,7 +8701,7 @@
 8	a	a	CCONJ	_	_	10	cc	_	_
 9	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	pochad	pochad	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
-11	přeco	přeco	ADV	_	_	13	advmod	_	_
+11	přeco	přeco	ADV	_	ExtPos=ADV	13	advmod	_	_
 12	hišće	hišće	ADV	_	_	11	fixed	_	_
 13	předmjet	předmjet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	36	advcl	_	_
 14	wědomostnych	wědomostny	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	15	amod	_	_
@@ -8712,7 +8712,7 @@
 19	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 20	znutřkowna	znutřkowny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
 21	systematika	systematika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	_
-22	nic	nic	PART	_	Polarity=Neg	36	advmod	_	_
+22	nic	nic	PART	_	ExtPos=ADV|Polarity=Neg	36	advmod	_	_
 23	naposledku	naposledku	ADV	_	_	22	fixed	_	_
 24	přez	přez	ADP	_	_	25	case	_	_
 25	dźěło	dźěło	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	36	obl	_	_
@@ -8983,7 +8983,7 @@
 9	směr	směr	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
 10	zwuraznjeja	zwuraznjeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
-12	na	na	ADP	_	_	15	advmod:emph	_	_
+12	na	na	ADP	_	ExtPos=ADV	15	advmod:emph	_	_
 13	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	tie	tie	X	_	_	2	appos	_	_
@@ -9083,7 +9083,7 @@
 5	družiny	družina	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	38	obj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	12	punct	_	_
 7	kaž	kaž	SCONJ	_	_	12	mark	_	_
-8	na	na	ADP	_	_	12	advmod:emph	_	_
+8	na	na	ADP	_	ExtPos=ADV	12	advmod:emph	_	_
 9	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 11	brjohowy	brjohowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
@@ -9397,7 +9397,7 @@
 8	běžace	běžacy	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	amod	_	_
 9	dele	dele	ADV	_	Degree=Pos	8	advmod	_	_
 10	-	-	PUNCT	_	_	14	punct	_	_
-11	na	na	ADP	_	_	14	advmod:emph	_	_
+11	na	na	ADP	_	ExtPos=ADV	14	advmod:emph	_	_
 12	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	fixed	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 14	rěčki	rěčka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	8	appos	_	_
@@ -9410,7 +9410,7 @@
 21	wěstym	wěsty	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
 22	niwowje	niwow	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
 23	-	-	PUNCT	_	_	27	punct	_	_
-24	na	na	ADP	_	_	27	advmod:emph	_	_
+24	na	na	ADP	_	ExtPos=ADV	27	advmod:emph	_	_
 25	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	fixed	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 27	jězory	jězor	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	appos	_	SpaceAfter=No
@@ -9869,7 +9869,7 @@
 13	²	²	SYM	_	_	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	potajkim	potajkim	ADV	_	PronType=Dem	19	cc	_	_
-16	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	18	advmod	_	_
+16	wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	18	advmod	_	_
 17	hač	hač	SCONJ	_	_	16	fixed	_	_
 18	300	300	NUM	_	NumType=Card	19	nummod:gov	_	_
 19	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
@@ -10155,7 +10155,7 @@
 21	sylnych	sylny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	_
 22	werbow	werb	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
 23	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
-24	tu	tu	ADV	_	PronType=Dem	30	advmod	_	_
+24	tu	tu	ADV	_	ExtPos=ADV|PronType=Dem	30	advmod	_	_
 25	a	a	CCONJ	_	_	24	fixed	_	_
 26	tam	tam	ADV	_	PronType=Dem	24	fixed	_	_
 27	hižo	hižo	ADV	_	_	30	advmod	_	_
@@ -10298,7 +10298,7 @@
 11	kajkosćach	kajkosć	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
 12	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	na	na	ADP	_	_	17	advmod	_	_
+14	na	na	ADP	_	ExtPos=ADV	17	advmod	_	_
 15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 17	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
@@ -10359,7 +10359,7 @@
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	štož	štož	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	_
 13	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	10	conj	_	_
-14	na	na	ADP	_	_	19	advmod:emph	_	_
+14	na	na	ADP	_	ExtPos=ADV	19	advmod:emph	_	_
 15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 17	k	k	ADP	_	_	19	case	_	_
@@ -10381,7 +10381,7 @@
 5	Kaspiskeho	kaspiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
 6	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
 7	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-8	na	na	ADP	_	_	10	advmod:emph	_	_
+8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
 9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
 10	Machačkala	Machačkala	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
@@ -10582,7 +10582,7 @@
 1	Słaby	słaby	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	werb	werb	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-4	na	na	ADP	_	_	7	advmod:emph	_	_
+4	na	na	ADP	_	ExtPos=ADV	7	advmod:emph	_	_
 5	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	loben	loben	X	_	_	2	nsubj	_	SpaceAfter=No
@@ -11195,7 +11195,7 @@
 19	za	za	ADP	_	_	20	case	_	_
 20	to	to	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	nmod	_	_
 21	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
-22	mj	mj	X	_	Abbr=Yes	27	advmod:emph	_	SpaceAfter=No
+22	mj	mj	X	_	Abbr=Yes|ExtPos=ADV	27	advmod:emph	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	22	punct	_	_
 24	dr	dr	X	_	Abbr=Yes	22	fixed	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
@@ -11237,7 +11237,7 @@
 29	słabe	słaby	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	28	xcomp	_	_
 30	być	być	AUX	_	VerbForm=Inf	29	cop	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	43	punct	_	_
-32	na	na	ADP	_	_	43	advmod	_	_
+32	na	na	ADP	_	ExtPos=ADV	43	advmod	_	_
 33	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	fixed	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	33	punct	_	_
 35	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	43	expl:pass	_	_
@@ -11844,7 +11844,7 @@
 12	Mezopotamiskej	Mezopotamiska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	_
 14	su	być	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	mj	mj	X	_	_	19	advmod:emph	_	SpaceAfter=No
+15	mj	mj	X	_	ExtPos=ADV	19	advmod:emph	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 17	dr	dr	X	_	_	15	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
@@ -12732,7 +12732,7 @@
 28	,	,	PUNCT	_	_	44	punct	_	_
 29	při	při	ADP	_	_	30	case	_	_
 30	čimž	štož	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	44	nmod	_	_
-31	na	na	ADP	_	_	44	advmod	_	_
+31	na	na	ADP	_	ExtPos=ADV	44	advmod	_	_
 32	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	fixed	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	32	punct	_	_
 34	w	w	ADP	_	_	35	case	_	_
@@ -12766,7 +12766,7 @@
 13	rozšerjeny	rozšerjeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	14	amod	_	_
 14	přezwuk	přezwuk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 15	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-16	na	na	ADP	_	_	20	advmod:emph	_	_
+16	na	na	ADP	_	ExtPos=ADV	20	advmod:emph	_	_
 17	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 19	němsce	němsce	ADV	_	Degree=Pos	20	advmod	_	_
