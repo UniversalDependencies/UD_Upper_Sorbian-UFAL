@@ -4488,7 +4488,7 @@
 10	priwatizowali	priwatizować	VERB	_	Animacy=Inan|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 11	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	18	punct	_	_
-13	t	to	PRON	_	Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing	18	cc	_	SpaceAfter=No
+13	t	to	PRON	_	Abbr=Yes|Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing	18	cc	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	r	r	VERB	_	Abbr=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
