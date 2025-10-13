@@ -33,7 +33,7 @@
     <tag name="X">199</tag><!-- a, i, vitis, al, backen, o, apg, au, b, c -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="59">
+  <feats unique="60">
     <feat name="Abbr" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">192</feat><!-- př, n, l, km, t, mj, III, Mio, m, APG -->
     <feat name="AdvType" value="Mod" upos="ADV">4</feat><!-- móžno -->
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">350</feat><!-- Sumeričanow, krala, kralow, wobydlerjow, wužiwar, wužiwarjo, Hammurabi, Assyričenjo, Jakub, kotřiž -->
@@ -48,6 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET">50</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">647</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV,DET">42</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
+    <feat name="ExtPos" value="ADP" upos="ADP,SCONJ">5</feat><!-- na, hač, w -->
     <feat name="ExtPos" value="ADV" upos="ADP,ADV,PART,X">36</feat><!-- na, wjace, mj, n, nic, mjeńše, přeco, tu -->
     <feat name="ExtPos" value="CCONJ" upos="ADV,CCONJ,PART,PRON,SCONJ">35</feat><!-- ale, kaž, a, tak, abo, Nic, t -->
     <feat name="ExtPos" value="SCONJ" upos="ADV">8</feat><!-- mjeztym, podobnje, tak -->

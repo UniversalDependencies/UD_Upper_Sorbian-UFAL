@@ -2574,7 +2574,7 @@
 9	wodowe	wodowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	_
 10	zastaranje	zastaranje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
 11	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-12	na	na	ADP	_	_	15	case	_	_
+12	na	na	ADP	_	ExtPos=ADP	15	case	_	_
 13	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	Jordan	Jordan	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
@@ -3246,7 +3246,7 @@
 27	serbske	serbski	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	28	amod	_	_
 28	periodika	periodikum	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	9	conj	_	_
 29	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
-30	hač	hač	SCONJ	_	_	32	case	_	_
+30	hač	hač	SCONJ	_	ExtPos=ADP	32	case	_	_
 31	na	na	ADP	_	_	30	fixed	_	_
 32	Časopis	časopis	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	nmod	_	_
 33	Maćicy	Maćica	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
@@ -4847,7 +4847,7 @@
 
 # sent_id = p121s2
 # text = Na rozdźěl wot druhich zarjadowanjow wotběži tradicionelny "Institutny dźeń" cyle w (hornjo)serbskej rěči a wobroći so specielnje na serbsku inteligencu.
-1	Na	na	ADP	_	_	5	case	_	_
+1	Na	na	ADP	_	ExtPos=ADP	5	case	_	_
 2	rozdźěl	rozdźěl	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	fixed	_	_
 3	wot	wot	ADP	_	_	1	fixed	_	_
 4	druhich	druhi	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	5	amod	_	_
@@ -8797,7 +8797,7 @@
 # text = Dokelž ryby w zmysle kladistiki pak žadyn monofyletiski (z zhromadneho pochada nastaty) takson předstaja, wone buchu w coologiskej systematice často z pazorkomaj pisane ("ryby", "pisces"), zo by je z tym jako tak mjenowany parafyletiski takson zu poznamjenili.
 1	Dokelž	dokelž	SCONJ	_	_	16	mark	_	_
 2	ryby	ryba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
-3	w	w	ADP	_	_	5	case	_	_
+3	w	w	ADP	_	ExtPos=ADP	5	case	_	_
 4	zmysle	zmysl	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	fixed	_	_
 5	kladistiki	kladistika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	obl	_	_
 6	pak	pak	CCONJ	_	_	16	cc	_	_
@@ -12529,7 +12529,7 @@
 2	maja	měć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tři	tři	NUM	_	NumType=Card	4	nummod	_	_
 4	genusy	genus	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
-5	na	na	ADP	_	_	9	case	_	_
+5	na	na	ADP	_	ExtPos=ADP	9	case	_	_
 6	rozdźěl	rozdźěl	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	fixed	_	_
 7	wot	wot	ADP	_	_	5	fixed	_	_
 8	romaniskich	romaniski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
