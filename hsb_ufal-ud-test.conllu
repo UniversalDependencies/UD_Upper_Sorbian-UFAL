@@ -2623,8 +2623,8 @@
 3	kraje	kraj	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
-6	de	de	X	_	_	10	obl	_	_
-7	jure	jure	X	_	_	6	flat:foreign	_	_
+6	de	de	X	_	Foreign=Yes	10	obl	_	Lang=la
+7	jure	jure	X	_	Foreign=Yes	6	flat:foreign	_	Lang=la
 8	žanu	žadyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	9	det	_	_
 9	stolicu	stolica	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
 10	nimaja	měć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	SpaceAfter=No
