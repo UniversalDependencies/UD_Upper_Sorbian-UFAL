@@ -3257,7 +3257,7 @@
 38	a	a	CCONJ	_	_	44	cc	_	_
 39	t	tak	ADV	_	Abbr=Yes|ExtPos=ADJ|PronType=Dem	44	amod	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	39	punct	_	SpaceAfter=No
-41	mj	mjenowany	ADJ	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Fin|Voice=Pass	39	fixed	_	SpaceAfter=No
+41	mj	mjenowany	ADJ	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	39	fixed	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	41	punct	_	_
 43	historiske	historiski	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	44	amod	_	_
 44	časopisy	časopis	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	conj	_	SpaceAfter=No
@@ -11497,7 +11497,7 @@
 5	po	po	ADP	_	_	6	case	_	_
 6	Adl	Adl	PROPN	_	Number=Sing	4	nmod	_	_
 7	et	et	CCONJ	_	Foreign=Yes	8	cc	_	Lang=la
-8	al	al	PRON	_	Foreign=Yes	6	conj	_	Lang=la|SpaceAfter=No
+8	al	al	ADJ	_	Foreign=Yes	6	conj	_	Lang=la|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	[	[	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	2	2	NUM	_	NumType=Card	6	appos	_	SpaceAfter=No
