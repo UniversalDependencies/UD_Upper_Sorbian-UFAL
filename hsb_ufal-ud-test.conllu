@@ -12658,6 +12658,36 @@
 25	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
+# newpar id = p251
+# sent_id = p251s1
+# text = Konsonant c so jako k wurjekuje.
+1	Konsonant	konsonant	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	c	c	X	_	_	1	nmod	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
+4	jako	jako	SCONJ	_	_	5	case	_	_
+5	k	k	X	_	_	1	amod	_	_
+6	wurjekuje	wurjekować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p251s2
+# text = Změna wurjekowanja před wokalomaj "e" a "i" je so pozdźišo stało.
+1	Změna	změna	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+2	wurjekowanja	wurjekowanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	před	před	ADP	_	_	4	case	_	_
+4	wokalomaj	wokal	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Dual	2	nmod	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	e	e	X	_	_	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	10	punct	_	_
+8	a	a	CCONJ	_	_	10	cc	_	_
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	i	i	X	_	_	6	conj	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+13	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
+14	pozdźišo	pozdźe	ADV	_	Degree=Cmp	15	advmod	_	_
+15	stało	stać	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
 # newpar id = p266
 # sent_id = p266s1
 # text = Hižo w lěće 1887 počachu někotři spisowaćeljo knihi w rěči Esperanto spisować abo literaturu z druhich rěčow přełožować.
