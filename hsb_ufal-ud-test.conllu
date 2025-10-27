@@ -1,321 +1,3 @@
-# newpar id = p124
-# sent_id = p124s1
-# text = Oceanija je woznamjenjenje za kulturelne a hospodarske zjeće kupoweho swěta Pacifika ke kontinentej.
-1	Oceanija	Oceanija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	woznamjenjenje	woznamjenjenje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-4	za	za	ADP	_	_	8	case	_	_
-5	kulturelne	kulturelny	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
-6	a	a	CCONJ	_	_	7	cc	_	_
-7	hospodarske	hospodarski	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
-8	zjeće	zjeće	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
-9	kupoweho	kupowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
-10	swěta	swět	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
-11	Pacifika	Pacifik	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-12	ke	k	ADP	_	_	13	case	_	_
-13	kontinentej	kontinent	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p124s2
-# text = Tuta definicija njeje pak geografisce ale tež tektonisce prawa, dokelž teritorije pak na awstralskej, pacifiskej a někotrych mjeńšich platach leža.
-1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	definicija	definicija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-3	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	_
-4	pak	pak	CCONJ	_	_	9	cc	_	_
-5	geografisce	geografisce	ADV	_	Degree=Pos	9	advmod	_	_
-6	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
-7	tež	tež	ADV	_	_	6	fixed	_	_
-8	tektonisce	tektonisce	ADV	_	Degree=Pos	5	conj	_	_
-9	prawa	prawy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	22	punct	_	_
-11	dokelž	dokelž	SCONJ	_	_	22	mark	_	_
-12	teritorije	teritorij	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
-13	pak	pak	CCONJ	_	_	22	cc	_	_
-14	na	na	ADP	_	_	21	case	_	_
-15	awstralskej	awstralski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	pacifiskej	pacifiski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	15	conj	_	_
-18	a	a	CCONJ	_	_	20	cc	_	_
-19	někotrych	někotry	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
-20	mjeńšich	mały	ADJ	_	Case=Loc|Degree=Cmp|Gender=Fem|Number=Plur	15	conj	_	_
-21	platach	plata	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	15	conj	_	_
-22	leža	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	9	punct	_	_
-
-# sent_id = p124s3
-# text = Jako kulturelny kontinent wobhladany wón je najmjeńši na twjerdźowej masy a druhi najmjeńši w nastupanju wobydlerstwa.
-1	Jako	jako	SCONJ	_	_	3	mark	_	_
-2	kulturelny	kulturelny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	kontinent	kontinent	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	acl	_	_
-4	wobhladany	wobhladany	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
-5	wón	wón	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-6	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	najmjeńši	mały	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	0	root	_	_
-8	na	na	ADP	_	_	10	case	_	_
-9	twjerdźowej	twjerdźowy	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	10	amod	_	_
-10	masy	masa	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	_
-11	a	a	CCONJ	_	_	13	cc	_	_
-12	druhi	druhi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	13	acl	_	_
-13	najmjeńši	mały	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	7	conj	_	_
-14	w	w	ADP	_	_	15	case	_	_
-15	nastupanju	nastupanje	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	_
-16	wobydlerstwa	wobydlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = p124s4
-# text = Wjace hač 7.500 kupow wobsahuja hromadźe twjerdźowu přestrjeń wot nimale 1,3 Mio. kwadratowych kilometrow a su po mórskim teritoriju wot něhdźe 70 Mio. kwadratowych kilometrow rozdźělene.
-1	Wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	3	advmod	_	_
-2	hač	hač	SCONJ	_	_	1	fixed	_	_
-3	7	7	NUM	_	NumType=Card	6	nummod:gov	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-5	500	500	NUM	_	NumType=Card	3	compound	_	_
-6	kupow	kupa	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	nsubj	_	_
-7	wobsahuja	wobsahować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	hromadźe	hromadźe	ADV	_	_	7	advmod	_	_
-9	twjerdźowu	twjerdźowy	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
-10	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
-11	wot	wot	ADP	_	_	19	case	_	_
-12	nimale	nimale	ADV	_	_	19	advmod:emph	_	_
-13	1	1	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	3	3	NUM	_	NumType=Card	13	compound	_	_
-16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	19	nummod:gov	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	_
-18	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	19	amod	_	_
-19	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
-20	a	a	CCONJ	_	_	32	cc	_	_
-21	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
-22	po	po	ADP	_	_	24	case	_	_
-23	mórskim	mórski	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	24	amod	_	_
-24	teritoriju	teritorij	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	nmod	_	_
-25	wot	wot	ADP	_	_	31	case	_	_
-26	něhdźe	něhdźe	ADV	_	PronType=Ind	31	advmod:emph	_	_
-27	70	70	NUM	_	NumType=Card	28	compound	_	_
-28	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	31	nummod:gov	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	28	punct	_	_
-30	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	31	amod	_	_
-31	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
-32	rozdźělene	rozdźěleny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	conj	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = p124s5
-# text = Něhdźe 2.100 kupow su z tych wobsydlene, cyłkownje wobydla 14,9 Mio. čłowjekow na tych.
-1	Něhdźe	něhdźe	ADV	_	PronType=Ind	5	advmod:emph	_	_
-2	2	2	NUM	_	NumType=Card	5	nummod:gov	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-4	100	100	NUM	_	NumType=Card	2	compound	_	_
-5	kupow	kupa	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nsubj	_	_
-6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-7	z	z	ADP	_	_	8	case	_	_
-8	tych	tón	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	5	nmod	_	_
-9	wobsydlene	wobsydleny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	cyłkownje	cyłkownje	ADV	_	Degree=Pos	12	advmod	_	_
-12	wobydla	wobydlić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
-13	14	14	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	9	9	NUM	_	NumType=Card	13	compound	_	_
-16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod:gov	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	_
-18	čłowjekow	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	_
-19	na	na	ADP	_	_	20	case	_	_
-20	tych	tón	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	12	obl	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	9	punct	_	_
-
-# newpar id = p155
-# sent_id = p155s1
-# text = W něhdyšej romskej protyce bě december poprawom dźesaty měsac (přir. łać. decem = dźesać) 304 dnjow trajaceho měsačkoweho kalendra.
-1	W	w	ADP	_	_	4	case	_	_
-2	něhdyšej	něhdyši	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-3	romskej	romski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
-4	protyce	protyka	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
-5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
-6	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-7	poprawom	poprawom	ADV	_	Degree=Pos	9	advmod	_	_
-8	dźesaty	dźesaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
-9	měsac	měsac	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	přir	přir	NOUN	_	Abbr=Yes|Animacy=Anim|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-13	łać	łać	ADV	_	Abbr=Yes	15	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	_
-15	decem	decem	X	_	_	11	obj	_	_
-16	=	=	SYM	_	_	17	cc	_	_
-17	dźesać	dźesać	NUM	_	NumType=Card	15	appos	_	SpaceAfter=No
-18	)	)	PUNCT	_	_	11	punct	_	_
-19	304	304	NUM	_	NumType=Card	20	nummod:gov	_	_
-20	dnjow	dźeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
-21	trajaceho	trajacy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
-22	měsačkoweho	měsačkowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
-23	kalendra	kalender	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	9	punct	_	_
-
-# sent_id = p155s2
-# text = W lěće 153 do Krystusa wšak so spočatk lěta wo dwaj měsacaj doprědka sćahny, tak zo poćah mjez mjenom a ličenjom wotpadny.
-1	W	w	ADP	_	_	2	case	_	_
-2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
-3	153	153	NUM	_	NumType=Card	2	nummod	_	_
-4	do	do	ADP	_	_	5	case	_	_
-5	Krystusa	Krystus	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
-6	wšak	wšak	CCONJ	_	_	14	cc	_	_
-7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
-8	spočatk	spočatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-9	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
-10	wo	wo	ADP	_	_	12	case	_	_
-11	dwaj	dwaj	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Dual|NumType=Card	12	nummod	_	_
-12	měsacaj	měsac	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Dual	13	nmod	_	_
-13	doprědka	doprědka	ADV	_	Degree=Pos	14	advmod	_	_
-14	sćahny	sćahnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	23	punct	_	_
-16	tak	tak	ADV	_	ExtPos=CCONJ|PronType=Dem	23	cc	_	_
-17	zo	zo	SCONJ	_	_	16	fixed	_	_
-18	poćah	poćah	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
-19	mjez	mjez	ADP	_	_	20	case	_	_
-20	mjenom	mjeno	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	18	nmod	_	_
-21	a	a	CCONJ	_	_	22	cc	_	_
-22	ličenjom	ličenje	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	20	conj	_	_
-23	wotpadny	wotpadnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	14	punct	_	_
-
-# newpar id = p181
-# sent_id = p181s1
-# text = December započnje so ze samsnym dnjom tydźenja kaž september.
-1	December	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	započnje	započeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
-4	ze	z	ADP	_	_	6	case	_	_
-5	samsnym	samsny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	6	amod	_	_
-6	dnjom	dźeń	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
-7	tydźenja	tydźeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	kaž	kaž	SCONJ	_	_	9	case	_	_
-9	september	september	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p191
-# sent_id = p191s1
-# text = Korsika (francosce Corse, korsiksce Corsica) je štwórta najwjetša kupa Srjedźneho morja.
-1	Korsika	Korsika	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-2	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
-3	francosce	francosce	ADV	_	Degree=Pos	4	advmod	_	_
-4	Corse	Corse	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	korsiksce	korsiksce	ADV	_	Degree=Pos	7	advmod	_	_
-7	Corsica	Corsica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
-8	)	)	PUNCT	_	_	4	punct	_	_
-9	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-10	štwórta	štwórty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
-11	najwjetša	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
-12	kupa	kupa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-13	Srjedźneho	srjedźny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	14	amod	_	_
-14	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	12	punct	_	_
-
-# sent_id = p191s2
-# text = Słuša k Francoskej.
-1	Słuša	Słušeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	k	k	ADP	_	_	3	case	_	_
-3	Francoskej	Francoska	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p191s3
-# text = Ma přestrjeń 8680 km² a cirka tři sta tysac wobydlerjow.
-1	Ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-3	8680	8680	NUM	_	NumType=Card	4	nummod:gov	_	_
-4	km	km	NOUN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No
-5	²	²	SYM	_	_	4	amod	_	_
-6	a	a	CCONJ	_	_	11	cc	_	_
-7	cirka	cirka	ADV	_	Degree=Pos	11	advmod:emph	_	_
-8	tři	tři	NUM	_	NumType=Card	9	compound	_	_
-9	sta	sto	NUM	_	NumType=Card	10	compound	_	_
-10	tysac	tysac	NUM	_	NumType=Card	11	nummod:gov	_	_
-11	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
-
-# newpar id = p240
-# sent_id = p240s1
-# text = 1 leži zdźěla w Europje.
-1	1	1	NUM	_	NumType=Card	2	nummod	_	_
-2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	zdźěla	zdźěla	ADV	_	_	2	advmod	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p240s2
-# text = 2 leži zwjetša w Africe.
-1	2	2	NUM	_	NumType=Card	2	nummod	_	_
-2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	zwjetša	zwjetša	ADV	_	_	2	advmod	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	Africe	Afrika	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p240s3
-# text = 3 leži zdźěla w Oceaniji.
-1	3	3	NUM	_	NumType=Card	2	nummod	_	_
-2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	zdźěla	zdźěla	ADV	_	_	2	advmod	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	Oceaniji	Oceanija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p292
-# sent_id = p292s1
-# text = Padnje-li 29., 30. abo 31. december na póndźelu, da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta.
-1	Padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	SpaceAfter=No
-2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	li	li	SCONJ	_	_	1	mark	_	_
-4	29	29	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	30	30	NUM	_	NumType=Card	4	conj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
-9	abo	abo	CCONJ	_	_	10	cc	_	_
-10	31	31	NUM	_	NumType=Card	4	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
-12	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-13	na	na	ADP	_	_	14	case	_	_
-14	póndźelu	póndźela	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	1	punct	_	_
-16	da	da	ADV	_	_	17	advmod	_	_
-17	přiliča	přiličeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
-19	dny	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
-20	wot	wot	ADP	_	_	21	case	_	_
-21	póndźele	póndźela	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
-22	prěnjemu	prěnjemy	ADJ	_	Case=Dat|Gender=Masc|Number=Sing|NumType=Ord	24	amod	_	_
-23	protykowemu	protykowy	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
-24	tydźenju	tydźeń	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
-25	přichodneho	přichodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
-26	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	17	punct	_	_
-
-# newpar id = p353
-# sent_id = p353s1
-# text = Leži 11 kilometrow na sewjer wot Sardiniskeje, 170 kilometrow na juhowuchod wot Francoskeje, a 90 kilometrow wot Italskeje.
-1	Leži	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	11	11	NUM	_	NumType=Card	3	nummod:gov	_	_
-3	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	obl	_	_
-4	na	na	ADP	_	_	5	case	_	_
-5	sewjer	sewjer	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
-6	wot	wot	ADP	_	_	7	case	_	_
-7	Sardiniskeje	Sardiniska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	170	170	NUM	_	NumType=Card	10	nummod:gov	_	_
-10	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	_
-11	na	na	ADP	_	_	12	case	_	_
-12	juhowuchod	juhowuchod	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
-13	wot	wot	ADP	_	_	14	case	_	_
-14	Francoskeje	Francoska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
-16	a	a	CCONJ	_	_	18	cc	_	_
-17	90	90	NUM	_	NumType=Card	18	nummod:gov	_	_
-18	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	_
-19	wot	wot	ADP	_	_	20	case	_	_
-20	Italskeje	Italska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	_
-
 # newpar id = p5
 # sent_id = p5s1
 # text = Z Mezopotamiskej jako Mjezyrěčina su geografisce dźensniše kónčiny Iraka sewjerowuchodneje Syriskeje kaž tež južnowuchodneje Turkowskeje definowane.
@@ -13209,4 +12891,322 @@
 15	wot	wot	ADP	_	_	16	case	_	_
 16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
+
+# newpar id = p124
+# sent_id = p124s1
+# text = Oceanija je woznamjenjenje za kulturelne a hospodarske zjeće kupoweho swěta Pacifika ke kontinentej.
+1	Oceanija	Oceanija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	woznamjenjenje	woznamjenjenje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	za	za	ADP	_	_	8	case	_	_
+5	kulturelne	kulturelny	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
+6	a	a	CCONJ	_	_	7	cc	_	_
+7	hospodarske	hospodarski	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
+8	zjeće	zjeće	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+9	kupoweho	kupowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
+10	swěta	swět	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	Pacifika	Pacifik	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	ke	k	ADP	_	_	13	case	_	_
+13	kontinentej	kontinent	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p124s2
+# text = Tuta definicija njeje pak geografisce ale tež tektonisce prawa, dokelž teritorije pak na awstralskej, pacifiskej a někotrych mjeńšich platach leža.
+1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	definicija	definicija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+3	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	_
+4	pak	pak	CCONJ	_	_	9	cc	_	_
+5	geografisce	geografisce	ADV	_	Degree=Pos	9	advmod	_	_
+6	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
+7	tež	tež	ADV	_	_	6	fixed	_	_
+8	tektonisce	tektonisce	ADV	_	Degree=Pos	5	conj	_	_
+9	prawa	prawy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	22	punct	_	_
+11	dokelž	dokelž	SCONJ	_	_	22	mark	_	_
+12	teritorije	teritorij	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+13	pak	pak	CCONJ	_	_	22	cc	_	_
+14	na	na	ADP	_	_	21	case	_	_
+15	awstralskej	awstralski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	pacifiskej	pacifiski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	15	conj	_	_
+18	a	a	CCONJ	_	_	20	cc	_	_
+19	někotrych	někotry	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
+20	mjeńšich	mały	ADJ	_	Case=Loc|Degree=Cmp|Gender=Fem|Number=Plur	15	conj	_	_
+21	platach	plata	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	15	conj	_	_
+22	leža	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p124s3
+# text = Jako kulturelny kontinent wobhladany wón je najmjeńši na twjerdźowej masy a druhi najmjeńši w nastupanju wobydlerstwa.
+1	Jako	jako	SCONJ	_	_	3	mark	_	_
+2	kulturelny	kulturelny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	kontinent	kontinent	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	acl	_	_
+4	wobhladany	wobhladany	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
+5	wón	wón	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	najmjeńši	mały	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	0	root	_	_
+8	na	na	ADP	_	_	10	case	_	_
+9	twjerdźowej	twjerdźowy	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	10	amod	_	_
+10	masy	masa	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	_
+11	a	a	CCONJ	_	_	13	cc	_	_
+12	druhi	druhi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	13	acl	_	_
+13	najmjeńši	mały	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	7	conj	_	_
+14	w	w	ADP	_	_	15	case	_	_
+15	nastupanju	nastupanje	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	_
+16	wobydlerstwa	wobydlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p124s4
+# text = Wjace hač 7.500 kupow wobsahuja hromadźe twjerdźowu přestrjeń wot nimale 1,3 Mio. kwadratowych kilometrow a su po mórskim teritoriju wot něhdźe 70 Mio. kwadratowych kilometrow rozdźělene.
+1	Wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	3	advmod	_	_
+2	hač	hač	SCONJ	_	_	1	fixed	_	_
+3	7	7	NUM	_	NumType=Card	6	nummod:gov	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	500	500	NUM	_	NumType=Card	3	compound	_	_
+6	kupow	kupa	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	nsubj	_	_
+7	wobsahuja	wobsahować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	hromadźe	hromadźe	ADV	_	_	7	advmod	_	_
+9	twjerdźowu	twjerdźowy	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
+10	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+11	wot	wot	ADP	_	_	19	case	_	_
+12	nimale	nimale	ADV	_	_	19	advmod:emph	_	_
+13	1	1	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	3	3	NUM	_	NumType=Card	13	compound	_	_
+16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	19	nummod:gov	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	19	amod	_	_
+19	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+20	a	a	CCONJ	_	_	32	cc	_	_
+21	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+22	po	po	ADP	_	_	24	case	_	_
+23	mórskim	mórski	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	24	amod	_	_
+24	teritoriju	teritorij	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	nmod	_	_
+25	wot	wot	ADP	_	_	31	case	_	_
+26	něhdźe	něhdźe	ADV	_	PronType=Ind	31	advmod:emph	_	_
+27	70	70	NUM	_	NumType=Card	28	compound	_	_
+28	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	31	nummod:gov	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	28	punct	_	_
+30	kwadratowych	kwadratowy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	31	amod	_	_
+31	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+32	rozdźělene	rozdźěleny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p124s5
+# text = Něhdźe 2.100 kupow su z tych wobsydlene, cyłkownje wobydla 14,9 Mio. čłowjekow na tych.
+1	Něhdźe	něhdźe	ADV	_	PronType=Ind	5	advmod:emph	_	_
+2	2	2	NUM	_	NumType=Card	5	nummod:gov	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	100	100	NUM	_	NumType=Card	2	compound	_	_
+5	kupow	kupa	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nsubj	_	_
+6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	z	z	ADP	_	_	8	case	_	_
+8	tych	tón	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	5	nmod	_	_
+9	wobsydlene	wobsydleny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	cyłkownje	cyłkownje	ADV	_	Degree=Pos	12	advmod	_	_
+12	wobydla	wobydlić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+13	14	14	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	9	9	NUM	_	NumType=Card	13	compound	_	_
+16	Mio	milion	NUM	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod:gov	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	čłowjekow	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	_
+19	na	na	ADP	_	_	20	case	_	_
+20	tych	tón	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	12	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# newpar id = p240
+# sent_id = p240s1
+# text = 1 leži zdźěla w Europje.
+1	1	1	NUM	_	NumType=Card	2	nummod	_	_
+2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zdźěla	zdźěla	ADV	_	_	2	advmod	_	_
+4	w	w	ADP	_	_	5	case	_	_
+5	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p240s2
+# text = 2 leži zwjetša w Africe.
+1	2	2	NUM	_	NumType=Card	2	nummod	_	_
+2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zwjetša	zwjetša	ADV	_	_	2	advmod	_	_
+4	w	w	ADP	_	_	5	case	_	_
+5	Africe	Afrika	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p240s3
+# text = 3 leži zdźěla w Oceaniji.
+1	3	3	NUM	_	NumType=Card	2	nummod	_	_
+2	leži	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zdźěla	zdźěla	ADV	_	_	2	advmod	_	_
+4	w	w	ADP	_	_	5	case	_	_
+5	Oceaniji	Oceanija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p191
+# sent_id = p191s1
+# text = Korsika (francosce Corse, korsiksce Corsica) je štwórta najwjetša kupa Srjedźneho morja.
+1	Korsika	Korsika	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+2	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	francosce	francosce	ADV	_	Degree=Pos	4	advmod	_	_
+4	Corse	Corse	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	korsiksce	korsiksce	ADV	_	Degree=Pos	7	advmod	_	_
+7	Corsica	Corsica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	4	punct	_	_
+9	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	štwórta	štwórty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
+11	najwjetša	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
+12	kupa	kupa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+13	Srjedźneho	srjedźny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	14	amod	_	_
+14	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = p191s2
+# text = Słuša k Francoskej.
+1	Słuša	Słušeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	k	k	ADP	_	_	3	case	_	_
+3	Francoskej	Francoska	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = p191s3
+# text = Ma přestrjeń 8680 km² a cirka tři sta tysac wobydlerjow.
+1	Ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	8680	8680	NUM	_	NumType=Card	4	nummod:gov	_	_
+4	km	km	NOUN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No
+5	²	²	SYM	_	_	4	amod	_	_
+6	a	a	CCONJ	_	_	11	cc	_	_
+7	cirka	cirka	ADV	_	Degree=Pos	11	advmod:emph	_	_
+8	tři	tři	NUM	_	NumType=Card	9	compound	_	_
+9	sta	sto	NUM	_	NumType=Card	10	compound	_	_
+10	tysac	tysac	NUM	_	NumType=Card	11	nummod:gov	_	_
+11	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# newpar id = p353
+# sent_id = p353s1
+# text = Leži 11 kilometrow na sewjer wot Sardiniskeje, 170 kilometrow na juhowuchod wot Francoskeje, a 90 kilometrow wot Italskeje.
+1	Leži	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	11	11	NUM	_	NumType=Card	3	nummod:gov	_	_
+3	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	obl	_	_
+4	na	na	ADP	_	_	5	case	_	_
+5	sewjer	sewjer	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
+6	wot	wot	ADP	_	_	7	case	_	_
+7	Sardiniskeje	Sardiniska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	170	170	NUM	_	NumType=Card	10	nummod:gov	_	_
+10	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	_
+11	na	na	ADP	_	_	12	case	_	_
+12	juhowuchod	juhowuchod	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
+13	wot	wot	ADP	_	_	14	case	_	_
+14	Francoskeje	Francoska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	a	a	CCONJ	_	_	18	cc	_	_
+17	90	90	NUM	_	NumType=Card	18	nummod:gov	_	_
+18	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	_
+19	wot	wot	ADP	_	_	20	case	_	_
+20	Italskeje	Italska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# newpar id = p155
+# sent_id = p155s1
+# text = W něhdyšej romskej protyce bě december poprawom dźesaty měsac (přir. łać. decem = dźesać) 304 dnjow trajaceho měsačkoweho kalendra.
+1	W	w	ADP	_	_	4	case	_	_
+2	něhdyšej	něhdyši	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	romskej	romski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
+4	protyce	protyka	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+6	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+7	poprawom	poprawom	ADV	_	Degree=Pos	9	advmod	_	_
+8	dźesaty	dźesaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	měsac	měsac	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	přir	přir	NOUN	_	Abbr=Yes|Animacy=Anim|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	łać	łać	ADV	_	Abbr=Yes	15	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	decem	decem	X	_	_	11	obj	_	_
+16	=	=	SYM	_	_	17	cc	_	_
+17	dźesać	dźesać	NUM	_	NumType=Card	15	appos	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	11	punct	_	_
+19	304	304	NUM	_	NumType=Card	20	nummod:gov	_	_
+20	dnjow	dźeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+21	trajaceho	trajacy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
+22	měsačkoweho	měsačkowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
+23	kalendra	kalender	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p155s2
+# text = W lěće 153 do Krystusa wšak so spočatk lěta wo dwaj měsacaj doprědka sćahny, tak zo poćah mjez mjenom a ličenjom wotpadny.
+1	W	w	ADP	_	_	2	case	_	_
+2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+3	153	153	NUM	_	NumType=Card	2	nummod	_	_
+4	do	do	ADP	_	_	5	case	_	_
+5	Krystusa	Krystus	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	wšak	wšak	CCONJ	_	_	14	cc	_	_
+7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
+8	spočatk	spočatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+9	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	wo	wo	ADP	_	_	12	case	_	_
+11	dwaj	dwaj	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Dual|NumType=Card	12	nummod	_	_
+12	měsacaj	měsac	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Dual	13	nmod	_	_
+13	doprědka	doprědka	ADV	_	Degree=Pos	14	advmod	_	_
+14	sćahny	sćahnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	23	punct	_	_
+16	tak	tak	ADV	_	ExtPos=CCONJ|PronType=Dem	23	cc	_	_
+17	zo	zo	SCONJ	_	_	16	fixed	_	_
+18	poćah	poćah	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+19	mjez	mjez	ADP	_	_	20	case	_	_
+20	mjenom	mjeno	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	18	nmod	_	_
+21	a	a	CCONJ	_	_	22	cc	_	_
+22	ličenjom	ličenje	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	20	conj	_	_
+23	wotpadny	wotpadnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	14	punct	_	_
+
+# newpar id = p181
+# sent_id = p181s1
+# text = December započnje so ze samsnym dnjom tydźenja kaž september.
+1	December	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	započnje	započeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+4	ze	z	ADP	_	_	6	case	_	_
+5	samsnym	samsny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	6	amod	_	_
+6	dnjom	dźeń	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
+7	tydźenja	tydźeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	kaž	kaž	SCONJ	_	_	9	case	_	_
+9	september	september	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p292
+# sent_id = p292s1
+# text = Padnje-li 29., 30. abo 31. december na póndźelu, da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta.
+1	Padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	li	li	SCONJ	_	_	1	mark	_	_
+4	29	29	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	30	30	NUM	_	NumType=Card	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	abo	abo	CCONJ	_	_	10	cc	_	_
+10	31	31	NUM	_	NumType=Card	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+12	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+13	na	na	ADP	_	_	14	case	_	_
+14	póndźelu	póndźela	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	1	punct	_	_
+16	da	da	ADV	_	_	17	advmod	_	_
+17	přiliča	přiličeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
+19	dny	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
+20	wot	wot	ADP	_	_	21	case	_	_
+21	póndźele	póndźela	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	prěnjemu	prěnjemy	ADJ	_	Case=Dat|Gender=Masc|Number=Sing|NumType=Ord	24	amod	_	_
+23	protykowemu	protykowy	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	tydźenju	tydźeń	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+25	přichodneho	přichodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	17	punct	_	_
 
