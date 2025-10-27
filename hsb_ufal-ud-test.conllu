@@ -1,18 +1,3 @@
-# newpar id = p50
-# sent_id = p50s1
-# text = Najwjetše přitoki Kaspiskeho morja su Wolga, Ural a Kura.
-1	Najwjetše	wulki	ADJ	_	Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
-2	přitoki	přitok	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	Kaspiskeho	kaspiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	4	amod	_	_
-4	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
-5	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-6	Wolga	Wolga	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	Ural	Ural	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
-9	a	a	CCONJ	_	_	10	cc	_	_
-10	Kura	Kura	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
-
 # newpar id = p98
 # sent_id = p98s1
 # text = Wysokoněmske słowo Wein, starowysokoněmske wîn abo winam, francoske słowo vin a jendźelske słowo wine su wšě z łaćonskeho słowa vinum wupožčene.
@@ -567,85 +552,6 @@
 16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
-# newpar id = p285
-# sent_id = p285s1
-# text = Wulke města na brjohu Kaspiskeho morja su na přikład Machačkala (stolica Dagestana) a Baku (stolica Azerbajdźana).
-1	Wulke	wulki	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
-2	města	město	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
-3	na	na	ADP	_	_	4	case	_	_
-4	brjohu	brjóh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
-5	Kaspiskeho	kaspiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
-6	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
-7	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
-9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
-10	Machačkala	Machačkala	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
-12	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	appos	_	_
-13	Dagestana	Dagestan	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
-14	)	)	PUNCT	_	_	12	punct	_	_
-15	a	a	CCONJ	_	_	16	cc	_	_
-16	Baku	Baku	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
-17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-18	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	appos	_	_
-19	Azerbajdźana	Azerbajdźan	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
-20	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p290
-# sent_id = p290s1
-# text = Kaspiske morjo (azerbajdžansce Xəzər dənizi, persce دریای خزر , rusce Каспийское море, kazachsce Каспий теңізі, turkmensce Hazar deňzi) je najwjetši jězor na Zemi, druhdy waženy za morjo.
-1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
-2	morjo	morjo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
-3	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-4	azerbajdžansce	azerbajdžansce	ADV	_	Degree=Pos	5	advmod	_	_
-5	Xəzər	xəzər	X	_	_	2	appos	_	_
-6	dənizi	dənizi	X	_	_	5	flat	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	persce	persce	ADV	_	Degree=Pos	9	advmod	_	_
-9	دریای	دریای	X	_	_	5	conj	_	_
-10	خزر	خزر	X	_	_	9	flat	_	_
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	rusce	rusce	ADV	_	Degree=Pos	13	advmod	_	_
-13	Каспийское	каспийское	X	_	_	5	conj	_	_
-14	море	море	X	_	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	17	punct	_	_
-16	kazachsce	kazachsce	ADV	_	Degree=Pos	17	advmod	_	_
-17	Каспий	каспий	X	_	_	5	conj	_	_
-18	теңізі	теңізі	X	_	_	17	flat	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	5	punct	_	_
-20	turkmensce	turkmensce	ADV	_	Degree=Pos	21	advmod	_	_
-21	Hazar	hazar	X	_	_	5	dep	_	_
-22	deňzi	deňzi	X	_	_	21	flat	_	SpaceAfter=No
-23	)	)	PUNCT	_	_	5	punct	_	_
-24	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
-25	najwjetši	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	26	amod	_	_
-26	jězor	jězor	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-27	na	na	ADP	_	_	28	case	_	_
-28	Zemi	Zemja	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	31	punct	_	_
-30	druhdy	druhdy	ADV	_	PronType=Ind	31	advmod	_	_
-31	waženy	waženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	26	acl	_	_
-32	za	za	ADP	_	_	33	case	_	_
-33	morjo	morjo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	26	punct	_	_
-
-# sent_id = p290s2
-# text = Ma přestrjeń 371 000 kwadratnych kilometrow a wobjim 78 200 kubikowych kilometrow.
-1	Ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-3	371	371	NUM	_	NumType=Card	6	nummod:gov	_	_
-4	000	000	NUM	_	NumType=Card	3	compound	_	_
-5	kwadratnych	kwadratny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
-6	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
-7	a	a	CCONJ	_	_	8	cc	_	_
-8	wobjim	wobjim	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
-9	78	78	NUM	_	NumType=Card	12	nummod:gov	_	_
-10	200	200	NUM	_	NumType=Card	9	compound	_	_
-11	kubikowych	kubikowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	_
-12	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	_
-
 # newpar id = p292
 # sent_id = p292s1
 # text = Padnje-li 29., 30. abo 31. december na póndźelu, da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta.
@@ -676,74 +582,6 @@
 25	přichodneho	přichodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
 26	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	17	punct	_	_
-
-# newpar id = p335
-# sent_id = p335s1
-# text = Kaspiske morjo leži w Aziji a mjezuje na juhu z Iranom (dołhosć brjoha: 750 km), na zapadźe z Azerbajdźanom (dołhosć brjoha: 800 km) a z Ruskej federaciju (dołhosć brjoha: 960 km) a na wuchodźe z Kazachstanom (dołhosć brjoha: 1894 km) a z Turkmenistanom (dołhosć brjoha: 1768 km).
-1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
-2	morjo	morjo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
-3	leži	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	Aziji	Azija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-6	a	a	CCONJ	_	_	7	cc	_	_
-7	mjezuje	mjezować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-8	na	na	ADP	_	_	9	case	_	_
-9	juhu	juh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
-10	z	z	ADP	_	_	11	case	_	_
-11	Iranom	Iran	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
-12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
-13	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	_
-14	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-15	:	:	PUNCT	_	_	17	punct	_	_
-16	750	750	NUM	_	NumType=Card	17	nummod:gov	_	_
-17	km	km	NOUN	_	Abbr=Yes	13	appos	_	SpaceAfter=No
-18	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	21	punct	_	_
-20	na	na	ADP	_	_	21	case	_	_
-21	zapadźe	zapad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	conj	_	_
-22	z	z	ADP	_	_	23	case	_	_
-23	Azerbajdźanom	Azerbajdźan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	orphan	_	_
-24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
-25	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	parataxis	_	_
-26	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
-27	:	:	PUNCT	_	_	29	punct	_	_
-28	800	800	NUM	_	NumType=Card	29	nummod:gov	_	_
-29	km	km	NOUN	_	Abbr=Yes	25	appos	_	SpaceAfter=No
-30	)	)	PUNCT	_	_	25	punct	_	_
-31	a	a	CCONJ	_	_	34	cc	_	_
-32	z	z	ADP	_	_	34	case	_	_
-33	Ruskej	ruski	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
-34	federaciju	federacija	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	23	conj	_	_
-35	(	(	PUNCT	_	_	36	punct	_	SpaceAfter=No
-36	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	34	parataxis	_	_
-37	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
-38	:	:	PUNCT	_	_	40	punct	_	_
-39	960	960	NUM	_	NumType=Card	40	nummod:gov	_	_
-40	km	km	NOUN	_	Abbr=Yes	36	appos	_	SpaceAfter=No
-41	)	)	PUNCT	_	_	36	punct	_	_
-42	a	a	CCONJ	_	_	44	cc	_	_
-43	na	na	ADP	_	_	44	case	_	_
-44	wuchodźe	wuchod	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	conj	_	_
-45	z	z	ADP	_	_	46	case	_	_
-46	Kazachstanom	Kazachstan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	44	orphan	_	_
-47	(	(	PUNCT	_	_	48	punct	_	SpaceAfter=No
-48	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	46	parataxis	_	_
-49	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
-50	:	:	PUNCT	_	_	52	punct	_	_
-51	1894	1894	NUM	_	NumType=Card	52	nummod:gov	_	_
-52	km	km	NOUN	_	Abbr=Yes	48	appos	_	SpaceAfter=No
-53	)	)	PUNCT	_	_	48	punct	_	_
-54	a	a	CCONJ	_	_	56	cc	_	_
-55	z	z	ADP	_	_	56	case	_	_
-56	Turkmenistanom	Turkmenistan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	46	conj	_	_
-57	(	(	PUNCT	_	_	58	punct	_	SpaceAfter=No
-58	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	56	appos	_	_
-59	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	SpaceAfter=No
-60	:	:	PUNCT	_	_	62	punct	_	_
-61	1768	1768	NUM	_	NumType=Card	62	nummod:gov	_	_
-62	km	km	NOUN	_	Abbr=Yes	58	appos	_	SpaceAfter=No
-63	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
-64	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar id = p353
 # sent_id = p353s1
@@ -13209,4 +13047,166 @@
 7	w	w	ADP	_	_	8	case	_	_
 8	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
 9	1961	1961	NUM	_	NumType=Card	8	nummod	_	_
+
+# newpar id = p50
+# sent_id = p50s1
+# text = Najwjetše přitoki Kaspiskeho morja su Wolga, Ural a Kura.
+1	Najwjetše	wulki	ADJ	_	Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
+2	přitoki	přitok	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	Kaspiskeho	kaspiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	4	amod	_	_
+4	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	Wolga	Wolga	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Ural	Ural	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+9	a	a	CCONJ	_	_	10	cc	_	_
+10	Kura	Kura	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p285
+# sent_id = p285s1
+# text = Wulke města na brjohu Kaspiskeho morja su na přikład Machačkala (stolica Dagestana) a Baku (stolica Azerbajdźana).
+1	Wulke	wulki	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
+2	města	město	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	na	na	ADP	_	_	4	case	_	_
+4	brjohu	brjóh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Kaspiskeho	kaspiski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
+6	morja	morjo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
+9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
+10	Machačkala	Machačkala	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	appos	_	_
+13	Dagestana	Dagestan	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	12	punct	_	_
+15	a	a	CCONJ	_	_	16	cc	_	_
+16	Baku	Baku	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	appos	_	_
+19	Azerbajdźana	Azerbajdźan	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p290
+# sent_id = p290s1
+# text = Kaspiske morjo (azerbajdžansce Xəzər dənizi, persce دریای خزر , rusce Каспийское море, kazachsce Каспий теңізі, turkmensce Hazar deňzi) je najwjetši jězor na Zemi, druhdy waženy za morjo.
+1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	morjo	morjo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+3	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	azerbajdžansce	azerbajdžansce	ADV	_	Degree=Pos	5	advmod	_	_
+5	Xəzər	xəzər	X	_	_	2	appos	_	_
+6	dənizi	dənizi	X	_	_	5	flat	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	persce	persce	ADV	_	Degree=Pos	9	advmod	_	_
+9	دریای	دریای	X	_	_	5	conj	_	_
+10	خزر	خزر	X	_	_	9	flat	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	rusce	rusce	ADV	_	Degree=Pos	13	advmod	_	_
+13	Каспийское	каспийское	X	_	_	5	conj	_	_
+14	море	море	X	_	_	13	flat	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	kazachsce	kazachsce	ADV	_	Degree=Pos	17	advmod	_	_
+17	Каспий	каспий	X	_	_	5	conj	_	_
+18	теңізі	теңізі	X	_	_	17	flat	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	5	punct	_	_
+20	turkmensce	turkmensce	ADV	_	Degree=Pos	21	advmod	_	_
+21	Hazar	hazar	X	_	_	5	dep	_	_
+22	deňzi	deňzi	X	_	_	21	flat	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	5	punct	_	_
+24	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+25	najwjetši	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	26	amod	_	_
+26	jězor	jězor	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+27	na	na	ADP	_	_	28	case	_	_
+28	Zemi	Zemja	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	druhdy	druhdy	ADV	_	PronType=Ind	31	advmod	_	_
+31	waženy	waženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	26	acl	_	_
+32	za	za	ADP	_	_	33	case	_	_
+33	morjo	morjo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = p290s2
+# text = Ma přestrjeń 371 000 kwadratnych kilometrow a wobjim 78 200 kubikowych kilometrow.
+1	Ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	přestrjeń	přestrjeń	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	371	371	NUM	_	NumType=Card	6	nummod:gov	_	_
+4	000	000	NUM	_	NumType=Card	3	compound	_	_
+5	kwadratnych	kwadratny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
+6	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+7	a	a	CCONJ	_	_	8	cc	_	_
+8	wobjim	wobjim	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
+9	78	78	NUM	_	NumType=Card	12	nummod:gov	_	_
+10	200	200	NUM	_	NumType=Card	9	compound	_	_
+11	kubikowych	kubikowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	_
+12	kilometrow	kilometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# newpar id = p335
+# sent_id = p335s1
+# text = Kaspiske morjo leži w Aziji a mjezuje na juhu z Iranom (dołhosć brjoha: 750 km), na zapadźe z Azerbajdźanom (dołhosć brjoha: 800 km) a z Ruskej federaciju (dołhosć brjoha: 960 km) a na wuchodźe z Kazachstanom (dołhosć brjoha: 1894 km) a z Turkmenistanom (dołhosć brjoha: 1768 km).
+1	Kaspiske	kaspiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	morjo	morjo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	leži	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	w	w	ADP	_	_	5	case	_	_
+5	Aziji	Azija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	a	a	CCONJ	_	_	7	cc	_	_
+7	mjezuje	mjezować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	na	na	ADP	_	_	9	case	_	_
+9	juhu	juh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+10	z	z	ADP	_	_	11	case	_	_
+11	Iranom	Iran	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	_
+14	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	17	punct	_	_
+16	750	750	NUM	_	NumType=Card	17	nummod:gov	_	_
+17	km	km	NOUN	_	Abbr=Yes	13	appos	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	na	na	ADP	_	_	21	case	_	_
+21	zapadźe	zapad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	conj	_	_
+22	z	z	ADP	_	_	23	case	_	_
+23	Azerbajdźanom	Azerbajdźan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	orphan	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	parataxis	_	_
+26	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	29	punct	_	_
+28	800	800	NUM	_	NumType=Card	29	nummod:gov	_	_
+29	km	km	NOUN	_	Abbr=Yes	25	appos	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	25	punct	_	_
+31	a	a	CCONJ	_	_	34	cc	_	_
+32	z	z	ADP	_	_	34	case	_	_
+33	Ruskej	ruski	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	federaciju	federacija	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	23	conj	_	_
+35	(	(	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	34	parataxis	_	_
+37	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+38	:	:	PUNCT	_	_	40	punct	_	_
+39	960	960	NUM	_	NumType=Card	40	nummod:gov	_	_
+40	km	km	NOUN	_	Abbr=Yes	36	appos	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	36	punct	_	_
+42	a	a	CCONJ	_	_	44	cc	_	_
+43	na	na	ADP	_	_	44	case	_	_
+44	wuchodźe	wuchod	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	conj	_	_
+45	z	z	ADP	_	_	46	case	_	_
+46	Kazachstanom	Kazachstan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	44	orphan	_	_
+47	(	(	PUNCT	_	_	48	punct	_	SpaceAfter=No
+48	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	46	parataxis	_	_
+49	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
+50	:	:	PUNCT	_	_	52	punct	_	_
+51	1894	1894	NUM	_	NumType=Card	52	nummod:gov	_	_
+52	km	km	NOUN	_	Abbr=Yes	48	appos	_	SpaceAfter=No
+53	)	)	PUNCT	_	_	48	punct	_	_
+54	a	a	CCONJ	_	_	56	cc	_	_
+55	z	z	ADP	_	_	56	case	_	_
+56	Turkmenistanom	Turkmenistan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	46	conj	_	_
+57	(	(	PUNCT	_	_	58	punct	_	SpaceAfter=No
+58	dołhosć	dołhosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	56	appos	_	_
+59	brjoha	brjóh	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	SpaceAfter=No
+60	:	:	PUNCT	_	_	62	punct	_	_
+61	1768	1768	NUM	_	NumType=Card	62	nummod:gov	_	_
+62	km	km	NOUN	_	Abbr=Yes	58	appos	_	SpaceAfter=No
+63	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	3	punct	_	_
 
