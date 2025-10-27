@@ -1,101 +1,3 @@
-# newpar id = p120
-# sent_id = p120s1
-# text = Rotaciska wóska zemje njeje zrunana k ekliptice, ale ma k jeje padorunje nuhel wot něhdźe 23° 26'.
-1	Rotaciska	rotaciski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	wóska	wóska	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	zrunana	zrunany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-6	k	k	ADP	_	_	7	case	_	_
-7	ekliptice	ekliptika	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	ale	ale	CCONJ	_	_	10	cc	_	_
-10	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-11	k	k	ADP	_	_	12	case	_	_
-12	jeje	wón	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
-13	padorunje	padorunje	ADV	_	Degree=Pos	10	advmod	_	_
-14	nuhel	nuhel	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
-15	wot	wot	ADP	_	_	18	case	_	_
-16	něhdźe	něhdźe	ADV	_	PronType=Ind	18	advmod:emph	_	_
-17	23	23	NUM	_	NumType=Card	18	nummod	_	SpaceAfter=No
-18	°	°	SYM	_	_	14	nmod	_	_
-19	26	26	NUM	_	NumType=Card	20	nummod	_	SpaceAfter=No
-20	'	'	SYM	_	_	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = p120s2
-# text = Tutón nuhel zawinuje fenomen měnjacych počasow.
-1	Tutón	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	nuhel	nuhel	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	zawinuje	zawinować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	fenomen	fenomen	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
-5	měnjacych	měnjacy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
-6	počasow	počas	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p120s3
-# text = Wona njeje konstantna, ale wariěruje (z periodźe wot něhdźe 40.000 lětow) mjez 21° 55' a 24° 18', wobwliwujo klimat zemje.
-1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	konstantna	konstantny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	ale	ale	CCONJ	_	_	6	cc	_	_
-6	wariěruje	wariěrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	z	z	ADP	_	_	9	case	_	_
-9	periodźe	perioda	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
-10	wot	wot	ADP	_	_	15	case	_	_
-11	něhdźe	něhdźe	ADV	_	PronType=Ind	15	advmod:emph	_	_
-12	40	40	NUM	_	NumType=Card	15	nummod:gov	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
-14	000	000	NUM	_	NumType=Card	12	compound	_	_
-15	lětow	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
-16	)	)	PUNCT	_	_	9	punct	_	_
-17	mjez	mjez	ADP	_	_	19	case	_	_
-18	21	21	NUM	_	NumType=Card	19	nummod	_	SpaceAfter=No
-19	°	°	SYM	_	_	6	obl	_	_
-20	55	55	NUM	_	NumType=Card	21	nummod	_	SpaceAfter=No
-21	'	'	SYM	_	_	19	nmod	_	_
-22	a	a	CCONJ	_	_	24	cc	_	_
-23	24	24	NUM	_	NumType=Card	24	nummod	_	SpaceAfter=No
-24	°	°	SYM	_	_	19	conj	_	_
-25	18	18	NUM	_	NumType=Card	26	nummod	_	SpaceAfter=No
-26	'	'	SYM	_	_	24	nmod	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	28	punct	_	_
-28	wobwliwujo	wobwliwować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
-29	klimat	klimat	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
-30	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p120s4
-# text = Wona nětko so zmjeńšuje; něhdźe 4300 budźe srjedźnu hódnotu wot 23°06' docpěwać a něhdźe w lěće 25.000 minimalnu hódnotu.
-1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	nětko	nětko	ADV	_	PronType=Dem	4	advmod	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	obj	_	_
-4	zmjeńšuje	zmjeńšować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	;	;	PUNCT	_	_	16	punct	_	_
-6	něhdźe	něhdźe	ADV	_	PronType=Ind	7	advmod:emph	_	_
-7	4300	4300	NUM	_	NumType=Card	16	obl	_	_
-8	budźe	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
-9	srjedźnu	srjedźny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
-10	hódnotu	hódnota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
-11	wot	wot	ADP	_	_	13	case	_	_
-12	23	23	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
-13	°	°	SYM	_	_	10	nmod	_	SpaceAfter=No
-14	06	06	NUM	_	NumType=Card	15	nummod	_	SpaceAfter=No
-15	'	'	SYM	_	_	13	nmod	_	_
-16	docpěwać	docpěwać	VERB	_	VerbForm=Inf	4	conj	_	_
-17	a	a	CCONJ	_	_	25	cc	_	_
-18	něhdźe	něhdźe	ADV	_	PronType=Ind	20	advmod:emph	_	_
-19	w	w	ADP	_	_	20	case	_	_
-20	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	25	orphan	_	_
-21	25	25	NUM	_	NumType=Card	20	nummod	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
-23	000	000	NUM	_	NumType=Card	21	compound	_	_
-24	minimalnu	minimalny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	25	amod	_	_
-25	hódnotu	hódnota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	4	punct	_	_
-
 # newpar id = p124
 # sent_id = p124s1
 # text = Oceanija je woznamjenjenje za kulturelne a hospodarske zjeće kupoweho swěta Pacifika ke kontinentej.
@@ -357,27 +259,6 @@
 4	w	w	ADP	_	_	5	case	_	_
 5	Oceaniji	Oceanija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p260
-# sent_id = p260s1
-# text = Orbity druhich planetow słónca njejsu runje w ekliptice, ale tež nic přejara daloke wot toho.
-1	Orbity	orbit	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
-2	druhich	druhi	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
-3	planetow	planet	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
-4	słónca	słónco	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
-5	njejsu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	runje	runje	ADV	_	Degree=Pos	0	root	_	_
-7	w	w	ADP	_	_	8	case	_	_
-8	ekliptice	ekliptika	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	_
-10	ale	ale	CCONJ	_	_	14	cc	_	_
-11	tež	tež	ADV	_	_	14	advmod	_	_
-12	nic	nic	PART	_	Polarity=Neg	14	advmod	_	_
-13	přejara	přejara	ADV	_	Degree=Pos	14	advmod	_	_
-14	daloke	daloki	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	_
-15	wot	wot	ADP	_	_	16	case	_	_
-16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	6	punct	_	_
 
 # newpar id = p292
 # sent_id = p292s1
@@ -13209,4 +13090,123 @@
 43	stej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
 44	znatej	znaty	ADJ	_	Case=Nom|Gender=Neut|Number=Dual|VerbForm=Part|Voice=Pass	6	advcl	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	6	punct	_	_
+
+# newpar id = p120
+# sent_id = p120s1
+# text = Rotaciska wóska zemje njeje zrunana k ekliptice, ale ma k jeje padorunje nuhel wot něhdźe 23° 26'.
+1	Rotaciska	rotaciski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	wóska	wóska	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	zrunana	zrunany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+6	k	k	ADP	_	_	7	case	_	_
+7	ekliptice	ekliptika	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	ale	ale	CCONJ	_	_	10	cc	_	_
+10	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	k	k	ADP	_	_	12	case	_	_
+12	jeje	wón	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
+13	padorunje	padorunje	ADV	_	Degree=Pos	10	advmod	_	_
+14	nuhel	nuhel	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+15	wot	wot	ADP	_	_	18	case	_	_
+16	něhdźe	něhdźe	ADV	_	PronType=Ind	18	advmod:emph	_	_
+17	23	23	NUM	_	NumType=Card	18	nummod	_	SpaceAfter=No
+18	°	°	SYM	_	_	14	nmod	_	_
+19	26	26	NUM	_	NumType=Card	20	nummod	_	SpaceAfter=No
+20	'	'	SYM	_	_	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = p120s2
+# text = Tutón nuhel zawinuje fenomen měnjacych počasow.
+1	Tutón	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	nuhel	nuhel	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	zawinuje	zawinować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	fenomen	fenomen	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	měnjacych	měnjacy	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
+6	počasow	počas	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p120s3
+# text = Wona njeje konstantna, ale wariěruje (z periodźe wot něhdźe 40.000 lětow) mjez 21° 55' a 24° 18', wobwliwujo klimat zemje.
+1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	konstantna	konstantny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	ale	ale	CCONJ	_	_	6	cc	_	_
+6	wariěruje	wariěrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	z	z	ADP	_	_	9	case	_	_
+9	periodźe	perioda	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+10	wot	wot	ADP	_	_	15	case	_	_
+11	něhdźe	něhdźe	ADV	_	PronType=Ind	15	advmod:emph	_	_
+12	40	40	NUM	_	NumType=Card	15	nummod:gov	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	000	000	NUM	_	NumType=Card	12	compound	_	_
+15	lětow	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	9	punct	_	_
+17	mjez	mjez	ADP	_	_	19	case	_	_
+18	21	21	NUM	_	NumType=Card	19	nummod	_	SpaceAfter=No
+19	°	°	SYM	_	_	6	obl	_	_
+20	55	55	NUM	_	NumType=Card	21	nummod	_	SpaceAfter=No
+21	'	'	SYM	_	_	19	nmod	_	_
+22	a	a	CCONJ	_	_	24	cc	_	_
+23	24	24	NUM	_	NumType=Card	24	nummod	_	SpaceAfter=No
+24	°	°	SYM	_	_	19	conj	_	_
+25	18	18	NUM	_	NumType=Card	26	nummod	_	SpaceAfter=No
+26	'	'	SYM	_	_	24	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	wobwliwujo	wobwliwować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+29	klimat	klimat	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
+30	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p120s4
+# text = Wona nětko so zmjeńšuje; něhdźe 4300 budźe srjedźnu hódnotu wot 23°06' docpěwać a něhdźe w lěće 25.000 minimalnu hódnotu.
+1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	nětko	nětko	ADV	_	PronType=Dem	4	advmod	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	zmjeńšuje	zmjeńšować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	;	;	PUNCT	_	_	16	punct	_	_
+6	něhdźe	něhdźe	ADV	_	PronType=Ind	7	advmod:emph	_	_
+7	4300	4300	NUM	_	NumType=Card	16	obl	_	_
+8	budźe	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+9	srjedźnu	srjedźny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
+10	hódnotu	hódnota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+11	wot	wot	ADP	_	_	13	case	_	_
+12	23	23	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
+13	°	°	SYM	_	_	10	nmod	_	SpaceAfter=No
+14	06	06	NUM	_	NumType=Card	15	nummod	_	SpaceAfter=No
+15	'	'	SYM	_	_	13	nmod	_	_
+16	docpěwać	docpěwać	VERB	_	VerbForm=Inf	4	conj	_	_
+17	a	a	CCONJ	_	_	25	cc	_	_
+18	něhdźe	něhdźe	ADV	_	PronType=Ind	20	advmod:emph	_	_
+19	w	w	ADP	_	_	20	case	_	_
+20	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	25	orphan	_	_
+21	25	25	NUM	_	NumType=Card	20	nummod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	000	000	NUM	_	NumType=Card	21	compound	_	_
+24	minimalnu	minimalny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	25	amod	_	_
+25	hódnotu	hódnota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# newpar id = p260
+# sent_id = p260s1
+# text = Orbity druhich planetow słónca njejsu runje w ekliptice, ale tež nic přejara daloke wot toho.
+1	Orbity	orbit	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	druhich	druhi	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
+3	planetow	planet	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	słónca	słónco	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	njejsu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	runje	runje	ADV	_	Degree=Pos	0	root	_	_
+7	w	w	ADP	_	_	8	case	_	_
+8	ekliptice	ekliptika	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	ale	ale	CCONJ	_	_	14	cc	_	_
+11	tež	tež	ADV	_	_	14	advmod	_	_
+12	nic	nic	PART	_	Polarity=Neg	14	advmod	_	_
+13	přejara	přejara	ADV	_	Degree=Pos	14	advmod	_	_
+14	daloke	daloki	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	_
+15	wot	wot	ADP	_	_	16	case	_	_
+16	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
 
