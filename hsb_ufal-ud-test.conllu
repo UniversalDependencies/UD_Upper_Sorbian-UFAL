@@ -1,80 +1,3 @@
-# newpar id = p98
-# sent_id = p98s1
-# text = Wysokoněmske słowo Wein, starowysokoněmske wîn abo winam, francoske słowo vin a jendźelske słowo wine su wšě z łaćonskeho słowa vinum wupožčene.
-1	Wysokoněmske	wysokoněmski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
-2	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
-3	Wein	wein	X	_	_	2	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	starowysokoněmske	starowysokoněmske	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	amod	_	_
-6	wîn	wîn	X	_	_	2	conj	_	_
-7	abo	abo	CCONJ	_	_	8	cc	_	_
-8	winam	winam	X	_	_	6	conj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	francoske	francoski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	11	amod	_	_
-11	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
-12	vin	vin	X	_	_	11	nmod	_	_
-13	a	a	CCONJ	_	_	15	cc	_	_
-14	jendźelske	jendźelski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
-15	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
-16	wine	wine	X	_	_	15	nmod	_	_
-17	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-18	wšě	wšě	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	2	det	_	_
-19	z	z	ADP	_	_	21	case	_	_
-20	łaćonskeho	łaćonski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	21	amod	_	_
-21	słowa	słowo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
-22	vinum	vinum	X	_	_	21	nmod	_	_
-23	wupožčene	wupožčeny	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	23	punct	_	_
-
-# sent_id = p98s2
-# text = Tež waliziske słowo gwin ale tež irske fion su samsneho pochada.
-1	Tež	tež	ADV	_	_	11	advmod	_	_
-2	waliziske	waliziski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
-3	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
-4	gwin	gwin	X	_	_	3	nmod	_	_
-5	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
-6	tež	tež	ADV	_	_	5	fixed	_	_
-7	irske	irski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
-8	fion	fion	X	_	_	3	conj	_	_
-9	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-10	samsneho	samsny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	11	amod	_	_
-11	pochada	pochad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-
-# sent_id = p98s3
-# text = To so přez fakt wujasni, zo Germanojo ale tež Keltojo su prěni raz přez Romjanow we wjetšim rozměrje z winje do dótknjenja přišli a z tym łaćonske słowo přewzali.
-1	To	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
-3	přez	přez	ADP	_	_	4	case	_	_
-4	fakt	fakt	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
-5	wujasni	wujasnić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	24	punct	_	_
-7	zo	zo	SCONJ	_	_	24	mark	_	_
-8	Germanojo	German	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
-9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
-10	tež	tež	ADV	_	_	9	fixed	_	_
-11	Keltojo	Kelt	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
-12	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
-13	prěni	prěni	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
-14	raz	raz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obl	_	_
-15	přez	přez	ADP	_	_	16	case	_	_
-16	Romjanow	Romjan	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	24	obl	_	_
-17	we	w	ADP	_	_	19	case	_	_
-18	wjetšim	wulki	ADJ	_	Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing	19	amod	_	_
-19	rozměrje	rozměr	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	_
-20	z	z	ADP	_	_	21	case	_	_
-21	winje	wino	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	24	obl	_	_
-22	do	do	ADP	_	_	23	case	_	_
-23	dótknjenja	dótknjenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	obl	_	_
-24	přišli	přińć	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
-25	a	a	CCONJ	_	_	30	cc	_	_
-26	z	z	ADP	_	_	27	case	_	_
-27	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	_
-28	łaćonske	łaćonski	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	29	amod	_	_
-29	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	_
-30	přewzali	přewzać	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	24	conj	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	5	punct	_	_
-
 # newpar id = p120
 # sent_id = p120s1
 # text = Rotaciska wóska zemje njeje zrunana k ekliptice, ale ma k jeje padorunje nuhel wot něhdźe 23° 26'.
@@ -407,102 +330,6 @@
 11	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
 
-# newpar id = p239
-# sent_id = p239s1
-# text = Wino je alkoholiski napoj ze z droždźemi předźěłaneje brěčki winowych jahodow.
-1	Wino	wino	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	alkoholiski	alkoholiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	napoj	napoj	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-5	ze	z	ADP	_	_	9	case	_	_
-6	z	z	ADP	_	_	7	case	_	_
-7	droždźemi	droždźe	NOUN	_	Case=Ins|Number=Ptan	8	nmod	_	_
-8	předźěłaneje	předźěłany	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	9	amod	_	_
-9	brěčki	brěčka	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
-10	winowych	winowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
-11	jahodow	jahoda	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p239s2
-# text = Jahody rostu w kićojtych pakićach na winowym pruće.
-1	Jahody	jahoda	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
-2	rostu	rosć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	w	w	ADP	_	_	5	case	_	_
-4	kićojtych	kićojty	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
-5	pakićach	pakić	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	_
-6	na	na	ADP	_	_	8	case	_	_
-7	winowym	winowy	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	8	amod	_	_
-8	pruće	prut	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p239s3
-# text = Tute pochadźeja zwjetša wot europskeho dobreho winowca (Vitis vinifera subsp. vinifera), kotryž pak njeje rezistentny přećiwo winowej šmicy.
-1	Tute	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	_
-2	pochadźeja	pochadźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	zwjetša	zwjetša	ADV	_	_	2	advmod	_	_
-4	wot	wot	ADP	_	_	7	case	_	_
-5	europskeho	europski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
-6	dobreho	dobry	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
-7	winowca	winowc	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	_
-8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	Vitis	vitis	X	_	_	7	appos	_	_
-10	vinifera	vinifera	X	_	_	9	flat	_	_
-11	subsp	subsp	X	_	_	9	flat	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-13	vinifera	vinifera	X	_	_	9	flat	_	SpaceAfter=No
-14	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	19	punct	_	_
-16	kotryž	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
-17	pak	pak	CCONJ	_	_	19	cc	_	_
-18	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	19	cop	_	_
-19	rezistentny	rezistentny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	acl	_	_
-20	přećiwo	přećiwo	ADP	_	_	22	case	_	_
-21	winowej	winowy	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
-22	šmicy	šmica	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p239s4
-# text = Tohodla so na druhe družiny, kaž na př. brjohowy winowc (Vitis riparia, němsce Uferrebe), Vitis rupestris, wapnowy winowc (Vitis berlandieri, němsce Kalk-Rebe) a jich hybridy našćěpi.
-1	Tohodla	tohodla	ADV	_	PronType=Dem	38	advmod	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	38	expl:pass	_	_
-3	na	na	ADP	_	_	5	case	_	_
-4	druhe	druhi	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
-5	družiny	družina	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	38	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	12	punct	_	_
-7	kaž	kaž	SCONJ	_	_	12	mark	_	_
-8	na	na	ADP	_	ExtPos=ADV	12	advmod:emph	_	_
-9	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
-11	brjohowy	brjohowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
-12	winowc	winowc	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
-13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
-14	Vitis	vitis	X	_	_	12	appos	_	_
-15	riparia	riparia	X	_	_	14	flat	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	14	punct	_	_
-17	němsce	němsce	ADV	_	Degree=Pos	18	advmod	_	_
-18	Uferrebe	uferrebe	X	_	_	14	appos	_	SpaceAfter=No
-19	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	_
-21	Vitis	vitis	X	_	_	12	conj	_	_
-22	rupestris	rupestris	X	_	_	21	flat	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	25	punct	_	_
-24	wapnowy	wapnowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
-25	winowc	winowc	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
-26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
-27	Vitis	vitis	X	_	_	25	appos	_	_
-28	berlandieri	berlandieri	X	_	_	27	flat	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	27	punct	_	_
-30	němsce	němsce	ADV	_	Degree=Pos	31	advmod	_	_
-31	Kalk	kalk	X	_	_	27	appos	_	SpaceAfter=No
-32	-	-	PUNCT	_	_	31	punct	_	SpaceAfter=No
-33	Rebe	rebe	X	_	_	31	flat	_	SpaceAfter=No
-34	)	)	PUNCT	_	_	27	punct	_	_
-35	a	a	CCONJ	_	_	37	cc	_	_
-36	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
-37	hybridy	hybrid	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
-38	našćěpi	našćěpić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	38	punct	_	_
-
 # newpar id = p240
 # sent_id = p240s1
 # text = 1 leži zdźěla w Europje.
@@ -607,55 +434,6 @@
 19	wot	wot	ADP	_	_	20	case	_	_
 20	Italskeje	Italska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
-
-# newpar id = p375
-# sent_id = p375s1
-# text = Přez pozdźiše wikowanske poćahi so dósta wopřijeće wina wot Germanow hač do Słowjanow (hlej serbske wopřijeće wino a ruske słowo vinó) a hač do Baltow, při čimž na př. w Litawskej wopřijeće vynas a w Letiskej słowo vins stej znatej.
-1	Přez	přez	ADP	_	_	4	case	_	_
-2	pozdźiše	pózdni	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	4	amod	_	_
-3	wikowanske	wikowanski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-4	poćahi	poćah	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
-6	dósta	dóstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	wopřijeće	wopřijeće	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-8	wina	wino	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
-9	wot	wot	ADP	_	_	10	case	_	_
-10	Germanow	German	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
-11	hač	hač	CCONJ	_	_	13	cc	_	_
-12	do	do	ADP	_	_	13	case	_	_
-13	Słowjanow	Słowjan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
-14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	parataxis	_	_
-16	serbske	serbski	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
-17	wopřijeće	wopřijeće	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
-18	wino	wino	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	nmod	_	_
-19	a	a	CCONJ	_	_	21	cc	_	_
-20	ruske	ruski	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
-21	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
-22	vinó	vinó	X	_	_	21	nmod	_	SpaceAfter=No
-23	)	)	PUNCT	_	_	15	punct	_	_
-24	a	a	CCONJ	_	_	27	cc	_	_
-25	hač	hač	CCONJ	_	_	27	cc	_	_
-26	do	do	ADP	_	_	27	case	_	_
-27	Baltow	Balt	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
-28	,	,	PUNCT	_	_	44	punct	_	_
-29	při	při	ADP	_	_	30	case	_	_
-30	čimž	štož	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	44	nmod	_	_
-31	na	na	ADP	_	ExtPos=ADV	44	advmod	_	_
-32	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	fixed	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	32	punct	_	_
-34	w	w	ADP	_	_	35	case	_	_
-35	Litawskej	Litawska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	36	nmod	_	_
-36	wopřijeće	wopřijeće	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	44	nsubj	_	_
-37	vynas	vynas	X	_	_	36	nmod	_	_
-38	a	a	CCONJ	_	_	41	cc	_	_
-39	w	w	ADP	_	_	40	case	_	_
-40	Letiskej	Letiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	41	nmod	_	_
-41	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
-42	vins	vins	X	_	_	41	nmod	_	_
-43	stej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
-44	znatej	znaty	ADJ	_	Case=Nom|Gender=Neut|Number=Dual|VerbForm=Part|Voice=Pass	6	advcl	_	SpaceAfter=No
-45	.	.	PUNCT	_	_	6	punct	_	_
 
 # newpar id = p5
 # sent_id = p5s1
@@ -13209,4 +12987,226 @@
 62	km	km	NOUN	_	Abbr=Yes	58	appos	_	SpaceAfter=No
 63	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
 64	.	.	PUNCT	_	_	3	punct	_	_
+
+# newpar id = p98
+# sent_id = p98s1
+# text = Wysokoněmske słowo Wein, starowysokoněmske wîn abo winam, francoske słowo vin a jendźelske słowo wine su wšě z łaćonskeho słowa vinum wupožčene.
+1	Wysokoněmske	wysokoněmski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+3	Wein	wein	X	_	_	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	starowysokoněmske	starowysokoněmske	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	amod	_	_
+6	wîn	wîn	X	_	_	2	conj	_	_
+7	abo	abo	CCONJ	_	_	8	cc	_	_
+8	winam	winam	X	_	_	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	francoske	francoski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	11	amod	_	_
+11	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+12	vin	vin	X	_	_	11	nmod	_	_
+13	a	a	CCONJ	_	_	15	cc	_	_
+14	jendźelske	jendźelski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+15	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+16	wine	wine	X	_	_	15	nmod	_	_
+17	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+18	wšě	wšě	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	2	det	_	_
+19	z	z	ADP	_	_	21	case	_	_
+20	łaćonskeho	łaćonski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	21	amod	_	_
+21	słowa	słowo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+22	vinum	vinum	X	_	_	21	nmod	_	_
+23	wupožčene	wupožčeny	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = p98s2
+# text = Tež waliziske słowo gwin ale tež irske fion su samsneho pochada.
+1	Tež	tež	ADV	_	_	11	advmod	_	_
+2	waliziske	waliziski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+4	gwin	gwin	X	_	_	3	nmod	_	_
+5	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
+6	tež	tež	ADV	_	_	5	fixed	_	_
+7	irske	irski	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
+8	fion	fion	X	_	_	3	conj	_	_
+9	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	samsneho	samsny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	11	amod	_	_
+11	pochada	pochad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = p98s3
+# text = To so přez fakt wujasni, zo Germanojo ale tež Keltojo su prěni raz přez Romjanow we wjetšim rozměrje z winje do dótknjenja přišli a z tym łaćonske słowo přewzali.
+1	To	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
+3	přez	přez	ADP	_	_	4	case	_	_
+4	fakt	fakt	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+5	wujasni	wujasnić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	24	punct	_	_
+7	zo	zo	SCONJ	_	_	24	mark	_	_
+8	Germanojo	German	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
+10	tež	tež	ADV	_	_	9	fixed	_	_
+11	Keltojo	Kelt	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
+12	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+13	prěni	prěni	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+14	raz	raz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obl	_	_
+15	přez	přez	ADP	_	_	16	case	_	_
+16	Romjanow	Romjan	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	24	obl	_	_
+17	we	w	ADP	_	_	19	case	_	_
+18	wjetšim	wulki	ADJ	_	Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing	19	amod	_	_
+19	rozměrje	rozměr	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	_
+20	z	z	ADP	_	_	21	case	_	_
+21	winje	wino	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	24	obl	_	_
+22	do	do	ADP	_	_	23	case	_	_
+23	dótknjenja	dótknjenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	obl	_	_
+24	přišli	přińć	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
+25	a	a	CCONJ	_	_	30	cc	_	_
+26	z	z	ADP	_	_	27	case	_	_
+27	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	_
+28	łaćonske	łaćonski	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	29	amod	_	_
+29	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	_
+30	přewzali	přewzać	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	24	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	5	punct	_	_
+
+# newpar id = p239
+# sent_id = p239s1
+# text = Wino je alkoholiski napoj ze z droždźemi předźěłaneje brěčki winowych jahodow.
+1	Wino	wino	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	alkoholiski	alkoholiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	napoj	napoj	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	ze	z	ADP	_	_	9	case	_	_
+6	z	z	ADP	_	_	7	case	_	_
+7	droždźemi	droždźe	NOUN	_	Case=Ins|Number=Ptan	8	nmod	_	_
+8	předźěłaneje	předźěłany	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	brěčki	brěčka	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+10	winowych	winowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
+11	jahodow	jahoda	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p239s2
+# text = Jahody rostu w kićojtych pakićach na winowym pruće.
+1	Jahody	jahoda	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	rostu	rosć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	w	w	ADP	_	_	5	case	_	_
+4	kićojtych	kićojty	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+5	pakićach	pakić	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	_
+6	na	na	ADP	_	_	8	case	_	_
+7	winowym	winowy	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	8	amod	_	_
+8	pruće	prut	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p239s3
+# text = Tute pochadźeja zwjetša wot europskeho dobreho winowca (Vitis vinifera subsp. vinifera), kotryž pak njeje rezistentny přećiwo winowej šmicy.
+1	Tute	tutón	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	pochadźeja	pochadźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zwjetša	zwjetša	ADV	_	_	2	advmod	_	_
+4	wot	wot	ADP	_	_	7	case	_	_
+5	europskeho	europski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	dobreho	dobry	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	winowca	winowc	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Vitis	vitis	X	_	_	7	appos	_	_
+10	vinifera	vinifera	X	_	_	9	flat	_	_
+11	subsp	subsp	X	_	_	9	flat	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	vinifera	vinifera	X	_	_	9	flat	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	kotryž	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
+17	pak	pak	CCONJ	_	_	19	cc	_	_
+18	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	rezistentny	rezistentny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	acl	_	_
+20	přećiwo	přećiwo	ADP	_	_	22	case	_	_
+21	winowej	winowy	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	šmicy	šmica	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p239s4
+# text = Tohodla so na druhe družiny, kaž na př. brjohowy winowc (Vitis riparia, němsce Uferrebe), Vitis rupestris, wapnowy winowc (Vitis berlandieri, němsce Kalk-Rebe) a jich hybridy našćěpi.
+1	Tohodla	tohodla	ADV	_	PronType=Dem	38	advmod	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	38	expl:pass	_	_
+3	na	na	ADP	_	_	5	case	_	_
+4	druhe	druhi	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
+5	družiny	družina	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	38	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	kaž	kaž	SCONJ	_	_	12	mark	_	_
+8	na	na	ADP	_	ExtPos=ADV	12	advmod:emph	_	_
+9	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+11	brjohowy	brjohowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	winowc	winowc	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Vitis	vitis	X	_	_	12	appos	_	_
+15	riparia	riparia	X	_	_	14	flat	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	14	punct	_	_
+17	němsce	němsce	ADV	_	Degree=Pos	18	advmod	_	_
+18	Uferrebe	uferrebe	X	_	_	14	appos	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	Vitis	vitis	X	_	_	12	conj	_	_
+22	rupestris	rupestris	X	_	_	21	flat	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	wapnowy	wapnowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	winowc	winowc	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	Vitis	vitis	X	_	_	25	appos	_	_
+28	berlandieri	berlandieri	X	_	_	27	flat	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	27	punct	_	_
+30	němsce	němsce	ADV	_	Degree=Pos	31	advmod	_	_
+31	Kalk	kalk	X	_	_	27	appos	_	SpaceAfter=No
+32	-	-	PUNCT	_	_	31	punct	_	SpaceAfter=No
+33	Rebe	rebe	X	_	_	31	flat	_	SpaceAfter=No
+34	)	)	PUNCT	_	_	27	punct	_	_
+35	a	a	CCONJ	_	_	37	cc	_	_
+36	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
+37	hybridy	hybrid	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
+38	našćěpi	našćěpić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	38	punct	_	_
+
+# newpar id = p375
+# sent_id = p375s1
+# text = Přez pozdźiše wikowanske poćahi so dósta wopřijeće wina wot Germanow hač do Słowjanow (hlej serbske wopřijeće wino a ruske słowo vinó) a hač do Baltow, při čimž na př. w Litawskej wopřijeće vynas a w Letiskej słowo vins stej znatej.
+1	Přez	přez	ADP	_	_	4	case	_	_
+2	pozdźiše	pózdni	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	4	amod	_	_
+3	wikowanske	wikowanski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
+4	poćahi	poćah	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+6	dósta	dóstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	wopřijeće	wopřijeće	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+8	wina	wino	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	wot	wot	ADP	_	_	10	case	_	_
+10	Germanow	German	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+11	hač	hač	CCONJ	_	_	13	cc	_	_
+12	do	do	ADP	_	_	13	case	_	_
+13	Słowjanow	Słowjan	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	parataxis	_	_
+16	serbske	serbski	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	wopřijeće	wopřijeće	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+18	wino	wino	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	nmod	_	_
+19	a	a	CCONJ	_	_	21	cc	_	_
+20	ruske	ruski	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
+22	vinó	vinó	X	_	_	21	nmod	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	15	punct	_	_
+24	a	a	CCONJ	_	_	27	cc	_	_
+25	hač	hač	CCONJ	_	_	27	cc	_	_
+26	do	do	ADP	_	_	27	case	_	_
+27	Baltow	Balt	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	44	punct	_	_
+29	při	při	ADP	_	_	30	case	_	_
+30	čimž	štož	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	44	nmod	_	_
+31	na	na	ADP	_	ExtPos=ADV	44	advmod	_	_
+32	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	fixed	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	_
+34	w	w	ADP	_	_	35	case	_	_
+35	Litawskej	Litawska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	36	nmod	_	_
+36	wopřijeće	wopřijeće	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	44	nsubj	_	_
+37	vynas	vynas	X	_	_	36	nmod	_	_
+38	a	a	CCONJ	_	_	41	cc	_	_
+39	w	w	ADP	_	_	40	case	_	_
+40	Letiskej	Letiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	41	nmod	_	_
+41	słowo	słowo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
+42	vins	vins	X	_	_	41	nmod	_	_
+43	stej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
+44	znatej	znaty	ADJ	_	Case=Nom|Gender=Neut|Number=Dual|VerbForm=Part|Voice=Pass	6	advcl	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	6	punct	_	_
 
