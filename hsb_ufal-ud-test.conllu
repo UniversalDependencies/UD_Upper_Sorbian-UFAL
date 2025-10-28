@@ -6051,6 +6051,108 @@
 15	zakazane	zakazany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
+# newpar id = p190
+# sent_id = p190s1
+# text = Pod wjednistwom Hitlera su nacionalsocialisća zawjedowali w Němskim reichu diktaturu "Třećeho reicha".
+1	Pod	pod	ADP	_	_	2	case	_	_
+2	wjednistwom	wjednistwo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+3	Hitlera	Hitler	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	nacionalsocialisća	nacionalsocialist	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	zawjedowali	zawjedować	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	w	w	ADP	_	_	9	case	_	_
+8	Němskim	němski	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	9	amod	_	_
+9	reichu	reich	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+10	diktaturu	diktatura	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	Třećeho	třeći	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
+13	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p190s2
+# text = Woni dachu wšě opoziciske strony zakazować, politiske přećiwnicy přesćěhać a zamordować.
+1	Woni	wón	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	dachu	dać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	wšě	wšě	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	5	det	_	_
+4	opoziciske	opoziciski	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
+5	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
+6	zakazować	zakazować	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	politiske	politiski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	9	amod	_	_
+9	přećiwnicy	přećiwnik	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+10	přesćěhać	přesćěhać	VERB	_	VerbForm=Inf	6	conj	_	_
+11	a	a	CCONJ	_	_	12	cc	_	_
+12	zamordować	zamordować	VERB	_	VerbForm=Inf	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p190s3
+# text = Rozputachu Druhu swětowu wójnu a systematisce wšitke prawa rubachu a zamordowachu europskich Židow kaž tež hinaše religiozne, etniske a towaršnostne skupiny.
+1	Rozputachu	Rozputać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	Druhu	druhi	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+3	swětowu	swětowy	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	wójnu	wójna	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+5	a	a	CCONJ	_	_	9	cc	_	_
+6	systematisce	systematisce	ADV	_	Degree=Pos	9	advmod	_	_
+7	wšitke	wšitki	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	8	det	_	_
+8	prawa	prawo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+9	rubachu	rubać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	a	a	CCONJ	_	_	11	cc	_	_
+11	zamordowachu	zamordować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	europskich	europski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	13	amod	_	_
+13	Židow	Žid	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+14	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
+15	tež	tež	ADV	_	_	14	fixed	_	_
+16	hinaše	hinaši	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	_
+17	religiozne	religiozny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	etniske	etniski	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
+20	a	a	CCONJ	_	_	21	cc	_	_
+21	towaršnostne	towaršnostny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
+22	skupiny	skupina	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = p190s4
+# text = Přez tutu politika zahinychu w Europje něhdźe 30-35 milionow ludźi.
+1	Přez	přez	ADP	_	_	3	case	_	_
+2	tutu	tutón	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	politika	politika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obl	_	_
+4	zahinychu	zahinyć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	w	w	ADP	_	_	6	case	_	_
+6	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+7	něhdźe	něhdźe	ADV	_	PronType=Ind	11	advmod:emph	_	_
+8	30	30	NUM	_	NumType=Card	11	nummod:gov	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	35	35	NUM	_	NumType=Card	8	conj	_	_
+11	milionow	milion	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	_
+12	ludźi	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p190s5
+# text = Němska a Europa buštej we wulkich dźělach rozbiwanej.
+1	Němska	Němska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	a	a	CCONJ	_	_	3	cc	_	_
+3	Europa	Europa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+4	buštej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
+5	we	w	ADP	_	_	7	case	_	_
+6	wulkich	wulki	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	7	amod	_	_
+7	dźělach	dźěl	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	nmod	_	_
+8	rozbiwanej	rozbiwany	ADJ	_	Case=Nom|Gender=Fem|Number=Dual|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p190s6
+# text = Bě čas bipolarneho swětoweho porjada a horceje wójny započał.
+1	Bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+2	čas	čas	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+3	bipolarneho	bipolarny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+4	swětoweho	swětowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+5	porjada	porjad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	a	a	CCONJ	_	_	8	cc	_	_
+7	horceje	horcy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	wójny	wójna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+9	započał	započeć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
 # newdoc id = stawizny-serbow
 # newpar id = p386
 # sent_id = p386s1
@@ -6187,6 +6289,85 @@
 33	.	.	PUNCT	_	_	23	punct	_	_
 
 # newdoc id = serbja
+# newpar id = p309
+# sent_id = p309s1
+# text = Serbja we Łužicomaj słyšachu k połobskosłowjanskim kmjenam, kotrež so wot 6. lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu.
+1	Serbja	serb	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	we	w	ADP	_	_	3	case	_	_
+3	Łužicomaj	Łužica	PROPN	_	Case=Loc|Gender=Fem|Number=Dual	1	nmod	_	_
+4	słyšachu	słyšać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	k	k	ADP	_	_	7	case	_	_
+6	połobskosłowjanskim	połobskosłowjanski	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	kmjenam	kmjen	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	22	punct	_	_
+9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	_
+10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
+11	wot	wot	ADP	_	_	14	case	_	_
+12	6	6	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+14	lětstotka	lětstotk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	obl	_	_
+15	sem	sem	ADV	_	PronType=Dem	22	advmod	_	_
+16	mjez	mjez	ADP	_	_	17	case	_	_
+17	Wódru	Wódra	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	22	obl	_	_
+18	a	a	CCONJ	_	_	19	cc	_	_
+19	Łobjom	Łobjo	PROPN	_	Case=Ins|Gender=Neut|Number=Sing	17	conj	_	_
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	Solawu	Solawa	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	19	conj	_	_
+22	zasydlichu	zasydlić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p309s2
+# text = Hačrunjež běchu wot 10. lětstotka němskej wyšnosći podćisnjeni, móžachu sej tola swoju etnisku swojoraznosć hač do přitomnosće wobchować.
+1	Hačrunjež	hačrunjež	SCONJ	_	_	9	mark	_	_
+2	běchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+3	wot	wot	ADP	_	_	6	case	_	_
+4	10	10	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+6	lětstotka	lětstotk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+7	němskej	němski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	wyšnosći	wyšnosć	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	_
+9	podćisnjeni	podćisnjeni	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	11	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	móžachu	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod	0	root	_	_
+12	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	20	obl	_	_
+13	tola	tola	CCONJ	_	_	11	cc	_	_
+14	swoju	swój	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	_
+15	etnisku	etniski	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	swojoraznosć	swojoraznosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+17	hač	hač	ADV	_	_	19	advmod:emph	_	_
+18	do	do	ADP	_	_	19	case	_	_
+19	přitomnosće	přitomnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+20	wobchować	wobchować	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = p309s3
+# text = W zažnym 19. lětstotku wotući pod wliwom rozswětlerstwa a romantiki kaž tež narodneho wozrodźenja pola druhich słowjanskich ludow tež narodne wědomje Łužiskich Serbow.
+1	W	w	ADP	_	_	5	case	_	_
+2	zažnym	zažny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+3	19	19	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	lětstotku	lětstotk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	wotući	wotućić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	pod	pod	ADP	_	_	8	case	_	_
+8	wliwom	wliw	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+9	rozswětlerstwa	rozswětlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	a	a	CCONJ	_	_	11	cc	_	_
+11	romantiki	romantika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
+12	kaž	kaž	SCONJ	_	ExtPos=CCONJ	15	cc	_	_
+13	tež	tež	ADV	_	_	12	fixed	_	_
+14	narodneho	narodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	wozrodźenja	wozrodźenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
+16	pola	pola	ADP	_	_	19	case	_	_
+17	druhich	druhi	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	19	amod	_	_
+18	słowjanskich	słowjanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	_
+19	ludow	lud	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+20	tež	tež	ADV	_	_	22	advmod:emph	_	_
+21	narodne	narodny	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	wědomje	wědomje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+23	Łužiskich	łužiski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	24	amod	_	_
+24	Serbow	Serb	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	6	punct	_	_
+
 # newpar id = p122
 # sent_id = p122s1
 # text = Za cuzych wosebje zajimawa swojoraznosć Łužicy wobsteji w tym, zo so tu nimo němskeje dalša awtochtona rěč rěči: serbšćina, kotraž słuša do swójby słowjanskich rěčow.
@@ -6335,190 +6516,6 @@
 11	w	w	ADP	_	_	12	case	_	_
 12	Němskej	Němska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	10	punct	_	_
-
-# newpar id = p190
-# sent_id = p190s1
-# text = Pod wjednistwom Hitlera su nacionalsocialisća zawjedowali w Němskim reichu diktaturu "Třećeho reicha".
-1	Pod	pod	ADP	_	_	2	case	_	_
-2	wjednistwom	wjednistwo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
-3	Hitlera	Hitler	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-5	nacionalsocialisća	nacionalsocialist	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
-6	zawjedowali	zawjedować	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	w	w	ADP	_	_	9	case	_	_
-8	Němskim	němski	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	9	amod	_	_
-9	reichu	reich	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
-10	diktaturu	diktatura	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
-11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
-12	Třećeho	třeći	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
-13	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
-14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p190s2
-# text = Woni dachu wšě opoziciske strony zakazować, politiske přećiwnicy přesćěhać a zamordować.
-1	Woni	wón	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	dachu	dać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	wšě	wšě	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	5	det	_	_
-4	opoziciske	opoziciski	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
-5	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
-6	zakazować	zakazować	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	politiske	politiski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	9	amod	_	_
-9	přećiwnicy	přećiwnik	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
-10	přesćěhać	přesćěhać	VERB	_	VerbForm=Inf	6	conj	_	_
-11	a	a	CCONJ	_	_	12	cc	_	_
-12	zamordować	zamordować	VERB	_	VerbForm=Inf	10	conj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p190s3
-# text = Rozputachu Druhu swětowu wójnu a systematisce wšitke prawa rubachu a zamordowachu europskich Židow kaž tež hinaše religiozne, etniske a towaršnostne skupiny.
-1	Rozputachu	Rozputać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	Druhu	druhi	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
-3	swětowu	swětowy	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-4	wójnu	wójna	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-5	a	a	CCONJ	_	_	9	cc	_	_
-6	systematisce	systematisce	ADV	_	Degree=Pos	9	advmod	_	_
-7	wšitke	wšitki	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	8	det	_	_
-8	prawa	prawo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
-9	rubachu	rubać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
-10	a	a	CCONJ	_	_	11	cc	_	_
-11	zamordowachu	zamordować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
-12	europskich	europski	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	13	amod	_	_
-13	Židow	Žid	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
-14	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
-15	tež	tež	ADV	_	_	14	fixed	_	_
-16	hinaše	hinaši	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	_
-17	religiozne	religiozny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	_
-19	etniske	etniski	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
-20	a	a	CCONJ	_	_	21	cc	_	_
-21	towaršnostne	towaršnostny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
-22	skupiny	skupina	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p190s4
-# text = Přez tutu politika zahinychu w Europje něhdźe 30-35 milionow ludźi.
-1	Přez	přez	ADP	_	_	3	case	_	_
-2	tutu	tutón	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	politika	politika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obl	_	_
-4	zahinychu	zahinyć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	w	w	ADP	_	_	6	case	_	_
-6	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
-7	něhdźe	něhdźe	ADV	_	PronType=Ind	11	advmod:emph	_	_
-8	30	30	NUM	_	NumType=Card	11	nummod:gov	_	SpaceAfter=No
-9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	35	35	NUM	_	NumType=Card	8	conj	_	_
-11	milionow	milion	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	_
-12	ludźi	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p190s5
-# text = Němska a Europa buštej we wulkich dźělach rozbiwanej.
-1	Němska	Němska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-2	a	a	CCONJ	_	_	3	cc	_	_
-3	Europa	Europa	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-4	buštej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
-5	we	w	ADP	_	_	7	case	_	_
-6	wulkich	wulki	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	7	amod	_	_
-7	dźělach	dźěl	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	nmod	_	_
-8	rozbiwanej	rozbiwany	ADJ	_	Case=Nom|Gender=Fem|Number=Dual|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
-
-# sent_id = p190s6
-# text = Bě čas bipolarneho swětoweho porjada a horceje wójny započał.
-1	Bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
-2	čas	čas	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-3	bipolarneho	bipolarny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-4	swětoweho	swětowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-5	porjada	porjad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-6	a	a	CCONJ	_	_	8	cc	_	_
-7	horceje	horcy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
-8	wójny	wójna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
-9	započał	započeć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
-
-# newpar id = p309
-# sent_id = p309s1
-# text = Serbja we Łužicomaj słyšachu k połobskosłowjanskim kmjenam, kotrež so wot 6. lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu.
-1	Serbja	serb	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-2	we	w	ADP	_	_	3	case	_	_
-3	Łužicomaj	Łužica	PROPN	_	Case=Loc|Gender=Fem|Number=Dual	1	nmod	_	_
-4	słyšachu	słyšać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	k	k	ADP	_	_	7	case	_	_
-6	połobskosłowjanskim	połobskosłowjanski	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
-7	kmjenam	kmjen	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	22	punct	_	_
-9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	_
-10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
-11	wot	wot	ADP	_	_	14	case	_	_
-12	6	6	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	_
-14	lětstotka	lětstotk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	obl	_	_
-15	sem	sem	ADV	_	PronType=Dem	22	advmod	_	_
-16	mjez	mjez	ADP	_	_	17	case	_	_
-17	Wódru	Wódra	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	22	obl	_	_
-18	a	a	CCONJ	_	_	19	cc	_	_
-19	Łobjom	Łobjo	PROPN	_	Case=Ins|Gender=Neut|Number=Sing	17	conj	_	_
-20	/	/	PUNCT	_	_	21	punct	_	_
-21	Solawu	Solawa	PROPN	_	Case=Ins|Gender=Fem|Number=Sing	19	conj	_	_
-22	zasydlichu	zasydlić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p309s2
-# text = Hačrunjež běchu wot 10. lětstotka němskej wyšnosći podćisnjeni, móžachu sej tola swoju etnisku swojoraznosć hač do přitomnosće wobchować.
-1	Hačrunjež	hačrunjež	SCONJ	_	_	9	mark	_	_
-2	běchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
-3	wot	wot	ADP	_	_	6	case	_	_
-4	10	10	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
-6	lětstotka	lětstotk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-7	němskej	němski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	wyšnosći	wyšnosć	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	_
-9	podćisnjeni	podćisnjeni	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	11	advcl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	móžachu	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod	0	root	_	_
-12	sej	so	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	20	obl	_	_
-13	tola	tola	CCONJ	_	_	11	cc	_	_
-14	swoju	swój	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	_
-15	etnisku	etniski	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
-16	swojoraznosć	swojoraznosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
-17	hač	hač	ADV	_	_	19	advmod:emph	_	_
-18	do	do	ADP	_	_	19	case	_	_
-19	přitomnosće	přitomnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
-20	wobchować	wobchować	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	11	punct	_	_
-
-# sent_id = p309s3
-# text = W zažnym 19. lětstotku wotući pod wliwom rozswětlerstwa a romantiki kaž tež narodneho wozrodźenja pola druhich słowjanskich ludow tež narodne wědomje Łužiskich Serbow. ...
-1	W	w	ADP	_	_	5	case	_	_
-2	zažnym	zažny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-3	19	19	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
-5	lětstotku	lětstotk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
-6	wotući	wotućić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	pod	pod	ADP	_	_	8	case	_	_
-8	wliwom	wliw	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
-9	rozswětlerstwa	rozswětlerstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
-10	a	a	CCONJ	_	_	11	cc	_	_
-11	romantiki	romantika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
-12	kaž	kaž	SCONJ	_	ExtPos=CCONJ	15	cc	_	_
-13	tež	tež	ADV	_	_	12	fixed	_	_
-14	narodneho	narodny	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
-15	wozrodźenja	wozrodźenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
-16	pola	pola	ADP	_	_	19	case	_	_
-17	druhich	druhi	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	19	amod	_	_
-18	słowjanskich	słowjanski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	_
-19	ludow	lud	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
-20	tež	tež	ADV	_	_	22	advmod:emph	_	_
-21	narodne	narodny	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
-22	wědomje	wědomje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-23	Łužiskich	łužiski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	24	amod	_	_
-24	Serbow	Serb	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	6	punct	_	_
-26	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	6	punct	_	_
 
 # newpar id = p330
 # sent_id = p330s1
