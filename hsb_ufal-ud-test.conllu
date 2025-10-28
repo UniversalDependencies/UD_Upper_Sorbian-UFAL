@@ -6846,6 +6846,85 @@
 13	kulturu	kultura	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p54
+# sent_id = p54s1
+# text = Geografiske eksonymy su mjena geografiskich objektow (na přikład rěkow, horow, krajowych mjenow, krajinow) zwonka serbskeje Łužicy.
+1	Geografiske	geografiski	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
+2	eksonymy	eksonym	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	mjena	mjeno	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+5	geografiskich	geografiski	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
+6	objektow	objekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
+9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
+10	rěkow	rěka	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	appos	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	horow	hora	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	krajowych	krajowy	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	15	amod	_	_
+15	mjenow	mjeno	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	10	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	krajinow	krajina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	10	punct	_	_
+19	zwonka	zwonka	ADP	_	_	21	case	_	_
+20	serbskeje	serbski	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	21	amod	_	_
+21	Łužicy	Łužica	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p54s2
+# text = Materialowa zběrka bazuje hłownje na wupiskach z wučbnicow za geografiju 5. do 10. lětnika kaž tež ze słownikow, mjez druhim z "Němsko-hornjoserbskeho słownika noweje leksiki", a na naprašowanjach.
+1	Materialowa	materialowy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	zběrka	zběrka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	bazuje	bazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	hłownje	hłownje	ADV	_	Degree=Pos	6	advmod:emph	_	_
+5	na	na	ADP	_	_	6	case	_	_
+6	wupiskach	wupisk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obj	_	_
+7	z	z	ADP	_	_	8	case	_	_
+8	wučbnicow	wučbnica	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	za	za	ADP	_	_	10	case	_	_
+10	geografiju	geografija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	5	5	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	do	do	ADP	_	_	16	case	_	_
+14	10	10	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	lětnika	lětnik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+17	kaž	kaž	SCONJ	_	ExtPos=CCONJ	20	cc	_	_
+18	tež	tež	ADV	_	_	17	fixed	_	_
+19	ze	z	ADP	_	_	20	case	_	_
+20	słownikow	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	29	punct	_	_
+22	mjez	mjez	ADP	_	_	23	case	_	_
+23	druhim	druhi	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	29	nmod	_	_
+24	z	z	ADP	_	_	29	case	_	_
+25	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+26	Němsko	němski	ADJ	_	Hyph=Yes	28	amod	_	SpaceAfter=No
+27	-	-	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	hornjoserbskeho	hornjoserbski	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	29	amod	_	_
+29	słownika	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	appos	_	_
+30	noweje	nowy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	31	amod	_	_
+31	leksiki	leksika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	29	punct	_	_
+34	a	a	CCONJ	_	_	36	cc	_	_
+35	na	na	ADP	_	_	36	case	_	_
+36	naprašowanjach	naprašowanje	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p54s3
+# text = Projekt je nastał w kooperaciji z Rěčnym centrumom WITAJ .
+1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	nastał	nastać	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	w	w	ADP	_	_	5	case	_	_
+5	kooperaciji	kooperacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	z	z	ADP	_	_	8	case	_	_
+7	Rěčnym	rěčny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	amod	_	_
+8	centrumom	centrum	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	_
+9	WITAJ	WITAJ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
 # newpar id = p11
 # sent_id = p11s1
 # text = K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu, dnja 6. měrca wot 14 hodź.
@@ -6979,85 +7058,6 @@
 47	zarjadnistwa	zarjadnistwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	42	conj	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	19	punct	_	_
 
-# newpar id = p54
-# sent_id = p54s1
-# text = Geografiske eksonymy su mjena geografiskich objektow (na přikład rěkow, horow, krajowych mjenow, krajinow) zwonka serbskeje Łužicy.
-1	Geografiske	geografiski	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
-2	eksonymy	eksonym	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-4	mjena	mjeno	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
-5	geografiskich	geografiski	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
-6	objektow	objekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
-7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
-8	na	na	ADP	_	ExtPos=ADV	10	advmod:emph	_	_
-9	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	fixed	_	_
-10	rěkow	rěka	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	appos	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	horow	hora	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	krajowych	krajowy	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	15	amod	_	_
-15	mjenow	mjeno	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	10	conj	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	krajinow	krajina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
-18	)	)	PUNCT	_	_	10	punct	_	_
-19	zwonka	zwonka	ADP	_	_	21	case	_	_
-20	serbskeje	serbski	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	21	amod	_	_
-21	Łužicy	Łužica	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p54s2
-# text = Materialowa zběrka bazuje hłownje na wupiskach z wučbnicow za geografiju 5. do 10. lětnika kaž tež ze słownikow, mjez druhim z "Němsko-hornjoserbskeho słownika noweje leksiki", a na naprašowanjach.
-1	Materialowa	materialowy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	zběrka	zběrka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	bazuje	bazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	hłownje	hłownje	ADV	_	Degree=Pos	6	advmod:emph	_	_
-5	na	na	ADP	_	_	6	case	_	_
-6	wupiskach	wupisk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obj	_	_
-7	z	z	ADP	_	_	8	case	_	_
-8	wučbnicow	wučbnica	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
-9	za	za	ADP	_	_	10	case	_	_
-10	geografiju	geografija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
-11	5	5	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-13	do	do	ADP	_	_	16	case	_	_
-14	10	10	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	_
-16	lětnika	lětnik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-17	kaž	kaž	SCONJ	_	ExtPos=CCONJ	20	cc	_	_
-18	tež	tež	ADV	_	_	17	fixed	_	_
-19	ze	z	ADP	_	_	20	case	_	_
-20	słownikow	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	29	punct	_	_
-22	mjez	mjez	ADP	_	_	23	case	_	_
-23	druhim	druhi	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	29	nmod	_	_
-24	z	z	ADP	_	_	29	case	_	_
-25	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
-26	Němsko	němski	ADJ	_	Hyph=Yes	28	amod	_	SpaceAfter=No
-27	-	-	PUNCT	_	_	28	punct	_	SpaceAfter=No
-28	hornjoserbskeho	hornjoserbski	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	29	amod	_	_
-29	słownika	słownik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	appos	_	_
-30	noweje	nowy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	31	amod	_	_
-31	leksiki	leksika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
-32	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
-33	,	,	PUNCT	_	_	29	punct	_	_
-34	a	a	CCONJ	_	_	36	cc	_	_
-35	na	na	ADP	_	_	36	case	_	_
-36	naprašowanjach	naprašowanje	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p54s3
-# text = Projekt je nastał w kooperaciji z Rěčnym centrumom WITAJ .
-1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	nastał	nastać	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	kooperaciji	kooperacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-6	z	z	ADP	_	_	8	case	_	_
-7	Rěčnym	rěčny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	amod	_	_
-8	centrumom	centrum	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	_
-9	WITAJ	WITAJ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
 # newpar id = p64
 # sent_id = p64s1
 # text = Wědomostna konferenca Serbskeho instituta "Přewinjenje dualizmow": REGIONY - LUDŹO - INSTITUCIJE Z HYBRIDOLOGISKEHO WIDA
@@ -7078,82 +7078,6 @@
 15	Z	z	ADP	_	_	17	case	_	_
 16	HYBRIDOLOGISKEHO	hybridologiski	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
 17	WIDA	wid	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-
-# newpar id = p65
-# sent_id = p65s1
-# text = Druhe pomjenowanje "hodownik" pokazuje na to, zo padnje do tutoho měsaca wažny cyrkwinski swjedźeń, hody: patoržica (24. decembra), 1. a 2. swjaty dźeń (25. a 26. decembra), zdźěla so tež 27. december jako 3. swjaty dźeń swjeći.
-1	Druhe	druhi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	2	amod	_	_
-2	pomjenowanje	pomjenowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-4	hodownik	hodownik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
-5	"	"	PUNCT	_	_	4	punct	_	_
-6	pokazuje	pokazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	na	na	ADP	_	_	8	case	_	_
-8	to	to	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	zo	zo	SCONJ	_	_	11	mark	_	_
-11	padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
-12	do	do	ADP	_	_	14	case	_	_
-13	tutoho	tutón	DET	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
-14	měsaca	měsac	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
-15	wažny	wažny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
-16	cyrkwinski	cyrkwinski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
-17	swjedźeń	swjedźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	_
-19	hody	hody	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Ptan	17	appos	_	SpaceAfter=No
-20	:	:	PUNCT	_	_	21	punct	_	_
-21	patoržica	patoržica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	appos	_	_
-22	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
-23	24	24	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	23	punct	_	_
-25	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	appos	_	SpaceAfter=No
-26	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	34	punct	_	_
-28	1	1	NUM	_	NumType=Card	34	nummod	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	31	punct	_	_
-30	a	a	CCONJ	_	_	31	cc	_	_
-31	2	2	NUM	_	NumType=Card	28	conj	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	31	punct	_	_
-33	swjaty	swjaty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
-34	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
-35	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
-36	25	25	NUM	_	NumType=Card	41	nummod	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	39	punct	_	_
-38	a	a	CCONJ	_	_	39	cc	_	_
-39	26	26	NUM	_	NumType=Card	36	conj	_	SpaceAfter=No
-40	.	.	PUNCT	_	_	39	punct	_	_
-41	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	appos	_	SpaceAfter=No
-42	)	)	PUNCT	_	_	41	punct	_	SpaceAfter=No
-43	,	,	PUNCT	_	_	55	punct	_	_
-44	zdźěla	zdźěla	ADV	_	_	55	advmod	_	_
-45	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	55	expl:pass	_	_
-46	tež	tež	ADV	_	_	49	advmod:emph	_	_
-47	27	27	NUM	_	NumType=Card	49	nummod	_	SpaceAfter=No
-48	.	.	PUNCT	_	_	47	punct	_	_
-49	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	_
-50	jako	jako	SCONJ	_	_	54	mark	_	_
-51	3	3	NUM	_	NumType=Card	54	nummod	_	SpaceAfter=No
-52	.	.	PUNCT	_	_	51	punct	_	_
-53	swjaty	swjaty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	54	amod	_	_
-54	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	xcomp	_	_
-55	swjeći	swjećić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	SpaceAfter=No
-56	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p65s2
-# text = Tež swjedźeń silwestra padnje do decembra a je zdobom posledni dźeń lěta.
-1	Tež	tež	ADV	_	_	2	advmod:emph	_	_
-2	swjedźeń	swjedźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	silwestra	silwester	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	do	do	ADP	_	_	6	case	_	_
-6	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
-7	a	a	CCONJ	_	_	11	cc	_	_
-8	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-9	zdobom	zdobom	ADV	_	PronType=Dem	11	advmod	_	_
-10	posledni	posledni	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
-12	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
 
 # newpar id = p77
 # sent_id = p77s1
@@ -13094,6 +13018,83 @@
 19	wot	wot	ADP	_	_	20	case	_	_
 20	Italskeje	Italska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
+
+# newdoc id = wiki-december
+# newpar id = p65
+# sent_id = p65s1
+# text = Druhe pomjenowanje "hodownik" pokazuje na to, zo padnje do tutoho měsaca wažny cyrkwinski swjedźeń, hody: patoržica (24. decembra), 1. a 2. swjaty dźeń (25. a 26. decembra), zdźěla so tež 27. december jako 3. swjaty dźeń swjeći.
+1	Druhe	druhi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	2	amod	_	_
+2	pomjenowanje	pomjenowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	hodownik	hodownik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	pokazuje	pokazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	na	na	ADP	_	_	8	case	_	_
+8	to	to	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	zo	zo	SCONJ	_	_	11	mark	_	_
+11	padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+12	do	do	ADP	_	_	14	case	_	_
+13	tutoho	tutón	DET	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	měsaca	měsac	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+15	wažny	wažny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	cyrkwinski	cyrkwinski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	swjedźeń	swjedźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	hody	hody	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Ptan	17	appos	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	21	punct	_	_
+21	patoržica	patoržica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	appos	_	_
+22	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+23	24	24	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	_
+25	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	appos	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	34	punct	_	_
+28	1	1	NUM	_	NumType=Card	34	nummod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	31	punct	_	_
+30	a	a	CCONJ	_	_	31	cc	_	_
+31	2	2	NUM	_	NumType=Card	28	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	31	punct	_	_
+33	swjaty	swjaty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+35	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
+36	25	25	NUM	_	NumType=Card	41	nummod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	39	punct	_	_
+38	a	a	CCONJ	_	_	39	cc	_	_
+39	26	26	NUM	_	NumType=Card	36	conj	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	39	punct	_	_
+41	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	appos	_	SpaceAfter=No
+42	)	)	PUNCT	_	_	41	punct	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	55	punct	_	_
+44	zdźěla	zdźěla	ADV	_	_	55	advmod	_	_
+45	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	55	expl:pass	_	_
+46	tež	tež	ADV	_	_	49	advmod:emph	_	_
+47	27	27	NUM	_	NumType=Card	49	nummod	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	47	punct	_	_
+49	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	_
+50	jako	jako	SCONJ	_	_	54	mark	_	_
+51	3	3	NUM	_	NumType=Card	54	nummod	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	51	punct	_	_
+53	swjaty	swjaty	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	54	amod	_	_
+54	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	xcomp	_	_
+55	swjeći	swjećić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	SpaceAfter=No
+56	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p65s2
+# text = Tež swjedźeń silwestra padnje do decembra a je zdobom posledni dźeń lěta.
+1	Tež	tež	ADV	_	_	2	advmod:emph	_	_
+2	swjedźeń	swjedźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	silwestra	silwester	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	padnje	padnyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	do	do	ADP	_	_	6	case	_	_
+6	decembra	december	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+7	a	a	CCONJ	_	_	11	cc	_	_
+8	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	zdobom	zdobom	ADV	_	PronType=Dem	11	advmod	_	_
+10	posledni	posledni	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	dźeń	dźeń	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+12	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
 
 # newpar id = p155
 # sent_id = p155s1
