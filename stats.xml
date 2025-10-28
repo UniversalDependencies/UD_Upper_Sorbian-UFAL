@@ -5,10 +5,10 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>644</sentences><tokens>11170</tokens><words>11170</words><fused>0</fused></total>
+    <total><sentences>644</sentences><tokens>11167</tokens><words>11167</words><fused>0</fused></total>
     <train><sentences>6</sentences><tokens>135</tokens><words>135</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>638</sentences><tokens>11035</tokens><words>11035</words><fused>0</fused></test>
+    <test><sentences>638</sentences><tokens>11032</tokens><words>11032</words><fused>0</fused></test>
   </size>
   <lemmas unique="3057" /><!-- ., ,, a, być, w, so, z, na, ), (, -, ", tež, wot, kotryž -->
   <forms unique="4333" /><!-- ., ,, a, w, so, na, ), z, (, je, -, ", tež, wot, su -->
@@ -26,7 +26,7 @@
     <tag name="PART">24</tag><!-- jenož, nic, hakle -->
     <tag name="PRON">335</tag><!-- so, to, wón, kiž, štož, ja, něšto, ty, ništo, wšitko -->
     <tag name="PROPN">596</tag><!-- Mezopotamiska, Babylon, Assyriska, Wikipedija, Němska, Łužica, Aššur, Budyšin, Serb, Europa -->
-    <tag name="PUNCT">2015</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
+    <tag name="PUNCT">2012</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
     <tag name="SCONJ">147</tag><!-- jako, zo, kaž, hač, dokelž, jeli, hdyž, doniž, li, chibazo -->
     <tag name="SYM">32</tag><!-- °, %, ', *, ², ³, †, :, =, o2 -->
     <tag name="VERB">818</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
@@ -136,7 +136,7 @@
     <dep name="obl">554</dep>
     <dep name="orphan">12</dep>
     <dep name="parataxis">59</dep>
-    <dep name="punct">2015</dep>
+    <dep name="punct">2012</dep>
     <dep name="root">644</dep>
     <dep name="xcomp">94</dep>
   </deps>
