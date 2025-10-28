@@ -4420,6 +4420,19 @@
 24	,	,	PUNCT	_	_	25	punct	_	_
 25	Cichorioideae	cichorioideae	X	_	_	2	appos	_	_
 
+# newpar id = p312
+# sent_id = p312s1
+# text = Hlej wotpowědne dataje we Wikimedia Commons: Zestajenkowe rostliny
+1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	wotpowědne	wotpowědny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
+3	dataje	dataja	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
+4	we	w	ADP	_	_	5	case	_	_
+5	Wikimedia	Wikimedia	PROPN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	Commons	Commons	PROPN	_	Gender=Neut|Number=Sing	5	flat	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	9	punct	_	_
+8	Zestajenkowe	zestajenkowy	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	9	amod	_	_
+9	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	appos	_	_
+
 # newdoc id = wiki-sok
 # newpar id = p226
 # sent_id = p226s1
@@ -4885,91 +4898,239 @@
 10	rybow	ryba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
-# newpar id = p313
-# sent_id = p313s1
-# text = Wodowe kapki su stabilne dla sylneje powjerchoweje napjatosće wody.
-1	Wodowe	wodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
-2	kapki	kapka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-3	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	stabilne	stabilny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
-5	dla	dla	ADP	_	_	8	case	_	_
-6	sylneje	sylny	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-7	powjerchoweje	powjerchowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	napjatosće	napjatosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
-9	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+# newdoc id = wiki-woda
+# newpar id = p28
+# sent_id = p28s1
+# text = Woda je chemiska wjazba, kotraž je njeparujomna za wšěch žiwochow na zemi.
+1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	chemiska	chemiski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	wjazba	wjazba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	kotraž	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	njeparujomna	parujomny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	4	acl	_	_
+9	za	za	ADP	_	_	11	case	_	_
+10	wšěch	wšě	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	11	det	_	_
+11	žiwochow	žiwoch	NOUN	_	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
+12	na	na	ADP	_	_	13	case	_	_
+13	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = p313s2
-# text = So móže widźeć tute hdyž tróšku wody bu kapana na njerozpušćomny powjerch kaž škleńcu.
-1	So	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-3	widźeć	widźeć	VERB	_	VerbForm=Inf	2	xcomp	_	_
-4	tute	tutón	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
-5	hdyž	hdyž	SCONJ	_	_	9	mark	_	_
-6	tróšku	tróšku	DET	_	NumType=Card|PronType=Ind	7	det:numgov	_	_
-7	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	_
-8	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
-9	kapana	kapany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	advcl	_	_
-10	na	na	ADP	_	_	12	case	_	_
-11	njerozpušćomny	rozpušćomny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg	12	amod	_	_
-12	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
-13	kaž	kaž	SCONJ	_	_	14	case	_	_
-14	škleńcu	škleńca	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	_
+# sent_id = p28s2
+# text = Wona pod normalnymi wuměnjenjemi je kapalny při temperaturach mjez 0 °C a 100 °C.
+1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+2	pod	pod	ADP	_	_	4	case	_	_
+3	normalnymi	normalny	ADJ	_	Case=Ins|Number=Plur	4	amod	_	_
+4	wuměnjenjemi	wuměnjenje	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	6	nmod	_	_
+5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	kapalny	kapalny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+7	při	při	ADP	_	_	8	case	_	_
+8	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	_
+9	mjez	mjez	ADP	_	_	11	case	_	_
+10	0	0	NUM	_	NumType=Card	11	nummod	_	_
+11	°	°	SYM	_	_	8	nmod	_	SpaceAfter=No
+12	C	C	PROPN	_	Abbr=Yes	11	nmod	_	_
+13	a	a	CCONJ	_	_	15	cc	_	_
+14	100	100	NUM	_	NumType=Card	15	nummod	_	_
+15	°	°	SYM	_	_	11	conj	_	SpaceAfter=No
+16	C	C	PROPN	_	Abbr=Yes	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = p313s3
-# text = Woda so do kapkow zwjazuje.
-1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
-3	do	do	ADP	_	_	4	case	_	_
-4	kapkow	kapka	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
-5	zwjazuje	zwjazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# sent_id = p28s3
+# text = Pod škrějnym dypkom bywa kruta maćizna, a to lód.
+1	Pod	pod	ADP	_	_	3	case	_	_
+2	škrějnym	škrějny	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	3	amod	_	_
+3	dypkom	dypk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	bywa	bywać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
+6	maćizna	maćizna	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	a	a	CCONJ	_	ExtPos=CCONJ	10	cc	_	_
+9	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	fixed	_	_
+10	lód	lód	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = p313s4
-# text = Tuta kajkosć je trěbna za rostlinowu transpiraciju.
-1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	kajkosć	kajkosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	trěbna	trěbny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-5	za	za	ADP	_	_	7	case	_	_
-6	rostlinowu	rostlinowy	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	transpiraciju	transpiracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# sent_id = p28s4
+# text = Nad warjenskim dypkom bywa para.
+1	Nad	nad	ADP	_	_	3	case	_	_
+2	warjenskim	warjenski	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	_
+3	dypkom	dypk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	bywa	bywać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	para	para	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
 
-# newpar id = p367
-# sent_id = p367s1
-# text = Je jedyn z hłownych wobstatkow zemskeje atmosfery, ale tež wustupuje jako wobstatk silikatow w kamjenjach.
-1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	jedyn	jedyn	NUM	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
-3	z	z	ADP	_	_	5	case	_	_
-4	hłownych	hłowny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
-5	wobstatkow	wobstatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
-6	zemskeje	zemski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	atmosfery	atmosfera	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	11	punct	_	_
-9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
-10	tež	tež	ADV	_	_	9	fixed	_	_
-11	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-12	jako	jako	SCONJ	_	_	13	mark	_	_
-13	wobstatk	wobstatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	_
-14	silikatow	silikat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
-15	w	w	ADP	_	_	16	case	_	_
-16	kamjenjach	kamjeń	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	_
+# newpar id = p139
+# sent_id = p139s1
+# text = Woda wobsteji z wodźika a kislika w poměrje 2:1.
+1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	wobsteji	wobstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	z	z	ADP	_	_	4	case	_	_
+4	wodźika	wodźik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	_
+5	a	a	CCONJ	_	_	6	cc	_	_
+6	kislika	kislik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	conj	_	_
+7	w	w	ADP	_	_	8	case	_	_
+8	poměrje	poměr	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+9	2	2	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+10	:	:	SYM	_	_	11	case	_	SpaceAfter=No
+11	1	1	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
-# newpar id = p312
-# sent_id = p312s1
-# text = Hlej wotpowědne dataje we Wikimedia Commons: Zestajenkowe rostliny
-1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	wotpowědne	wotpowědny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
-3	dataje	dataja	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
-4	we	w	ADP	_	_	5	case	_	_
-5	Wikimedia	Wikimedia	PROPN	_	Gender=Fem|Number=Sing	1	obl	_	_
-6	Commons	Commons	PROPN	_	Gender=Neut|Number=Sing	5	flat	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	9	punct	_	_
-8	Zestajenkowe	zestajenkowy	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	9	amod	_	_
-9	rostliny	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	appos	_	_
+# sent_id = p139s2
+# text = Wona wobsahuje w drobnych mnóstwach ćežku wodu.
+1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	wobsahuje	wobsahować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	w	w	ADP	_	_	5	case	_	_
+4	drobnych	drobny	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	5	amod	_	_
+5	mnóstwach	mnóstwo	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	7	nmod	_	_
+6	ćežku	ćežki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+7	wodu	woda	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p99
+# sent_id = p99s1
+# text = Tři štwórćinow powjerch zemje su přikryte přez wulku kopicu wody, oceany.
+1	Tři	tři	NUM	_	NumType=Card	2	nummod:gov	_	_
+2	štwórćinow	štwórćina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nsubj	_	_
+3	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+4	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	přikryte	přikryty	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
+7	přez	přez	ADP	_	_	9	case	_	_
+8	wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+9	kopicu	kopica	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+10	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	oceany	ocean	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	appos	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p99s2
+# text = Cirkulacija wody mjez oceanami a powětrom zwjetša kreěruje wjedro.
+1	Cirkulacija	cirkulacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	mjez	mjez	ADP	_	_	4	case	_	_
+4	oceanami	ocean	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
+5	a	a	CCONJ	_	_	6	cc	_	_
+6	powětrom	powětr	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	_
+7	zwjetša	zwjetša	ADV	_	_	8	advmod	_	_
+8	kreěruje	kreěrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	wjedro	wjedro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# newpar id = p216
+# sent_id = p216s1
+# text = Wjele maćiznow so móže we wodźe rozpušćeć, při tym rozpušćomnosć wotwisuje wot maćizny a temperatury.
+1	Wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	2	det:numgov	_	_
+2	maćiznow	maćizna	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	_
+4	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+5	we	w	ADP	_	_	6	case	_	_
+6	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	rozpušćeć	rozpušćeć	VERB	_	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	při	při	ADP	_	_	10	case	_	_
+10	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	_
+11	rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+12	wotwisuje	wotwisować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	wot	wot	ADP	_	_	14	case	_	_
+14	maćizny	maćizna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+15	a	a	CCONJ	_	_	16	cc	_	_
+16	temperatury	temperatura	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p216s2
+# text = Rozpušćomnosć płunow wotewza z přiběracu temperaturu, mjeztym zo rozpušćomnosć selow přiběra z přiběracu temperaturu.
+1	Rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	płunow	płun	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	wotewza	wotewzać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	z	z	ADP	_	_	6	case	_	_
+5	přiběracu	přiběracy	ADJ	_	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+6	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	12	mark	_	_
+9	zo	zo	SCONJ	_	_	8	fixed	_	_
+10	rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	xcomp	_	_
+11	selow	sel	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	přiběra	přiběrać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+13	z	z	ADP	_	_	15	case	_	_
+14	přiběracu	přiběracy	ADJ	_	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	amod	_	_
+15	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# newpar id = p32
+# sent_id = p32s1
+# text = Jednora ale wažna a jónkróćna kajkosć wody je, zo jeje kruta forma płuwa na kapalnej.
+1	Jednora	jednory	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
+2	ale	ale	CCONJ	_	_	3	cc	_	_
+3	wažna	wažny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+4	a	a	CCONJ	_	_	5	cc	_	_
+5	jónkróćna	jónkróćny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+6	kajkosć	kajkosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+7	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	zo	zo	SCONJ	_	_	14	mark	_	_
+11	jeje	jeje	DET	_	Gender[psor]=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+12	kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+13	forma	forma	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	płuwa	płuwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj	_	_
+15	na	na	ADP	_	_	16	case	_	_
+16	kapalnej	kapalny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p32s2
+# text = Kruta faza je mjenje husta hač kapalna woda, dla geometrije sylnych wodźikowych wjazbow kotrež so jenož při niskich temperaturach zdźěłuja.
+1	Kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	faza	faza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mjenje	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	5	advmod	_	_
+5	husta	husty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	hač	hač	SCONJ	_	_	8	case	_	_
+7	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
+8	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	dla	dla	ADP	_	_	11	case	_	_
+11	geometrije	geometrija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+12	sylnych	sylny	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
+13	wodźikowych	wodźikowy	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
+14	wjazbow	wjazba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+15	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	21	det	_	_
+16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
+17	jenož	jenož	PART	_	_	20	advmod:emph	_	_
+18	při	při	ADP	_	_	20	case	_	_
+19	niskich	niski	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	20	amod	_	_
+20	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	_
+21	zdźěłuja	zdźěłować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = p32s3
+# text = Tohodla hłuboka woda wostanje kapalna, ćopliša hač lodowy powjerch, a wodowe organizmy (prěnje žiwe organizmy na zemi) móžeja lodowe wumjenja přežiwić.
+1	Tohodla	tohodla	ADV	_	PronType=Dem	4	advmod	_	_
+2	hłuboka	hłuboki	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	wostanje	wostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ćopliša	ćopły	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	conj	_	_
+8	hač	hač	SCONJ	_	_	10	case	_	_
+9	lodowy	lodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	a	a	CCONJ	_	_	22	cc	_	_
+13	wodowe	wodowy	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	14	amod	_	_
+14	organizmy	organizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+15	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	prěnje	prěni	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	18	amod	_	_
+17	žiwe	žiwy	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	18	amod	_	_
+18	organizmy	organizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	appos	_	_
+19	na	na	ADP	_	_	20	case	_	_
+20	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	18	punct	_	_
+22	móžeja	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	conj	_	_
+23	lodowe	lodowy	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	24	amod	_	_
+24	wumjenja	wumjenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	25	obj	_	_
+25	přežiwić	přežiwić	VERB	_	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
 
 # newpar id = p7
 # sent_id = p7s1
@@ -5049,321 +5210,94 @@
 11	naruna	narunać	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
-# newpar id = p28
-# sent_id = p28s1
-# text = Woda je chemiska wjazba, kotraž je njeparujomna za wšěch žiwochow na zemi.
-1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	chemiska	chemiski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
-4	wjazba	wjazba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	kotraž	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-7	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	njeparujomna	parujomny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	4	acl	_	_
-9	za	za	ADP	_	_	11	case	_	_
-10	wšěch	wšě	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	11	det	_	_
-11	žiwochow	žiwoch	NOUN	_	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
-12	na	na	ADP	_	_	13	case	_	_
-13	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+# newpar id = p284
+# sent_id = p284s1
+# text = Ćežka woda so wot wšědneje wody we fyzikalnych a chemiskich kajkosćach rozeznawa, na př. ma wyši škrějny dypk, warjenski dypk a je husćiša.
+1	Ćežka	ćežki	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	expl:pass	_	_
+4	wot	wot	ADP	_	_	6	case	_	_
+5	wšědneje	wšědny	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+7	we	w	ADP	_	_	11	case	_	_
+8	fyzikalnych	fyzikalny	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
+9	a	a	CCONJ	_	_	10	cc	_	_
+10	chemiskich	chemiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	8	conj	_	_
+11	kajkosćach	kajkosć	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
+12	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	na	na	ADP	_	ExtPos=ADV	17	advmod	_	_
+15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+17	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+18	wyši	wysoki	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	20	amod	_	_
+19	škrějny	škrějny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	warjenski	warjenski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	conj	_	_
+24	a	a	CCONJ	_	_	26	cc	_	_
+25	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+26	husćiša	husty	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = p28s2
-# text = Wona pod normalnymi wuměnjenjemi je kapalny při temperaturach mjez 0 °C a 100 °C.
-1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-2	pod	pod	ADP	_	_	4	case	_	_
-3	normalnymi	normalny	ADJ	_	Case=Ins|Number=Plur	4	amod	_	_
-4	wuměnjenjemi	wuměnjenje	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	6	nmod	_	_
-5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	kapalny	kapalny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-7	při	při	ADP	_	_	8	case	_	_
-8	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	_
-9	mjez	mjez	ADP	_	_	11	case	_	_
-10	0	0	NUM	_	NumType=Card	11	nummod	_	_
-11	°	°	SYM	_	_	8	nmod	_	SpaceAfter=No
-12	C	C	PROPN	_	Abbr=Yes	11	nmod	_	_
-13	a	a	CCONJ	_	_	15	cc	_	_
-14	100	100	NUM	_	NumType=Card	15	nummod	_	_
-15	°	°	SYM	_	_	11	conj	_	SpaceAfter=No
-16	C	C	PROPN	_	Abbr=Yes	15	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p28s3
-# text = Pod škrějnym dypkom bywa kruta maćizna, a to lód.
-1	Pod	pod	ADP	_	_	3	case	_	_
-2	škrějnym	škrějny	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	3	amod	_	_
-3	dypkom	dypk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
-4	bywa	bywać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
-6	maćizna	maćizna	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	a	a	CCONJ	_	ExtPos=CCONJ	10	cc	_	_
-9	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	fixed	_	_
-10	lód	lód	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p28s4
-# text = Nad warjenskim dypkom bywa para.
-1	Nad	nad	ADP	_	_	3	case	_	_
-2	warjenskim	warjenski	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	_
-3	dypkom	dypk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
-4	bywa	bywać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	para	para	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# newpar id = p32
-# sent_id = p32s1
-# text = Jednora ale wažna a jónkróćna kajkosć wody je, zo jeje kruta forma płuwa na kapalnej.
-1	Jednora	jednory	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
-2	ale	ale	CCONJ	_	_	3	cc	_	_
-3	wažna	wažny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-4	a	a	CCONJ	_	_	5	cc	_	_
-5	jónkróćna	jónkróćny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-6	kajkosć	kajkosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-7	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-8	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	_
-10	zo	zo	SCONJ	_	_	14	mark	_	_
-11	jeje	jeje	DET	_	Gender[psor]=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
-12	kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
-13	forma	forma	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
-14	płuwa	płuwać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj	_	_
-15	na	na	ADP	_	_	16	case	_	_
-16	kapalnej	kapalny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p32s2
-# text = Kruta faza je mjenje husta hač kapalna woda, dla geometrije sylnych wodźikowych wjazbow kotrež so jenož při niskich temperaturach zdźěłuja.
-1	Kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	faza	faza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mjenje	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	5	advmod	_	_
-5	husta	husty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-6	hač	hač	SCONJ	_	_	8	case	_	_
-7	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
-8	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	dla	dla	ADP	_	_	11	case	_	_
-11	geometrije	geometrija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-12	sylnych	sylny	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
-13	wodźikowych	wodźikowy	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
-14	wjazbow	wjazba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
-15	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	21	det	_	_
-16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
-17	jenož	jenož	PART	_	_	20	advmod:emph	_	_
-18	při	při	ADP	_	_	20	case	_	_
-19	niskich	niski	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	20	amod	_	_
-20	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	_
-21	zdźěłuja	zdźěłować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = p32s3
-# text = Tohodla hłuboka woda wostanje kapalna, ćopliša hač lodowy powjerch, a wodowe organizmy (prěnje žiwe organizmy na zemi) móžeja lodowe wumjenja přežiwić.
-1	Tohodla	tohodla	ADV	_	PronType=Dem	4	advmod	_	_
-2	hłuboka	hłuboki	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
-3	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-4	wostanje	wostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	ćopliša	ćopły	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	conj	_	_
-8	hač	hač	SCONJ	_	_	10	case	_	_
-9	lodowy	lodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-10	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	10	punct	_	_
-12	a	a	CCONJ	_	_	22	cc	_	_
-13	wodowe	wodowy	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	14	amod	_	_
-14	organizmy	organizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
-15	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-16	prěnje	prěni	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	18	amod	_	_
-17	žiwe	žiwy	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	18	amod	_	_
-18	organizmy	organizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	appos	_	_
-19	na	na	ADP	_	_	20	case	_	_
-20	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	18	punct	_	_
-22	móžeja	móc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	conj	_	_
-23	lodowe	lodowy	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	24	amod	_	_
-24	wumjenja	wumjenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	25	obj	_	_
-25	přežiwić	přežiwić	VERB	_	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	4	punct	_	_
-
-# newpar id = p61
-# sent_id = p61s1
-# text = Kislik je bjezbarbny, njewonjaty a bjezsłodowy płun.
-1	Kislik	kislik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-3	bjezbarbny	bjezbarbny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	njewonjaty	wonjaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg	3	conj	_	_
-6	a	a	CCONJ	_	_	7	cc	_	_
-7	bjezsłodowy	bjezsłodowy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
-8	płun	płun	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
-
-# sent_id = p61s2
-# text = Jako element so zjewi nimale jenož w molekularnej formje, a to jako O2, ale tež O3 (ocon).
-1	Jako	jako	SCONJ	_	_	2	mark	_	_
-2	element	element	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	zjewi	zjewić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	nimale	nimale	ADV	_	_	9	advmod:emph	_	_
-6	jenož	jenož	PART	_	_	9	advmod:emph	_	_
-7	w	w	ADP	_	_	9	case	_	_
-8	molekularnej	molekularny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	9	amod	_	_
-9	formje	forma	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	14	punct	_	_
-11	a	a	CCONJ	_	ExtPos=CCONJ	14	cc	_	_
-12	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	fixed	_	_
-13	jako	jako	SCONJ	_	_	14	case	_	_
-14	O2	o2	SYM	_	Abbr=Yes	9	appos	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
-16	ale	ale	CCONJ	_	ExtPos=CCONJ	18	cc	_	_
-17	tež	tež	ADV	_	_	16	fixed	_	_
-18	O3	o3	SYM	_	Abbr=Yes	14	conj	_	_
-19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-20	ocon	ocon	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	4	punct	_	_
-
-# newpar id = p68
-# sent_id = p68s1
-# text = Dokelž woda je trěbna za čłowjekowe, zwěrjatkowe a rostlinowe žiwjenje, jeje disponujomnosć ma wulku wažnosć sociusku a politisku.
-1	Dokelž	dokelž	SCONJ	_	_	4	mark	_	_
-2	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	trěbna	trěbny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	15	amod	_	_
-5	za	za	ADP	_	_	6	case	_	_
-6	čłowjekowe	čłowjekowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	zwěrjatkowe	zwěrjatkowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
-9	a	a	CCONJ	_	_	11	cc	_	_
-10	rostlinowe	rostlinowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
-11	žiwjenje	žiwjenje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	4	punct	_	_
-13	jeje	jeje	DET	_	Gender[psor]=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
-14	disponujomnosć	disponujomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
-15	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-16	wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
-17	wažnosć	wažnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
-18	sociusku	sociuski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
-19	a	a	CCONJ	_	_	20	cc	_	_
-20	politisku	politiski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	15	punct	_	_
-
-# sent_id = p68s2
-# text = Pódlanska mapa pokaza přez čerwjenu barbu kraje, kotrež kóždolětnje wobsedźeja mjeńše hač 500 m³ wobnowjeneje wody na wšeho wobydlerja.
-1	Pódlanska	pódlanski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	mapa	mapa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	přez	přez	ADP	_	_	6	case	_	_
-5	čerwjenu	čerwjeny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
-6	barbu	barba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
-7	kraje	kraj	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	11	punct	_	_
-9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	_
-10	kóždolětnje	kóždolětnje	ADV	_	Degree=Pos	11	advmod	_	_
-11	wobsedźeja	wobsedźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
-12	mjeńše	mało	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	14	advmod	_	_
-13	hač	hač	SCONJ	_	_	12	fixed	_	_
-14	500	500	NUM	_	NumType=Card	15	nummod	_	_
-15	m	metr	NOUN	_	Abbr=Yes	11	obl	_	SpaceAfter=No
-16	³	³	SYM	_	_	15	amod	_	_
-17	wobnowjeneje	wobnowjeny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	18	amod	_	_
-18	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
-19	na	na	ADP	_	_	21	case	_	_
-20	wšeho	wšě	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	21	det	_	_
-21	wobydlerja	wobydler	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p68s3
-# text = Žołta barba pokaza disponujomnosć mjez 500 a 1700 m³.
-1	Žołta	žołty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	barba	barba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	disponujomnosć	disponujomnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
-5	mjez	mjez	ADP	_	_	6	case	_	_
-6	500	500	NUM	_	NumType=Card	9	nummod	_	_
-7	a	a	CCONJ	_	_	8	cc	_	_
-8	1700	1700	NUM	_	NumType=Card	6	conj	_	_
-9	m	m	NOUN	_	Abbr=Yes	4	nmod	_	SpaceAfter=No
-10	³	³	SYM	_	_	9	amod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p68s4
-# text = Dokelž někotre rěki, kotrež su wažne za wodowe zastaranje (na př. Jordan, Kolorado), přeprěkuja krajowe hranicy, su móžne mjezykrajowe konflikty wo pitnej wodźe.
-1	Dokelž	dokelž	SCONJ	_	_	20	mark	_	_
-2	někotre	někotry	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
-3	rěki	rěka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	7	punct	_	_
-5	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	7	nsubj	_	_
-6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	wažne	wažny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	acl	_	_
-8	za	za	ADP	_	_	10	case	_	_
-9	wodowe	wodowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	_
-10	zastaranje	zastaranje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
-11	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-12	na	na	ADP	_	ExtPos=ADP	15	case	_	_
-13	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	_
-15	Jordan	Jordan	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	Kolorado	Kolorado	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
-18	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	15	punct	_	_
-20	přeprěkuja	přeprěkować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
-21	krajowe	krajowy	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	22	amod	_	_
-22	hranicy	hranica	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	20	punct	_	_
-24	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
-25	móžne	móžny	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-26	mjezykrajowe	mjezykrajowy	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	amod	_	_
-27	konflikty	konflikt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	_
-28	wo	wo	ADP	_	_	30	case	_	_
-29	pitnej	pitny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	30	amod	_	_
-30	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	25	punct	_	_
-
-# newpar id = p99
-# sent_id = p99s1
-# text = Tři štwórćinow powjerch zemje su přikryte přez wulku kopicu wody, oceany.
-1	Tři	tři	NUM	_	NumType=Card	2	nummod:gov	_	_
-2	štwórćinow	štwórćina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nsubj	_	_
-3	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
-4	zemje	zemja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-5	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	přikryte	přikryty	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
-7	přez	přez	ADP	_	_	9	case	_	_
-8	wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
-9	kopicu	kopica	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
-10	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	oceany	ocean	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	appos	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = p99s2
-# text = Cirkulacija wody mjez oceanami a powětrom zwjetša kreěruje wjedro.
-1	Cirkulacija	cirkulacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-2	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-3	mjez	mjez	ADP	_	_	4	case	_	_
-4	oceanami	ocean	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
-5	a	a	CCONJ	_	_	6	cc	_	_
-6	powětrom	powětr	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	_
-7	zwjetša	zwjetša	ADV	_	_	8	advmod	_	_
-8	kreěruje	kreěrować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	wjedro	wjedro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	_
-
-# newpar id = p102
-# sent_id = p102s1
-# text = Jeho najčasćiše wjazby na zemi su woda a silikaty.
-1	Jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-2	najčasćiše	časty	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	3	amod	_	_
-3	wjazby	wjazba	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-4	na	na	ADP	_	_	5	case	_	_
-5	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
-6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-7	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+# sent_id = p284s2
+# text = Na bazy wulkeje masoweje diferency mjez protiumom a deuteriumom a tritiumom, (kotrejž matej dwójnu a trójnu masu), kinetiski izotopowy efekt je jara akutny.
+1	Na	na	ADP	_	_	2	case	_	_
+2	bazy	baza	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+3	wulkeje	wulki	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	masoweje	masowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	diferency	diferenca	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	mjez	mjez	ADP	_	_	7	case	_	_
+7	protiumom	protium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	_
 8	a	a	CCONJ	_	_	9	cc	_	_
-9	silikaty	silikat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
+9	deuteriumom	deuterium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	conj	_	_
+10	a	a	CCONJ	_	_	11	cc	_	_
+11	tritiumom	tritium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	kotrejž	kotryž	DET	_	Case=Nom|Gender=Neut|Number=Dual|PronType=Rel	15	nsubj	_	_
+15	matej	měć	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+16	dwójnu	dwójny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Mult	19	amod	_	_
+17	a	a	CCONJ	_	_	18	cc	_	_
+18	trójnu	trójny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Mult	16	conj	_	_
+19	masu	masa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	15	punct	_	_
+22	kinetiski	kinetiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+23	izotopowy	izotopowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	efekt	efekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+25	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+26	jara	jara	ADV	_	Degree=Pos	27	advmod	_	_
+27	akutny	akutny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	27	punct	_	_
+
+# sent_id = p284s3
+# text = Dla narunanja normalneje wody při chemiskich substancach runowahowe reakcije změnja, štož móže na př. k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić.
+1	Dla	dla	ADP	_	_	2	case	_	_
+2	narunanja	narunanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+3	normalneje	normalny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	při	při	ADP	_	_	7	case	_	_
+6	chemiskich	chemiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
+7	substancach	substanca	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	10	obl	_	_
+8	runowahowe	runowahowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
+9	reakcije	reakcija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
+10	změnja	změnić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	štož	štož	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	_
+13	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	10	conj	_	_
+14	na	na	ADP	_	ExtPos=ADV	19	advmod:emph	_	_
+15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+17	k	k	ADP	_	_	19	case	_	_
+18	ćěłoškódnym	ćěłoškódny	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	nmod	_	_
+19	sćěham	sćěh	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	23	obj	_	_
+20	w	w	ADP	_	_	22	case	_	_
+21	čłowjekowym	čłowjekowy	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	22	amod	_	_
+22	ćěle	ćěło	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	19	obj	_	_
+23	wodźić	wodźić	VERB	_	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
 
 # newpar id = p133
 # sent_id = p133s1
@@ -5475,33 +5409,6 @@
 11	84	84	NUM	_	NumType=Card	9	compound	_	_
 12	pikometrow	pikometer	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
-
-# newpar id = p139
-# sent_id = p139s1
-# text = Woda wobsteji z wodźika a kislika w poměrje 2:1.
-1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	wobsteji	wobstać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	z	z	ADP	_	_	4	case	_	_
-4	wodźika	wodźik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	_
-5	a	a	CCONJ	_	_	6	cc	_	_
-6	kislika	kislik	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	conj	_	_
-7	w	w	ADP	_	_	8	case	_	_
-8	poměrje	poměr	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
-9	2	2	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
-10	:	:	SYM	_	_	11	case	_	SpaceAfter=No
-11	1	1	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p139s2
-# text = Wona wobsahuje w drobnych mnóstwach ćežku wodu.
-1	Wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	wobsahuje	wobsahować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	w	w	ADP	_	_	5	case	_	_
-4	drobnych	drobny	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	5	amod	_	_
-5	mnóstwach	mnóstwo	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	7	nmod	_	_
-6	ćežku	ćežki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
-7	wodu	woda	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
 
 # newpar id = p150
 # sent_id = p150s1
@@ -5684,45 +5591,57 @@
 8	wolóžowane	wolóžowany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# newpar id = p216
-# sent_id = p216s1
-# text = Wjele maćiznow so móže we wodźe rozpušćeć, při tym rozpušćomnosć wotwisuje wot maćizny a temperatury.
-1	Wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	2	det:numgov	_	_
-2	maćiznow	maćizna	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	_
-4	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-5	we	w	ADP	_	_	6	case	_	_
-6	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
-7	rozpušćeć	rozpušćeć	VERB	_	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	_
-9	při	při	ADP	_	_	10	case	_	_
-10	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	_
-11	rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-12	wotwisuje	wotwisować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-13	wot	wot	ADP	_	_	14	case	_	_
-14	maćizny	maćizna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
-15	a	a	CCONJ	_	_	16	cc	_	_
-16	temperatury	temperatura	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	_
+# newpar id = p313
+# sent_id = p313s1
+# text = Wodowe kapki su stabilne dla sylneje powjerchoweje napjatosće wody.
+1	Wodowe	wodowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+2	kapki	kapka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+3	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	stabilne	stabilny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
+5	dla	dla	ADP	_	_	8	case	_	_
+6	sylneje	sylny	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	powjerchoweje	powjerchowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	napjatosće	napjatosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+9	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = p216s2
-# text = Rozpušćomnosć płunow wotewza z přiběracu temperaturu, mjeztym zo rozpušćomnosć selow přiběra z přiběracu temperaturu.
-1	Rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	płunow	płun	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
-3	wotewza	wotewzać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	z	z	ADP	_	_	6	case	_	_
-5	přiběracu	přiběracy	ADJ	_	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
-6	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	12	punct	_	_
-8	mjeztym	mjeztym	ADV	_	ExtPos=SCONJ	12	mark	_	_
-9	zo	zo	SCONJ	_	_	8	fixed	_	_
-10	rozpušćomnosć	rozpušćomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	xcomp	_	_
-11	selow	sel	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
-12	přiběra	přiběrać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-13	z	z	ADP	_	_	15	case	_	_
-14	přiběracu	přiběracy	ADJ	_	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	amod	_	_
-15	temperaturu	temperatura	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
+# sent_id = p313s2
+# text = So móže widźeć tute hdyž tróšku wody bu kapana na njerozpušćomny powjerch kaž škleńcu.
+1	So	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
+2	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+3	widźeć	widźeć	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	tute	tutón	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
+5	hdyž	hdyž	SCONJ	_	_	9	mark	_	_
+6	tróšku	tróšku	DET	_	NumType=Card|PronType=Ind	7	det:numgov	_	_
+7	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
+9	kapana	kapany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	advcl	_	_
+10	na	na	ADP	_	_	12	case	_	_
+11	njerozpušćomny	rozpušćomny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg	12	amod	_	_
+12	powjerch	powjerch	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
+13	kaž	kaž	SCONJ	_	_	14	case	_	_
+14	škleńcu	škleńca	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p313s3
+# text = Woda so do kapkow zwjazuje.
+1	Woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
+3	do	do	ADP	_	_	4	case	_	_
+4	kapkow	kapka	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
+5	zwjazuje	zwjazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = p313s4
+# text = Tuta kajkosć je trěbna za rostlinowu transpiraciju.
+1	Tuta	tutón	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	kajkosć	kajkosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	trěbna	trěbny	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+5	za	za	ADP	_	_	7	case	_	_
+6	rostlinowu	rostlinowy	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	transpiraciju	transpiracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 # newpar id = p257
 # sent_id = p257s1
@@ -5761,94 +5680,176 @@
 32	oceany	ocean	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	conj	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	5	punct	_	_
 
-# newpar id = p284
-# sent_id = p284s1
-# text = Ćežka woda so wot wšědneje wody we fyzikalnych a chemiskich kajkosćach rozeznawa, na př. ma wyši škrějny dypk, warjenski dypk a je husćiša.
-1	Ćežka	ćežki	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	expl:pass	_	_
-4	wot	wot	ADP	_	_	6	case	_	_
-5	wšědneje	wšědny	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
-7	we	w	ADP	_	_	11	case	_	_
-8	fyzikalnych	fyzikalny	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
-9	a	a	CCONJ	_	_	10	cc	_	_
-10	chemiskich	chemiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	8	conj	_	_
-11	kajkosćach	kajkosć	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
-12	rozeznawa	rozeznawać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	17	punct	_	_
-14	na	na	ADP	_	ExtPos=ADV	17	advmod	_	_
-15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	_	_
-17	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
-18	wyši	wysoki	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	20	amod	_	_
-19	škrějny	škrějny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	23	punct	_	_
-22	warjenski	warjenski	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
-23	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	conj	_	_
-24	a	a	CCONJ	_	_	26	cc	_	_
-25	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
-26	husćiša	husty	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	12	punct	_	_
+# newpar id = p68
+# sent_id = p68s1
+# text = Dokelž woda je trěbna za čłowjekowe, zwěrjatkowe a rostlinowe žiwjenje, jeje disponujomnosć ma wulku wažnosć sociusku a politisku.
+1	Dokelž	dokelž	SCONJ	_	_	4	mark	_	_
+2	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	trěbna	trěbny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	15	amod	_	_
+5	za	za	ADP	_	_	6	case	_	_
+6	čłowjekowe	čłowjekowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	zwěrjatkowe	zwěrjatkowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
+9	a	a	CCONJ	_	_	11	cc	_	_
+10	rostlinowe	rostlinowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
+11	žiwjenje	žiwjenje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	4	punct	_	_
+13	jeje	jeje	DET	_	Gender[psor]=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	disponujomnosć	disponujomnosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
+17	wažnosć	wažnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+18	sociusku	sociuski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
+19	a	a	CCONJ	_	_	20	cc	_	_
+20	politisku	politiski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = p284s2
-# text = Na bazy wulkeje masoweje diferency mjez protiumom a deuteriumom a tritiumom, (kotrejž matej dwójnu a trójnu masu), kinetiski izotopowy efekt je jara akutny.
-1	Na	na	ADP	_	_	2	case	_	_
-2	bazy	baza	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
-3	wulkeje	wulki	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-4	masoweje	masowy	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	diferency	diferenca	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-6	mjez	mjez	ADP	_	_	7	case	_	_
-7	protiumom	protium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	_
+# sent_id = p68s2
+# text = Pódlanska mapa pokaza přez čerwjenu barbu kraje, kotrež kóždolětnje wobsedźeja mjeńše hač 500 m³ wobnowjeneje wody na wšeho wobydlerja.
+1	Pódlanska	pódlanski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	mapa	mapa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	přez	přez	ADP	_	_	6	case	_	_
+5	čerwjenu	čerwjeny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	barbu	barba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+7	kraje	kraj	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	kotrež	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	_
+10	kóždolětnje	kóždolětnje	ADV	_	Degree=Pos	11	advmod	_	_
+11	wobsedźeja	wobsedźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+12	mjeńše	mało	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	14	advmod	_	_
+13	hač	hač	SCONJ	_	_	12	fixed	_	_
+14	500	500	NUM	_	NumType=Card	15	nummod	_	_
+15	m	metr	NOUN	_	Abbr=Yes	11	obl	_	SpaceAfter=No
+16	³	³	SYM	_	_	15	amod	_	_
+17	wobnowjeneje	wobnowjeny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	18	amod	_	_
+18	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+19	na	na	ADP	_	_	21	case	_	_
+20	wšeho	wšě	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	21	det	_	_
+21	wobydlerja	wobydler	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p68s3
+# text = Žołta barba pokaza disponujomnosć mjez 500 a 1700 m³.
+1	Žołta	žołty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	barba	barba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	disponujomnosć	disponujomnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	mjez	mjez	ADP	_	_	6	case	_	_
+6	500	500	NUM	_	NumType=Card	9	nummod	_	_
+7	a	a	CCONJ	_	_	8	cc	_	_
+8	1700	1700	NUM	_	NumType=Card	6	conj	_	_
+9	m	m	NOUN	_	Abbr=Yes	4	nmod	_	SpaceAfter=No
+10	³	³	SYM	_	_	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p68s4
+# text = Dokelž někotre rěki, kotrež su wažne za wodowe zastaranje (na př. Jordan, Kolorado), přeprěkuja krajowe hranicy, su móžne mjezykrajowe konflikty wo pitnej wodźe.
+1	Dokelž	dokelž	SCONJ	_	_	20	mark	_	_
+2	někotre	někotry	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	rěki	rěka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	7	nsubj	_	_
+6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	wažne	wažny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	acl	_	_
+8	za	za	ADP	_	_	10	case	_	_
+9	wodowe	wodowy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	_
+10	zastaranje	zastaranje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
+11	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+12	na	na	ADP	_	ExtPos=ADP	15	case	_	_
+13	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	Jordan	Jordan	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Kolorado	Kolorado	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	15	punct	_	_
+20	přeprěkuja	přeprěkować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
+21	krajowe	krajowy	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	22	amod	_	_
+22	hranicy	hranica	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	20	punct	_	_
+24	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+25	móžne	móžny	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+26	mjezykrajowe	mjezykrajowy	ADJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	amod	_	_
+27	konflikty	konflikt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	_
+28	wo	wo	ADP	_	_	30	case	_	_
+29	pitnej	pitny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	30	amod	_	_
+30	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	25	punct	_	_
+
+# newpar id = p367
+# sent_id = p367s1
+# text = Je jedyn z hłownych wobstatkow zemskeje atmosfery, ale tež wustupuje jako wobstatk silikatow w kamjenjach.
+1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	jedyn	jedyn	NUM	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
+3	z	z	ADP	_	_	5	case	_	_
+4	hłownych	hłowny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+5	wobstatkow	wobstatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	zemskeje	zemski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	atmosfery	atmosfera	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
+10	tež	tež	ADV	_	_	9	fixed	_	_
+11	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	jako	jako	SCONJ	_	_	13	mark	_	_
+13	wobstatk	wobstatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	_
+14	silikatow	silikat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	w	w	ADP	_	_	16	case	_	_
+16	kamjenjach	kamjeń	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p61
+# sent_id = p61s1
+# text = Kislik je bjezbarbny, njewonjaty a bjezsłodowy płun.
+1	Kislik	kislik	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+3	bjezbarbny	bjezbarbny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	njewonjaty	wonjaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg	3	conj	_	_
+6	a	a	CCONJ	_	_	7	cc	_	_
+7	bjezsłodowy	bjezsłodowy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	płun	płun	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p61s2
+# text = Jako element so zjewi nimale jenož w molekularnej formje, a to jako O2, ale tež O3 (ocon).
+1	Jako	jako	SCONJ	_	_	2	mark	_	_
+2	element	element	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+4	zjewi	zjewić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	nimale	nimale	ADV	_	_	9	advmod:emph	_	_
+6	jenož	jenož	PART	_	_	9	advmod:emph	_	_
+7	w	w	ADP	_	_	9	case	_	_
+8	molekularnej	molekularny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	9	amod	_	_
+9	formje	forma	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	a	a	CCONJ	_	ExtPos=CCONJ	14	cc	_	_
+12	to	to	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	fixed	_	_
+13	jako	jako	SCONJ	_	_	14	case	_	_
+14	O2	o2	SYM	_	Abbr=Yes	9	appos	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	ale	ale	CCONJ	_	ExtPos=CCONJ	18	cc	_	_
+17	tež	tež	ADV	_	_	16	fixed	_	_
+18	O3	o3	SYM	_	Abbr=Yes	14	conj	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	ocon	ocon	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# newpar id = p102
+# sent_id = p102s1
+# text = Jeho najčasćiše wjazby na zemi su woda a silikaty.
+1	Jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+2	najčasćiše	časty	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	3	amod	_	_
+3	wjazby	wjazba	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+4	na	na	ADP	_	_	5	case	_	_
+5	zemi	zemja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+7	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 8	a	a	CCONJ	_	_	9	cc	_	_
-9	deuteriumom	deuterium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	conj	_	_
-10	a	a	CCONJ	_	_	11	cc	_	_
-11	tritiumom	tritium	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	15	punct	_	_
-13	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-14	kotrejž	kotryž	DET	_	Case=Nom|Gender=Neut|Number=Dual|PronType=Rel	15	nsubj	_	_
-15	matej	měć	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
-16	dwójnu	dwójny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Mult	19	amod	_	_
-17	a	a	CCONJ	_	_	18	cc	_	_
-18	trójnu	trójny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Mult	16	conj	_	_
-19	masu	masa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
-20	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	15	punct	_	_
-22	kinetiski	kinetiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
-23	izotopowy	izotopowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
-24	efekt	efekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
-25	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-26	jara	jara	ADV	_	Degree=Pos	27	advmod	_	_
-27	akutny	akutny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	27	punct	_	_
-
-# sent_id = p284s3
-# text = Dla narunanja normalneje wody při chemiskich substancach runowahowe reakcije změnja, štož móže na př. k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić.
-1	Dla	dla	ADP	_	_	2	case	_	_
-2	narunanja	narunanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
-3	normalneje	normalny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
-4	wody	woda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-5	při	při	ADP	_	_	7	case	_	_
-6	chemiskich	chemiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
-7	substancach	substanca	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	10	obl	_	_
-8	runowahowe	runowahowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
-9	reakcije	reakcija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
-10	změnja	změnić	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	štož	štož	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	_
-13	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	10	conj	_	_
-14	na	na	ADP	_	ExtPos=ADV	19	advmod:emph	_	_
-15	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	_	_
-17	k	k	ADP	_	_	19	case	_	_
-18	ćěłoškódnym	ćěłoškódny	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	nmod	_	_
-19	sćěham	sćěh	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	23	obj	_	_
-20	w	w	ADP	_	_	22	case	_	_
-21	čłowjekowym	čłowjekowy	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	22	amod	_	_
-22	ćěle	ćěło	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	19	obj	_	_
-23	wodźić	wodźić	VERB	_	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	10	punct	_	_
+9	silikaty	silikat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar id = p291
 # sent_id = p291s1
