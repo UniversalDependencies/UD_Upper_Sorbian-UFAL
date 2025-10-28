@@ -5778,27 +5778,7 @@
 30	wodźe	woda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	25	punct	_	_
 
-# newpar id = p367
-# sent_id = p367s1
-# text = Je jedyn z hłownych wobstatkow zemskeje atmosfery, ale tež wustupuje jako wobstatk silikatow w kamjenjach.
-1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	jedyn	jedyn	NUM	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
-3	z	z	ADP	_	_	5	case	_	_
-4	hłownych	hłowny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
-5	wobstatkow	wobstatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
-6	zemskeje	zemski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	atmosfery	atmosfera	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	11	punct	_	_
-9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
-10	tež	tež	ADV	_	_	9	fixed	_	_
-11	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-12	jako	jako	SCONJ	_	_	13	mark	_	_
-13	wobstatk	wobstatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	_
-14	silikatow	silikat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
-15	w	w	ADP	_	_	16	case	_	_
-16	kamjenjach	kamjeń	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	_
-
+# newdoc id = wiki-kislik
 # newpar id = p61
 # sent_id = p61s1
 # text = Kislik je bjezbarbny, njewonjaty a bjezsłodowy płun.
@@ -5837,6 +5817,27 @@
 21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
 
+# newpar id = p367
+# sent_id = p367s1
+# text = Je jedyn z hłownych wobstatkow zemskeje atmosfery, ale tež wustupuje jako wobstatk silikatow w kamjenjach.
+1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	jedyn	jedyn	NUM	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
+3	z	z	ADP	_	_	5	case	_	_
+4	hłownych	hłowny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+5	wobstatkow	wobstatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	zemskeje	zemski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	atmosfery	atmosfera	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
+10	tež	tež	ADV	_	_	9	fixed	_	_
+11	wustupuje	wustupować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	jako	jako	SCONJ	_	_	13	mark	_	_
+13	wobstatk	wobstatk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	_
+14	silikatow	silikat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	w	w	ADP	_	_	16	case	_	_
+16	kamjenjach	kamjeń	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
 # newpar id = p102
 # sent_id = p102s1
 # text = Jeho najčasćiše wjazby na zemi su woda a silikaty.
@@ -5850,6 +5851,47 @@
 8	a	a	CCONJ	_	_	9	cc	_	_
 9	silikaty	silikat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
+
+# newpar id = p274
+# sent_id = p274s1
+# text = Šwed Carl Wilhelm Scheele a Jendźelčan Joseph Priestley stej element kislik wokoło lěta 1775 wotkryłoj.
+1	Šwed	Šwed	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	Carl	Carl	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+3	Wilhelm	Wilhelm	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+4	Scheele	Scheele	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+5	a	a	CCONJ	_	_	7	cc	_	_
+6	Jendźelčan	Jendźelčan	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	_
+7	Joseph	Joseph	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+8	Priestley	Priestley	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
+9	stej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+10	element	element	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
+11	kislik	kislik	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+12	wokoło	wokoło	ADP	_	_	13	case	_	_
+13	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+14	1775	1775	NUM	_	NumType=Card	13	nummod	_	_
+15	wotkryłoj	wotkryć	VERB	_	Animacy=Anim|Gender=Masc|Number=Dual|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = p274s2
+# text = Francoz Lavoisier je wono oxygen mjenował (grjeksce oxys: kisilina ; a grjeksce gignomai: činju)
+1	Francoz	Francoz	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	Lavoisier	Lavoisier	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	wono	wón	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	oxygen	oxygen	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
+6	mjenował	mjenować	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	grjeksce	grjeksce	ADV	_	Degree=Pos	9	advmod	_	_
+9	oxys	oxys	X	_	_	6	parataxis	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	11	punct	_	_
+11	kisilina	kisilina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	appos	_	_
+12	;	;	PUNCT	_	_	15	punct	_	_
+13	a	a	CCONJ	_	_	15	cc	_	_
+14	grjeksce	grjeksce	ADV	_	Degree=Pos	15	advmod	_	_
+15	gignomai	gignomai	X	_	_	9	conj	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	17	punct	_	_
+17	činju	činić	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	appos	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	9	punct	_	_
 
 # newpar id = p291
 # sent_id = p291s1
@@ -5921,47 +5963,95 @@
 3	fotosynteza	fotosynteza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# newpar id = p274
-# sent_id = p274s1
-# text = Šwed Carl Wilhelm Scheele a Jendźelčan Joseph Priestley stej element kislik wokoło lěta 1775 wotkryłoj.
-1	Šwed	Šwed	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
-2	Carl	Carl	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-3	Wilhelm	Wilhelm	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
-4	Scheele	Scheele	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
-5	a	a	CCONJ	_	_	7	cc	_	_
-6	Jendźelčan	Jendźelčan	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	_
-7	Joseph	Joseph	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
-8	Priestley	Priestley	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
-9	stej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-10	element	element	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
-11	kislik	kislik	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
-12	wokoło	wokoło	ADP	_	_	13	case	_	_
-13	lěta	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
-14	1775	1775	NUM	_	NumType=Card	13	nummod	_	_
-15	wotkryłoj	wotkryć	VERB	_	Animacy=Anim|Gender=Masc|Number=Dual|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+# newdoc id = wiki-nacionalsocializm
+# newpar id = p31
+# sent_id = p31s1
+# text = Nacionalsocializm (prěnjotnje němsce Nationalsozialismus, tež krótko nacizm) je njedemokratiska, antikomunistiska a antisemitiska (a tež antisłowjanska) ideologija, swětonahlad, kotry bu załoženy wot Adolfa Hitlera a jeho strony w dobje Weimarskeje republiki.
+1	Nacionalsocializm	nacionalsocializm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+2	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+3	prěnjotnje	prěnjotnje	ADV	_	Degree=Pos	5	cc	_	_
+4	němsce	němsce	ADV	_	Degree=Pos	5	advmod	_	_
+5	Nationalsozialismus	nationalsozialismus	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	tež	tež	ADV	_	_	9	advmod	_	_
+8	krótko	krótko	ADV	_	Degree=Pos	9	advmod	_	_
+9	nacizm	nacizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	5	punct	_	_
+11	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+12	njedemokratiska	demokratiski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	22	amod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	antikomunistiska	antikomunistiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
+15	a	a	CCONJ	_	_	16	cc	_	_
+16	antisemitiska	antisemitiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
+17	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+18	a	a	CCONJ	_	ExtPos=CCONJ	20	cc	_	_
+19	tež	tež	ADV	_	_	18	fixed	_	_
+20	antisłowjanska	antisłowjanski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	12	punct	_	_
+22	ideologija	ideologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	swětonahlad	swětonahlad	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	kotry	kotry	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	28	nsubj	_	_
+27	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	cop	_	_
+28	załoženy	załoženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	24	xcomp	_	_
+29	wot	wot	ADP	_	_	30	nmod	_	_
+30	Adolfa	Adolf	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+31	Hitlera	Hitler	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	flat	_	_
+32	a	a	CCONJ	_	_	34	cc	_	_
+33	jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
+34	strony	strona	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	30	conj	_	_
+35	w	w	ADP	_	_	36	case	_	_
+36	dobje	doba	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	_
+37	Weimarskeje	weimarski	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	38	amod	_	_
+38	republiki	republika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = p31s2
+# text = Je waženy za hłownu přičinu Druheje swětoweje wójny a bě tež přičina wjele złóstnistwow Třećeho reicha, na přikład holocausta.
+1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	waženy	waženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3	za	za	ADP	_	_	5	case	_	_
+4	hłownu	hłowny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	přičinu	přičina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	Druheje	druhi	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
+7	swětoweje	swětowy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	wójny	wójna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	a	a	CCONJ	_	_	12	cc	_	_
+10	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+11	tež	tež	ADV	_	_	12	advmod	_	_
+12	přičina	přičina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+13	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	14	det:numgov	_	_
+14	złóstnistwow	złóstnistwo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+15	Třećeho	třeći	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
+16	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	na	na	ADP	_	ExtPos=ADV	20	advmod:emph	_	_
+19	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	fixed	_	_
+20	holocausta	holocaust	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	appos	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar id = p101
+# sent_id = p101s1
+# text = Dźensa su w mnohich statach (wosebje w Europje) nacizm a jeho propagacija zakazane.
+1	Dźensa	dźensa	ADV	_	_	15	advmod	_	_
+2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+3	w	w	ADP	_	_	5	case	_	_
+4	mnohich	mnohi	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	5	amod	_	_
+5	statach	stat	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	nmod	_	_
+6	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+7	wosebje	wosebje	ADV	_	Degree=Pos	9	advmod:emph	_	_
+8	w	w	ADP	_	_	9	case	_	_
+9	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	nacizm	nacizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+12	a	a	CCONJ	_	_	14	cc	_	_
+13	jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	propagacija	propagacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	conj	_	_
+15	zakazane	zakazany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = p274s2
-# text = Francoz Lavoisier je wono oxygen mjenował (grjeksce oxys: kisilina ; a grjeksce gignomai: činju)
-1	Francoz	Francoz	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
-2	Lavoisier	Lavoisier	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-4	wono	wón	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-5	oxygen	oxygen	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
-6	mjenował	mjenować	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	grjeksce	grjeksce	ADV	_	Degree=Pos	9	advmod	_	_
-9	oxys	oxys	X	_	_	6	parataxis	_	SpaceAfter=No
-10	:	:	PUNCT	_	_	11	punct	_	_
-11	kisilina	kisilina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	appos	_	_
-12	;	;	PUNCT	_	_	15	punct	_	_
-13	a	a	CCONJ	_	_	15	cc	_	_
-14	grjeksce	grjeksce	ADV	_	Degree=Pos	15	advmod	_	_
-15	gignomai	gignomai	X	_	_	9	conj	_	SpaceAfter=No
-16	:	:	PUNCT	_	_	17	punct	_	_
-17	činju	činić	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	appos	_	SpaceAfter=No
-18	)	)	PUNCT	_	_	9	punct	_	_
-
+# newdoc id = stawizny-serbow
 # newpar id = p386
 # sent_id = p386s1
 # text = 6. lětstotk
@@ -6096,93 +6186,7 @@
 32	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	23	punct	_	_
 
-# newpar id = p31
-# sent_id = p31s1
-# text = Nacionalsocializm (prěnjotnje němsce Nationalsozialismus, tež krótko nacizm) je njedemokratiska, antikomunistiska a antisemitiska (a tež antisłowjanska) ideologija, swětonahlad, kotry bu załoženy wot Adolfa Hitlera a jeho strony w dobje Weimarskeje republiki.
-1	Nacionalsocializm	nacionalsocializm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
-2	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-3	prěnjotnje	prěnjotnje	ADV	_	Degree=Pos	5	cc	_	_
-4	němsce	němsce	ADV	_	Degree=Pos	5	advmod	_	_
-5	Nationalsozialismus	nationalsozialismus	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	tež	tež	ADV	_	_	9	advmod	_	_
-8	krótko	krótko	ADV	_	Degree=Pos	9	advmod	_	_
-9	nacizm	nacizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
-10	)	)	PUNCT	_	_	5	punct	_	_
-11	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
-12	njedemokratiska	demokratiski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	22	amod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	antikomunistiska	antikomunistiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
-15	a	a	CCONJ	_	_	16	cc	_	_
-16	antisemitiska	antisemitiski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
-17	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-18	a	a	CCONJ	_	ExtPos=CCONJ	20	cc	_	_
-19	tež	tež	ADV	_	_	18	fixed	_	_
-20	antisłowjanska	antisłowjanski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	12	punct	_	_
-22	ideologija	ideologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	24	punct	_	_
-24	swětonahlad	swětonahlad	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	28	punct	_	_
-26	kotry	kotry	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	28	nsubj	_	_
-27	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	cop	_	_
-28	załoženy	załoženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	24	xcomp	_	_
-29	wot	wot	ADP	_	_	30	nmod	_	_
-30	Adolfa	Adolf	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
-31	Hitlera	Hitler	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	flat	_	_
-32	a	a	CCONJ	_	_	34	cc	_	_
-33	jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
-34	strony	strona	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	30	conj	_	_
-35	w	w	ADP	_	_	36	case	_	_
-36	dobje	doba	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	_
-37	Weimarskeje	weimarski	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	38	amod	_	_
-38	republiki	republika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	22	punct	_	_
-
-# sent_id = p31s2
-# text = Je waženy za hłownu přičinu Druheje swětoweje wójny a bě tež přičina wjele złóstnistwow Třećeho reicha, na přikład holocausta.
-1	Je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	waženy	waženy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-3	za	za	ADP	_	_	5	case	_	_
-4	hłownu	hłowny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
-5	přičinu	přičina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
-6	Druheje	druhi	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
-7	swětoweje	swětowy	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
-8	wójny	wójna	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-9	a	a	CCONJ	_	_	12	cc	_	_
-10	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
-11	tež	tež	ADV	_	_	12	advmod	_	_
-12	přičina	přičina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
-13	wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	14	det:numgov	_	_
-14	złóstnistwow	złóstnistwo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
-15	Třećeho	třeći	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
-16	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	20	punct	_	_
-18	na	na	ADP	_	ExtPos=ADV	20	advmod:emph	_	_
-19	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	fixed	_	_
-20	holocausta	holocaust	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	appos	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p101
-# sent_id = p101s1
-# text = Dźensa su w mnohich statach (wosebje w Europje) nacizm a jeho propagacija zakazane.
-1	Dźensa	dźensa	ADV	_	_	15	advmod	_	_
-2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-3	w	w	ADP	_	_	5	case	_	_
-4	mnohich	mnohi	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	5	amod	_	_
-5	statach	stat	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	nmod	_	_
-6	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-7	wosebje	wosebje	ADV	_	Degree=Pos	9	advmod:emph	_	_
-8	w	w	ADP	_	_	9	case	_	_
-9	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
-10	)	)	PUNCT	_	_	9	punct	_	_
-11	nacizm	nacizm	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-12	a	a	CCONJ	_	_	14	cc	_	_
-13	jeho	jeho	DET	_	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
-14	propagacija	propagacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	conj	_	_
-15	zakazane	zakazany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	_	_
-
+# newdoc id = serbja
 # newpar id = p122
 # sent_id = p122s1
 # text = Za cuzych wosebje zajimawa swojoraznosć Łužicy wobsteji w tym, zo so tu nimo němskeje dalša awtochtona rěč rěči: serbšćina, kotraž słuša do swójby słowjanskich rěčow.
@@ -6317,7 +6321,7 @@
 27	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = p122s7
-# text = Nětčiša serbšćina je jenički hač do dźensnišeho zachowany słowjanski idiom w Němskej. ...
+# text = Nětčiša serbšćina je jenički hač do dźensnišeho zachowany słowjanski idiom w Němskej.
 1	Nětčiša	nětčiši	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	serbšćina	serbšćina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
 3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -6331,39 +6335,6 @@
 11	w	w	ADP	_	_	12	case	_	_
 12	Němskej	Němska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	10	punct	_	_
-14	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	10	punct	_	_
-
-# newpar id = p127
-# sent_id = p127s5
-# text = Wulku lěpšinu měješe wobsydstwo na pódźe - wono bě bjezdawkowe.
-1	Wulku	wulki	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
-2	lěpšinu	lěpšina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
-3	měješe	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	wobsydstwo	wobsydstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
-5	na	na	ADP	_	_	6	case	_	_
-6	pódźe	póda	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-7	-	-	PUNCT	_	_	10	punct	_	_
-8	wono	wón	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-9	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
-10	bjezdawkowe	bjezdawkowy	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p127s6
-# text = Nimo pódy wobsedźechu tute zemjanske swójby zwjetša hišće wulke wikowanske předewzaća.
-1	Nimo	nimo	ADP	_	_	2	case	_	_
-2	pódy	póda	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
-3	wobsedźechu	wobsedźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	tute	tutón	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
-5	zemjanske	zemjanski	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	6	amod	_	_
-6	swójby	swójba	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	nsubj	_	_
-7	zwjetša	zwjetša	ADV	_	_	3	advmod	_	_
-8	hišće	hišće	ADV	_	_	11	advmod:emph	_	_
-9	wulke	wulki	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	11	amod	_	_
-10	wikowanske	wikowanski	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	11	amod	_	_
-11	předewzaća	předewzaće	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar id = p190
 # sent_id = p190s1
