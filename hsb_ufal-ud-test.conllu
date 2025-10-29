@@ -8770,7 +8770,305 @@
 17	stata	stat	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	11	punct	_	_
 
-# newdoc id = wiki-wikipedija
+# newdoc id = wiki-wikipedija-hłowna-strona
+# newpar id = p192
+# sent_id = p192s1
+# text = Projekt Wikipedija chce stworić najwjetšu wjelerěčnu, wšitkim přistupnu online-encyklopediju.
+1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	nmod	_	_
+3	chce	chcyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+4	stworić	stworić	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	najwjetšu	wulki	ADJ	_	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
+6	wjelerěčnu	wjelerěčny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	wšitkim	wšitki	DET	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	9	nmod	_	_
+9	přistupnu	přistupny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+10	online	onliny	ADJ	_	_	12	amod	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	encyklopediju	encyklopedija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# newpar id = p91
+# sent_id = p91s1
+# text = Bjez kóždychžkuli formalnosćow móžeš nowe nastawki spisać a nastawki wobdźěłać.
+1	Bjez	bjez	ADP	_	_	3	case	_	_
+2	kóždychžkuli	kóždyžkuli	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	formalnosćow	formalnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+4	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+5	nowe	nowy	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	amod	_	_
+6	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+7	spisać	spisać	VERB	_	VerbForm=Inf	4	xcomp	_	_
+8	a	a	CCONJ	_	_	10	cc	_	_
+9	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+10	wobdźěłać	wobdźěłać	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p91s2
+# text = Wikipedija je natwarjena na zasadach GNU-Licency.
+1	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	natwarjena	natwarjeny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	na	na	ADP	_	_	5	case	_	_
+5	zasadach	zasada	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	_
+6	GNU	GNU	PROPN	_	Abbr=Yes	8	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	Licency	licenca	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p91s3
+# text = Tuchwilu wobsahuje serbska wikipedija 6.741 nastawkow.
+1	Tuchwilu	tuchwilu	ADV	_	PronType=Dem	2	advmod	_	_
+2	wobsahuje	wobsahować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	serbska	serbski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	wikipedija	wikipedija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	6	6	NUM	_	NumType=Card	8	nummod:gov	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	741	741	NUM	_	NumType=Card	5	compound	_	_
+8	nastawkow	nastawk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p91s4
+# text = Zwostanje potajkim hišće tójšto dźěła.
+1	Zwostanje	zwostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	potajkim	potajkim	ADV	_	PronType=Dem	1	advmod	_	_
+3	hišće	hišće	ADV	_	_	1	advmod	_	_
+4	tójšto	tójšto	DET	_	NumType=Card|PronType=Dem	5	det:numgov	_	_
+5	dźěła	dźěło	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = p91s5
+# text = Pomhaj nam, zo by naša encyklopedija dale rostła!
+1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	nam	ja	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	zo	zo	SCONJ	_	_	9	mark	_	_
+5	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
+6	naša	naš	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	encyklopedija	encyklopedija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	dale	daloko	ADV	_	Degree=Cmp	9	advmod	_	_
+9	rostła	rosć	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	1	punct	_	_
+
+# newpar id = p196
+# sent_id = p196s1
+# text = Sy wutrobnje přeprošeny(a), prašenja w korčmje stajić.
+1	Sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	wutrobnje	wutrobnje	ADV	_	Degree=Pos	3	advmod	_	_
+3	přeprošeny	přeprošeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	a	a	CCONJ	_	_	3	dep:alt	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	prašenja	prašenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+9	w	w	ADP	_	_	10	case	_	_
+10	korčmje	korčmja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+11	stajić	stajić	VERB	_	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p196s2
+# text = Tež za bjesadu budźe tam čas.
+1	Tež	tež	ADV	_	_	4	advmod	_	_
+2	za	za	ADP	_	_	3	case	_	_
+3	bjesadu	bjesada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+4	budźe	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	tam	tam	ADV	_	PronType=Dem	4	advmod	_	_
+6	čas	čas	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p196s3
+# text = Zasady a směrnicy projekta móžeš na stronje Wikipedija:Prawidła čitać.
+1	Zasady	zasada	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
+2	a	a	CCONJ	_	_	3	cc	_	_
+3	směrnicy	směrnica	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	conj	_	_
+4	projekta	projekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+6	na	na	ADP	_	_	7	case	_	_
+7	stronje	strona	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+8	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	Prawidła	prawidło	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	flat	_	_
+11	čitać	čitać	VERB	_	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = p196s4
+# text = Dalše pokiwy namakaš w našim pomocnym systemje.
+1	Dalše	dalši	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+2	pokiwy	pokiw	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+3	namakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	w	w	ADP	_	_	7	case	_	_
+5	našim	naš	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+6	pomocnym	pomocny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	systemje	system	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# newpar id = p80
+# sent_id = p80s1
+# text = Kak móžeš so wobdźělić?
+1	Kak	kak	ADV	_	PronType=Int,Rel	2	advmod	_	_
+2	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+4	wobdźělić	wobdźělić	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = p80s2
+# text = Móžeš na přikład na "čerwjene wotkazy" deleka kliknyć a nastawki pisać.
+1	Móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	na	na	ADP	_	ExtPos=ADV	10	advmod	_	_
+3	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	fixed	_	_
+4	na	na	ADP	_	_	7	case	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	čerwjene	čerwjeny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	amod	_	_
+7	wotkazy	wotkaz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	deleka	deleka	ADV	_	Degree=Pos	10	advmod	_	_
+10	kliknyć	kliknyć	VERB	_	VerbForm=Inf	1	xcomp	_	_
+11	a	a	CCONJ	_	_	13	cc	_	_
+12	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+13	pisać	pisać	VERB	_	VerbForm=Inf	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = p80s3
+# text = Móžeš tež při tym pomhać, nastawki ze serbskej tematiku z němskorěčneje Wikipedije a druhich Wikipedijow přełožować abo přełožować dać a je jow załožić.
+1	Móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tež	tež	ADV	_	_	1	advmod	_	_
+3	při	při	ADP	_	_	4	case	_	_
+4	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
+5	pomhać	pomhać	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	17	punct	_	_
+7	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+8	ze	z	ADP	_	_	10	case	_	_
+9	serbskej	serbski	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	10	amod	_	_
+10	tematiku	tematika	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	_
+11	z	z	ADP	_	_	13	case	_	_
+12	němskorěčneje	němskorěčny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
+13	Wikipedije	Wikipedija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
+14	a	a	CCONJ	_	_	16	cc	_	_
+15	druhich	druhi	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	16	amod	_	_
+16	Wikipedijow	Wikipedija	PROPN	_	Case=Gen|Gender=Fem|Number=Plur	13	conj	_	_
+17	přełožować	přełožować	VERB	_	VerbForm=Inf	4	acl	_	_
+18	abo	abo	CCONJ	_	_	20	cc	_	_
+19	přełožować	přełožować	VERB	_	VerbForm=Inf	20	ccomp	_	_
+20	dać	dać	VERB	_	VerbForm=Inf	17	conj	_	_
+21	a	a	CCONJ	_	_	24	cc	_	_
+22	je	wón	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	obj	_	_
+23	jow	jow	ADV	_	PronType=Dem	24	advmod	_	_
+24	załožić	załožić	VERB	_	VerbForm=Inf	17	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = p80s4
+# text = Zo by so GNU-licenca dodźeržała, dyrbi so při tym 3-5 tamnišich t. mj. hłownych awtorow mjenować.
+1	Zo	zo	SCONJ	_	_	7	mark	_	_
+2	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
+4	GNU	GNU	PROPN	_	Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing	6	compound	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	licenca	licenca	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	dodźeržała	dodźeržeć	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	dyrbi	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
+11	při	při	ADP	_	_	12	case	_	_
+12	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	_
+13	3	3	NUM	_	NumType=Card	22	nummod	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	5	5	NUM	_	NumType=Card	13	conj	_	_
+16	tamnišich	tamniši	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	_
+17	t	tak	ADV	_	Abbr=Yes|ExtPos=ADJ|PronType=Dem	22	amod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	mj	mjenowany	ADJ	_	Abbr=Yes|Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	17	fixed	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	_
+21	hłownych	hłowny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	22	amod	_	_
+22	awtorow	awtor	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	obj	_	_
+23	mjenować	mjenować	VERB	_	VerbForm=Inf	9	csubj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p80s5
+# text = Hlej k tomu tež tutón edit.
+1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	k	k	ADP	_	_	3	case	_	_
+3	tomu	to	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	_
+4	tež	tež	ADV	_	_	1	advmod	_	_
+5	tutón	tutón	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	edit	edit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# newdoc id = wiki-wikipedija-administratorojo
+# newpar id = p132
+# sent_id = p132s1
+# text = Administratorojo njejsu oficialni zastupnicy Wikimedia Foundation, na kotrejež serwerach w St. Petersburg, Florida, wšě Wikimedia-projekty leža.
+1	Administratorojo	administrator	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	njejsu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	oficialni	oficialni	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
+4	zastupnicy	zastupnik	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+5	Wikimedia	Wikimedia	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
+6	Foundation	Foundation	PROPN	_	Gender=Fem|Number=Sing	5	flat	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	22	punct	_	_
+8	na	na	ADP	_	_	10	case	_	_
+9	kotrejež	kotryž	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	det	_	_
+10	serwerach	serwer	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	22	obl	_	_
+11	w	w	ADP	_	_	12	case	_	_
+12	St	St	PROPN	_	_	22	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+14	Petersburg	Petersburg	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Florida	Florida	PROPN	_	Gender=Fem|Number=Sing	12	appos	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	wšě	wšě	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
+19	Wikimedia	Wikimedia	PROPN	_	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	projekty	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+22	leža	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = p132s2
+# text = Woni su wužiwarjo, kotrymž so dowěrja, zo budu swoje rozšěrjene funkcije (strony wušmórnyć, strony škitać a jich škit zaso zběhnyć, wužiwarjow blokować) na dobro projekta wužiwać.
+1	Woni	wón	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	wužiwarjo	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	kotrymž	kotryž	DET	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	7	iobj	_	_
+6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
+7	dowěrja	dowěrjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	32	punct	_	_
+9	zo	zo	SCONJ	_	_	32	mark	_	_
+10	budu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	32	aux	_	_
+11	swoje	swój	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	_
+12	rozšěrjene	rozšěrjeny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	funkcije	funkcija	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	32	obj	_	_
+14	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	_
+16	wušmórnyć	wušmórnyć	VERB	_	VerbForm=Inf	13	appos	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+19	škitać	škitać	VERB	_	VerbForm=Inf	16	conj	_	_
+20	a	a	CCONJ	_	_	24	cc	_	_
+21	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
+22	škit	škit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+23	zaso	zaso	ADV	_	_	24	advmod	_	_
+24	zběhnyć	zběhnyć	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	wužiwarjow	wužiwar	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
+27	blokować	blokować	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	16	punct	_	_
+29	na	na	ADP	_	_	30	case	_	_
+30	dobro	dobro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obl	_	_
+31	projekta	projekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	wužiwać	wužiwać	VERB	_	VerbForm=Inf	7	ccomp	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p132s3
+# text = Dlěši tekst w němskej rěči móžeće tu čitać.
+1	Dlěši	dołhi	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	2	amod	_	_
+2	tekst	tekst	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+3	w	w	ADP	_	_	5	case	_	_
+4	němskej	němski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	_
+5	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	móžeće	móc	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+7	tu	tu	ADV	_	PronType=Dem	8	advmod	_	_
+8	čitać	čitać	VERB	_	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# newdoc id = wiki-wikipedija-ekscelentne-nastawki
 # newpar id = p186
 # sent_id = p186s1
 # text = Tuta strona wobsahuje lisćinu z nastawkami, kotrež su ekscelentne.
@@ -8884,321 +9182,7 @@
 19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
-# newpar id = p41
-# sent_id = p41s1
-# text = Jeli sy jedyn z mjenowanych njedostatkow skorigował(a), wotstroń prošu potrjecheny parameter předłohi .
-1	Jeli	jeli	SCONJ	_	_	7	mark	_	_
-2	sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
-3	jedyn	jedyn	NUM	_	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	7	obj	_	_
-4	z	z	ADP	_	_	6	case	_	_
-5	mjenowanych	mjenowany	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	amod	_	_
-6	njedostatkow	njedostatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
-7	skorigował	skorigować	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	SpaceAfter=No
-8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	a	a	X	_	_	7	dep:alt	_	SpaceAfter=No
-10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	wotstroń	wotstronić	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-13	prošu	prosyć	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	discourse	_	_
-14	potrjecheny	potrjecheny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	amod	_	_
-15	parameter	parameter	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
-16	předłohi	předłoha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
-17	.	.	PUNCT	_	_	12	punct	_	_
-
-# sent_id = p41s2
-# text = Podrobnosće namakaš w dokumentaciji.
-1	Podrobnosće	podrobnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
-2	namakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	w	w	ADP	_	_	4	case	_	_
-4	dokumentaciji	dokumentacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# newpar id = p46
-# sent_id = p46s1
-# text = Pomhaj Wikipediju, z tym ty jón rozšěriš a nětko wudospołniš.
-1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	Wikipediju	Wikipedija	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	8	punct	_	_
-4	z	z	ADP	_	_	5	case	_	_
-5	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	_
-6	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-7	jón	wón	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-8	rozšěriš	rozšěrić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-9	a	a	CCONJ	_	_	11	cc	_	_
-10	nětko	nětko	ADV	_	PronType=Dem	11	advmod	_	_
-11	wudospołniš	wudospołnić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
-
-# newpar id = p80
-# sent_id = p80s1
-# text = Kak móžeš so wobdźělić?
-1	Kak	kak	ADV	_	PronType=Int,Rel	2	advmod	_	_
-2	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	wobdźělić	wobdźělić	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-5	?	?	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p80s2
-# text = Móžeš na přikład na "čerwjene wotkazy" deleka kliknyć a nastawki pisać.
-1	Móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	na	na	ADP	_	ExtPos=ADV	10	advmod	_	_
-3	přikład	přikład	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	fixed	_	_
-4	na	na	ADP	_	_	7	case	_	_
-5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
-6	čerwjene	čerwjeny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	amod	_	_
-7	wotkazy	wotkaz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
-8	"	"	PUNCT	_	_	7	punct	_	_
-9	deleka	deleka	ADV	_	Degree=Pos	10	advmod	_	_
-10	kliknyć	kliknyć	VERB	_	VerbForm=Inf	1	xcomp	_	_
-11	a	a	CCONJ	_	_	13	cc	_	_
-12	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
-13	pisać	pisać	VERB	_	VerbForm=Inf	10	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p80s3
-# text = Móžeš tež při tym pomhać, nastawki ze serbskej tematiku z němskorěčneje Wikipedije a druhich Wikipedijow přełožować abo přełožować dać a je jow załožić.
-1	Móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	tež	tež	ADV	_	_	1	advmod	_	_
-3	při	při	ADP	_	_	4	case	_	_
-4	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
-5	pomhać	pomhać	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	17	punct	_	_
-7	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
-8	ze	z	ADP	_	_	10	case	_	_
-9	serbskej	serbski	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	10	amod	_	_
-10	tematiku	tematika	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	_
-11	z	z	ADP	_	_	13	case	_	_
-12	němskorěčneje	němskorěčny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
-13	Wikipedije	Wikipedija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
-14	a	a	CCONJ	_	_	16	cc	_	_
-15	druhich	druhi	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	16	amod	_	_
-16	Wikipedijow	Wikipedija	PROPN	_	Case=Gen|Gender=Fem|Number=Plur	13	conj	_	_
-17	přełožować	přełožować	VERB	_	VerbForm=Inf	4	acl	_	_
-18	abo	abo	CCONJ	_	_	20	cc	_	_
-19	přełožować	přełožować	VERB	_	VerbForm=Inf	20	ccomp	_	_
-20	dać	dać	VERB	_	VerbForm=Inf	17	conj	_	_
-21	a	a	CCONJ	_	_	24	cc	_	_
-22	je	wón	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	obj	_	_
-23	jow	jow	ADV	_	PronType=Dem	24	advmod	_	_
-24	załožić	załožić	VERB	_	VerbForm=Inf	17	conj	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p80s4
-# text = Zo by so GNU-licenca dodźeržała, dyrbi so při tym 3-5 tamnišich t. mj. hłownych awtorow mjenować.
-1	Zo	zo	SCONJ	_	_	7	mark	_	_
-2	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
-4	GNU	GNU	PROPN	_	Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing	6	compound	_	SpaceAfter=No
-5	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	licenca	licenca	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-7	dodźeržała	dodźeržeć	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	7	punct	_	_
-9	dyrbi	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-11	při	při	ADP	_	_	12	case	_	_
-12	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	_
-13	3	3	NUM	_	NumType=Card	22	nummod	_	SpaceAfter=No
-14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	5	5	NUM	_	NumType=Card	13	conj	_	_
-16	tamnišich	tamniši	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	_
-17	t	tak	ADV	_	Abbr=Yes|ExtPos=ADJ|PronType=Dem	22	amod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	17	punct	_	_
-19	mj	mjenowany	ADJ	_	Abbr=Yes|Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	17	fixed	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	19	punct	_	_
-21	hłownych	hłowny	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	22	amod	_	_
-22	awtorow	awtor	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	obj	_	_
-23	mjenować	mjenować	VERB	_	VerbForm=Inf	9	csubj	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	9	punct	_	_
-
-# sent_id = p80s5
-# text = Hlej k tomu tež tutón edit.
-1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	k	k	ADP	_	_	3	case	_	_
-3	tomu	to	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	_
-4	tež	tež	ADV	_	_	1	advmod	_	_
-5	tutón	tutón	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	edit	edit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	_
-
-# newpar id = p89
-# sent_id = p89s1
-# text = Přez klik na horjewotwołowany wobraz so strona z wopisanjom pokaza.
-1	Přez	přez	ADP	_	_	2	case	_	_
-2	klik	klik	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
-3	na	na	ADP	_	_	5	case	_	_
-4	horjewotwołowany	horjewotwołowany	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
-5	wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
-6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
-7	strona	strona	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
-8	z	z	ADP	_	_	9	case	_	_
-9	wopisanjom	wopisanje	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
-10	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
-
-# sent_id = p89s2
-# text = Jeli wobraz nima so pokazać, potom móže so wotkazować na tutu stronu, z tym zo ty dodaš před słowom Wobraz dwójny dypk.
-1	Jeli	jeli	SCONJ	_	_	3	mark	_	_
-2	wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	nima	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	8	advcl	_	_
-4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	obj	_	_
-5	pokazać	pokazać	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	3	punct	_	_
-7	potom	potom	ADV	_	PronType=Dem	8	cc	_	_
-8	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
-10	wotkazować	wotkazować	VERB	_	VerbForm=Inf	8	xcomp	_	_
-11	na	na	ADP	_	_	13	case	_	_
-12	tutu	tutón	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
-13	stronu	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	10	punct	_	_
-15	z	z	ADP	_	_	16	case	_	_
-16	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	10	obl	_	_
-17	zo	zo	SCONJ	_	_	19	mark	_	_
-18	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
-19	dodaš	dodać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	acl	_	_
-20	před	před	ADP	_	_	21	case	_	_
-21	słowom	słowo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
-22	Wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	nmod	_	_
-23	dwójny	dwójny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
-24	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	8	punct	_	_
-
-# newpar id = p91
-# sent_id = p91s1
-# text = Bjez kóždychžkuli formalnosćow móžeš nowe nastawki spisać a nastawki wobdźěłać.
-1	Bjez	bjez	ADP	_	_	3	case	_	_
-2	kóždychžkuli	kóždyžkuli	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
-3	formalnosćow	formalnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
-4	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-5	nowe	nowy	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	amod	_	_
-6	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
-7	spisać	spisać	VERB	_	VerbForm=Inf	4	xcomp	_	_
-8	a	a	CCONJ	_	_	10	cc	_	_
-9	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
-10	wobdźěłać	wobdźěłać	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p91s2
-# text = Wikipedija je natwarjena na zasadach GNU-Licency.
-1	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	natwarjena	natwarjeny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-4	na	na	ADP	_	_	5	case	_	_
-5	zasadach	zasada	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	_
-6	GNU	GNU	PROPN	_	Abbr=Yes	8	compound	_	SpaceAfter=No
-7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
-8	Licency	licenca	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p91s3
-# text = Tuchwilu wobsahuje serbska wikipedija 6.741 nastawkow.
-1	Tuchwilu	tuchwilu	ADV	_	PronType=Dem	2	advmod	_	_
-2	wobsahuje	wobsahować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	serbska	serbski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
-4	wikipedija	wikipedija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	6	6	NUM	_	NumType=Card	8	nummod:gov	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	741	741	NUM	_	NumType=Card	5	compound	_	_
-8	nastawkow	nastawk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = p91s4
-# text = Zwostanje potajkim hišće tójšto dźěła.
-1	Zwostanje	zwostać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	potajkim	potajkim	ADV	_	PronType=Dem	1	advmod	_	_
-3	hišće	hišće	ADV	_	_	1	advmod	_	_
-4	tójšto	tójšto	DET	_	NumType=Card|PronType=Dem	5	det:numgov	_	_
-5	dźěła	dźěło	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = p91s5
-# text = Pomhaj nam, zo by naša encyklopedija dale rostła!
-1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	nam	ja	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	9	punct	_	_
-4	zo	zo	SCONJ	_	_	9	mark	_	_
-5	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
-6	naša	naš	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
-7	encyklopedija	encyklopedija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-8	dale	daloko	ADV	_	Degree=Cmp	9	advmod	_	_
-9	rostła	rosć	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	SpaceAfter=No
-10	!	!	PUNCT	_	_	1	punct	_	_
-
-# newpar id = p132
-# sent_id = p132s1
-# text = Administratorojo njejsu oficialni zastupnicy Wikimedia Foundation, na kotrejež serwerach w St. Petersburg, Florida, wšě Wikimedia-projekty leža.
-1	Administratorojo	administrator	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-2	njejsu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	oficialni	oficialni	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
-4	zastupnicy	zastupnik	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-5	Wikimedia	Wikimedia	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
-6	Foundation	Foundation	PROPN	_	Gender=Fem|Number=Sing	5	flat	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	22	punct	_	_
-8	na	na	ADP	_	_	10	case	_	_
-9	kotrejež	kotryž	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	det	_	_
-10	serwerach	serwer	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	22	obl	_	_
-11	w	w	ADP	_	_	12	case	_	_
-12	St	St	PROPN	_	_	22	obl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	_
-14	Petersburg	Petersburg	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	_
-16	Florida	Florida	PROPN	_	Gender=Fem|Number=Sing	12	appos	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	16	punct	_	_
-18	wšě	wšě	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
-19	Wikimedia	Wikimedia	PROPN	_	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
-20	-	-	PUNCT	_	_	21	punct	_	SpaceAfter=No
-21	projekty	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
-22	leža	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p132s2
-# text = Woni su wužiwarjo, kotrymž so dowěrja, zo budu swoje rozšěrjene funkcije (strony wušmórnyć, strony škitać a jich škit zaso zběhnyć, wužiwarjow blokować) na dobro projekta wužiwać.
-1	Woni	wón	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	wužiwarjo	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	7	punct	_	_
-5	kotrymž	kotryž	DET	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	7	iobj	_	_
-6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
-7	dowěrja	dowěrjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	32	punct	_	_
-9	zo	zo	SCONJ	_	_	32	mark	_	_
-10	budu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	32	aux	_	_
-11	swoje	swój	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	_
-12	rozšěrjene	rozšěrjeny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	13	amod	_	_
-13	funkcije	funkcija	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	32	obj	_	_
-14	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
-15	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	_
-16	wušmórnyć	wušmórnyć	VERB	_	VerbForm=Inf	13	appos	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	_
-18	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
-19	škitać	škitać	VERB	_	VerbForm=Inf	16	conj	_	_
-20	a	a	CCONJ	_	_	24	cc	_	_
-21	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
-22	škit	škit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
-23	zaso	zaso	ADV	_	_	24	advmod	_	_
-24	zběhnyć	zběhnyć	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	27	punct	_	_
-26	wužiwarjow	wužiwar	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
-27	blokować	blokować	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
-28	)	)	PUNCT	_	_	16	punct	_	_
-29	na	na	ADP	_	_	30	case	_	_
-30	dobro	dobro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obl	_	_
-31	projekta	projekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
-32	wužiwać	wužiwać	VERB	_	VerbForm=Inf	7	ccomp	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p132s3
-# text = Dlěši tekst w němskej rěči móžeće tu čitać.
-1	Dlěši	dołhi	ADJ	_	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	2	amod	_	_
-2	tekst	tekst	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
-3	w	w	ADP	_	_	5	case	_	_
-4	němskej	němski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	_
-5	rěči	rěč	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
-6	móžeće	móc	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-7	tu	tu	ADV	_	PronType=Dem	8	advmod	_	_
-8	čitać	čitać	VERB	_	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	_
-
+# newdoc id = wiki-wikipedija-předłoha-zarodk
 # newpar id = p160
 # sent_id = p160s1
 # text = Jeli nastawk ma wjace hač jedyn njedostatk, wužiwaj prošu předłohu {{Rq}}.
@@ -9251,6 +9235,37 @@
 11	doda	dodać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# newdoc id = wiki-wikipedija-předłoha-předźěłuj
+# newpar id = p41
+# sent_id = p41s1
+# text = Jeli sy jedyn z mjenowanych njedostatkow skorigował(a), wotstroń prošu potrjecheny parameter předłohi .
+1	Jeli	jeli	SCONJ	_	_	7	mark	_	_
+2	sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+3	jedyn	jedyn	NUM	_	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	7	obj	_	_
+4	z	z	ADP	_	_	6	case	_	_
+5	mjenowanych	mjenowany	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	njedostatkow	njedostatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+7	skorigował	skorigować	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	SpaceAfter=No
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	a	a	X	_	_	7	dep:alt	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	wotstroń	wotstronić	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+13	prošu	prosyć	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	discourse	_	_
+14	potrjecheny	potrjecheny	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	amod	_	_
+15	parameter	parameter	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+16	předłohi	předłoha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = p41s2
+# text = Podrobnosće namakaš w dokumentaciji.
+1	Podrobnosće	podrobnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+2	namakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	w	w	ADP	_	_	4	case	_	_
+4	dokumentaciji	dokumentacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# newdoc id = wiki-wikipedija-předłoha-translate
 # newpar id = p180
 # sent_id = p180s1
 # text = Tutón přinošk ma so hišće přełožić.
@@ -9271,6 +9286,7 @@
 5	stronu	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
+# newdoc id = wiki-wikipedija-předłoha-wotrězk
 # newpar id = p22
 # sent_id = p22s1
 # text = Tutón nastawk resp. wotrězk hišće ma wobsahowe mjezoty: faluje wjele družinow.
@@ -9289,97 +9305,23 @@
 13	družinow	družina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	7	punct	_	_
 
-# newpar id = p192
-# sent_id = p192s1
-# text = Projekt Wikipedija chce stworić najwjetšu wjelerěčnu, wšitkim přistupnu online-encyklopediju.
-1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	nmod	_	_
-3	chce	chcyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-4	stworić	stworić	VERB	_	VerbForm=Inf	3	xcomp	_	_
-5	najwjetšu	wulki	ADJ	_	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
-6	wjelerěčnu	wjelerěčny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	wšitkim	wšitki	DET	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	9	nmod	_	_
-9	přistupnu	přistupny	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
-10	online	onliny	ADJ	_	_	12	amod	_	SpaceAfter=No
-11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
-12	encyklopediju	encyklopedija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	_
-
-# newpar id = p193
-# sent_id = p193s1
-# text = Encyklopedije hodźa so z pomocu kajkosćow předmjet, zaměr, metoda, rozrjadowanje a proces nastaća definować.
-1	Encyklopedije	encyklopedija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
-2	hodźa	hodźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+# newpar id = p46
+# sent_id = p46s1
+# text = Pomhaj Wikipediju, z tym ty jón rozšěriš a nětko wudospołniš.
+1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	Wikipediju	Wikipedija	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	_
 4	z	z	ADP	_	_	5	case	_	_
-5	pomocu	pomoc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
-6	kajkosćow	kajkosć	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
-7	předmjet	předmjet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	zaměr	zaměr	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	metoda	metoda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	rozrjadowanje	rozrjadowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
-14	a	a	CCONJ	_	_	15	cc	_	_
-15	proces	proces	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
-16	nastaća	nastaće	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
-17	definować	definować	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	_
+5	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	_
+6	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+7	jón	wón	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	rozšěriš	rozšěrić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	a	a	CCONJ	_	_	11	cc	_	_
+10	nětko	nětko	ADV	_	PronType=Dem	11	advmod	_	_
+11	wudospołniš	wudospołnić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
-# newpar id = p196
-# sent_id = p196s1
-# text = Sy wutrobnje přeprošeny(a), prašenja w korčmje stajić.
-1	Sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	wutrobnje	wutrobnje	ADV	_	Degree=Pos	3	advmod	_	_
-3	přeprošeny	přeprošeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	a	a	CCONJ	_	_	3	dep:alt	_	SpaceAfter=No
-6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	11	punct	_	_
-8	prašenja	prašenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
-9	w	w	ADP	_	_	10	case	_	_
-10	korčmje	korčmja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
-11	stajić	stajić	VERB	_	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = p196s2
-# text = Tež za bjesadu budźe tam čas.
-1	Tež	tež	ADV	_	_	4	advmod	_	_
-2	za	za	ADP	_	_	3	case	_	_
-3	bjesadu	bjesada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
-4	budźe	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-5	tam	tam	ADV	_	PronType=Dem	4	advmod	_	_
-6	čas	čas	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = p196s3
-# text = Zasady a směrnicy projekta móžeš na stronje Wikipedija:Prawidła čitać.
-1	Zasady	zasada	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
-2	a	a	CCONJ	_	_	3	cc	_	_
-3	směrnicy	směrnica	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	conj	_	_
-4	projekta	projekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-5	móžeš	móc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-6	na	na	ADP	_	_	7	case	_	_
-7	stronje	strona	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
-8	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-9	:	:	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	Prawidła	prawidło	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	flat	_	_
-11	čitać	čitać	VERB	_	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = p196s4
-# text = Dalše pokiwy namakaš w našim pomocnym systemje.
-1	Dalše	dalši	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
-2	pokiwy	pokiw	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
-3	namakaš	namakać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	w	w	ADP	_	_	7	case	_	_
-5	našim	naš	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
-6	pomocnym	pomocny	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
-7	systemje	system	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	_
-
+# newdoc id = wiki-pomoc-wobrazy
 # newpar id = p199
 # sent_id = p199s1
 # text = Eksistuje móžnosć, wobrazy z napismami a wotkazami wuhotować.
@@ -9435,6 +9377,50 @@
 18	wotměł	wotměć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
+# newpar id = p89
+# sent_id = p89s1
+# text = Přez klik na horjewotwołowany wobraz so strona z wopisanjom pokaza.
+1	Přez	přez	ADP	_	_	2	case	_	_
+2	klik	klik	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+3	na	na	ADP	_	_	5	case	_	_
+4	horjewotwołowany	horjewotwołowany	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+5	wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
+7	strona	strona	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+8	z	z	ADP	_	_	9	case	_	_
+9	wopisanjom	wopisanje	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+10	pokaza	pokazać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = p89s2
+# text = Jeli wobraz nima so pokazać, potom móže so wotkazować na tutu stronu, z tym zo ty dodaš před słowom Wobraz dwójny dypk.
+1	Jeli	jeli	SCONJ	_	_	3	mark	_	_
+2	wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	nima	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	8	advcl	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	obj	_	_
+5	pokazać	pokazać	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	potom	potom	ADV	_	PronType=Dem	8	cc	_	_
+8	móže	móc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+9	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
+10	wotkazować	wotkazować	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	na	na	ADP	_	_	13	case	_	_
+12	tutu	tutón	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+13	stronu	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	10	punct	_	_
+15	z	z	ADP	_	_	16	case	_	_
+16	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	10	obl	_	_
+17	zo	zo	SCONJ	_	_	19	mark	_	_
+18	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
+19	dodaš	dodać	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	acl	_	_
+20	před	před	ADP	_	_	21	case	_	_
+21	słowom	słowo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+22	Wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	nmod	_	_
+23	dwójny	dwójny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	dypk	dypk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	8	punct	_	_
+
+# newdoc id = wiki-wikisłownik
 # newpar id = p213
 # sent_id = p213s1
 # text = Naš wikisłownik so wot dotalnych słownikarskich projektow sylnje rozeznawa:
@@ -9983,6 +9969,29 @@
 10	jenož	jenož	PART	_	_	11	advmod:emph	_	_
 11	wysokosć	wysokosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
+
+# newdoc id = wiki-encyklopedija
+# newpar id = p193
+# sent_id = p193s1
+# text = Encyklopedije hodźa so z pomocu kajkosćow předmjet, zaměr, metoda, rozrjadowanje a proces nastaća definować.
+1	Encyklopedije	encyklopedija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	hodźa	hodźeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+4	z	z	ADP	_	_	5	case	_	_
+5	pomocu	pomoc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+6	kajkosćow	kajkosć	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+7	předmjet	předmjet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	zaměr	zaměr	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	metoda	metoda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	rozrjadowanje	rozrjadowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
+14	a	a	CCONJ	_	_	15	cc	_	_
+15	proces	proces	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+16	nastaća	nastaće	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	definować	definować	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
 
 # newpar id = p387
 # sent_id = p387s1
