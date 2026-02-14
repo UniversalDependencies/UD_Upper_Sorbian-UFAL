@@ -1,0 +1,8 @@
+Co je ještě potřeba upravit v morfologické anotaci hornolužické srbštiny?
+
+V rysech vůbec nemám Poss=Yes.
+Chtělo by to vrátit se ke všem substantivům a zkontrolovat, že mají vyplněný rod.
+U adjektiv (a determinátorů) si ujasnit, které rysy vůbec chceme vyplňovat. Asi to nemá být natolik kontextově závislé jako v češtině.
+Také bych mohl dovyplnit rys NumForm=Digit|Word
+Chybí rys negativity: njejsu se neliší od su.
+U vět, které jsem identifikoval jako dolnolužické, pouze měním v id věty "hsb" na "dsb", ale morfologickou anotaci zatím neopravuji. (Týká se to asi pouze toho odstavce o Puccinim.)

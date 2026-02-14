@@ -1,0 +1,751 @@
+﻿#Numeral
+##non-personal
+jedyn	NUM-cardinal
+dwaj	NUM-cardinal
+tři	NUM-cardinal
+štyri	NUM-cardinal
+pjeć	NUM-cardinal
+šěsć	NUM-cardinal
+sydom	NUM-cardinal
+wosom	NUM-cardinal
+dźewjeć	NUM-cardinal
+dźesać	NUM-cardinal
+jědnaće	NUM-cardinal
+dwanaće	NUM-cardinal
+třinaće	NUM-cardinal
+štyrnaće	NUM-cardinal
+pjatnaće	NUM-cardinal
+šěsnaće	NUM-cardinal
+sydomnaće	NUM-cardinal
+wosomnaće	NUM-cardinal
+dźewjatnaće	NUM-cardinal
+dwaceći	NUM-cardinal
+jedynadwaceći	NUM-cardinal
+třiceći	NUM-cardinal
+štyrceći	NUM-cardinal
+pjećdźesat	NUM-cardinal
+šěsćdźesat	NUM-cardinal
+sydomdźesat	NUM-cardinal
+wosomdźesat	NUM-cardinal
+dźewjećdźesat	NUM-cardinal
+sto	NUM-cardinal
+sto a jedyn	NUM-cardinal
+dwě sćě	NUM-cardinal
+tři sta	NUM-cardinal
+štyri sta	NUM-cardinal
+pjeć stow	NUM-cardinal
+šěsć stow	NUM-cardinal
+sydom stow	NUM-cardinal
+wosom stow	NUM-cardinal
+dźewjeć stow	NUM-cardinal
+tysac	NUM-cardinal
+milion	NUM-cardinal
+dwaj milionaj	NUM-cardinal
+miliarda	NUM-cardinal
+##personal
+třo	NUM-cardinal-masculineuline
+štyrjo	NUM-cardinal-masculineuline
+pjećo	NUM-cardinal-masculineuline
+šěsćo	NUM-cardinal-masculineuline
+sydmjo	NUM-cardinal-masculineuline
+wosmjo	NUM-cardinal-masculineuline
+dźewjećo	NUM-cardinal-masculineuline
+dźesaćo	NUM-cardinal-masculineuline
+jědnaćo	NUM-cardinal-masculineuline
+dwanaćo	NUM-cardinal-masculineuline
+třinaćo	NUM-cardinal-masculineuline
+štyrnaćo	NUM-cardinal-masculineuline
+pjatnaćo	NUM-cardinal-masculineuline
+šěsnaćo	NUM-cardinal-masculineuline
+sydomnaćo	NUM-cardinal-masculineuline
+wosomnaćo	NUM-cardinal-masculineuline
+dźewjatnaćo	NUM-cardinal-masculineuline
+dwacećo	NUM-cardinal-masculineuline
+jedynadwacećo	NUM-cardinal-masculineuline
+třicećo	NUM-cardinal-masculineuline
+štyrcećo	NUM-cardinal-masculineuline
+pjećdźesaćo	NUM-cardinal-masculineuline
+šěsćdźesaćo	NUM-cardinal-masculineuline
+sydomdźesaćo	NUM-cardinal-masculineuline
+wosomdźesaćo	NUM-cardinal-masculineuline
+dźewjećdźesaćo	NUM-cardinal-masculineuline
+##ordinal
+prěni	NUM-ordinal
+druhi	NUM-ordinal
+třeći	NUM-ordinal
+štwórty	NUM-ordinal
+pjaty	NUM-ordinal
+šěsty	NUM-ordinal
+sydmy	NUM-ordinal
+wosmy	NUM-ordinal
+dźewjaty	NUM-ordinal
+dźesaty	NUM-ordinal
+jědnaty	NUM-ordinal
+dwanaty	NUM-ordinal
+třinaty	NUM-ordinal
+štyrnaty	NUM-ordinal
+pjatnaty	NUM-ordinal
+šěsnaty	NUM-ordinal
+sydomnaty	NUM-ordinal
+wosomnaty	NUM-ordinal
+dźewjatnaty	NUM-ordinal
+dwacety	NUM-ordinal
+jedynadwacety	NUM-ordinal
+třicety	NUM-ordinal
+štyrcety	NUM-ordinal
+pjećdźesaty	NUM-ordinal
+šěsćdźesaty	NUM-ordinal
+sydomdźesaty	NUM-ordinal
+wosomdźesaty	NUM-ordinal
+dźewjećdźesaty	NUM-ordinal
+stoty	NUM-ordinal
+sto a prěni	NUM-ordinal
+dwustoty	NUM-ordinal
+třistoty	NUM-ordinal
+štyristoty	NUM-ordinal
+pjećstoty	NUM-ordinal
+šěsćstoty	NUM-ordinal
+sydomstoty	NUM-ordinal
+wosomstoty	NUM-ordinal
+dźewjećstoty	NUM-ordinal
+tysacty	NUM-ordinal
+milionty	NUM-ordinal
+dwumilionty	NUM-ordinal
+miliardny	NUM-ordinal
+##collective
+dwoje	NUM-collective
+troje	NUM-collective
+štwore	NUM-collective
+pjećore	NUM-collective
+šěsćory	NUM-collective
+sydmore	NUM-collective
+wosmory	NUM-collective
+dźewjećore	NUM-collective
+dźesaćore	NUM-collective
+jědnaćore	NUM-collective
+dwanaćore	NUM-collective
+dwacećore	NUM-collective
+stotory	NUM-collective
+tysacore	NUM-collective
+##one
+###masculineuline
+jedyn	NUM-cardinal-masculineuline-singularular
+jednoho	NUM-cardinal-masculineuline-singularular
+jednomu	NUM-cardinal-masculineuline-singularular
+jedyn	NUM-cardinal-masculineuline-singularular
+jednoho	NUM-cardinal-masculineuline-singularular
+jednym	NUM-cardinal-masculineuline-singularular
+jednym	NUM-cardinal-masculineuline-singularular
+###neuterer
+jedne	NUM-cardinal-neuterer-singularular
+jednoho	NUM-cardinal-neuterer-singularular
+jednomu	NUM-cardinal-neuterer-singularular
+jedne	NUM-cardinal-neuterer-singularular
+jednym	NUM-cardinal-neuterer-singularular
+jednym	NUM-cardinal-neuterer-singularular
+###feminineinine
+jedna	NUM-cardinal-feminineinine-singularular
+jedneje	NUM-cardinal-feminineinine-singularular
+jednej	NUM-cardinal-feminineinine-singularular
+jednu	NUM-cardinal-feminineinine-singularular
+jednej	NUM-cardinal-feminineinine-singularular
+jednej	NUM-cardinal-feminineinine-singularular
+###plural
+jedni	NUM-cardinal-plural
+jedne	NUM-cardinal-plural
+jednych	NUM-cardinal-plural
+jednym	NUM-cardinal-plural
+jednych	NUM-cardinal-plural
+jedne	NUM-cardinal-plural
+jednymi	NUM-cardinal-plural
+jednych	NUM-cardinal-plural
+##two
+###masculineuline
+dwajo	NUM-cardinal-masculineuline-dual
+dwejoch	NUM-cardinal-masculineuline-dual
+dwejom	NUM-cardinal-masculineuline-dual
+dweju	NUM-cardinal-masculineuline-dual
+dwejomi	NUM-cardinal-masculineuline-dual
+dwejoch	NUM-cardinal-masculineuline-dual
+###feminineinine/neuterer
+dwaj	NUM-cardinal-feminineinine, neuterer-dual
+dwě	NUM-cardinal-feminineinine, neuterer-dual
+dweju	NUM-cardinal-feminineinine, neuterer-dual
+dwěmaj	NUM-cardinal-feminineinine, neuterer-dual
+dweju	NUM-cardinal-feminineinine, neuterer-dual
+dwěmaj	NUM-cardinal-feminineinine, neuterer-dual
+dwěmaj	NUM-cardinal-feminineinine, neuterer-dual
+#Pronouns
+##I
+ja	PRON-personal-first-singular
+mje	PRON-personal-first-singular
+mnje	PRON-personal-first-singular
+mi	PRON-personal-first-singular
+mni	PRON-personal-first-singular
+mje	PRON-personal-first-singular
+mnje	PRON-personal-first-singular
+mnu	PRON-personal-first-singular
+mni	PRON-personal-first-singular
+##We
+my	PRON-personal-first-plural
+nas	PRON-personal-first-plural
+nam	PRON-personal-first-plural
+nas	PRON-personal-first-plural
+nami	PRON-personal-first-plural
+nas	PRON-personal-first-plural
+##We as two
+mój	PRON-personal-first-dual
+naju	PRON-personal-first-dual
+namaj	PRON-personal-first-dual
+naju	PRON-personal-first-dual
+namaj	PRON-personal-first-dual
+namaj	PRON-personal-first-dual
+##You (informal)
+ty	PRON-personal-second-singular
+tebje	PRON-personal-second-singular
+će	PRON-personal-second-singular
+tebi	PRON-personal-second-singular
+ći	PRON-personal-second-singular
+tebje	PRON-personal-second-singular
+će	PRON-personal-second-singular
+tobu	PRON-personal-second-singular
+tebi	PRON-personal-second-singular
+##You (formal)
+wy	PRON-personal-second-singular
+was	PRON-personal-second-singular
+wam	PRON-personal-second-singular
+was	PRON-personal-second-singular
+wami	PRON-personal-second-singular
+was	PRON-personal-second-singular
+##You as two
+wój	PRON-personal-second-dual
+waju	PRON-personal-second-dual
+wamaj	PRON-personal-second-dual
+waju	PRON-personal-second-dual
+wamaj	PRON-personal-second-dual
+wamaj	PRON-personal-second-dual
+##He
+wón	PRON-personal-third-masculine-singular
+jeho	PRON-personal-third-masculine-singular
+njeho	PRON-personal-third-masculine-singular
+jemu	PRON-personal-third-masculine-singular
+njemu	PRON-personal-third-masculine-singular
+jón	PRON-personal-third-masculine-singular
+njón	PRON-personal-third-masculine-singular
+jeho	PRON-personal-third-masculine-singular
+njeho	PRON-personal-third-masculine-singular
+nim	PRON-personal-third-masculine-singular
+nim	PRON-personal-third-masculine-singular
+##it
+wone	PRON-personal-third-neuter-singular
+jeho	PRON-personal-third-neuter-singular
+njeho	PRON-personal-third-neuter-singular
+jemu	PRON-personal-third-neuter-singular
+njemu	PRON-personal-third-neuter-singular
+je	PRON-personal-third-neuter-singular
+jo	PRON-personal-third-neuter-singular
+nje	PRON-personal-third-neuter-singular
+njo	PRON-personal-third-neuter-singular
+nim	PRON-personal-third-neuter-singular
+nim	PRON-personal-third-neuter-singular
+##She
+wona	PRON-personal-third-feminine-singular
+jeje	PRON-personal-third-feminine-singular
+njeje	PRON-personal-third-feminine-singular
+jej	PRON-personal-third-feminine-singular
+njej	PRON-personal-third-feminine-singular
+ju	PRON-personal-third-feminine-singular
+nju	PRON-personal-third-feminine-singular
+njej	PRON-personal-third-feminine-singular
+njej	PRON-personal-third-feminine-singular
+##Reflexiv
+so	PRON-reflexive-singular
+sebje	PRON-reflexive-singular
+sej	PRON-reflexive-singular
+sebi	PRON-reflexive-singular
+so	PRON-reflexive-singular
+sebje	PRON-reflexive-singular
+sobu	PRON-reflexive-singular
+sebi	PRON-reflexive-singular
+##they as two
+###masculineuline
+wonaj	PRON-personal-third-masculine-dual
+jeju	PRON-personal-third-masculine-dual
+njeju	PRON-personal-third-masculine-dual
+jimaj	PRON-personal-third-masculine-dual
+nimaj	PRON-personal-third-masculine-dual
+jeju	PRON-personal-third-masculine-dual
+njeju	PRON-personal-third-masculine-dual
+nimaj	PRON-personal-third-masculine-dual
+nimaj	PRON-personal-third-masculine-dual
+###feminineinine/neuterer
+wonej	PRON-personal-third-feminine,neuter-dual
+jeju	PRON-personal-third-feminine,neuter-dual
+njeju	PRON-personal-third-feminine,neuter-dual
+jimaj	PRON-personal-third-feminine,neuter-dual
+nimaj	PRON-personal-third-feminine,neuter-dual
+jej	PRON-personal-third-feminine,neuter-dual
+njej	PRON-personal-third-feminine,neuter-dual
+nimaj	PRON-personal-third-feminine,neuter-dual
+nimaj	PRON-personal-third-feminine,neuter-dual
+##they
+###masculine
+woni	PRON-personal-third-masculine-plural
+jich	PRON-personal-third-masculine-plural
+nich	PRON-personal-third-masculine-plural
+jim	PRON-personal-third-masculine-plural
+nim	PRON-personal-third-masculine-plural
+jich	PRON-personal-third-masculine-plural
+nich	PRON-personal-third-masculine-plural
+nimi	PRON-personal-third-masculine-plural
+nich	PRON-personal-third-masculine-plural
+###feminine/neuter
+wone	PRON-personal-third-feminine,neuter-plural
+jich	PRON-personal-third-feminine,neuter-plural
+nich	PRON-personal-third-feminine,neuter-plural
+jim	PRON-personal-third-feminine,neuter-plural
+nim	PRON-personal-third-feminine,neuter-plural
+je	PRON-personal-third-feminine,neuter-plural
+nje	PRON-personal-third-feminine,neuter-plural
+nimi	PRON-personal-third-feminine,neuter-plural
+nich	PRON-personal-third-feminine,neuter-plural
+##Who
+štó	PRON-interrogative-singular
+koho	PRON-interrogative-singular
+komu	PRON-interrogative-singular
+koho	PRON-interrogative-singular
+kim	PRON-interrogative-singular
+kim	PRON-interrogative-singular
+##What
+što	PRON-interrogative-singular
+čeho	PRON-interrogative-singular
+čemu	PRON-interrogative-singular
+što	PRON-interrogative-singular
+čo	PRON-interrogative-singular
+čim	PRON-interrogative-singular
+čim	PRON-interrogative-singular
+##That
+tón	PRON-demonstrative-masculine-singular
+toho	PRON-demonstrative-masculine-singular
+tomu	PRON-demonstrative-masculine-singular
+toho	PRON-demonstrative-masculine-singular
+tón	PRON-demonstrative-masculine-singular
+tym	PRON-demonstrative-masculine-singular
+tym	PRON-demonstrative-masculine-singular
+ta	PRON-demonstrative-feminine-singular
+teje	PRON-demonstrative-feminine-singular
+tej	PRON-demonstrative-feminine-singular
+tu	PRON-demonstrative-feminine-singular
+tej	PRON-demonstrative-feminine-singular
+tej	PRON-demonstrative-feminine-singular
+to	PRON-demonstrative-neuter-singular
+toho	PRON-demonstrative-neuter-singular
+tomu	PRON-demonstrative-neuter-singular
+to	PRON-demonstrative-neuter-singular
+tym	PRON-demonstrative-neuter-singular
+tym	PRON-demonstrative-neuter-singular
+##Those
+ći	PRON-demonstrative-plural
+te	PRON-demonstrative-plural
+tych	PRON-demonstrative-plural
+tym	PRON-demonstrative-plural
+tych	PRON-demonstrative-plural
+te	PRON-demonstrative-plural
+tymi	PRON-demonstrative-plural
+tych	PRON-demonstrative-plural
+##Which
+###singularular
+kotryž	PRON-relative-masculine-singular
+kotrehož	PRON-relative-masculine-singular
+kotremuž	PRON-relative-masculine-singular
+kotryž	PRON-relative-masculine-singular
+kotrymž	PRON-relative-masculine-singular
+kotrymž	PRON-relative-masculine-singular
+kotraž	PRON-relative-feminine-singular
+kotraž	PRON-relative-feminine-singular
+kotrejež	PRON-relative-feminine-singular
+kotrejž	PRON-relative-feminine-singular
+kotruž	PRON-relative-feminine-singular
+kotrejž	PRON-relative-feminine-singular
+kotrejž	PRON-relative-feminine-singular
+kotrež	PRON-relative-neuter-singular
+kotrehož	PRON-relative-neuter-singular
+kotremuž	PRON-relative-neuter-singular
+kotrež	PRON-relative-neuter-singular
+kotrymž	PRON-relative-neuter-singular
+kotrymž	PRON-relative-neuter-singular
+###dual
+kotrejž	PRON-relative-masculine,feminine,neuter-dual
+kotrejuž	PRON-relative-masculine,feminine,neuter-dual
+kotrymajž	PRON-relative-masculine,feminine,neuter-dual
+kotrej$	PRON-relative-masculine,feminine,neuter-dual
+kotrymaj$	PRON-relative-masculine,feminine,neuter-dual
+kotrymaj$	PRON-relative-masculine,feminine,neuter-dual
+###plural
+kotrež	PRON-relative-masculine,feminine,neuter-plural
+kotrychž	PRON-relative-masculine,feminine,neuter-plural
+kotrymž	PRON-relative-masculine,feminine,neuter-plural
+kotrež	PRON-relative-masculine,feminine,neuter-plural
+kotrymiž	PRON-relative-masculine,feminine,neuter-plural
+kotrychž	PRON-relative-masculine,feminine,neuter-plural
+kotriž	PRON-relative-masculine,feminine,neuter-plural
+kotrychž	PRON-relative-masculine,feminine,neuter-plural
+kotrymž	PRON-relative-masculine,feminine,neuter-plural
+kotrychž	PRON-relative-masculine,feminine,neuter-plural
+kotrymiž	PRON-relative-masculine,feminine,neuter-plural
+kotrychž	PRON-relative-masculine,feminine,neuter-plural
+##Mine
+mój	PRON-possessive-masculine-plural
+moje	PRON-possessive-neuter-plural
+mojeho	PRON-possessive-masculine,neuter-plural
+mojemu	PRON-possessive-masculine,neuter-plural
+mój	PRON-possessive-masculine-plural
+mojeho	PRON-possessive-masculine-plural
+moje	PRON-possessive-neuter-plural
+mojim	PRON-possessive-masculine,neuter-plural
+mojim	PRON-possessive-masculine,neuter-plural
+moja	PRON-possessive-feminine-plural
+mojeje	PRON-possessive-feminine-plural
+mojej	PRON-possessive-feminine-plural
+moju	PRON-possessive-feminine-plural
+mojej	PRON-possessive-feminine-plural
+mojej	PRON-possessive-feminine-plural
+mojej	PRON-possessive-dual
+mojeju	PRON-possessive-dual
+mojimaj	PRON-possessive-dual
+mojej	PRON-possessive-dual
+mojeju	PRON-possessive-dual
+mojimaj	PRON-possessive-dual
+mojimaj	PRON-possessive-dual
+moji	PRON-possessive-plural
+moje	PRON-possessive-plural
+mojich	PRON-possessive-plural
+mojima	PRON-possessive-plural
+mojich	PRON-possessive-plural
+moje	PRON-possessive-plural
+mojimi	PRON-possessive-plural
+mojich	PRON-possessive-plural
+##Negative
+někak	PRON-negative
+něšto	PRON-negative
+něchtó	PRON-negative
+#Verbs
+##to be - Future tense
+###singular
+budu	VERB-main-indicative-future-singular
+budźeš	VERB-main-indicative-future-singular
+budźe	VERB-main-indicative-future-singular
+###dual
+budźemoj	VERB-main-indicative-future-dual
+budźetaj	VERB-main-indicative-future-dual
+budźetej	VERB-main-indicative-future-dual
+budźetaj	VERB-main-indicative-future-dual
+budźetej	VERB-main-indicative-future-dual
+###plural
+budźemy	VERB-main-indicative-future-plural
+budźeće	VERB-main-indicative-future-plural
+budu	VERB-main-indicative-future-plural
+budźa	VERB-main-indicative-future-plural
+budźeja	VERB-main-indicative-future-plural
+##to be - Present tense
+###singular
+sym	VERB-main-indicative-present-singular
+sy	VERB-main-indicative-present-singular
+je	VERB-main-indicative-present-singular
+###dual
+smój	VERB-main-indicative-present-dual
+staj	VERB-main-indicative-present-dual
+stej	VERB-main-indicative-present-dual
+staj	VERB-main-indicative-present-dual
+stej	VERB-main-indicative-present-dual
+###plural
+smy	VERB-main-indicative-present-plural
+sće	VERB-main-indicative-present-plural
+su	VERB-main-indicative-present-plural
+##to be - präteritum
+###singular
+běch	VERB-main-indicative-past-singular
+bě	VERB-main-indicative-past-singular
+běše	VERB-main-indicative-past-singular
+bě	VERB-main-indicative-past-singular
+běše	VERB-main-indicative-past-singular
+###dual
+běchmoj	VERB-main-indicative-past-dual
+běštaj	VERB-main-indicative-past-dual
+běštej	VERB-main-indicative-past-dual
+###plural
+běchmy	VERB-main-indicative-past-plural
+běšće	VERB-main-indicative-past-plural
+běchu	VERB-main-indicative-past-plural
+##to be - aorist (konjunktive)
+###singular
+bych	VERB-main-conditional-past-singular
+by	VERB-main-conditional-past-singular
+by	VERB-main-conditional-past-singular
+###dual
+bychmoj	VERB-main-conditional-past-dual
+byštaj	VERB-main-conditional-past-dual
+byštej	VERB-main-conditional-past-dual
+###plural
+bychmy	VERB-main-conditional-past-plural
+byšće	VERB-main-conditional-past-plural
+bychu	VERB-main-conditional-past-plural
+##to be - aorist (passive)
+###singular
+buch	VERB-main-indicative-passivsingular
+bu	VERB-main-indicative-passivsingular
+bu	VERB-main-indicative-passivsingular
+###dual
+buchmoj	VERB-main-indicative-passivdual
+buštaj	VERB-main-indicative-passivdual
+buštej	VERB-main-indicative-passivdual
+###plural
+buchmy	VERB-main-indicative-passivplural
+bušće	VERB-main-indicative-passivplural
+buchu	VERB-main-indicative-passivplural
+## to be - participle
+###singular
+był	VERB-main-participle-past-masculine-singular
+była	VERB-main-participle-past-feminine-singular
+było	VERB-main-participle-past-neuter-singular
+###dual
+byłoj$	VERB-main-participle-past-masculine,feminine,neuter-dual
+###plural
+byłi$	VERB-main-participle-past-masculine,feminine,neuter-plural
+byłe$	VERB-main-participle-past-masculine,feminine,neuter-plural
+##to be - imperatiw
+###singular
+budź	VERB-main-imperative-singular
+###dual
+budźtaj	VERB-main-imperative-dual
+budźtej	VERB-main-imperative-dual
+###plural
+budźće	VERB-main-imperative-plural
+##to go - present - hić
+###singular
+du	VERB-main-indicative-present-singular
+dźeš	VERB-main-indicative-present-singular
+dźe	VERB-main-indicative-present-singular
+###dual
+dźemoj	VERB-main-indicative-present-dual
+dźetej	VERB-main-indicative-present-dual
+dźetej	VERB-main-indicative-present-dual
+###plural
+dźemy	VERB-main-indicative-present-plural
+dźeće	VERB-main-indicative-present-plural
+du	VERB-main-indicative-present-plural
+##to go - präteritum
+###singular
+dźěch	VERB-main-indicative-past-singular
+dźěše	VERB-main-indicative-past-singular
+dźěše	VERB-main-indicative-past-singular
+###dual
+dźěchmoj	VERB-main-indicative-past-dual
+dźěštej	VERB-main-indicative-past-dual
+dźěštej	VERB-main-indicative-past-dual
+###plural
+dźěchmy	VERB-main-indicative-past-plural
+dźěšće	VERB-main-indicative-past-plural
+dźěchu	VERB-main-indicative-past-plural
+##can - präteritum
+###singular
+móžach	VERB-modal-indicative-past-singular
+móžeše	VERB-modal-indicative-past-singular
+móžeše	VERB-modal-indicative-past-singular
+###dual
+móžachmoj	VERB-modal-indicative-past-dual
+móžeštej	VERB-modal-indicative-past-dual
+móžeštej	VERB-modal-indicative-past-dual
+###plural
+móžachmy	VERB-modal-indicative-past-plural
+móžešće	VERB-modal-indicative-past-plural
+móžachu	VERB-modal-indicative-past-plural
+##want - präteritum
+###singular
+chcych	VERB-modal-indicative-past-singular
+chcyše	VERB-modal-indicative-past-singular
+chcyše	VERB-modal-indicative-past-singular
+###dual
+chcychmoj	VERB-modal-indicative-past-dual
+chcyštej	VERB-modal-indicative-past-dual
+chcyštej	VERB-modal-indicative-past-dual
+###plural
+chcychmy	VERB-modal-indicative-past-plural
+chcyšće	VERB-modal-indicative-past-plural
+chcychu	VERB-modal-indicative-past-plural
+##to go - participle
+šoł	VERB-main-participle-past-masculine-singular
+šła	VERB-main-participle-past-feminine-singular
+šło	VERB-main-participle-past-neuter-singular
+šłoj	VERB-main-participle-past-masculine,feminine,neuter-dual
+šłi	VERB-main-participle-past-masculine,feminine,neuter-plural
+šłe	VERB-main-participle-past-masculine,feminine,neuter-plural
+##to ride - jěć
+###singular
+jědu	VERB-main-indicative-present-singular
+jědźeš	VERB-main-indicative-present-singular
+jědźe	VERB-main-indicative-present-singular
+#dual
+jědźemoj	VERB-main-indicative-present-dual
+jědźetej	VERB-main-indicative-present-dual
+jědźetej	VERB-main-indicative-present-dual
+#plural
+jědźemy	VERB-main-indicative-present-plural
+jědźeće	VERB-main-indicative-present-plural
+jědu	VERB-main-indicative-present-plural
+#Adjectives
+dobry	ADJ-qualificative-positive-masculine-singular
+dołhi	ADJ-qualificative-positive-masculine-singular
+mały	ADJ-qualificative-positive-masculine-singular
+wulki	ADJ-qualificative-positive-masculine-singular
+rjany	ADJ-qualificative-positive-masculine-singular
+zły	ADJ-qualificative-positive-masculine-singular
+jara	ADJ-qualificative-positive-masculine-singular
+wjele	ADJ-qualificative-positive-masculine-singular
+derje	ADJ-qualificative-positive-masculine-singular
+dołho	ADJ-qualificative-positive-masculine-singular
+mało	ADJ-qualificative-positive-masculine-singular
+zlě	ADJ-qualificative-positive-masculine-singular
+blisko	ADJ-qualificative-positive-masculine-singular
+wysoko	ADJ-qualificative-positive-masculine-singular
+daloko	ADJ-qualificative-positive-masculine-singular
+lochko	ADJ-qualificative-positive-masculine-singular
+hłuboko	ADJ-qualificative-positive-masculine-singular
+lěpši	ADJ-qualificative-comparative-masculine-singular
+dlěši	ADJ-qualificative-comparative-masculine-singular
+mjeńši	ADJ-qualificative-comparative-masculine-singular
+wjetši	ADJ-qualificative-comparative-masculine-singular
+rjeńši	ADJ-qualificative-comparative-masculine-singular
+hórši	ADJ-qualificative-comparative-masculine-singular
+bóle	ADJ-qualificative-comparative-masculine-singular
+wjace	ADJ-qualificative-comparative-masculine-singular
+lěpje	ADJ-qualificative-comparative-masculine-singular
+dlěje	ADJ-qualificative-comparative-masculine-singular
+mjenje	ADJ-qualificative-comparative-masculine-singular
+hórje	ADJ-qualificative-comparative-masculine-singular
+bliže	ADJ-qualificative-comparative-masculine-singular
+wyše	ADJ-qualificative-comparative-masculine-singular
+dale	ADJ-qualificative-comparative-masculine-singular
+lóže	ADJ-qualificative-comparative-masculine-singular
+hłubje	ADJ-qualificative-comparative-masculine-singular
+najlěpši	ADJ-qualificative-superlative-masculine-singular
+najdlěši	ADJ-qualificative-superlative-masculine-singular
+najmjeńši	ADJ-qualificative-superlative-masculine-singular
+najwjetši	ADJ-qualificative-superlative-masculine-singular
+najrjeńši	ADJ-qualificative-superlative-masculine-singular
+najhórši	ADJ-qualificative-superlative-masculine-singular
+najbóle	ADJ-qualificative-superlative-masculine-singular
+najwjace	ADJ-qualificative-superlative-masculine-singular
+najlěpje	ADJ-qualificative-superlative-masculine-singular
+najdlěje	ADJ-qualificative-superlative-masculine-singular
+najmjenje	ADJ-qualificative-superlative-masculine-singular
+najhórje	ADJ-qualificative-superlative-masculine-singular
+najbliže	ADJ-qualificative-superlative-masculine-singular
+najwyše	ADJ-qualificative-superlative-masculine-singular
+najdale	ADJ-qualificative-superlative-masculine-singular
+najlóže	ADJ-qualificative-superlative-masculine-singular
+najhłubje	ADJ-qualificative-superlative-masculine-singular
+#Prepositions
+bjez	ADP-preposition
+dla	ADP-preposition
+do	ADP-preposition
+k	ADP-preposition
+ke	ADP-preposition
+mjez	ADP-preposition
+na	ADP-preposition
+nad	ADP-preposition
+po	ADP-preposition
+pod	ADP-preposition
+podłu	ADP-preposition
+pola	ADP-preposition
+porno	ADP-preposition
+pře	ADP-preposition
+před	ADP-preposition
+při	ADP-preposition
+spod	ADP-preposition
+w	ADP-preposition
+we	ADP-preposition
+wo	ADP-preposition
+wob	ADP-preposition
+wot	ADP-preposition
+z	ADP-preposition
+ze	ADP-preposition
+za	ADP-preposition
+zeza	ADP-preposition
+blisko	ADP-preposition
+dale	ADP-preposition
+nimo	ADP-preposition
+niže	ADP-preposition
+njedaloko	ADP-preposition
+spody	ADP-preposition
+srjedź	ADP-preposition
+wyše	ADP-preposition
+zady	ADP-preposition
+zboka	ADP-preposition
+zespody	ADP-preposition
+#Conjunctions
+a	CONJ
+ani	CONJ
+ale	CONJ
+pak	CONJ
+drje	CONJ
+abo	CONJ
+pak	CONJ
+zo	CONJ
+hdyž tol	CONJ
+doniž	CONJ
+hač	CONJ
+prjedy hač	CONJ
+mjeztym zo	CONJ
+jako	CONJ
+dokelž	CONJ
+přetož	CONJ
+jeli	CONJ
+jelizo	CONJ
+chibazo	CONJ
+hačrunje	CONJ
+hačkuli	CONJ
+runjež	CONJ
+byrnjež	CONJ
+#Particles
+ha	PRT
+da	PRT
+pak	PRT
+no	PRT
+wjace	PRT
+hišće	PRT
+hižo	PRT
+hakle	PRT
+jenož	PRT
+hač	PRT
+da	PRT
+wšak	PRT
+nic	PRT
+#Interjections
+a	INTERJ
+aha	INTERJ
+ach	INTERJ
+aj	INTERJ
+aw	INTERJ
+fuj	INTERJ
+hehe	INTERJ
+jej	INTERJ
+wolowe	INTERJ
+apelowe	INTERJ
+hop	INTERJ
+pst	INTERJ
+hej	INTERJ
+bac	INTERJ
+buc	INTERJ
+bim	INTERJ
+bom	INTERJ
+buch	INTERJ
+gigagak	INTERJ
+kikeriki	INTERJ
+#Abbriviations
+km	ABBR
+m	ABBR
+mm	ABBR
+kg	ABBR
+g	ABBR
+l	ABBR

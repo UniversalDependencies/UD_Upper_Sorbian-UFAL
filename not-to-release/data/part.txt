@@ -1,0 +1,7 @@
+da da PART _	1
+hakle hakle PART _	2
+hišće hišće ADV _	17
+hižo hižo ADV _	10
+jenož jenož PART _	12
+nic nic PART Negative=Neg	10
+wšak wšak CONJ _	5

@@ -1,0 +1,1944 @@
+# sent_id p35s1/dsb
+1	Giacomo	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+2	Puccini	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Dual	0	_	_	_
+3	jo	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	spušćił	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	_
+5	Torre	_	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	0	_	_	_
+6	del	_	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	0	_	_	_
+7	Lago	_	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	0	_	_	_
+8	w	_	ADP	_	AdpType=Prep	0	_	_	_
+9	lěśe	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	_	_	_
+10	1921	_	NUM	_	_	0	_	_	_
+11	a	_	CONJ	_	_	0	_	_	_
+12	jo	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+13	pśeśěgnuł	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	_
+14	do	_	ADP	_	AdpType=Prep	0	_	_	_
+15	Viareggio	_	PROPN	_	Gender=Neut|Number=Sing	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p35s2/dsb
+1	Jano	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	dwě	_	NUM	_	Gender=Fem|NumType=Card	0	_	_	_
+3	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	pozdźej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	gojce	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+6	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+7	pla	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	Puccina	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+9	gjardłowy	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+10	rak	_	NOUN	_	_	0	_	_	_
+11	diagnosticěrowali	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p36s1/dsb
+1	Za	_	ADP	_	AdpType=Prep	0	_	_	_
+2	tym	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	_	_	_
+3	až	_	X	_	_	0	_	_	_
+4	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	pisał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+7	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+8	Le	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	Villi	_	PROPN	_	_	0	_	_	SpaceAfter=No
+10	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	won	_	ADV	_	_	0	_	_	_
+13	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+14	w	_	ADP	_	AdpType=Prep	0	_	_	_
+15	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+16	1889	_	NUM	_	_	0	_	_	_
+17	swoju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+18	drugu	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+19	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+20	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+21	Edgar	_	PROPN	_	_	0	_	_	SpaceAfter=No
+22	"	_	PUNCT	_	_	0	_	_	_
+23	komponěrował	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+24	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p36s2/dsb
+1	Tśi	_	PROPN	_	_	0	_	_	_
+2	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	pózdźej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	komponist	_	NOUN	_	_	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	do	_	ADP	_	AdpType=Prep	0	_	_	_
+7	Torre	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	del	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+9	Lago	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+10	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+11	blisko	_	ADP	_	AdpType=Prep	0	_	_	_
+12	Viaregio	_	PROPN	_	_	0	_	_	_
+13	w	_	ADP	_	AdpType=Prep	0	_	_	_
+14	Toskanje	_	PROPN	_	Gender=Neut|Number=Sing	0	_	_	SpaceAfter=No
+15	)	_	PUNCT	_	_	0	_	_	_
+16	pśeśěgnuł	_	X	_	_	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	to	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	0	_	_	_
+19	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+20	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+21	zachopjeńk	_	X	_	_	0	_	_	_
+22	wjelgin	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+23	płodneje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+24	faze	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+25	w	_	ADP	_	AdpType=Prep	0	_	_	_
+26	swojom	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+27	tworjenju	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p36s3/dsb
+1	Teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	źinsa	_	X	_	_	0	_	_	_
+3	woglědanja	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+5	Villa	_	PROPN	_	_	0	_	_	_
+6	Museo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+7	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+8	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+9	-	_	PUNCT	_	_	0	_	_	_
+10	doma	_	ADV	_	_	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	zo	_	CONJ	_	_	0	_	_	_
+13	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+14	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+15	žywy	_	X	_	_	0	_	_	_
+16	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	zo	_	CONJ	_	_	0	_	_	_
+19	won	_	ADV	_	_	0	_	_	_
+20	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+21	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+22	zakopowany	_	VERB	_	VerbForm=Part|Voice=Pass	0	_	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	0	_	_	_
+24	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+25	možne	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p36s4/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	30	_	NUM	_	_	0	_	_	_
+3	lětach	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	0	_	_	_
+5	w	_	ADP	_	AdpType=Prep	0	_	_	_
+6	kotarychž	_	X	_	_	0	_	_	_
+7	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+8	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+9	w	_	ADP	_	AdpType=Prep	0	_	_	_
+10	Torre	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+11	de	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+12	Lago	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+13	žywy	_	X	_	_	0	_	_	_
+14	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	0	_	_	_
+16	won	_	ADV	_	_	0	_	_	_
+17	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+18	sedym	_	ADJ	_	Number=Plur	0	_	_	_
+19	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+20	swojich	_	ADJ	_	Number=Plur	0	_	_	_
+21	źaseśich	_	X	_	_	0	_	_	_
+22	operow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+23	spisał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	0	_	_	_
+25	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+26	nejsławnjejše	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+27	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+28	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+29	Tosca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+30	"	_	PUNCT	_	_	0	_	_	_
+31	a	_	CONJ	_	_	0	_	_	_
+32	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+33	La	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+34	Bohème	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+35	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+36	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p39s1/dsb
+1	Fosforna	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+2	kislina	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+3	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+4	tudi	_	ADV	_	_	0	_	_	_
+5	ortofosforjeva	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+6	kislina	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	pravilneje	_	ADV	_	_	0	_	_	_
+9	fosforjeva	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+10	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+11	V	_	PROPN	_	_	0	_	_	SpaceAfter=No
+12	)	_	PUNCT	_	_	0	_	_	_
+13	kislina	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+14	)	_	PUNCT	_	_	0	_	_	_
+15	je	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+16	anorganska	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+17	kislina	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+18	s	_	X	_	_	0	_	_	_
+19	kemijsko	_	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	0	_	_	_
+20	formulo	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	_	_	_
+21	H3PO4	_	X	_	Abbr=Yes	0	_	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s1/dsb
+1	Popšawny	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+2	fakt	_	NOUN	_	_	0	_	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	0	_	_	_
+4	až	_	X	_	_	0	_	_	_
+5	Giacomo	_	PROPN	_	_	0	_	_	_
+6	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+9	muzikaŕ	_	X	_	_	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	njejo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+12	njezjapki	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s2/dsb
+1	Slědkoju	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+2	won	_	ADV	_	_	0	_	_	_
+3	pochada	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+5	familije	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+6	z	_	ADP	_	AdpType=Prep	0	_	_	_
+7	muzikaliskimi	_	ADJ	_	Number=Plur	0	_	_	_
+8	korjenjami	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	někotare	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+11	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+12	swojich	_	ADJ	_	Number=Plur	0	_	_	_
+13	wósćow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+14	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+15	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+16	komponisty	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+17	byli	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+18	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s3/dsb
+1	Woni	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	_	_	_
+2	zu	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	zwětšego	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+4	cerkwinsku	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	muziku	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+6	komponěrowali	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s4/dsb
+1	Teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	nejsławy	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+3	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	zachopił	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+6	swoju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	karieru	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+9	sakralneju	_	ADJ	_	Number=Dual	0	_	_	_
+10	muziku	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s5/dsb
+1	Won	_	ADV	_	_	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	organist	_	NOUN	_	_	0	_	_	_
+4	a	_	CONJ	_	_	0	_	_	_
+5	wjednik	_	NOUN	_	_	0	_	_	_
+6	chora	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	w	_	ADP	_	AdpType=Prep	0	_	_	_
+8	Lucca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+10	a	_	CONJ	_	_	0	_	_	_
+11	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+12	w	_	ADP	_	AdpType=Prep	0	_	_	_
+13	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+14	1880	_	NUM	_	_	0	_	_	_
+15	do	_	ADP	_	AdpType=Prep	0	_	_	_
+16	Mailand	_	PROPN	_	_	0	_	_	_
+17	pśeśěgnuł	_	X	_	_	0	_	_	_
+18	za	_	ADP	_	AdpType=Prep	0	_	_	_
+19	studium	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+20	kompozicije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+21	na	_	ADP	_	AdpType=Prep	0	_	_	_
+22	konserwatoriumje	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s6/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	tom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	won	_	ADV	_	_	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+7	swoju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+9	Messa	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+10	di	_	NOUN	_	Gender=Neut|Number=Dual	0	_	_	_
+11	Gloria	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+12	"	_	PUNCT	_	_	0	_	_	_
+13	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+14	mša	_	NOUN	_	_	0	_	_	_
+15	mimo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	Credo	_	PROPN	_	Gender=Neut|Number=Sing	0	_	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	0	_	_	_
+18	Sanctus	_	PROPN	_	_	0	_	_	_
+19	a	_	CONJ	_	_	0	_	_	_
+20	Agnus	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+21	Die	_	PROPN	_	_	0	_	_	SpaceAfter=No
+22	)	_	PUNCT	_	_	0	_	_	_
+23	spisał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+24	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s7/dsb
+1	Tworba	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	pśedstajijo	_	X	_	_	0	_	_	_
+3	wažny	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+4	kšac	_	X	_	_	0	_	_	_
+5	w	_	ADP	_	AdpType=Prep	0	_	_	_
+6	źěle	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	Giacoma	_	PROPN	_	_	0	_	_	_
+8	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s8/dsb
+1	Napśeśiwo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	drugej	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	mšy	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	0	_	_	_
+5	solopartije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	za	_	ADP	_	AdpType=Prep	0	_	_	_
+7	tenor	_	NOUN	_	_	0	_	_	_
+8	a	_	CONJ	_	_	0	_	_	_
+9	bas	_	NOUN	_	_	0	_	_	_
+10	w	_	ADP	_	AdpType=Prep	0	_	_	_
+11	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+12	Messa	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+13	di	_	NOUN	_	Gender=Neut|Number=Dual	0	_	_	_
+14	Gloria	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+15	"	_	PUNCT	_	_	0	_	_	_
+16	Puccina	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+17	stej	_	VERB	_	Mood=Ind|Number=Dual|Tense=Pres|VerbForm=Fin	0	_	_	_
+18	tak	_	ADV	_	_	0	_	_	_
+19	dramatiskej	_	VERB	_	Mood=Ind|Number=Dual|Tense=Past|VerbForm=Fin	0	_	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	0	_	_	_
+21	až	_	X	_	_	0	_	_	_
+22	wonej	_	PRON	_	Gender=Fem,Neut|Number=Dual|Person=3|PronType=Prs	0	_	_	_
+23	pokazujotej	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+24	zgromadnje	_	X	_	_	0	_	_	_
+25	z	_	ADP	_	AdpType=Prep	0	_	_	_
+26	opulentnym	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+27	orchestrěrowanjom	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+28	južo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+29	wjelgin	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+30	mocne	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+31	znamje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+32	pozdźeje	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+33	lubosći	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+34	Puccina	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+35	za	_	ADP	_	AdpType=Prep	0	_	_	_
+36	dramatiku	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+37	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s9/dsb
+1	Južo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	w	_	ADP	_	AdpType=Prep	0	_	_	_
+3	tom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	casu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+5	někotare	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+6	muzikaliske	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	motiwy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+8	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+9	take	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	teatraliske	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	až	_	X	_	_	0	_	_	_
+13	woni	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	_	_	_
+14	dopomnjeju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+15	na	_	ADP	_	AdpType=Prep	0	_	_	_
+16	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s10/dsb
+1	Slědny	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+2	postark	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	0	_	_	_
+4	kenž	_	X	_	_	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	młodego	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+7	Puccina	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+8	ku	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	komponěrowanjoju	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+10	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+11	sporał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	0	_	_	_
+13	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+14	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+15	woglěd	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+16	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+17	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+18	Aida	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	"	_	PUNCT	_	_	0	_	_	_
+20	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+21	Giuseppa	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+22	Verdi	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+23	w	_	ADP	_	AdpType=Prep	0	_	_	_
+24	Pisa	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s11/dsb
+1	Togodla	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	won	_	ADV	_	_	0	_	_	_
+3	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+4	w	_	ADP	_	AdpType=Prep	0	_	_	_
+5	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	1882	_	NUM	_	_	0	_	_	_
+7	swoju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	prědnu	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+9	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	skońcył	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s12/dsb
+1	Pśicyna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	za	_	ADP	_	AdpType=Prep	0	_	_	_
+3	kompoziciju	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	wuběźowanje	_	VERB	_	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	_	_	_
+6	było	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s13/dsb
+1	Lěcrownož	_	PROPN	_	_	0	_	_	_
+2	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+3	njejo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+4	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+5	dobyśaŕ	_	X	_	_	0	_	_	_
+6	wubězowanja	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+8	Le	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	Villi	_	PROPN	_	_	0	_	_	SpaceAfter=No
+10	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+13	1884	_	NUM	_	_	0	_	_	_
+14	prědny	_	ADJ	_	Number=Plur	0	_	_	_
+15	raz	_	NOUN	_	_	0	_	_	_
+16	na	_	ADP	_	AdpType=Prep	0	_	_	_
+17	jawišću	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+18	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p40s14/dsb
+1	A	_	CONJ	_	_	0	_	_	_
+2	to	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	0	_	_	_
+3	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+4	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+5	podłožk	_	NOUN	_	_	0	_	_	_
+6	za	_	ADP	_	AdpType=Prep	0	_	_	_
+7	karieru	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	Giacoma	_	PROPN	_	_	0	_	_	_
+9	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p47s1/dsb
+1	Matematika	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	striktnje	_	ADJ	_	Number=Plur	0	_	_	_
+4	logiski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+5	natwarjona	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	0	_	_	_
+7	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+8	empiriskich	_	ADJ	_	Number=Plur	0	_	_	_
+9	dopóznaśow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+10	njewótwisna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+11	wědomnosć	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p47s2/dsb
+1	Wóna	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	słužy	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+3	drugim	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+4	wědomnosćam	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+6	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+7	pomocna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	wědomnosć	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p47s3/dsb
+1	Fundament	_	NOUN	_	_	0	_	_	_
+2	matematiskeje	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	teorije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+5	aksiomowe	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	systemy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	-	_	PUNCT	_	_	0	_	_	_
+8	gromady	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+9	zakładnych	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	triwialnych	_	ADJ	_	Number=Plur	0	_	_	_
+12	a	_	CONJ	_	_	0	_	_	_
+13	cłowjeskemu	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+14	rozymoju	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+15	njepósrědnje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+16	pśistupnych	_	ADJ	_	Number=Plur	0	_	_	_
+17	wugronow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+18	resp	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+20	hypotezow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p47s4/dsb
+1	Z	_	ADP	_	AdpType=Prep	0	_	_	_
+2	pomocu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	tak	_	ADV	_	_	0	_	_	_
+4	pomjenjowanych	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+5	kalkulow	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+6	maju	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+8	wšykne	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	matematiske	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+10	sady	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+11	a	_	CONJ	_	_	0	_	_	_
+12	kazni	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+13	z	_	ADP	_	AdpType=Prep	0	_	_	_
+14	tych	_	PRON	_	Number=Plur|PronType=Dem	0	_	_	_
+15	aksiomow	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+16	wótwóźiś	_	X	_	_	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p47s5/dsb
+1	Tomu	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	_	_	_
+2	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	naslědku	_	VERB	_	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	_	_	_
+4	groni	_	ADJ	_	Number=Plur	0	_	_	_
+5	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+6	matematiski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+7	dopokaz	_	NOUN	_	_	0	_	_	SpaceAfter=No
+8	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p51s1/dsb
+1	Antarktis	_	NOUN	_	_	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	kontinent	_	NOUN	_	_	0	_	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	0	_	_	_
+5	kótaryž	_	X	_	_	0	_	_	_
+6	lažy	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	na	_	ADP	_	AdpType=Prep	0	_	_	_
+8	pódpołdnjowej	_	ADJ	_	Number=Dual	0	_	_	_
+9	zemskej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Dual	0	_	_	_
+10	połkuli	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p51s2/dsb
+1	Jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	nejsnadnjej	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	wobydlony	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	kontinent	_	NOUN	_	_	0	_	_	_
+5	na	_	ADP	_	AdpType=Prep	0	_	_	_
+6	zemi	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	dokulaž	_	X	_	_	0	_	_	_
+9	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+10	temperatury	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+11	wjelgin	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+12	niske	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+13	a	_	CONJ	_	_	0	_	_	_
+14	za	_	ADP	_	AdpType=Prep	0	_	_	_
+15	cłowjeka	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+16	lěbda	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+17	wuźaržujomy	_	X	_	_	0	_	_	SpaceAfter=No
+18	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p69s1/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	kardamomowych	_	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	0	_	_	_
+3	semjenjach	_	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	eteriski	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+6	wólej	_	VERB	_	Mood=Imp|Number=Dual|VerbForm=Fin	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	cogoždla	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+9	maju	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	wěrcojtu	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	słodkowótšu	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+13	aromu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p69s2/dsb
+1	Dokulaž	_	PROPN	_	_	0	_	_	_
+2	kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	swój	_	PRON	_	_	0	_	_	_
+4	aroma	_	NOUN	_	_	0	_	_	_
+5	malsnje	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	pózgubijo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	góźi	_	X	_	_	0	_	_	_
+10	jen	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+11	w	_	ADP	_	AdpType=Prep	0	_	_	_
+12	kapslach	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+13	wobchowaś	_	X	_	_	0	_	_	_
+14	a	_	CONJ	_	_	0	_	_	_
+15	semjenja	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+16	akle	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+17	pśed	_	X	_	_	0	_	_	_
+18	wužywanim	_	ADJ	_	Number=Plur	0	_	_	_
+19	wuprojś	_	X	_	_	0	_	_	_
+20	a	_	CONJ	_	_	0	_	_	_
+21	zetrěś	_	X	_	_	0	_	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s1/dsb
+1	Kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	wěcejlětna	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	rostlina	_	NOUN	_	_	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	mócnym	_	ADJ	_	Number=Plur	0	_	_	_
+7	ricomom	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s2/dsb
+1	Jadnotliwe	_	ADJ	_	Number=Plur	0	_	_	_
+2	spła	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	z	_	ADP	_	AdpType=Prep	0	_	_	_
+4	wjele	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+5	łopjenami	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+6	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+7	zwětšego	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+8	2	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+9	-	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+10	3	_	NUM	_	_	0	_	_	TaggerForm=2-3
+11	metrow	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+12	wusoke	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	0	_	_	_
+14	rědko	_	ADV	_	_	0	_	_	_
+15	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+16	až	_	X	_	_	0	_	_	_
+17	do	_	ADP	_	AdpType=Prep	0	_	_	_
+18	5	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+19	,	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+20	5	_	NUM	_	_	0	_	_	TaggerForm=5,5
+21	m	_	X	_	Abbr=Yes	0	_	_	_
+22	wusoke	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s3/dsb
+1	Wogonk	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	z	_	ADP	_	AdpType=Prep	0	_	_	_
+3	kwiśonkami	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	wurosćo	_	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	nadzemskich	_	ADJ	_	Number=Plur	0	_	_	_
+7	wogonkow	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+8	a	_	CONJ	_	_	0	_	_	_
+9	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+10	až	_	X	_	_	0	_	_	_
+11	do	_	ADP	_	AdpType=Prep	0	_	_	_
+12	1	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+13	,	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+14	5	_	NUM	_	_	0	_	_	TaggerForm=1,5
+15	metrow	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+16	wusoki	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s4/dsb
+1	Kwiśonki	_	ADJ	_	Number=Plur	0	_	_	_
+2	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	zrědowane	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+4	w	_	ADP	_	AdpType=Prep	0	_	_	_
+5	grankach	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	a	_	CONJ	_	_	0	_	_	_
+7	maju	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	swětłomódre	_	ADJ	_	Number=Plur	0	_	_	_
+9	łopjena	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+10	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+11	žołtymi	_	ADJ	_	Number=Plur	0	_	_	_
+12	kšomami	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s5/dsb
+1	Płody	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+2	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	zeleno	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+4	-	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+5	žołte	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	TaggerForm=zeleno-žołte
+6	słomowate	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	kapsle	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	z	_	ADP	_	AdpType=Prep	0	_	_	_
+9	tśimi	_	X	_	_	0	_	_	_
+10	bokami	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p76s6/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	kuždej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Dual	0	_	_	_
+3	kapsli	_	ADJ	_	Number=Plur	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	16	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+6	-	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+7	24	_	NUM	_	_	0	_	_	TaggerForm=16-24
+8	cerwjenobrunych	_	ADJ	_	Number=Plur	0	_	_	_
+9	semjenjow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	kótarychž	_	X	_	_	0	_	_	_
+12	formy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+13	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+14	rozeznawaju	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p81s1/dsb
+1	Rozhelony	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	0	_	_	_
+3	rožownik	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+5	[	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+6	1	_	NUM	_	_	0	_	_	SpaceAfter=No
+7	]	_	PUNCT	_	_	0	_	_	_
+8	maj	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+9	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	górnoserbski	_	ADJ	_	Number=Plur	0	_	_	_
+11	róžownik	_	NOUN	_	_	0	_	_	SpaceAfter=No
+12	)	_	PUNCT	_	_	0	_	_	_
+13	-	_	PUNCT	_	_	0	_	_	_
+14	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+15	pěty	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	mjasec	_	X	_	_	0	_	_	_
+17	w	_	ADP	_	AdpType=Prep	0	_	_	_
+18	gregoriańskem	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+19	kalendarju	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+20	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p81s2/dsb
+1	Wón	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	31	_	NUM	_	_	0	_	_	_
+4	dnjow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p81s3/dsb
+1	Wón	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	mě	_	X	_	_	0	_	_	_
+4	maj	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	łatyńskego	_	X	_	_	0	_	_	_
+7	słowa	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+8	Maja	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	romska	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+11	bogowka	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+12	płodnosći	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p95s1/dsb
+1	Po	_	ADP	_	AdpType=Prep	0	_	_	_
+2	1904	_	NUM	_	_	0	_	_	_
+3	kompozicije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	Puccina	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	byli	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	rědše	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	won	_	ADV	_	_	0	_	_	_
+10	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+11	źěłał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+12	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+13	změnijich	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+14	libretistach	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+15	a	_	CONJ	_	_	0	_	_	_
+16	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+17	až	_	X	_	_	0	_	_	_
+18	do	_	ADP	_	AdpType=Prep	0	_	_	_
+19	swojeje	_	ADJ	_	Number=Plur	0	_	_	_
+20	smerśi	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+21	w	_	ADP	_	AdpType=Prep	0	_	_	_
+22	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+23	1924	_	NUM	_	_	0	_	_	_
+24	hyšći	_	X	_	_	0	_	_	_
+25	styri	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+26	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+27	komponěrował	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p95s2/dsb
+1	1910	_	NUM	_	_	0	_	_	_
+2	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+3	La	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	fanciulla	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	del	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+6	West	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+7	"	_	PUNCT	_	_	0	_	_	_
+8	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+9	prědny	_	ADJ	_	Number=Plur	0	_	_	_
+10	raz	_	NOUN	_	_	0	_	_	_
+11	pokazał	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+12	na	_	ADP	_	AdpType=Prep	0	_	_	_
+13	jawišću	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+14	-	_	PUNCT	_	_	0	_	_	_
+15	tworba	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	0	_	_	_
+17	kotara	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+18	pśedstajijo	_	X	_	_	0	_	_	_
+19	w	_	ADP	_	AdpType=Prep	0	_	_	_
+20	kaliforniju	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p104s1/dsb
+1	Maj	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	nalětny	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+4	mjasec	_	X	_	_	0	_	_	_
+5	w	_	ADP	_	AdpType=Prep	0	_	_	_
+6	pódpołnocnej	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+7	hemisferje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+8	a	_	CONJ	_	_	0	_	_	_
+9	nazymski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+10	mjasec	_	X	_	_	0	_	_	_
+11	w	_	ADP	_	AdpType=Prep	0	_	_	_
+12	pódpołdnjowej	_	ADJ	_	Number=Dual	0	_	_	_
+13	hemisferje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p104s2/dsb
+1	Codiakalnej	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	znamjeni	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+3	w	_	ADP	_	AdpType=Prep	0	_	_	_
+4	maju	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+5	stej	_	VERB	_	Mood=Ind|Number=Dual|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	Byk	_	PROPN	_	_	0	_	_	_
+7	a	_	CONJ	_	_	0	_	_	_
+8	Dwójniki	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p108s1/dsb
+1	Atlantiski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+2	ocean	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+3	abo	_	CONJ	_	_	0	_	_	_
+4	Atlantik	_	PROPN	_	_	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	wódowa	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	płoń	_	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	0	_	_	_
+8	mjaz	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+9	Afriku	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	Europu	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+12	a	_	CONJ	_	_	0	_	_	_
+13	Ameriku	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p108s2/dsb
+1	Jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	to	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	0	_	_	_
+3	drugi	_	ADJ	_	Number=Plur	0	_	_	_
+4	nejwětšy	_	X	_	_	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	5	_	NUM	_	_	0	_	_	_
+7	swětowych	_	ADJ	_	Number=Plur	0	_	_	_
+8	oceanow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p115s1/dsb
+1	Francojska	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+2	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	rozpśestrějo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	Srjejźnego	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+6	mórja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+7	do	_	ADP	_	AdpType=Prep	0	_	_	_
+8	Engelskego	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+9	kanala	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+10	a	_	CONJ	_	_	0	_	_	_
+11	do	_	ADP	_	AdpType=Prep	0	_	_	_
+12	Pódpołnocnego	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+13	mórja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	0	_	_	_
+15	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+16	Ryna	_	PROPN	_	_	0	_	_	_
+17	do	_	ADP	_	AdpType=Prep	0	_	_	_
+18	Altantiskego	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+19	oceana	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+20	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p115s2/dsb
+1	Wobydlarje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+2	Francojskeje	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	cesto	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+4	gronje	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	0	_	_	_
+6	až	_	X	_	_	0	_	_	_
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	Francojska	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	heksagon	_	NOUN	_	_	0	_	_	SpaceAfter=No
+11	"	_	PUNCT	_	_	0	_	_	_
+12	jeje	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+13	geometriskeje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+14	formy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+15	dla	_	ADP	_	AdpType=Prep	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p165s1/dsb
+1	Region	_	NOUN	_	_	0	_	_	_
+2	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	pśestrěń	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+4	25	_	NUM	_	_	0	_	_	_
+5	703	_	NUM	_	_	0	_	_	_
+6	km	_	X	_	Abbr=Yes	0	_	_	SpaceAfter=No
+7	²	_	X	_	_	0	_	_	_
+8	a	_	CONJ	_	_	0	_	_	_
+9	pěś	_	X	_	_	0	_	_	_
+10	milionow	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Dual	0	_	_	_
+11	wobydlarjow	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p165s2/dsb
+1	Wuznamna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	góra	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	regiona	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	Etna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	0	_	_	_
+7	wulkan	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+8	kótary	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	lažy	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	blisko	_	ADP	_	AdpType=Prep	0	_	_	_
+11	pódzajtšneje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+12	kšomje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+13	Siciliskeje	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+14	a	_	CONJ	_	_	0	_	_	_
+15	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+16	nejwušy	_	X	_	_	0	_	_	_
+17	wjerch	_	NOUN	_	_	0	_	_	_
+18	kupy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p173s1/dsb
+1	Jogo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	cełkowna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+3	płoń	_	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	0	_	_	_
+4	wopśimjejo	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+5	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+6	pěśinu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	zemskego	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+8	pówjercha	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	což	_	X	_	_	0	_	_	_
+11	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+12	dogromady	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+13	z	_	ADP	_	AdpType=Prep	0	_	_	_
+14	nakšomnymi	_	ADJ	_	Number=Plur	0	_	_	_
+15	mórjami	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+17	106	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+18	,	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+19	4	_	NUM	_	_	0	_	_	TaggerForm=106,4
+20	mil	_	X	_	_	0	_	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	0	_	_	_
+22	km2	_	X	_	_	0	_	_	_
+23	a	_	CONJ	_	_	0	_	_	_
+24	82	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+25	,	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+26	4	_	NUM	_	_	0	_	_	TaggerForm=82,4
+27	mil	_	X	_	_	0	_	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	0	_	_	_
+29	km2	_	X	_	_	0	_	_	_
+30	bźez	_	X	_	_	0	_	_	_
+31	nakšomnych	_	ADJ	_	Number=Plur	0	_	_	_
+32	mórjow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+33	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p173s2/dsb
+1	Dłujkosć	_	PROPN	_	_	0	_	_	_
+2	jogo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	pśibrjoga	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	111	_	NUM	_	_	0	_	_	_
+6	866	_	NUM	_	_	0	_	_	_
+7	km	_	X	_	Abbr=Yes	0	_	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p173s3/dsb
+1	Šyrokosć	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	2	_	NUM	_	_	0	_	_	_
+5	848	_	NUM	_	_	0	_	_	_
+6	km	_	X	_	Abbr=Yes	0	_	_	_
+7	mjaz	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+8	Brazilskej	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+9	a	_	CONJ	_	_	0	_	_	_
+10	Liberiskej	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+11	do	_	ADP	_	AdpType=Prep	0	_	_	_
+12	4	_	NUM	_	_	0	_	_	_
+13	830	_	NUM	_	_	0	_	_	_
+14	km	_	X	_	Abbr=Yes	0	_	_	_
+15	mjaz	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+16	Zjadnośonymi	_	ADJ	_	Number=Plur	0	_	_	_
+17	statami	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+18	Ameriki	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+19	a	_	CONJ	_	_	0	_	_	_
+20	pódpołnocnej	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Dual	0	_	_	_
+21	Afriku	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p173s4/dsb
+1	Nejdłymše	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	městno	_	NOUN	_	_	0	_	_	_
+3	w	_	ADP	_	AdpType=Prep	0	_	_	_
+4	Atlantiskem	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	oceanje	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+7	dłymina	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	Milwaukee	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+9	w	_	ADP	_	AdpType=Prep	0	_	_	_
+10	Portorikoskej	_	VERB	_	Mood=Ind|Number=Dual|Tense=Pres|VerbForm=Fin	0	_	_	_
+11	grobli	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+12	we	_	ADP	_	AdpType=Prep	0	_	_	_
+13	dłymokosći	_	X	_	_	0	_	_	_
+14	8	_	NUM	_	_	0	_	_	_
+15	648	_	NUM	_	_	0	_	_	_
+16	metrow	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+17	pód	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+18	głaźinu	_	X	_	_	0	_	_	_
+19	oceana	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+20	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p173s5/dsb
+1	Pśerězna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	dłymokosć	_	X	_	_	0	_	_	_
+3	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+4	3	_	NUM	_	_	0	_	_	_
+5	332	_	NUM	_	_	0	_	_	_
+6	m	_	X	_	Abbr=Yes	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	resp	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+10	3	_	NUM	_	_	0	_	_	_
+11	926	_	NUM	_	_	0	_	_	_
+12	m	_	X	_	Abbr=Yes	0	_	_	_
+13	bźez	_	X	_	_	0	_	_	_
+14	nakšomnych	_	ADJ	_	Number=Plur	0	_	_	_
+15	mórjow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p185s1/dsb
+1	Kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	rozšyrjony	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	pśedewšym	_	X	_	_	0	_	_	_
+5	w	_	ADP	_	AdpType=Prep	0	_	_	_
+6	aziatiskej	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+7	kuchni	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p185s2/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	europskej	_	ADJ	_	Number=Dual	0	_	_	_
+3	kuchni	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+4	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+5	wužywa	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	pśi	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+7	pjacenju	_	ADJ	_	Number=Dual	0	_	_	_
+8	gódownego	_	X	_	_	0	_	_	_
+9	pjacywa	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	na	_	ADP	_	AdpType=Prep	0	_	_	_
+12	pś	_	X	_	_	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+14	paprjeńca	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p185s3/dsb
+1	Mimo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	togo	_	NOUN	_	_	0	_	_	_
+3	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	wužywa	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+5	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+6	za	_	ADP	_	AdpType=Prep	0	_	_	_
+7	jěšnice	_	VERB	_	Mood=Imp|Number=Plur|VerbForm=Fin	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	likery	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+10	a	_	CONJ	_	_	0	_	_	_
+11	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+12	źěl	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+13	wěrcowych	_	ADJ	_	Number=Plur	0	_	_	_
+14	měšanjow	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p185s4/dsb
+1	Pśi	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+2	gótowanju	_	X	_	_	0	_	_	_
+3	arabiskego	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+4	kafeja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+6	rozšyrjony	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	nałog	_	X	_	_	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	kafej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Dual	0	_	_	_
+10	z	_	ADP	_	AdpType=Prep	0	_	_	_
+11	kardamomom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+12	wěrcowaś	_	X	_	_	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p185s5/dsb
+1	Rowno	_	NOUN	_	_	0	_	_	_
+2	tak	_	ADV	_	_	0	_	_	_
+3	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	wužywa	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+5	za	_	ADP	_	AdpType=Prep	0	_	_	_
+6	gótowanje	_	X	_	_	0	_	_	_
+7	teja	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	z	_	ADP	_	AdpType=Prep	0	_	_	_
+9	mlokom	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	kótaryž	_	X	_	_	0	_	_	_
+12	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+13	tradicionelnje	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+14	pó	_	X	_	_	0	_	_	_
+15	islamskem	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+16	zajtšnem	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+17	bjatowanju	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+18	póstaja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p197s1/dsb
+1	Siciliska	_	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	_
+2	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+3	italski	_	ADV	_	Degree=Pos	0	_	_	_
+4	Sicilia	_	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+5	)	_	PUNCT	_	_	0	_	_	_
+6	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+7	nejwětša	_	X	_	_	0	_	_	_
+8	kupa	_	NOUN	_	_	0	_	_	_
+9	Srjejźnego	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+10	mórja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p197s2/dsb
+1	Lažy	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+2	blisko	_	ADP	_	AdpType=Prep	0	_	_	_
+3	krotkowjacornego	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+4	rožka	_	NOUN	_	_	0	_	_	_
+5	Apeninskeje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+6	połkupy	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	a	_	CONJ	_	_	0	_	_	_
+8	słuša	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+9	k	_	ADP	_	AdpType=Prep	0	_	_	_
+10	Italskej	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p197s3/dsb
+1	Zgromadnje	_	PROPN	_	_	0	_	_	_
+2	z	_	ADP	_	AdpType=Prep	0	_	_	_
+3	małkimi	_	ADJ	_	Number=Plur	0	_	_	_
+4	kupami	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+5	we	_	ADP	_	AdpType=Prep	0	_	_	_
+6	wokolinje	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+7	wutwórjujo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+8	Siciliski	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	awtonomny	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+10	region	_	NOUN	_	_	0	_	_	_
+11	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+12	italski	_	NUM	_	NumType=Card	0	_	_	_
+13	Regione	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+14	Autonoma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+15	Siciliana	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+16	)	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p215s1/dsb
+1	Teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+2	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	njesmějo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+5	Madama	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+6	Butterfly	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+7	"	_	PUNCT	_	_	0	_	_	_
+8	zabyś	_	X	_	_	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+11	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+12	skóńcył	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+13	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+14	1904	_	NUM	_	_	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p215s2/dsb
+1	Hyšći	_	PROPN	_	_	0	_	_	_
+2	raz	_	NOUN	_	_	0	_	_	_
+3	bolosna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+4	a	_	CONJ	_	_	0	_	_	_
+5	komplikowana	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+6	lubosć	_	NOUN	_	_	0	_	_	_
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	zakład	_	X	_	_	0	_	_	_
+9	jadnanja	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p215s3/dsb
+1	Amerikanaŕ	_	PROPN	_	_	0	_	_	_
+2	B	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+3	.	_	X	_	_	0	_	_	TaggerForm=B.
+4	F	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+5	.	_	X	_	_	0	_	_	TaggerForm=F.
+6	Pinkerton	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+7	pśiźo	_	X	_	_	0	_	_	_
+8	do	_	ADP	_	AdpType=Prep	0	_	_	_
+9	Japańskeje	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+10	a	_	CONJ	_	_	0	_	_	_
+11	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+12	woźenijo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+13	geishu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+14	Butterfly	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p215s4/dsb
+1	Na	_	ADP	_	AdpType=Prep	0	_	_	_
+2	końcu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	Butterfly	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	wzejo	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+5	sebje	_	PRON	_	Number=Sing|PronType=Prs|Reflex=Yes	0	_	_	_
+6	žywjenje	_	NOUN	_	Gender=Neut|Number=Sing	0	_	_	_
+7	dokulaž	_	X	_	_	0	_	_	_
+8	wona	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+9	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+10	mura	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+11	nazgonjona	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+12	až	_	X	_	_	0	_	_	_
+13	Pinkerton	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+14	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+15	južo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	woženił	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+19	ju	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+20	jano	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+21	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+22	geishu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+23	wiźeł	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+24	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p215s5/dsb
+1	Nejznaty	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+2	kusk	_	ADV	_	_	0	_	_	_
+3	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+6	Dovunque	_	PROPN	_	_	0	_	_	_
+7	al	_	X	_	_	0	_	_	_
+8	mondo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+9	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p232s1/dsb
+1	Po	_	ADP	_	AdpType=Prep	0	_	_	_
+2	diagnozy	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+3	muzikaŕ	_	X	_	_	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	hyšći	_	X	_	_	0	_	_	_
+6	mało	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+7	lětow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+8	žywy	_	X	_	_	0	_	_	_
+9	był	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p232s2/dsb
+1	Po	_	ADP	_	AdpType=Prep	0	_	_	_
+2	operaciji	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	w	_	ADP	_	AdpType=Prep	0	_	_	_
+4	Brüssel	_	PROPN	_	_	0	_	_	_
+5	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	namakali	_	ADJ	_	Number=Plur	0	_	_	_
+8	njedocakane	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+9	komplikacije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	kotare	_	ADJ	_	Number=Plur	0	_	_	_
+12	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+13	wjedu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+14	k	_	ADP	_	AdpType=Prep	0	_	_	_
+15	infektoju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+16	wutšoby	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p232s3/dsb
+1	Giacomo	_	PROPN	_	_	0	_	_	_
+2	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+3	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+4	na	_	ADP	_	AdpType=Prep	0	_	_	_
+5	24	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+6	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+7	11	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+8	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+9	1924	_	NUM	_	_	0	_	_	TaggerForm=24.11.1924
+10	w	_	ADP	_	AdpType=Prep	0	_	_	_
+11	starstwje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+12	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+13	66	_	NUM	_	_	0	_	_	_
+14	lětow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+15	mrěł	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p232s4/dsb
+1	K	_	ADP	_	AdpType=Prep	0	_	_	_
+2	prědnemu	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+3	won	_	ADV	_	_	0	_	_	_
+4	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	pśewoźujo	_	X	_	_	0	_	_	_
+6	do	_	ADP	_	AdpType=Prep	0	_	_	_
+7	rowa	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+8	w	_	ADP	_	AdpType=Prep	0	_	_	_
+9	Mailand	_	PROPN	_	_	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	ale	_	CONJ	_	_	0	_	_	_
+12	swoj	_	ADJ	_	Number=Dual	0	_	_	_
+13	syn	_	NOUN	_	_	0	_	_	_
+14	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+15	pozdźej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+16	pśewoźył	_	X	_	_	0	_	_	_
+17	śěło	_	X	_	_	0	_	_	_
+18	do	_	ADP	_	AdpType=Prep	0	_	_	_
+19	Torre	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+20	del	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+21	Lago	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	0	_	_	_
+23	zo	_	CONJ	_	_	0	_	_	_
+24	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+25	hyšći	_	X	_	_	0	_	_	_
+26	źinsa	_	X	_	_	0	_	_	_
+27	row	_	NOUN	_	_	0	_	_	_
+28	Giacoma	_	PROPN	_	_	0	_	_	_
+29	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+30	we	_	ADP	_	AdpType=Prep	0	_	_	_
+31	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+32	Villa	_	PROPN	_	_	0	_	_	_
+33	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+34	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+35	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p244s1/dsb
+1	Kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	póchada	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+3	z	_	ADP	_	AdpType=Prep	0	_	_	_
+4	pódpołdnjoweje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+5	Indiskeje	_	ADJ	_	Number=Plur	0	_	_	_
+6	a	_	CONJ	_	_	0	_	_	_
+7	z	_	ADP	_	AdpType=Prep	0	_	_	_
+8	kupy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	Sri	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+10	Lanka	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p244s2/dsb
+1	Indiski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+2	kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+4	mjeńšy	_	VERB	_	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	_	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	0	_	_	_
+6	ale	_	CONJ	_	_	0	_	_	_
+7	wěcej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+8	aromatiski	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p244s3/dsb
+1	Kardamom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	źinsa	_	X	_	_	0	_	_	_
+4	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	Guatemale	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	Tanzanije	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	a	_	CONJ	_	_	0	_	_	_
+10	Vietnama	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+11	importěrujo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p255s1/dsb
+1	Na	_	ADP	_	AdpType=Prep	0	_	_	_
+2	22	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+3	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+4	12	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+5	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+6	1858	_	NUM	_	_	0	_	_	TaggerForm=22.12.1858
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	w	_	ADP	_	AdpType=Prep	0	_	_	_
+9	Lucca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	w	_	ADP	_	AdpType=Prep	0	_	_	_
+11	Toskanje	_	PROPN	_	Gender=Neut|Number=Sing	0	_	_	_
+12	snaž	_	X	_	_	0	_	_	_
+13	nejwažnejšy	_	X	_	_	0	_	_	_
+14	komponist	_	NOUN	_	_	0	_	_	_
+15	w	_	ADP	_	AdpType=Prep	0	_	_	_
+16	stawiznach	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+17	italskeje	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+18	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+19	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+20	naroźił	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+21	:	_	PUNCT	_	_	0	_	_	_
+22	Giacomo	_	PROPN	_	_	0	_	_	_
+23	Antonio	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+24	Domenico	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+25	Michele	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+26	Secondo	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+27	Maria	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+28	Puccini	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+29	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p255s2/dsb
+1	Mamy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	jomu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	muzikaliske	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+4	dožywjenja	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+5	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+6	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+7	La	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+8	Bohème	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+9	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+12	Tosca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+13	"	_	PUNCT	_	_	0	_	_	_
+14	abo	_	CONJ	_	_	0	_	_	_
+15	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+16	Madama	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+17	Butterfly	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+18	"	_	PUNCT	_	_	0	_	_	_
+19	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+20	źěkowas	_	X	_	_	0	_	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p255s3/dsb
+1	Arije	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+2	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+4	Nessun	_	PROPN	_	_	0	_	_	_
+5	dorma	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+6	"	_	PUNCT	_	_	0	_	_	_
+7	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+8	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+10	Turandot	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+11	"	_	PUNCT	_	_	0	_	_	_
+12	abo	_	CONJ	_	_	0	_	_	_
+13	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+14	Dovunque	_	PROPN	_	_	0	_	_	_
+15	al	_	X	_	_	0	_	_	_
+16	mondo	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+17	"	_	PUNCT	_	_	0	_	_	_
+18	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+19	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+20	Madama	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+21	Butterfly	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+22	"	_	PUNCT	_	_	0	_	_	_
+23	stej	_	VERB	_	Mood=Ind|Number=Dual|Tense=Pres|VerbForm=Fin	0	_	_	_
+24	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+25	hyšći	_	X	_	_	0	_	_	_
+26	źinsa	_	X	_	_	0	_	_	_
+27	popularneje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+28	kure	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+29	klasiki	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+30	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p269s1/dsb
+1	Lenka	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	Scholze	_	VERB	_	Number=Plur|VerbForm=Part	0	_	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	0	_	_	_
+4	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+5	Das	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+6	grammatische	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+7	System	_	PROPN	_	_	0	_	_	_
+8	der	_	X	_	_	0	_	_	_
+9	obersorbischen	_	X	_	_	0	_	_	_
+10	Umgangssprache	_	PROPN	_	_	0	_	_	_
+11	im	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+12	Sprachkontakt	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+13	"	_	PUNCT	_	_	0	_	_	_
+14	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+15	Spisy	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	Serbskeho	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+17	instituta	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+18	45	_	NUM	_	_	0	_	_	SpaceAfter=No
+19	)	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p269s2/dsb
+1	Awtorka	_	NOUN	_	_	0	_	_	_
+2	Leńka	_	PROPN	_	_	0	_	_	_
+3	Šołćic	_	PROPN	_	_	0	_	_	_
+4	porěči	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+5	k	_	ADP	_	AdpType=Prep	0	_	_	_
+6	temje	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	0	_	_	_
+8	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+9	Kajš	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+10	mó	_	X	_	_	0	_	_	_
+11	cół	_	X	_	_	0	_	_	_
+12	dźejn	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+13	pójdamo	_	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	0	_	_	_
+15	kójže	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+16	dźejn	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+17	"	_	PUNCT	_	_	0	_	_	_
+18	-	_	PUNCT	_	_	0	_	_	_
+19	Serbska	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+20	wobchadna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+21	rěč	_	NOUN	_	_	0	_	_	_
+22	w	_	ADP	_	AdpType=Prep	0	_	_	_
+23	katolskich	_	ADJ	_	Number=Plur	0	_	_	_
+24	Serbach	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p280s1/dsb
+1	Orbity	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	_
+2	drugich	_	ADJ	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	0	_	_	_
+3	planetow	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	_	_	_
+4	słyńca	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+5	njejsu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+6	rowno	_	NOUN	_	_	0	_	_	_
+7	w	_	ADP	_	AdpType=Prep	0	_	_	_
+8	ekliptiśe	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	ale	_	CONJ	_	_	0	_	_	_
+11	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+12	nic	_	PART	_	_	0	_	_	_
+13	pśeliš	_	X	_	_	0	_	_	_
+14	daloke	_	NOUN	_	_	0	_	_	_
+15	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+16	togo	_	NOUN	_	_	0	_	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p286s1/dsb
+1	Partitura	_	NOUN	_	_	0	_	_	_
+2	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+3	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+4	La	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+5	Rondine	_	PROPN	_	Gender=Neut|Number=Dual	0	_	_	SpaceAfter=No
+6	"	_	PUNCT	_	_	0	_	_	_
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	1917	_	NUM	_	_	0	_	_	_
+9	gotowa	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	była	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+11	a	_	CONJ	_	_	0	_	_	_
+12	jano	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+13	lěta	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+14	pozdźej	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+15	opera	_	NOUN	_	_	0	_	_	_
+16	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+17	Il	_	PROPN	_	_	0	_	_	_
+18	Tritico	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	"	_	PUNCT	_	_	0	_	_	_
+20	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+21	měła	_	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	_	_	_
+22	premjeru	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+23	w	_	ADP	_	AdpType=Prep	0	_	_	_
+24	New	_	PROPN	_	_	0	_	_	_
+25	York	_	PROPN	_	_	0	_	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p286s2/dsb
+1	Pśi	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+2	tom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	jadnaje	_	NOUN	_	Gender=Neut|Number=Dual	0	_	_	_
+5	wo	_	ADP	_	AdpType=Prep	0	_	_	_
+6	tśiźělny	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+7	opera	_	NOUN	_	_	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	zestajijona	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	z	_	ADP	_	AdpType=Prep	0	_	_	_
+11	tworbow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+12	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+13	Il	_	PROPN	_	_	0	_	_	_
+14	Tabarro	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+15	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	0	_	_	_
+17	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+18	Suor	_	PROPN	_	_	0	_	_	_
+19	Angelica	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+20	"	_	PUNCT	_	_	0	_	_	_
+21	a	_	CONJ	_	_	0	_	_	_
+22	směšneje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+23	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+24	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+25	Gianni	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+26	Schicci	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+27	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p286s3/dsb
+1	Wo	_	ADP	_	AdpType=Prep	0	_	_	_
+2	tym	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	_	_	_
+3	jano	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+5	Schicci	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	SpaceAfter=No
+6	"	_	PUNCT	_	_	0	_	_	_
+7	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+8	hyšći	_	X	_	_	0	_	_	_
+9	źinsa	_	X	_	_	0	_	_	_
+10	kšuty	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+11	źěl	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+12	grajnych	_	ADJ	_	Number=Plur	0	_	_	_
+13	planow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+14	źiwadłow	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p295s1/dsb
+1	Rotaciska	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+2	wóska	_	NOUN	_	_	0	_	_	_
+3	zemje	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	njejo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+5	rowna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+6	k	_	ADP	_	AdpType=Prep	0	_	_	_
+7	ekliptiśe	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	ale	_	CONJ	_	_	0	_	_	_
+10	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+11	k	_	ADP	_	AdpType=Prep	0	_	_	_
+12	jeje	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+13	padorownje	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+14	nugel	_	X	_	_	0	_	_	_
+15	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+16	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+17	23	_	NUM	_	_	0	_	_	SpaceAfter=No
+18	°	_	X	_	_	0	_	_	_
+19	26	_	NUM	_	_	0	_	_	SpaceAfter=No
+20	'	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p295s2/dsb
+1	Toś	_	PROPN	_	_	0	_	_	_
+2	ten	_	NOUN	_	_	0	_	_	_
+3	nugel	_	X	_	_	0	_	_	_
+4	zawinujo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+5	fenomen	_	NOUN	_	_	0	_	_	_
+6	měnjecych	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+7	lětnych	_	ADJ	_	Number=Plur	0	_	_	_
+8	casow	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p295s3/dsb
+1	Wóna	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	njejo	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+3	konstantna	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	0	_	_	_
+5	ale	_	CONJ	_	_	0	_	_	_
+6	wariěrujo	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+7	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+8	z	_	ADP	_	AdpType=Prep	0	_	_	_
+9	perioźe	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+10	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+11	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+12	40	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+13	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+14	000	_	NUM	_	_	0	_	_	TaggerForm=40.000
+15	lětow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+16	)	_	PUNCT	_	_	0	_	_	_
+17	mjaz	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+18	21	_	NUM	_	_	0	_	_	SpaceAfter=No
+19	°	_	X	_	_	0	_	_	_
+20	55	_	NUM	_	_	0	_	_	SpaceAfter=No
+21	'	_	PUNCT	_	_	0	_	_	_
+22	a	_	CONJ	_	_	0	_	_	_
+23	24	_	NUM	_	_	0	_	_	SpaceAfter=No
+24	°	_	X	_	_	0	_	_	_
+25	18	_	NUM	_	_	0	_	_	SpaceAfter=No
+26	'	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	0	_	_	_
+28	wobwliwujcy	_	VERB	_	Tense=Pres|VerbForm=Part|Voice=Act	0	_	_	_
+29	klimat	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+30	zemje	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+31	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p295s4/dsb
+1	Wóna	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+2	něnto	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+3	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+4	pómjeńšujo	_	X	_	_	0	_	_	SpaceAfter=No
+5	;	_	PUNCT	_	_	0	_	_	_
+6	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+7	4300	_	NUM	_	_	0	_	_	_
+8	buźo	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+9	srjejźnu	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+10	gódnotu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+11	wót	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+12	23	_	NUM	_	_	0	_	_	SpaceAfter=No
+13	°	_	X	_	_	0	_	_	SpaceAfter=No
+14	06	_	NUM	_	_	0	_	_	SpaceAfter=No
+15	'	_	PUNCT	_	_	0	_	_	_
+16	dośěgnuś	_	X	_	_	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	něźi	_	ADJ	_	Number=Plur	0	_	_	_
+19	w	_	ADP	_	AdpType=Prep	0	_	_	_
+20	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+21	25	_	NUM	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+22	.	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+23	000	_	NUM	_	_	0	_	_	TaggerForm=25.000
+24	minimalnu	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+25	gódnotu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p329s1/dsb
+1	Francojska	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+2	granicujo	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+3	z	_	ADP	_	AdpType=Prep	0	_	_	_
+4	Belgiskeju	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	0	_	_	_
+6	Luxemburgskeju	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	0	_	_	_
+8	Nimskeju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	0	_	_	_
+10	Šwicarskeju	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	Italskeju	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	0	_	_	_
+14	Monaco	_	PROPN	_	_	0	_	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	0	_	_	_
+16	Andorru	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	Špańskeju	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p329s2/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	někotarych	_	ADJ	_	Number=Plur	0	_	_	_
+3	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+4	swójich	_	ADJ	_	Number=Plur	0	_	_	_
+5	departementow	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	na	_	ADP	_	AdpType=Prep	0	_	_	_
+7	drugich	_	ADJ	_	Number=Plur	0	_	_	_
+8	kontinentach	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+10	wóna	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+11	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+12	granicu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+13	z	_	ADP	_	AdpType=Prep	0	_	_	_
+14	Brazilskeju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	0	_	_	_
+16	Surinamom	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+17	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+18	Francojska	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+19	Guyana	_	PROPN	_	_	0	_	_	SpaceAfter=No
+20	)	_	PUNCT	_	_	0	_	_	_
+21	a	_	CONJ	_	_	0	_	_	_
+22	Nižozemskimi	_	ADJ	_	Number=Plur	0	_	_	_
+23	Antilami	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+24	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+25	Saint	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+26	-	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+27	Martin	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=Saint-Martin
+28	)	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+29	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p329s3/dsb
+1	Francojska	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+2	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+3	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+4	zwězana	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+5	z	_	ADP	_	AdpType=Prep	0	_	_	_
+6	Wjelikeju	_	ADJ	_	Number=Dual	0	_	_	_
+7	Britaniskeju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	z	_	ADP	_	AdpType=Prep	0	_	_	_
+9	tunelom	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	0	_	_	_
+11	kenž	_	X	_	_	0	_	_	_
+12	wjeźo	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+13	pśez	_	X	_	_	0	_	_	_
+14	Engelski	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+15	kanal	_	NOUN	_	_	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p338s1/dsb
+1	Jolic	_	PROPN	_	_	0	_	_	_
+2	sy	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	jaden	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	z	_	ADP	_	AdpType=Prep	0	_	_	_
+5	mjenjowanych	_	NOUN	_	Gender=Neut|Number=Plur	0	_	_	_
+6	njedostatkow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+7	skorigował	_	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	_	_	SpaceAfter=No
+8	(	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+9	a	_	CONJ	_	_	0	_	_	SpaceAfter=No
+10	)	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	wótpóraj	_	ADJ	_	Number=Dual	0	_	_	_
+13	pšosym	_	X	_	_	0	_	_	_
+14	wótpowědny	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+15	parameter	_	NOUN	_	_	0	_	_	_
+16	pśedłogi	_	X	_	_	0	_	_	_
+17	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p338s2/dsb
+1	Podrobnosći	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+2	namakaš	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	w	_	ADP	_	AdpType=Prep	0	_	_	_
+4	dokumentaciji	_	ADJ	_	Number=Plur	0	_	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p359s1/dsb
+1	Žeden	_	PROPN	_	_	0	_	_	_
+2	drugi	_	ADJ	_	Number=Plur	0	_	_	_
+3	mjasec	_	X	_	_	0	_	_	_
+4	njezachopina	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+5	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+6	samskim	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+7	wšědnym	_	ADJ	_	Gender=Neut|Number=Sing	0	_	_	_
+8	dnju	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+9	kaž	_	CONJ	_	_	0	_	_	_
+10	maj	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+11	.	_	X	_	_	0	_	_	TaggerForm=maj.
+
+# sent_id p366s1/dsb
+1	Źinsajšna	_	PROPN	_	_	0	_	_	_
+2	matematika	_	NOUN	_	_	0	_	_	_
+3	rozdźělujo	_	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	_
+4	se	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+5	do	_	ADP	_	AdpType=Prep	0	_	_	_
+6	wšakich	_	ADJ	_	Number=Plur	0	_	_	_
+7	jadnotliwych	_	ADJ	_	Number=Plur	0	_	_	_
+8	disciplinow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+10	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+11	n	_	X	_	_	0	_	_	SpaceAfter=No|TaggerForm=_
+12	.	_	X	_	_	0	_	_	TaggerForm=n.
+13	pś	_	X	_	_	0	_	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	0	_	_	_
+15	algebra	_	NOUN	_	_	0	_	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	0	_	_	_
+17	analyzis	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	0	_	_	_
+19	licbowa	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+20	teorija	_	NOUN	_	_	0	_	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	0	_	_	_
+22	topologija	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+23	a	_	CONJ	_	_	0	_	_	_
+24	graśowa	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+25	teorija	_	NOUN	_	_	0	_	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p373s1/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	lěśe	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	1893	_	NUM	_	_	0	_	_	_
+4	opera	_	NOUN	_	_	0	_	_	_
+5	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+6	Manon	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+7	Lescaut	_	PROPN	_	_	0	_	_	SpaceAfter=No
+8	"	_	PUNCT	_	_	0	_	_	_
+9	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+10	nastała	_	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	_	_	_
+11	a	_	CONJ	_	_	0	_	_	_
+12	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+13	była	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	_
+14	prědny	_	ADJ	_	Number=Plur	0	_	_	_
+15	wjeliki	_	ADJ	_	Number=Plur	0	_	_	_
+16	wuspěch	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	_
+17	za	_	ADP	_	AdpType=Prep	0	_	_	_
+18	komponista	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p373s2/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	casu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+3	wot	_	ADP	_	AdpType=Prep	0	_	_	_
+4	wosymych	_	ADJ	_	Number=Plur	0	_	_	_
+5	lětow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	su	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+7	mrocniki	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+8	stawiznow	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+9	opery	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+10	slědowali	_	VERB	_	Number=Plur|VerbForm=Part	0	_	_	SpaceAfter=No
+11	:	_	PUNCT	_	_	0	_	_	_
+12	1896	_	NUM	_	_	0	_	_	_
+13	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+14	La	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+15	Bohème	_	PROPN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+16	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	0	_	_	_
+18	kotara	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+19	jo	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+20	znata	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+21	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+22	wjelgin	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+23	romantisku	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+24	operu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+25	z	_	ADP	_	AdpType=Prep	0	_	_	_
+26	pśekšasneju	_	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	_
+27	rolu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+28	za	_	ADP	_	AdpType=Prep	0	_	_	_
+29	tenorow	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Dual	0	_	_	SpaceAfter=No
+30	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p373s3/dsb
+1	Pśedstajone	_	PROPN	_	_	0	_	_	_
+2	we	_	ADP	_	AdpType=Prep	0	_	_	_
+3	wobcerjenju	_	ADJ	_	Number=Dual	0	_	_	_
+4	chudych	_	ADJ	_	Number=Plur	0	_	_	_
+5	Bohemianow	_	PROPN	_	Gender=Fem|Number=Dual	0	_	_	_
+6	w	_	ADP	_	AdpType=Prep	0	_	_	_
+7	Parisu	_	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	0	_	_	_
+9	jawišćowa	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+10	tworba	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+11	wulicujo	_	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	_
+12	wo	_	ADP	_	AdpType=Prep	0	_	_	_
+13	tragiskej	_	ADJ	_	Number=Dual	0	_	_	_
+14	lubosći	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+15	mjazy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+16	Mimi	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+17	a	_	CONJ	_	_	0	_	_	_
+18	Rodolpho	_	PROPN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	0	_	_	_
+20	kotarejž	_	X	_	_	0	_	_	_
+21	końcy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+22	ze	_	ADP	_	AdpType=Prep	0	_	_	_
+23	smjerśu	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	SpaceAfter=No
+24	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p383s1/dsb
+1	"	_	PUNCT	_	_	0	_	_	SpaceAfter=No
+2	Tosca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+3	"	_	PUNCT	_	_	0	_	_	_
+4	z	_	ADP	_	AdpType=Prep	0	_	_	_
+5	lěta	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+6	1900	_	NUM	_	_	0	_	_	_
+7	ma	_	ADJ	_	Gender=Fem|Number=Sing	0	_	_	_
+8	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+9	tšojenje	_	X	_	_	0	_	_	_
+10	wo	_	ADP	_	AdpType=Prep	0	_	_	_
+11	lubosći	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+12	ako	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+13	temu	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p383s2/dsb
+1	Tam	_	ADV	_	_	0	_	_	_
+2	słuchamy	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+3	wo	_	ADP	_	AdpType=Prep	0	_	_	_
+4	pogu	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+5	mjazy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+6	spiwarnice	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+7	Floria	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+8	Tosca	_	PROPN	_	Gender=Fem|Number=Sing	0	_	_	_
+9	a	_	CONJ	_	_	0	_	_	_
+10	molarja	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	_
+11	Mario	_	ADJ	_	Gender=Masc|Number=Sing	0	_	_	_
+12	Cavaradossi	_	PROPN	_	_	0	_	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	0	_	_	_
+
+# sent_id p383s3/dsb
+1	W	_	ADP	_	AdpType=Prep	0	_	_	_
+2	tom	_	NOUN	_	Animacy=Anim|Gender=Fem,Masc|Number=Plur	0	_	_	_
+3	paźe	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+4	mamy	_	NOUN	_	Animacy=Inan|Gender=Fem,Masc|Number=Plur	0	_	_	_
+5	podla	_	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	lubosći	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+7	teke	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+8	wjelgin	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	0	_	_	_
+9	wjele	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	0	_	_	_
+10	namocow	_	NOUN	_	Gender=Neut|Number=Dual	0	_	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	0	_	_	_
+12	wjeliki	_	ADJ	_	Number=Plur	0	_	_	_
+13	źěl	_	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	0	_	_	_
+14	figurow	_	NOUN	_	Gender=Fem|Number=Dual	0	_	_	_
+15	zemrěł	_	X	_	_	0	_	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	0	_	_	_
+
