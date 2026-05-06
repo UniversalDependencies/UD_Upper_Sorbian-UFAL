@@ -1,0 +1,5 @@
+Zapomněl jsem rozlišovat VERB a AUX, grr. Tak to budu muset ještě opravit v dalším kroku. Asi už bych měl rovnou označovat sponová slovesa jako AUX, protože to tak asi bude ve verzi 2. A dopsat to jako návrh do verze 2.
+Zvratná zájmena vyžadují více rysů, mj. pád (obvykle Acc).
+Přivlastňovací zájmena i přídavná jména vyžadují více rysů.
+Některá přídavná jména mají uvedeno Degree=Pos, ale mnohá ne. Udělat v tom pořádek.
+Rozlišit CONJ a SCONJ.

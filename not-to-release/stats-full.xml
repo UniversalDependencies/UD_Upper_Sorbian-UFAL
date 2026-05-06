@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>646</sentences><tokens>11196</tokens><words>11196</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="3057" /><!-- ., ,, a, być, w, so, z, na, ), (, -, ", tež, wot, kotryž -->
+  <forms unique="4333" /><!-- ., ,, a, w, so, na, ), z, (, je, -, ", tež, wot, su -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">0.126920328688817</tag><!-- serbski, wulki, druhi, prěni, wažny, mjenowany, němski, horni, politiski, cyły -->
+    <tag name="ADP">0.0980707395498392</tag><!-- w, z, na, wot, za, do, k, přez, před, po -->
+    <tag name="ADV">0.0481421936405859</tag><!-- tež, wjele, tak, hišće, zwjetša, něhdźe, hižo, tu, bórze, mnoho -->
+    <tag name="AUX">0.0258127902822437</tag><!-- być, posłužić -->
+    <tag name="CCONJ">0.0376920328688817</tag><!-- a, abo, ale, hač, pak, wšak, tola, et, ani -->
+    <tag name="DET">0.0277777777777778</tag><!-- kotryž, tutón, naš, swój, někotry, wšě, jeho, jich, tón, kóždy -->
+    <tag name="NOUN">0.227581279028224</tag><!-- rěč, lěto, lětoličba, woda, město, přikład, stat, čas, nastawk, kraj -->
+    <tag name="NUM">0.0336727402643801</tag><!-- jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, I -->
+    <tag name="PART">0.00214362272240086</tag><!-- jenož, nic, hakle -->
+    <tag name="PRON">0.0301893533404787</tag><!-- so, to, wón, kiž, štož, ja, něšto, ty, ništo, wšitko -->
+    <tag name="PROPN">0.053233297606288</tag><!-- Mezopotamiska, Babylon, Assyriska, Wikipedija, Němska, Łužica, Aššur, Budyšin, Serb, Europa -->
+    <tag name="PUNCT">0.180510896748839</tag><!-- ., ,, ), (, -, ", :, /, {, } -->
+    <tag name="SCONJ">0.0142015005359057</tag><!-- jako, zo, hač, kaž, dokelž, jeli, hdyž, doniž, li, chibazo -->
+    <tag name="SYM">0.00285816362986781</tag><!-- °, %, ', *, ², ³, †, :, =, o2 -->
+    <tag name="VERB">0.0734190782422294</tag><!-- měć, móc, być, wužiwać, ležeć, namakać, wobsahować, mjenować, słušeć, eksistować -->
+    <tag name="X">0.0177742050732404</tag><!-- a, i, vitis, al, backen, o, apg, au, b, c -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="56">
+    <feat name="Abbr" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">0.0171489817792069</feat><!-- př, n, l, km, t, mj, III, Mio, m, APG -->
+    <feat name="AdvType" value="Mod" upos="ADV">0.000357270453733476</feat><!-- móžno -->
+    <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">0.0312611647016792</feat><!-- Sumeričanow, krala, kralow, wobydlerjow, wužiwar, wužiwarjo, Hammurabi, Assyričenjo, Jakub, kotřiž -->
+    <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">0.120578778135048</feat><!-- př, kotrež, kilometrow, nastawki, institut, kraja, lěttysaca, tutón, čas, stat -->
+    <feat name="Animacy" value="Nhum" upos="ADJ,NOUN,PRON">0.00160771704180064</feat><!-- žiwochow, wjelk, cycakach, cycakow, jednobańkowcach, jednobańkowcy, jeho, konje, kotřiž, měchawcach -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">0.0937834941050375</feat><!-- so, př, rěč, swoje, to, nastawki, je, swoju, wobrazy, wulku -->
+    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN">0.0114326545194712</feat><!-- sej, tomu, akademiji, dispoziciji, nam, němskej, rostlinam, wotrjadam, Delnjej, Ešarrje -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">0.0966416577349053</feat><!-- toho, rěčow, lěta, Mezopotamiskeje, kilometrow, wody, kraja, lěttysaca, lět, časa -->
+    <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">0.027599142550911</feat><!-- l, n, tym, pomocu, swojimi, Babylonom, Eufratom, Iranom, Solawu, Wódru -->
+    <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">0.0541264737406216</feat><!-- lěće, tym, času, rěči, zemi, Europje, běhu, dobje, formje, lětstotku -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">0.172115041086102</feat><!-- kotrež, město, woda, to, stolica, kotraž, kotryž, rostliny, tute, tutón -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">0.00446588067166845</feat><!-- wjace, bóle, dale, mjenje, pozdźišo, Dlěši, abstrakniše, efektiwniše, husćiša, jasniši -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">0.0577884958913898</feat><!-- wjele, serbski, němsce, wulki, často, cirka, dalše, jara, geografisce, hłownje -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">0.0037513397642015</feat><!-- najprjedy, najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, najwjace, Najwažniše, najbliže, najbóle -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">0.1670239371204</feat><!-- l, n, rěč, woda, rěčow, stolica, kotraž, kotrež, Mezopotamiskeje, rostliny -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">0.194712397284745</feat><!-- př, kotrež, kotryž, kilometrow, nastawki, tutón, wón, institut, kraja, lěttysaca -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">0.0785101822079314</feat><!-- to, toho, město, tym, lěta, lěće, mócnarstwo, pismo, słowo, lět -->
+    <feat name="Gender[psor]" value="Fem" upos="DET">0.000357270453733476</feat><!-- jeje -->
+    <feat name="Gender[psor]" value="Masc,Neut" upos="DET">0.00125044658806717</feat><!-- jeho -->
+    <feat name="Hyph" value="Yes" upos="ADJ">0.00098249374776706</feat><!-- němsko, Awstro, Tibeto, dołho, duchowno, hornjo, krótko, politisko, syrisko, zapado -->
+    <feat name="Mood" value="Cnd" upos="AUX">0.000893176134333691</feat><!-- by, bychu -->
+    <feat name="Mood" value="Imp" upos="VERB">0.0011611289746338</feat><!-- hlej, Pomhaj, wobroćće, wotstroń, wužiwaj -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">0.080832440157199</feat><!-- je, su, bu, bě, ma, buchu, běchu, leži, móže, njeje -->
+    <feat name="Number" value="Dual" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">0.00696677384780279</feat><!-- dwaj, buštej, dwěmaj, stej, běštej, měsacaj, rěkomaj, Łužicomaj, Kralej, Wobě -->
+    <feat name="Number" value="Plur" upos="ADJ,ADV,AUX,DET,NOUN,PRON,PROPN,VERB">0.163719185423365</feat><!-- su, kotrež, rěčow, buchu, běchu, kilometrow, nastawki, rostliny, tute, lět -->
+    <feat name="Number" value="Ptan" upos="NOUN,PROPN">0.000714540907466952</feat><!-- Drježdźanach, Drježdźany, Mułkecy, Wikach, droždźemi, duri, hody, wiki -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">0.355841371918542</feat><!-- je, l, n, bu, bě, ma, to, př, toho, město -->
+    <feat name="Number[psor]" value="Dual" upos="DET">8.93176134333691e-05</feat><!-- jeju -->
+    <feat name="Number[psor]" value="Plur" upos="DET">0.00500178635226867</feat><!-- n, jich, Naš, Wašu, naša, našej, našim -->
+    <feat name="Number[psor]" value="Sing" upos="DET">0.00178635226866738</feat><!-- jeho, jeje, twojim -->
+    <feat name="NumType" value="Card" upos="ADV,DET,NOUN,NUM">0.0378706680957485</feat><!-- wjele, 2, 1, 6, wjace, 4, 3, jedyn, 5, 7 -->
+    <feat name="NumType" value="Mult" upos="ADJ">0.000178635226866738</feat><!-- dwójnu, trójnu -->
+    <feat name="NumType" value="Ord" upos="ADJ">0.00446588067166845</feat><!-- prěni, prěnje, druhe, druhich, Třećeho, druhi, druhej, 50tych, Druheje, Druhu -->
+    <feat name="Person" value="1" upos="DET,PRON,VERB">0.00473383351196856</feat><!-- n, prošu, Naš, móžemy, nam, trjebamy, Njewěm, naša, našej, našim -->
+    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">0.00384065737763487</feat><!-- móžeš, hlej, namakaš, Pomhaj, móžeće, sy, twojim, ty, Wašu, chceće -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">0.0861914969632012</feat><!-- je, su, bu, bě, ma, jeho, jich, buchu, njeje, běchu -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,PART,VERB">0.0063415505537692</feat><!-- nic, njeje, njejsu, njesłuša, njesu, Njewědźeše, Njewěm, njebuchu, njeběchu, njeda -->
+    <feat name="Poss" value="Yes" upos="DET">0.00946766702393712</feat><!-- n, jeho, jich, swoje, swoju, jeje, swojich, swojimi, swój, Naš -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">0.0183101107538407</feat><!-- to, tak, toho, tym, tute, tu, tutón, potom, tam, tuta -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">0.00732404430153626</feat><!-- wjele, něhdźe, wjace, druhdy, někotrych, někotre, mjenje, někotři, tróšku, mnoho -->
+    <feat name="PronType" value="Int,Rel" upos="ADV">0.000446588067166845</feat><!-- kak -->
+    <feat name="PronType" value="Neg" upos="ADV,DET,PRON">0.000893176134333691</feat><!-- žane, žadyn, nihdźe, ničo, žana, žanu -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">0.0323329760628796</feat><!-- so, n, jeho, jich, wona, wón, swoje, je, swoju, jeje -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">0.00777063236870311</feat><!-- kotrež, kotryž, kotraž, kiž, kotrychž, kotrejž, čimž, kotrymž, kotřiž, štož -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">0.0025902107895677</feat><!-- wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, woběmaj, wšeho, wšemu -->
+    <feat name="Reflex" value="Yes" upos="DET,PRON">0.0203644158628081</feat><!-- so, swoje, swoju, swojich, sej, swojimi, swój, sobu, swojej, sebi -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">0.000535905680600214</feat><!-- budźe, budu -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">0.0297427652733119</feat><!-- bu, bě, buchu, běchu, móžachu, wužiwachu, buštej, mjenowachu, měješe, naby -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">0.0585923544122901</feat><!-- je, su, ma, leži, móže, njeje, wobsahuje, móžeš, njejsu, maja -->
+    <feat name="VerbForm" value="Conv" upos="VERB">0.000535905680600214</feat><!-- dajo, měnjo, prajo, wobsahujo, wothladajo, zjednoćejo -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">0.0827974276527331</feat><!-- je, su, bu, bě, ma, buchu, běchu, leži, móže, njeje -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">0.0111647016791711</feat><!-- nastać, měć, pisać, přełožować, wobkedźbować, čitać, być, dać, definować, dopokazać -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">0.0217041800643087</feat><!-- mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přewzali -->
+    <feat name="VerbType" value="Mod" upos="VERB">0.00428724544480171</feat><!-- móže, móžeš, dyrbi, móžachu, ma, móža, móžeja, móžemy, móžeće, chce -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,VERB">0.00687745623436942</feat><!-- přewzali, přiběracu, wušłe, wužiwali, započał, změnili, Bywša, Přiběrace, Rozrostowace, Slědowace -->
+    <feat name="Voice" value="Pass" upos="ADJ,AUX,VERB">0.0185780635941408</feat><!-- bu, buchu, buštej, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="41">
+    <dep name="acl">0.0110753840657378</dep>
+    <dep name="advcl">0.00652018578063594</dep>
+    <dep name="advmod">0.0337620578778135</dep>
+    <dep name="advmod:emph">0.0108074312254377</dep>
+    <dep name="amod">0.103876384423008</dep>
+    <dep name="appos">0.0142015005359057</dep>
+    <dep name="aux">0.00419792783136835</dep>
+    <dep name="aux:pass">0.000178635226866738</dep>
+    <dep name="case">0.0971775634155055</dep>
+    <dep name="cc">0.0397463379778492</dep>
+    <dep name="ccomp">0.00133976420150054</dep>
+    <dep name="compound">0.00464451589853519</dep>
+    <dep name="conj">0.0609146123615577</dep>
+    <dep name="cop">0.0214362272240086</dep>
+    <dep name="csubj">0.000893176134333691</dep>
+    <dep name="dep">0.000535905680600214</dep>
+    <dep name="det">0.0194712397284745</dep>
+    <dep name="det:numgov">0.00151839942836727</dep>
+    <dep name="discourse">8.93176134333691e-05</dep>
+    <dep name="expl:pass">0.00884244372990354</dep>
+    <dep name="expl:pv">0.00705609146123616</dep>
+    <dep name="fixed">0.0086638085030368</dep>
+    <dep name="flat">0.0122365130403716</dep>
+    <dep name="flat:foreign">0.000178635226866738</dep>
+    <dep name="goeswith">8.93176134333691e-05</dep>
+    <dep name="goeswith:alt">0.000178635226866738</dep>
+    <dep name="iobj">0.00125044658806717</dep>
+    <dep name="list">0.00196498749553412</dep>
+    <dep name="mark">0.0098249374776706</dep>
+    <dep name="nmod">0.0936048588781708</dep>
+    <dep name="nsubj">0.0650232225794927</dep>
+    <dep name="nsubj:pass">0.000178635226866738</dep>
+    <dep name="nummod">0.017416934619507</dep>
+    <dep name="nummod:gov">0.00571632725973562</dep>
+    <dep name="obj">0.0327795641300464</dep>
+    <dep name="obl">0.0496605930689532</dep>
+    <dep name="orphan">0.00107181136120043</dep>
+    <dep name="parataxis">0.00526973919256877</dep>
+    <dep name="punct">0.180510896748839</dep>
+    <dep name="root">0.0576991782779564</dep>
+    <dep name="xcomp">0.00839585566273669</dep>
+  </deps>
+</treebank>

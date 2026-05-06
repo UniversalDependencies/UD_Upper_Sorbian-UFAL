@@ -1,0 +1,580 @@
+﻿#Nouns
+##masculine - singular
+###hard consonant - animate
+ $	 $	NOUN-common-masculine-singular-animateate
+ $	a$	NOUN-common-masculine-singular-animateate
+ $	ej$	NOUN-common-masculine-singular-animateate
+ $	a$	NOUN-common-masculine-singular-animateate
+ $	om$	NOUN-common-masculine-singular-animateate
+ $	je$	NOUN-common-masculine-singular-animateate
+ $	o$	NOUN-common-masculine-singular-animateate
+###soft consonant - animate
+ $	 $	NOUN-common-masculine-singular-animateate
+ $	ja$	NOUN-common-masculine-singular-animateate
+ $	jej$	NOUN-common-masculine-singular-animateate
+ $	ja$	NOUN-common-masculine-singular-animateate
+ $	jom$	NOUN-common-masculine-singular-animateate
+ $	ju$	NOUN-common-masculine-singular-animateate
+ $	je$	NOUN-common-masculine-singular-animateate
+###hard consonant - inanimate
+ $	 $	NOUN-common-masculine-singular-inanimate
+ $	a$	NOUN-common-masculine-singular-inanimate
+ $	ej$	NOUN-common-masculine-singular-inanimate
+ $	 $	NOUN-common-masculine-singular-inanimate
+ $	om$	NOUN-common-masculine-singular-inanimate
+ $	je$	NOUN-common-masculine-singular-inanimate
+ $	o$	NOUN-common-masculine-singular-inanimate
+###soft consonant - inanimate
+ $	 $	NOUN-common-masculine-singular-inanimate
+ $	a$	NOUN-common-masculine-singular-inanimate
+ $	ej$	NOUN-common-masculine-singular-inanimate
+ $	 $	NOUN-common-masculine-singular-inanimate
+ $	om$	NOUN-common-masculine-singular-inanimate
+ $	u$	NOUN-common-masculine-singular-inanimate
+ $	o$	NOUN-common-masculine-singular-inanimate 
+##feminine - singular
+###hard consonant
+a$	a$	NOUN-common-feminine-singular-inanimate,animate
+a$	y$	NOUN-common-feminine-singular-inanimate,animate
+a$	je$	NOUN-common-feminine-singular-inanimate,animate
+a$	u$	NOUN-common-feminine-singular-inanimate,animate
+a$	u$	NOUN-common-feminine-singular-inanimate,animate
+a$	je$	NOUN-common-feminine-singular-inanimate,animate
+##neuter - singular
+###hard consonant
+o$	o$	NOUN-common-neuter-singular-inanimate,animate
+o$	a$	NOUN-common-neuter-singular-inanimate,animate
+o$	u$	NOUN-common-neuter-singular-inanimate,animate
+o$	o$	NOUN-common-neuter-singular-inanimate,animate
+o$	om$	NOUN-common-neuter-singular-inanimate,animate
+o$	je$	NOUN-common-neuter-singular-inanimate,animate
+o$	u$	NOUN-common-neuter-singular-inanimate,animate
+###soft consonant
+je$	je$	NOUN-common-neuter-singular-inanimate,animate
+je$	ja$	NOUN-common-neuter-singular-inanimate,animate
+je$	ju$	NOUN-common-neuter-singular-inanimate,animate
+je$	je$	NOUN-common-neuter-singular-inanimate,animate
+je$	jom$	NOUN-common-neuter-singular-inanimate,animate
+je$	ju$	NOUN-common-neuter-singular-inanimate,animate
+#masculine - dual
+###hard consonant - animate
+ $	aj$	NOUN-common-masculine-dual-animate
+ $	ow$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+ $	ow$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+###soft consonant - animate
+ $	ej$	NOUN-common-masculine-dual-animate
+ $	ow$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+ $	ow$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+ $	omaj$	NOUN-common-masculine-dual-animate
+###hard consonant - inanimateate
+ $	aj$	NOUN-common-masculine-dual-inanimate
+ $	ow$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+ $	aj$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+###soft consonant - inanimateate
+ $	ej$	NOUN-common-masculine-dual-inanimate
+ $	ow$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+ $	ej$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+ $	omaj$	NOUN-common-masculine-dual-inanimate
+#feminine - dual
+###hard consonant
+a$	je$	NOUN-common-feminine-dual-inanimate,animate
+a$	ow$	NOUN-common-feminine-dual-inanimate,animate
+a$	omaj$	NOUN-common-feminine-dual-inanimate,animate
+a$	je$	NOUN-common-feminine-dual-inanimate,animate
+a$	omaj$	NOUN-common-feminine-dual-inanimate,animate
+a$	omaj$	NOUN-common-feminine-dual-inanimate,animate
+###soft consonant
+ja$	i$	NOUN-common-feminine-dual-inanimate,animate
+ja$	jow$	NOUN-common-feminine-dual-inanimate,animate
+ja$	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+ja$	i$	NOUN-common-feminine-dual-inanimate,animate
+ja$	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+ja$	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+ $	i$	NOUN-common-feminine-dual-inanimate,animate
+ $	jow$	NOUN-common-feminine-dual-inanimate,animate
+ $	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+ $	i$	NOUN-common-feminine-dual-inanimate,animate
+ $	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+ $	jomaj$	NOUN-common-feminine-dual-inanimate,animate
+#neuter - dual
+###hard consonant
+o$	je$	NOUN-common-neuter-dual-inanimate,animate
+o$	ow$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+o$	je$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+###soft consonant
+o$	i$	NOUN-common-neuter-dual-inanimate,animate
+o$	ow$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+o$	i$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+o$	omaj$	NOUN-common-neuter-dual-inanimate,animate
+je$	i$	NOUN-common-neuter-dual-inanimate,animate
+je$	jow$	NOUN-common-neuter-dual-inanimate,animate
+je$	jomaj$	NOUN-common-neuter-dual-inanimate,animate
+je$	i$	NOUN-common-neuter-dual-inanimate,animate
+je$	jomaj$	NOUN-common-neuter-dual-inanimate,animate
+je$	jomaj$	NOUN-common-neuter-dual-inanimate,animate
+#masculine/feminine - plural
+###hard consonant - animate
+ $	ojo$	NOUN-common-masculine,feminine-plural-animate
+ $	ow$	NOUN-common-masculine,feminine-plural-animate
+ $	am$	NOUN-common-masculine,feminine-plural-animate
+ $	ow$	NOUN-common-masculine,feminine-plural-animate
+ $	ami$	NOUN-common-masculine,feminine-plural-animate
+ $	ach$	NOUN-common-masculine,feminine-plural-animate
+a$	ojo$	NOUN-common-masculine,feminine-plural-animate
+a$	ow$	NOUN-common-masculine,feminine-plural-animate
+a$	am$	NOUN-common-masculine,feminine-plural-animate
+a$	ow$	NOUN-common-masculine,feminine-plural-animate
+a$	ami$	NOUN-common-masculine,feminine-plural-animate
+a$	ach$	NOUN-common-masculine,feminine-plural-animate
+###soft consonant - animate
+ja$	ojo$	NOUN-common-masculine,feminine-plural-animate
+ja$	ow$	NOUN-common-masculine,feminine-plural-animate
+ja$	am$	NOUN-common-masculine,feminine-plural-animate
+ja$	ow$	NOUN-common-masculine,feminine-plural-animate
+ja$	emi$	NOUN-common-masculine,feminine-plural-animate
+ja$	ach$	NOUN-common-masculine,feminine-plural-animate
+###hard consonant - inanimateate
+ $	y$	NOUN-common-masculine,feminine-plural-inanimate
+ $	ow$	NOUN-common-masculine,feminine-plural-inanimate
+ $	am$	NOUN-common-masculine,feminine-plural-inanimate
+ $	y$	NOUN-common-masculine,feminine-plural-inanimate
+ $	ami$	NOUN-common-masculine,feminine-plural-inanimate
+ $	ach$	NOUN-common-masculine,feminine-plural-inanimate
+a$	y$	NOUN-common-masculine,feminine-plural-inanimate
+a$	ow$	NOUN-common-masculine,feminine-plural-inanimate
+a$	am$	NOUN-common-masculine,feminine-plural-inanimate
+a$	y$	NOUN-common-masculine,feminine-plural-inanimate
+a$	ami$	NOUN-common-masculine,feminine-plural-inanimate
+a$	ach$	NOUN-common-masculine,feminine-plural-inanimate 
+###soft consonant - inanimateate
+ $	e$	NOUN-common-masculine,feminine-plural-inanimate
+ $	ow$	NOUN-common-masculine,feminine-plural-inanimate
+ $	am$	NOUN-common-masculine,feminine-plural-inanimate
+ $	e$	NOUN-common-masculine,feminine-plural-inanimate
+ $	emi$	NOUN-common-masculine,feminine-plural-inanimate
+ $	ach$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	je$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	jow$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	jam$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	je$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	jemi$	NOUN-common-masculine,feminine-plural-inanimate
+ja$	jach$	NOUN-common-masculine,feminine-plural-inanimate 
+#neuter - plural
+###hard consonant
+o$	a$	NOUN-common-neuter-plural-inanimate,animate
+o$	ow$	NOUN-common-neuter-plural-inanimate,animate
+o$	am$	NOUN-common-neuter-plural-inanimate,animate
+o$	a$	NOUN-common-neuter-plural-inanimate,animate
+o$	ami$	NOUN-common-neuter-plural-inanimate,animate
+o$	ach$	NOUN-common-neuter-plural-inanimate,animate
+###soft consonant
+o$	a$	NOUN-common-neuter-plural-inanimate,animate
+o$	ow$	NOUN-common-neuter-plural-inanimate,animate
+o$	am$	NOUN-common-neuter-plural-inanimate,animate
+o$	a$	NOUN-common-neuter-plural-inanimate,animate
+o$	emi$	NOUN-common-neuter-plural-inanimate,animate
+o$	ach$	NOUN-common-neuter-plural-inanimate,animate
+je$	ja$	NOUN-common-neuter-plural-inanimate,animate
+je$	jow$	NOUN-common-neuter-plural-inanimate,animate
+je$	jam$	NOUN-common-neuter-plural-inanimate,animate
+je$	ja$	NOUN-common-neuter-plural-inanimate,animate
+je$	jemi$	NOUN-common-neuter-plural-inanimate,animate
+je$	jach$	NOUN-common-neuter-plural-inanimate,animate
+#Adjectives
+## masculine - singular
+### hard consonant
+y$	y$	ADJ-masculine-singular
+y$	eho$	ADJ-masculine-singular
+y$	emu$	ADJ-masculine-singular
+y$	y$	ADJ-masculine-singular
+y$	ym$	ADJ-masculine-singular
+y$	ym$	ADJ-masculine-singular
+### soft consonant
+i$	i$	ADJ-masculine-singular
+i$	jeho$	ADJ-masculine-singular
+i$	eho$	ADJ-masculine-singular
+i$	jemu$	ADJ-masculine-singular
+i$	emu$	ADJ-masculine-singular
+i$	i$	ADJ-masculine-singular
+i$	im$	ADJ-masculine-singular
+i$	im$	ADJ-masculine-singular
+## feminine - singular
+### hard consonant
+y$	a$	ADJ-feminine-singular
+y$	eje$	ADJ-feminine-singular
+y$	ej$	ADJ-feminine-singular
+y$	u$	ADJ-feminine-singular
+y$	ej$	ADJ-feminine-singular
+y$	ej$	ADJ-feminine-singular
+### soft consonant
+i$	ja$	ADJ-feminine-singular
+i$	jeje$	ADJ-feminine-singular
+i$	jej$	ADJ-feminine-singular
+i$	ju$	ADJ-feminine-singular
+i$	jej$	ADJ-feminine-singular
+i$	jej$	ADJ-feminine-singular
+## neuter - singular
+### hard consonant
+y$	e$	ADJ-neuter-singular
+y$	eho$	ADJ-neuter-singular
+y$	emu$	ADJ-neuter-singular
+y$	e$	ADJ-neuter-singular
+y$	ym$	ADJ-neuter-singular
+y$	ym$	ADJ-neuter-singular
+### soft consonant
+i$	je$	ADJ-neuter-singular
+i$	jeho$	ADJ-neuter-singular
+i$	jemu$	ADJ-neuter-singular
+i$	je$	ADJ-neuter-singular
+i$	im$	ADJ-neuter-singular
+i$	im$	ADJ-neuter-singular
+## masculine/feminine/neuter - dual
+### hard consonant
+y$	ej$	ADJ-masculine,feminine,neuter-dual
+y$	eju$	ADJ-masculine,feminine,neuter-dual
+y$	ymaj$	ADJ-masculine,feminine,neuter-dual
+y$	ej$	ADJ-masculine,feminine,neuter-dual
+y$	ymaj$	ADJ-masculine,feminine,neuter-dual
+y$	ymaj$	ADJ-masculine,feminine,neuter-dual
+### soft consonant
+i$	jej$	ADJ-masculine,feminine,neuter-dual
+i$	jeju$	ADJ-masculine,feminine,neuter-dual
+i$	imaj$	ADJ-masculine,feminine,neuter-dual
+i$	jej$	ADJ-masculine,feminine,neuter-dual
+i$	imaj$	ADJ-masculine,feminine,neuter-dual
+i$	imaj$	ADJ-masculine,feminine,neuter-dual
+## masculine/feminine/neuter - plural
+### hard consonant
+ky$	cy$	ADJ-masculine,feminine,neuter-plural
+hy$	zy$	ADJ-masculine,feminine,neuter-plural
+y$	e$	ADJ-masculine,feminine,neuter-plural
+y$	ych$	ADJ-masculine,feminine,neuter-plural
+y$	ym$	ADJ-masculine,feminine,neuter-plural
+y$	e$	ADJ-masculine,feminine,neuter-plural
+y$	ymi$	ADJ-masculine,feminine,neuter-plural
+y$	ych$	ADJ-masculine,feminine,neuter-plural
+y$	i$	ADJ-masculine,feminine,neuter-plural
+y$	ych$	ADJ-masculine,feminine,neuter-plural
+y$	ym$	ADJ-masculine,feminine,neuter-plural
+y$	ych$	ADJ-masculine,feminine,neuter-plural
+y$	ymi$	ADJ-masculine,feminine,neuter-plural
+y$	ych$	ADJ-masculine,feminine,neuter-plural
+### soft consonant
+ki$	cy$	ADJ-masculine,feminine,neuter-plural
+hi$	zy$	ADJ-masculine,feminine,neuter-plural
+i$	i$	ADJ-masculine,feminine,neuter-plural
+i$	ich$	ADJ-masculine,feminine,neuter-plural
+i$	im$	ADJ-masculine,feminine,neuter-plural
+i$	ich$	ADJ-masculine,feminine,neuter-plural
+i$	imi$	ADJ-masculine,feminine,neuter-plural
+i$	ich$	ADJ-masculine,feminine,neuter-plural
+i$	je$	ADJ-masculine,feminine,neuter-plural
+i$	ich$	ADJ-masculine,feminine,neuter-plural
+i$	im$	ADJ-masculine,feminine,neuter-plural
+i$	je$	ADJ-masculine,feminine,neuter-plural
+i$	imi$	ADJ-masculine,feminine,neuter-plural
+i$	ich$	ADJ-masculine,feminine,neuter-plural
+#Verb
+##Present tense
+###singular
+ować$	uju$	VERB-indicative-present-singular
+ować$	uješ$	VERB-indicative-present-singular
+ować$	uje$	VERB-indicative-present-singular
+nyć$	nu$	VERB-indicative-present-singular
+nyć$	nješ$	VERB-indicative-present-singular
+nyć$	nje$	VERB-indicative-present-singular
+c$	ku$	VERB-indicative-present-singular
+c$	češ$	VERB-indicative-present-singular
+c$	če$	VERB-indicative-present-singular
+sć$	su$	VERB-indicative-present-singular
+sć$	seš$	VERB-indicative-present-singular
+sć$	se$	VERB-indicative-present-singular
+zć$	zu$	VERB-indicative-present-singular
+zć$	zeš$	VERB-indicative-present-singular
+zć$	ze$	VERB-indicative-present-singular
+ć$	ju$	VERB-indicative-present-singular
+ć$	ješ$	VERB-indicative-present-singular
+ć$	je$	VERB-indicative-present-singular
+#
+ić$	ju$	VERB-indicative-present-singular
+ić$	iš$	VERB-indicative-present-singular
+ić$	i$	VERB-indicative-present-singular
+yć$	ju$	VERB-indicative-present-singular
+yć$	yš$	VERB-indicative-present-singular
+yć$	y$	VERB-indicative-present-singular
+ać$	am$	VERB-indicative-present-singular
+ać$	aš$	VERB-indicative-present-singular
+ać$	a$	VERB-indicative-present-singular
+ać$	ju$	VERB-indicative-present-singular
+ać$	ješ$	VERB-indicative-present-singular
+ać$	je$	VERB-indicative-present-singular
+eć$	am$	VERB-indicative-present-singular
+eć$	eš$	VERB-indicative-present-singular
+eć$	a$	VERB-indicative-present-singular
+###dual
+ować$	ujemoj$	VERB-indicative-present-dual
+ować$	ujetej$	VERB-indicative-present-dual
+ować$	ujetej$	VERB-indicative-present-dual
+nyć$	njemoj$	VERB-indicative-present-dual
+nyć$	njetej$	VERB-indicative-present-dual
+nyć$	njetej$	VERB-indicative-present-dual
+c$	čemoj$	VERB-indicative-present-dual
+c$	četej$	VERB-indicative-present-dual
+c$	četej$	VERB-indicative-present-dual
+sć$	semoj$	VERB-indicative-present-dual
+sć$	setej$	VERB-indicative-present-dual
+sć$	setej$	VERB-indicative-present-dual
+zć$	zemoj$	VERB-indicative-present-dual
+zć$	zetej$	VERB-indicative-present-dual
+zć$	zetej	VERB-indicative-present-dual
+ć$	jemoj$	VERB-indicative-present-dual
+ć$	jetej$	VERB-indicative-present-dual
+ć$	jetej$	VERB-indicative-present-dual
+#
+ić$	imoj$	VERB-indicative-present-dual
+ić$	itej$	VERB-indicative-present-dual
+ić$	itej$	VERB-indicative-present-dual
+yć$	ymoj$	VERB-indicative-present-dual
+yć$	ytej$	VERB-indicative-present-dual
+yć$	ytej$	VERB-indicative-present-dual
+ać$	amoj$	VERB-indicative-present-dual
+ać$	atej$	VERB-indicative-present-dual
+ać$	atej$	VERB-indicative-present-dual
+ać$	jemoj$	VERB-indicative-present-dual
+ać$	jetej$	VERB-indicative-present-dual
+ać$	jetej$	VERB-indicative-present-dual
+eć$	amoj$	VERB-indicative-present-dual
+eć$	atej$	VERB-indicative-present-dual
+eć$	atej$	VERB-indicative-present-dual
+###plural
+ować$	ujemy$	VERB-indicative-present-plural
+ować$	ujeće$	VERB-indicative-present-plural
+ować$	uja$	VERB-indicative-present-plural
+nyć$	njemy$	VERB-indicative-present-plural
+nyć$	njeće$	VERB-indicative-present-plural
+nyć$	nu$	VERB-indicative-present-plural
+c$	čemy$	VERB-indicative-present-plural
+c$	čeće$	VERB-indicative-present-plural
+c$	ku$	VERB-indicative-present-plural
+sć$	semy$	VERB-indicative-present-plural
+sć$	seće$	VERB-indicative-present-plural
+sć$	su$	VERB-indicative-present-plural
+zć$	zemy$	VERB-indicative-present-plural
+zć$	zeće$	VERB-indicative-present-plural
+zć$	zu	VERB-indicative-present-plural
+ć$	jemy$	VERB-indicative-present-plural
+ć$	jeće$	VERB-indicative-present-plural
+ć$	ja$	VERB-indicative-present-plural
+#
+ić$	imy$	VERB-indicative-present-plural
+ić$	iće$	VERB-indicative-present-plural
+ić$	ja$	VERB-indicative-present-plural
+yć$	ymy$	VERB-indicative-present-plural
+yć$	yće$	VERB-indicative-present-plural
+yć$	ja$	VERB-indicative-present-plural
+ać$	amy$	VERB-indicative-present-plural
+ać$	aće$	VERB-indicative-present-plural
+ać$	aja$	VERB-indicative-present-plural
+ać$	jemy$	VERB-indicative-present-plural
+ać$	jeće$	VERB-indicative-present-plural
+ać$	ju$	VERB-indicative-present-plural
+eć$	amy$	VERB-indicative-present-plural
+eć$	aće$	VERB-indicative-present-plural
+eć$	aja$	VERB-indicative-present-plural
+##Präteritum
+###singular
+nyć$ njech$	VERB-indicative-past-singular
+nyć$ nješe$	VERB-indicative-past-singular
+nyć$ nješe$	VERB-indicative-past-singular
+c$	čech$	VERB-indicative-past-singular
+c$	češe$	VERB-indicative-past-singular
+c$	češe$	VERB-indicative-past-singular
+#
+ić$	ich$	VERB-indicative-past-singular
+ić$	ach$	VERB-indicative-past-singular
+ić$	i$	VERB-indicative-past-singular
+ić$	eše$	VERB-indicative-past-singular
+ić$	i$	VERB-indicative-past-singular
+ić$	eše$	VERB-indicative-past-singular
+yć$ ych$	VERB-indicative-past-singular
+yć$ jach$	VERB-indicative-past-singular
+yć$ y$	VERB-indicative-past-singular
+yć$ ješe$	VERB-indicative-past-singular
+yć$ y$	VERB-indicative-past-singular
+yć$ ješe$	VERB-indicative-past-singular
+ać$	ach$	VERB-indicative-past-singular
+ać$	a$	VERB-indicative-past-singular
+ać$	aše$	VERB-indicative-past-singular
+ać$	a$	VERB-indicative-past-singular
+ać$	aše$	VERB-indicative-past-singular
+eć$	ach$	VERB-indicative-past-singular
+eć$	aše$	VERB-indicative-past-singular
+eć$	aše$	VERB-indicative-past-singular
+yć$ jech$	VERB-indicative-past-singular
+yć$ je-še$	VERB-indicative-past-singular
+yć$ je-še$	VERB-indicative-past-singular
+###dual
+nyć$ njechmoj$	VERB-indicative-past-dual
+nyć$ nještej$	VERB-indicative-past-dual
+nyć$ nještej$	VERB-indicative-past-dual
+c$	čechmoj$	VERB-indicative-past-dual
+c$	češtej$	VERB-indicative-past-dual
+c$	češtej$	VERB-indicative-past-dual
+#
+ić$	ichmoj$	VERB-indicative-past-dual
+ić$	achmoj$	VERB-indicative-past-dual
+ić$	ištej$	VERB-indicative-past-dual
+ić$	eštej$	VERB-indicative-past-dual
+ić$	ištej$	VERB-indicative-past-dual
+ić$	eštej$	VERB-indicative-past-dual
+yć$ ychmoj$	VERB-indicative-past-dual
+yć$ achmoj$	VERB-indicative-past-dual
+yć$ yštej$	VERB-indicative-past-dual
+yć$ eštej$	VERB-indicative-past-dual
+yć$ yštej$	VERB-indicative-past-dual
+yć$ eštej$	VERB-indicative-past-dual
+ać$	achmoj$	VERB-indicative-past-dual
+ać$	aštej$	VERB-indicative-past-dual
+ać$	aštej$	VERB-indicative-past-dual
+eć$	achmoj$	VERB-indicative-past-dual
+eć$	aštej$	VERB-indicative-past-dual
+eć$	aštej$	VERB-indicative-past-dual
+yć$ jechmoj$	VERB-indicative-past-dual
+yć$ ještaj$	VERB-indicative-past-dual
+yć$ ještaj$	VERB-indicative-past-dual
+###plural
+nyć$ njechmy$	VERB-indicative-past-plural
+nyć$ nješće$	VERB-indicative-past-plural
+nyć$ njechu$	VERB-indicative-past-plural
+c$	čechmy$	VERB-indicative-past-plural
+c$	češće$	VERB-indicative-past-plural
+c$	čechu$	VERB-indicative-past-plural
+#
+ić$	ichmy$	VERB-indicative-past-plural
+ić$	achmy$	VERB-indicative-past-plural
+ić$	išće$	VERB-indicative-past-plural
+ić$	ešće$	VERB-indicative-past-plural
+ić$	ichu$	VERB-indicative-past-plural
+ić$	achu$	VERB-indicative-past-plural
+yć$ ychmy$	VERB-indicative-past-plural
+yć$ achmy$	VERB-indicative-past-plural
+yć$ yšće$	VERB-indicative-past-plural
+yć$ ešće$	VERB-indicative-past-plural
+yć$ ychu$	VERB-indicative-past-plural
+yć$ achu$	VERB-indicative-past-plural
+ać$	achmy$	VERB-indicative-past-plural
+ać$	ašće$	VERB-indicative-past-plural
+ać$	achu$	VERB-indicative-past-plural
+eć$	achmy$	VERB-indicative-past-plural
+eć$	ašće$	VERB-indicative-past-plural
+eć$	achu$	VERB-indicative-past-plural
+yć$ jechmy$	VERB-indicative-past-plural
+yć$ ješe$	VERB-indicative-past-plural
+yć$ jechu$	VERB-indicative-past-plural
+##Imperative
+###singular
+ować$	uj	VERB-imperative-singular
+nyć$	ń$	VERB-imperative-singular
+c$	č$	VERB-imperative-singular
+sć$	s$	VERB-imperative-singular
+zć$	z$	VERB-imperative-singular
+ć$	j$	VERB-imperative-singular
+#
+ić$	j$	VERB-imperative-singular
+yć$	j$	VERB-imperative-singular
+ać$	aj$	VERB-imperative-singular
+eć$	aj$	VERB-imperative-singular
+###dual
+ować$	ujmoj	VERB-imperative-dual
+ować$	ujtej	VERB-imperative-dual
+nyć$	ńmoj$	VERB-imperative-dual
+nyć$	ńtej$	VERB-imperative-dual
+c$	čmoj$	VERB-imperative-dual
+c$	čtej$	VERB-imperative-dual
+sć$	smoj$	VERB-imperative-dual
+sć$	stej$	VERB-imperative-dual
+zć$	zmoj$	VERB-imperative-dual
+zć$	ztej$	VERB-imperative-dual
+ć$	jmoj$	VERB-imperative-dual
+ć$	jtej$	VERB-imperative-dual
+#
+ić$	jmoj$	VERB-imperative-dual
+ić$	jtej$	VERB-imperative-dual
+yć$	jmoj$	VERB-imperative-dual
+yć$	jtej$	VERB-imperative-dual
+ać$	ajmoj$	VERB-imperative-dual
+ać$	ajtej$	VERB-imperative-dual
+eć$	ajmoj$	VERB-imperative-dual
+eć$	ajtej$	VERB-imperative-dual
+###plural
+ować$	ujmy$	VERB-imperative-plural
+ować$	ujće$	VERB-imperative-plural
+nyć$	ńmy$	VERB-imperative-plural
+nyć$	ńće$	VERB-imperative-plural
+c$	čmy$	VERB-imperative-plural
+c$	čće$	VERB-imperative-plural
+sć$	smy$	VERB-imperative-plural
+sć$	sće$	VERB-imperative-plural
+zć$	zmy$	VERB-imperative-plural
+zć$	zće$	VERB-imperative-plural
+ć$	jmy$	VERB-imperative-plural
+ć$	jće$	VERB-imperative-plural
+#
+ić$	jmy$	VERB-imperative-plural
+ić$	jće$	VERB-imperative-plural
+yć$	jmy$	VERB-imperative-plural
+yć$	jće$	VERB-imperative-plural
+ać$	ajmy$	VERB-imperative-plural
+ać$	ajće$	VERB-imperative-plural
+eć$	ajmy$	VERB-imperative-plural
+eć$	ajće$	VERB-imperative-plural
+##Participle-l-form
+###singular
+ć$	ł$	VERB-participle-masculine-singular
+ć$	ła$	VERB-participle-feminine-singular
+ć$	ło$	VERB-participle-neuter-singular
+eć$	ał$	VERB-participle-masculine-singular
+eć$	ała$	VERB-participle-feminine-singular
+eć$	ało$	VERB-participle-neuter-singular
+c$	kł$	VERB-participle-masculine-singular
+c$	kła$	VERB-participle-feminine-singular
+c$	kło$	VERB-participle-neuter-singular
+###dual
+ć$	łoj$	VERB-participle-masculine,feminine,neuter-dual
+eć$	ałoj$	VERB-participle-masculine,feminine,neuter-dual
+c$	kłoj$	VERB-participle-masculine,feminine,neuter-dual
+###plural
+ć$	łi$	VERB-participle-masculine,feminine,neuter-plural
+ć$	łe$	VERB-participle-masculine,feminine,neuter-plural
+eć$	ałi$	VERB-participle-masculine,feminine,neuter-plural
+eć$	ałe$	VERB-participle-masculine,feminine,neuter-plural
+c$	kłi$	VERB-participle-masculine,feminine,neuter-plural
+c$	kłe$	VERB-participle-masculine,feminine,neuter-plural
+##Participle-Present
+ć$	cy$	VERB-participle-Pres-masculine,feminine,neuter
+ć$	ucy$	VERB-participle-Pres-masculine,feminine,neuter
+c$	ucy$	VERB-participle-Pres-masculine,feminine,neuter
+##Participle-Passive
+yć$	eny$	VERB-participle-Pass-masculine,feminine,neuter
+yć$	ety$	VERB-participle-Pass-masculine,feminine,neuter
+ać$	eny$	VERB-participle-Pass-masculine,feminine,neuter
+ać$	ety$	VERB-participle-Pass-masculine,feminine,neuter
+eć$	eny$	VERB-participle-Pass-masculine,feminine,neuter
+eć$	ety$	VERB-participle-Pass-masculine,feminine,neuter
+ić$	eny$	VERB-participle-Pass-masculine,feminine,neuter
+ić$	ety$	VERB-participle-Pass-masculine,feminine,neuter
